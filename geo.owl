@@ -97,10 +97,10 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000005"/>
-        <ObjectExactCardinality cardinality="1">
+        <ObjectSomeValuesFrom>
             <ObjectProperty IRI="http://www.obofoundry.org/ro/ro.owl#part_of"/>
             <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
-        </ObjectExactCardinality>
+        </ObjectSomeValuesFrom>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000006"/>
