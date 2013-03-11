@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 
 
-<!DOCTYPE rdf:RDF [
+<!DOCTYPE Ontology [
     <!ENTITY xsd "http://www.w3.org/2001/XMLSchema#" >
     <!ENTITY xml "http://www.w3.org/XML/1998/namespace" >
     <!ENTITY rdfs "http://www.w3.org/2000/01/rdf-schema#" >
