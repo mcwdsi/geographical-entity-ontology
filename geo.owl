@@ -11,29 +11,33 @@
 
 <Ontology xmlns="http://www.w3.org/2002/07/owl#"
      xml:base="http://purl.obolibrary.org/obo/geo.owl"
-     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
      ontologyIRI="http://purl.obolibrary.org/obo/geo.owl">
     <Prefix name="" IRI="http://www.w3.org/2002/07/owl#"/>
     <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
     <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
     <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
     <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
-    <Import>http://purl.obolibrary.org/obo/iao/ontology-metadata.owl</Import>
     <Import>http://www.ifomis.org/bfo/1.1</Import>
+    <Import>http://purl.obolibrary.org/obo/iao/ontology-metadata.owl</Import>
     <Annotation>
         <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/creator"/>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">William R. Hogan</Literal>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/title"/>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">Geographical Entity Ontology</Literal>
     </Annotation>
     <Annotation>
         <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/contributor"/>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">Amanda Hicks</Literal>
     </Annotation>
     <Annotation>
-        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/title"/>
-        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">Geographical Entity Ontology</Literal>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/contributor"/>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">Katrina M. Donovan</Literal>
     </Annotation>
     <Annotation>
         <AnnotationProperty abbreviatedIRI="owl:versionInfo"/>
@@ -42,10 +46,6 @@
     <Annotation>
         <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/contributor"/>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">Mathias Brochhausen</Literal>
-    </Annotation>
-    <Annotation>
-        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/contributor"/>
-        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">Katrina M. Donovan</Literal>
     </Annotation>
     <Declaration>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000004"/>
@@ -125,6 +125,40 @@
     <Declaration>
         <ObjectProperty IRI="http://purl.obolibrary.org/obo/BFO_0000075"/>
     </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000053"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000069"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000078"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000127"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000187"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000272"/>
+    </Declaration>
+    <EquivalentClasses>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000002"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://purl.obolibrary.org/obo/BFO_0000075"/>
+            <ObjectUnionOf>
+                <Class IRI="http://purl.obolibrary.org/obo/GEO_000000391"/>
+                <Class IRI="http://purl.obolibrary.org/obo/GEO_000000400"/>
+            </ObjectUnionOf>
+        </ObjectSomeValuesFrom>
+    </EquivalentClasses>
     <EquivalentClasses>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000004"/>
         <ObjectIntersectionOf>
@@ -134,6 +168,20 @@
                 <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
             </ObjectExactCardinality>
         </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000007"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://purl.obolibrary.org/obo/BFO_0000075"/>
+            <Class IRI="http://purl.obolibrary.org/obo/GEO_000000005"/>
+        </ObjectSomeValuesFrom>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000008"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://purl.obolibrary.org/obo/BFO_0000075"/>
+            <Class IRI="http://purl.obolibrary.org/obo/GEO_000000006"/>
+        </ObjectSomeValuesFrom>
     </EquivalentClasses>
     <EquivalentClasses>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000401"/>
@@ -199,6 +247,34 @@
             </ObjectMinCardinality>
         </ObjectIntersectionOf>
     </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#GEO_000000267"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://purl.obolibrary.org/obo/BFO_0000075"/>
+            <Class IRI="#GEO_000000102"/>
+        </ObjectSomeValuesFrom>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#GEO_000000306"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://purl.obolibrary.org/obo/BFO_0000075"/>
+            <Class IRI="#GEO_000000131"/>
+        </ObjectSomeValuesFrom>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#GEO_000000369"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://purl.obolibrary.org/obo/BFO_0000075"/>
+            <Class IRI="#GEO_000000199"/>
+        </ObjectSomeValuesFrom>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#GEO_000000390"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://purl.obolibrary.org/obo/BFO_0000075"/>
+            <Class IRI="#GEO_000000206"/>
+        </ObjectSomeValuesFrom>
+    </EquivalentClasses>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000001"/>
         <Class IRI="http://www.geneontology.org/formats/oboInOwl#ObsoleteClass"/>
@@ -214,13 +290,6 @@
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000005"/>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000004"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000005"/>
-        <ObjectSomeValuesFrom>
-            <ObjectProperty IRI="http://www.obofoundry.org/ro/ro.owl#part_of"/>
-            <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
-        </ObjectSomeValuesFrom>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000006"/>
@@ -359,7 +428,7 @@
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000020"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000024"/>
     </ClassAssertion>
     <ClassAssertion>
@@ -371,11 +440,11 @@
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000026"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000027"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000028"/>
     </ClassAssertion>
     <ClassAssertion>
@@ -383,11 +452,11 @@
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000029"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000030"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000031"/>
     </ClassAssertion>
     <ClassAssertion>
@@ -399,15 +468,15 @@
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000033"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000034"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000035"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000036"/>
     </ClassAssertion>
     <ClassAssertion>
@@ -419,47 +488,47 @@
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000038"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000039"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000040"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000041"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000042"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000043"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000044"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000045"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000046"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000047"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000048"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000049"/>
     </ClassAssertion>
     <ClassAssertion>
@@ -467,23 +536,27 @@
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000050"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000051"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000052"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000005"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000053"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000054"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000055"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000056"/>
     </ClassAssertion>
     <ClassAssertion>
@@ -491,35 +564,35 @@
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000057"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000058"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000059"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000060"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000061"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000062"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000063"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000064"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000065"/>
     </ClassAssertion>
     <ClassAssertion>
@@ -527,19 +600,23 @@
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000066"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000067"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000068"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="#GEO_000000390"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000069"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000070"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000071"/>
     </ClassAssertion>
     <ClassAssertion>
@@ -555,31 +632,35 @@
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000074"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000075"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000076"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000077"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000006"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000078"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000079"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000080"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000081"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000082"/>
     </ClassAssertion>
     <ClassAssertion>
@@ -587,63 +668,63 @@
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000083"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000084"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000085"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000086"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000087"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000088"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000089"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000090"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000091"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000092"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000093"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000094"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000095"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000096"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000097"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000098"/>
     </ClassAssertion>
     <ClassAssertion>
@@ -659,15 +740,15 @@
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000101"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000102"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000103"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000104"/>
     </ClassAssertion>
     <ClassAssertion>
@@ -687,23 +768,23 @@
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000108"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000109"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000110"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000111"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000112"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000113"/>
     </ClassAssertion>
     <ClassAssertion>
@@ -711,7 +792,7 @@
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000114"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000115"/>
     </ClassAssertion>
     <ClassAssertion>
@@ -719,7 +800,7 @@
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000116"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000117"/>
     </ClassAssertion>
     <ClassAssertion>
@@ -731,7 +812,7 @@
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000119"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000120"/>
     </ClassAssertion>
     <ClassAssertion>
@@ -743,51 +824,55 @@
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000122"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000123"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000124"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000125"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000126"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000127"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000128"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000129"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000130"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000131"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000132"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000133"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000134"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000135"/>
     </ClassAssertion>
     <ClassAssertion>
@@ -795,19 +880,19 @@
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000136"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000137"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000138"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000139"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000140"/>
     </ClassAssertion>
     <ClassAssertion>
@@ -815,91 +900,91 @@
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000141"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000142"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000143"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000144"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000145"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000146"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000147"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000148"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000149"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000150"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000151"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000152"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000153"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000154"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000155"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000156"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000157"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000158"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000159"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000160"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000161"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000162"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000163"/>
     </ClassAssertion>
     <ClassAssertion>
@@ -907,11 +992,11 @@
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000164"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000165"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000166"/>
     </ClassAssertion>
     <ClassAssertion>
@@ -919,23 +1004,23 @@
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000167"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000168"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000169"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000170"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000171"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000172"/>
     </ClassAssertion>
     <ClassAssertion>
@@ -943,31 +1028,31 @@
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000173"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000174"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000175"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000176"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000177"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000178"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000179"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000180"/>
     </ClassAssertion>
     <ClassAssertion>
@@ -979,20 +1064,24 @@
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000182"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000183"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000184"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000185"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000186"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000006"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000187"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000006"/>
@@ -1007,7 +1096,7 @@
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000190"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000191"/>
     </ClassAssertion>
     <ClassAssertion>
@@ -1019,35 +1108,35 @@
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000193"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000194"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000195"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000196"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000197"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000198"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000199"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000200"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000201"/>
     </ClassAssertion>
     <ClassAssertion>
@@ -1055,11 +1144,11 @@
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000202"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000203"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000204"/>
     </ClassAssertion>
     <ClassAssertion>
@@ -1067,15 +1156,15 @@
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000205"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000206"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000207"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000208"/>
     </ClassAssertion>
     <ClassAssertion>
@@ -1083,15 +1172,15 @@
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000209"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000210"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000211"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000212"/>
     </ClassAssertion>
     <ClassAssertion>
@@ -1103,11 +1192,11 @@
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000214"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000215"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000216"/>
     </ClassAssertion>
     <ClassAssertion>
@@ -1119,43 +1208,43 @@
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000218"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000219"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000220"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000221"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000222"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000223"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000224"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000225"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000226"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000227"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000228"/>
     </ClassAssertion>
     <ClassAssertion>
@@ -1163,39 +1252,39 @@
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000229"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000230"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000231"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000232"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000233"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000234"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000235"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000236"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000237"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000238"/>
     </ClassAssertion>
     <ClassAssertion>
@@ -1207,39 +1296,39 @@
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000240"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000241"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000242"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000243"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000244"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000245"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000246"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000247"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000248"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000249"/>
     </ClassAssertion>
     <ClassAssertion>
@@ -1251,23 +1340,23 @@
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000251"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000252"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000253"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000254"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000255"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000256"/>
     </ClassAssertion>
     <ClassAssertion>
@@ -1275,31 +1364,31 @@
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000257"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000258"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000259"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000260"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000261"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000262"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000263"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000264"/>
     </ClassAssertion>
     <ClassAssertion>
@@ -1307,23 +1396,23 @@
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000265"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000266"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000267"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000268"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000269"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000270"/>
     </ClassAssertion>
     <ClassAssertion>
@@ -1331,15 +1420,19 @@
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000271"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="#GEO_000000151"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000272"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000273"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000274"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000396"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000275"/>
     </ClassAssertion>
     <ClassAssertion>
@@ -1551,777 +1644,1007 @@
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000327"/>
     </ClassAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000025"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000026"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000025"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000103"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000029"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000015"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000029"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000017"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000029"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000019"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000029"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000264"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000032"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000033"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000032"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000262"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000037"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000038"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000037"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000180"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000050"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000033"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000050"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000262"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000053"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000180"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000057"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000033"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000057"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000262"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000066"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000033"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000066"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000262"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000072"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000073"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000072"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000071"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000074"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000073"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000074"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000071"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000078"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000251"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000078"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000183"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000083"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000038"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000083"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000180"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000099"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000100"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000099"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000088"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000101"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000033"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000101"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000262"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000105"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000106"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000105"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000104"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000107"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000108"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000107"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000104"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000114"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000033"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000114"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000262"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000116"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000100"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000116"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000088"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000118"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000106"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000118"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000104"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000119"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000015"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
-        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000119"/>
-        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000018"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000119"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000017"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000119"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000018"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000119"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000264"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000121"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000122"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000121"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000262"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000136"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000122"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000136"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000262"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000141"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000122"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000141"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000262"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000164"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000106"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000164"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000104"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000167"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000108"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000167"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000104"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000173"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000033"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000173"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000262"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000181"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000182"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000181"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000104"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000187"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000251"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000187"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000183"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000188"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000189"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
-        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000190"/>
-        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000018"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000188"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000039"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
-        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000190"/>
-        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000017"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
-        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000190"/>
-        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000015"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000190"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000020"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000190"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000017"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000190"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000018"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000190"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000015"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000190"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000264"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000192"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000193"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000202"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000033"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
-        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000205"/>
-        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000015"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000202"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000262"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000205"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000018"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
-        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000205"/>
-        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000017"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000205"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000020"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000205"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000017"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000205"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000015"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000205"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000264"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000209"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000106"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000209"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000104"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000213"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000108"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000213"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000104"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000214"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000033"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000214"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000262"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000217"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000108"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000217"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000104"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000218"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000108"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000218"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000104"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000229"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000038"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000229"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000180"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000239"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000240"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000239"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000191"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000250"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000251"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000250"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000183"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000257"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000033"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000257"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000262"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000265"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000017"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
-        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000265"/>
-        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000018"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000265"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000015"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000265"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000018"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000265"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000264"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000271"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000108"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000271"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000104"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000276"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000013"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://www.obofoundry.org/ro/ro.owl#part_of"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000276"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000264"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000277"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000013"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://www.obofoundry.org/ro/ro.owl#part_of"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000277"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000264"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000278"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000013"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://www.obofoundry.org/ro/ro.owl#part_of"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000278"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000264"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000279"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000013"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://www.obofoundry.org/ro/ro.owl#part_of"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000279"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000264"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000280"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000013"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://www.obofoundry.org/ro/ro.owl#part_of"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000280"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000264"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000281"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000013"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://www.obofoundry.org/ro/ro.owl#part_of"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000281"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000264"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000282"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000013"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://www.obofoundry.org/ro/ro.owl#part_of"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000282"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000264"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000283"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000013"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://www.obofoundry.org/ro/ro.owl#part_of"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000283"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000264"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000284"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000014"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000284"/>
+        <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000264"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000285"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000013"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://www.obofoundry.org/ro/ro.owl#part_of"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000285"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000264"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000286"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000013"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://www.obofoundry.org/ro/ro.owl#part_of"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000286"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000264"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000287"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000013"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://www.obofoundry.org/ro/ro.owl#part_of"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000287"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000264"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000288"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000013"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://www.obofoundry.org/ro/ro.owl#part_of"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000288"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000264"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000289"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000013"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://www.obofoundry.org/ro/ro.owl#part_of"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000289"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000264"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000290"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000013"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://www.obofoundry.org/ro/ro.owl#part_of"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000290"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000264"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000291"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000013"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://www.obofoundry.org/ro/ro.owl#part_of"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000291"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000264"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000292"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000013"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://www.obofoundry.org/ro/ro.owl#part_of"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000292"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000264"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000293"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000013"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://www.obofoundry.org/ro/ro.owl#part_of"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000293"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000264"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000294"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000013"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://www.obofoundry.org/ro/ro.owl#part_of"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000294"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000264"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000295"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000013"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://www.obofoundry.org/ro/ro.owl#part_of"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000295"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000264"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000296"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000013"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://www.obofoundry.org/ro/ro.owl#part_of"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000296"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000264"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000297"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000013"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://www.obofoundry.org/ro/ro.owl#part_of"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000297"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000264"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000298"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000013"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://www.obofoundry.org/ro/ro.owl#part_of"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000298"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000264"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000299"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000013"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://www.obofoundry.org/ro/ro.owl#part_of"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000299"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000264"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000300"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000013"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://www.obofoundry.org/ro/ro.owl#part_of"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000300"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000264"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000301"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000013"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://www.obofoundry.org/ro/ro.owl#part_of"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000301"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000264"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000302"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000013"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://www.obofoundry.org/ro/ro.owl#part_of"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000302"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000264"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000303"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000013"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://www.obofoundry.org/ro/ro.owl#part_of"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000303"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000264"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000304"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000013"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://www.obofoundry.org/ro/ro.owl#part_of"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000304"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000264"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000305"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000013"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://www.obofoundry.org/ro/ro.owl#part_of"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000305"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000264"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000306"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000013"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://www.obofoundry.org/ro/ro.owl#part_of"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000306"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000264"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000307"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000013"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://www.obofoundry.org/ro/ro.owl#part_of"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000307"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000264"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000308"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000013"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://www.obofoundry.org/ro/ro.owl#part_of"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000308"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000264"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000309"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000013"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://www.obofoundry.org/ro/ro.owl#part_of"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000309"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000264"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000310"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000013"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://www.obofoundry.org/ro/ro.owl#part_of"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000310"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000264"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000311"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000013"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://www.obofoundry.org/ro/ro.owl#part_of"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000311"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000264"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000312"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000013"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://www.obofoundry.org/ro/ro.owl#part_of"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000312"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000264"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000313"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000013"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://www.obofoundry.org/ro/ro.owl#part_of"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000313"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000264"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000314"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000013"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://www.obofoundry.org/ro/ro.owl#part_of"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000314"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000264"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000315"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000013"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://www.obofoundry.org/ro/ro.owl#part_of"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000315"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000264"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000316"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000013"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://www.obofoundry.org/ro/ro.owl#part_of"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000316"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000264"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000317"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000013"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://www.obofoundry.org/ro/ro.owl#part_of"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000317"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000264"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000318"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000013"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://www.obofoundry.org/ro/ro.owl#part_of"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000318"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000264"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000319"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000013"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://www.obofoundry.org/ro/ro.owl#part_of"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000319"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000264"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000320"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000013"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://www.obofoundry.org/ro/ro.owl#part_of"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000320"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000264"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000321"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000013"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://www.obofoundry.org/ro/ro.owl#part_of"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000321"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000264"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000322"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000013"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://www.obofoundry.org/ro/ro.owl#part_of"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000322"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000264"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000323"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000013"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://www.obofoundry.org/ro/ro.owl#part_of"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000323"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000264"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000324"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000013"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://www.obofoundry.org/ro/ro.owl#part_of"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000324"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000264"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000325"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000013"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://www.obofoundry.org/ro/ro.owl#part_of"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000325"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000264"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000326"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000013"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://www.obofoundry.org/ro/ro.owl#part_of"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000326"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000264"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000012"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000327"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000015"/>
     </ObjectPropertyAssertion>
@@ -2329,6 +2652,24 @@
         <ObjectProperty IRI="http://purl.obolibrary.org/obo/BFO_0000075"/>
         <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
     </SubObjectPropertyOf>
+    <InverseObjectProperties>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/BFO_0000075"/>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000328"/>
+    </InverseObjectProperties>
+    <TransitiveObjectProperty>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
+    </TransitiveObjectProperty>
+    <IrreflexiveObjectProperty>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
+    </IrreflexiveObjectProperty>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000400"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="http://purl.obolibrary.org/obo/GEO_000000329"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GEO_000000400"/>
+    </ObjectPropertyRange>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000118"/>
         <IRI>http://purl.obolibrary.org/obo/BFO_0000075</IRI>
@@ -2370,6 +2711,11 @@
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">geopolitical entity</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="owl:deprecated"/>
+        <IRI>http://purl.obolibrary.org/obo/GEO_000000001</IRI>
+        <Literal datatypeIRI="&xsd;boolean">true</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
         <IRI>http://purl.obolibrary.org/obo/GEO_000000002</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">An aggregate of geopoliticial entities.  Examples include the group of states of the United States, the nations of North America, and so on.</Literal>
@@ -2398,6 +2744,11 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://purl.obolibrary.org/obo/GEO_000000003</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">nation</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="owl:deprecated"/>
+        <IRI>http://purl.obolibrary.org/obo/GEO_000000003</IRI>
+        <Literal datatypeIRI="&xsd;boolean">true</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
@@ -2437,7 +2788,7 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
         <IRI>http://purl.obolibrary.org/obo/GEO_000000005</IRI>
-        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">example: Northern Ireland</Literal>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">examples: Northern Ireland, Florida</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -3105,9 +3456,34 @@
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">Bolivia (Plurinational State of)</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.obolibrary.org/obo/GEO_000000021"/>
+        <IRI>http://purl.obolibrary.org/obo/GEO_000000053</IRI>
+        <Literal datatypeIRI="&xsd;string">535</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.obolibrary.org/obo/GEO_000000022"/>
+        <IRI>http://purl.obolibrary.org/obo/GEO_000000053</IRI>
+        <Literal datatypeIRI="&xsd;string">BES</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.obolibrary.org/obo/GEO_000000023"/>
+        <IRI>http://purl.obolibrary.org/obo/GEO_000000053</IRI>
+        <Literal datatypeIRI="&xsd;string">BQ</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://purl.obolibrary.org/obo/GEO_000000053</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">Bonaire, Saint Eustatius, and Saba</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://purl.obolibrary.org/obo/GEO_000000053</IRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">Bonaire, St Eustatius and Saba</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://purl.obolibrary.org/obo/GEO_000000053</IRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">Carribean Netherlands</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://purl.obolibrary.org/obo/GEO_000000021"/>
@@ -3410,6 +3786,15 @@
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">Chad</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>http://purl.obolibrary.org/obo/GEO_000000069</IRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">The Channel Islands are an aggregate of islands that ultimately are under the sovereignty of the United Kingdom.  In terms of government, the Bailiwick of Guernsey controls all but one island, which is controlled by the Bailiwick of Jersey.
+
+Hence, the islands taken in toto are a geographical region, and not some subtype of governmental organization (or any other type of organization).
+
+For the governmental organizations, see the separate individuals for Jersey and Guernsey.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://purl.obolibrary.org/obo/GEO_000000069</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">Channel Islands</Literal>
@@ -3558,6 +3943,21 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://purl.obolibrary.org/obo/GEO_000000077</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">Congo</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.obolibrary.org/obo/GEO_000000021"/>
+        <IRI>http://purl.obolibrary.org/obo/GEO_000000078</IRI>
+        <Literal datatypeIRI="&xsd;string">184</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.obolibrary.org/obo/GEO_000000022"/>
+        <IRI>http://purl.obolibrary.org/obo/GEO_000000078</IRI>
+        <Literal datatypeIRI="&xsd;string">COK</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.obolibrary.org/obo/GEO_000000023"/>
+        <IRI>http://purl.obolibrary.org/obo/GEO_000000078</IRI>
+        <Literal datatypeIRI="&xsd;string">CK</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -4480,9 +4880,29 @@
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">Haiti</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.obolibrary.org/obo/GEO_000000021"/>
+        <IRI>http://purl.obolibrary.org/obo/GEO_000000127</IRI>
+        <Literal datatypeIRI="&xsd;string">336</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.obolibrary.org/obo/GEO_000000022"/>
+        <IRI>http://purl.obolibrary.org/obo/GEO_000000127</IRI>
+        <Literal datatypeIRI="&xsd;string">VAT</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.obolibrary.org/obo/GEO_000000023"/>
+        <IRI>http://purl.obolibrary.org/obo/GEO_000000127</IRI>
+        <Literal datatypeIRI="&xsd;string">VA</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://purl.obolibrary.org/obo/GEO_000000127</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">Holy See</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://purl.obolibrary.org/obo/GEO_000000127</IRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">Vatican City State</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://purl.obolibrary.org/obo/GEO_000000021"/>
@@ -5648,6 +6068,21 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://purl.obolibrary.org/obo/GEO_000000186</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">Nigeria</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.obolibrary.org/obo/GEO_000000021"/>
+        <IRI>http://purl.obolibrary.org/obo/GEO_000000187</IRI>
+        <Literal datatypeIRI="&xsd;string">570</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.obolibrary.org/obo/GEO_000000022"/>
+        <IRI>http://purl.obolibrary.org/obo/GEO_000000187</IRI>
+        <Literal datatypeIRI="&xsd;string">NIU</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.obolibrary.org/obo/GEO_000000023"/>
+        <IRI>http://purl.obolibrary.org/obo/GEO_000000187</IRI>
+        <Literal datatypeIRI="&xsd;string">NU</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -7325,6 +7760,31 @@
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">Wallis and Futuna Islands</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.obolibrary.org/obo/GEO_000000023"/>
+        <IRI>http://purl.obolibrary.org/obo/GEO_000000272</IRI>
+        <Literal datatypeIRI="&xsd;string">732</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.obolibrary.org/obo/GEO_000000023"/>
+        <IRI>http://purl.obolibrary.org/obo/GEO_000000272</IRI>
+        <Literal datatypeIRI="&xsd;string">EH</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.obolibrary.org/obo/GEO_000000023"/>
+        <IRI>http://purl.obolibrary.org/obo/GEO_000000272</IRI>
+        <Literal datatypeIRI="&xsd;string">ESH</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>http://purl.obolibrary.org/obo/GEO_000000272</IRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">It belongs under geographical region and not dependency because sovereignty over the entire area is not maintained by any single country, and few sovereign states recognize claims of sovereignity that are backed up by real control.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>http://purl.obolibrary.org/obo/GEO_000000272</IRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">Western Sahara is a geographical region in west Africa that is disputed by Morrocco and Sahrawi Arab Democratic Republic (SADR).  The UN lists it as a non-self-governing territory.  Morroco controls over 2/3 the territory and over 90% of the population.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://purl.obolibrary.org/obo/GEO_000000272</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">Western Sahara</Literal>
@@ -8448,6 +8908,32 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://purl.obolibrary.org/obo/GEO_000000327</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">U.S. Minor Outlying Islands</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://purl.obolibrary.org/obo/GEO_000000328</IRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">is in aggregate</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
+        <IRI>http://purl.obolibrary.org/obo/GEO_000000329</IRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">A governing organization G1 is subordinate to another governing organization G2 iff there is some authority possessed by G2 that is not possessed by G1 and G1&apos;s jurisdiction falls within the relevant jurisdiction of G2.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>http://purl.obolibrary.org/obo/GEO_000000329</IRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">From the Confluence page that proposed it:
+
+&apos;is subordinate authority of&apos;
+Domain: governing organization
+Range: governing organization
+Formal properties: transitive, anti-symmetric, irreflexive
+Natural language definition: A governing organization G1 is subordinate to another governing organization G2 iff there is some authority possessed by G2 that is not possessed by G1 and G1 falls within the relevant jurisdiction of G2.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://purl.obolibrary.org/obo/GEO_000000329</IRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">is subordinate authority of</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000117"/>
