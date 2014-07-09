@@ -1,0 +1,2381 @@
+<?xml version="1.0"?>
+
+
+<!DOCTYPE rdf:RDF [
+    <!ENTITY owl "http://www.w3.org/2002/07/owl#" >
+    <!ENTITY obo "http://purl.obolibrary.org/obo/" >
+    <!ENTITY dc "http://purl.org/dc/elements/1.1/" >
+    <!ENTITY xsd "http://www.w3.org/2001/XMLSchema#" >
+    <!ENTITY rdfs "http://www.w3.org/2000/01/rdf-schema#" >
+    <!ENTITY rdf "http://www.w3.org/1999/02/22-rdf-syntax-ns#" >
+    <!ENTITY oboInOwl "http://www.geneontology.org/formats/oboInOwl#" >
+]>
+
+
+<rdf:RDF xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.w3.org/2002/07/owl"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:obo="http://purl.obolibrary.org/obo/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <Ontology rdf:about="&obo;geo/nation-instances.owl">
+        <dc:contributor xml:lang="en">Amanda Hicks</dc:contributor>
+        <dc:title xml:lang="en">Geographical Entity Ontology - Nation instances file</dc:title>
+        <dc:contributor xml:lang="en">Katrina M. Donovan</dc:contributor>
+        <dc:contributor xml:lang="en">Mathias Brochhausen</dc:contributor>
+        <dc:title xml:lang="en">This &quot;ontology&quot; is actually an inventory of instances that imports the Geographical Entity Ontology.</dc:title>
+        <dc:creator xml:lang="en">William R. Hogan</dc:creator>
+        <versionInfo xml:lang="en">release version 2014-07</versionInfo>
+        <imports rdf:resource="&obo;geo.owl"/>
+    </Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000024 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000024">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Afghanistan</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">004</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">AF</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">AFG</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000027 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000027">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Albania</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">008</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">AL</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">ALB</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000028 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000028">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Algeria</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">012</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">DZ</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">DZA</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000030 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000030">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Andorra</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">020</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">AD</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">AND</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000031 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000031">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Angola</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">024</obo:GEO_000000021>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">AGO</obo:GEO_000000022>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">AO</obo:GEO_000000023>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000034 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000034">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Antigua and Barbuda</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">028</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">AG</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">ATG</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000035 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000035">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Argentina</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">032</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">AR</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">ARG</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000036 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000036">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Armenia</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">051</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">AM</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">ARM</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000039 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000039">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Australia</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">036</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">AU</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">AUS</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000040 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000040">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Austria</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">040</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">AT</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">AUT</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000041 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000041">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Azerbaijan</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">031</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">AZ</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">AZE</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000042 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000042">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Bahamas</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">044</obo:GEO_000000021>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">BHS</obo:GEO_000000022>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">BS</obo:GEO_000000023>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000043 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000043">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Bahrain</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">048</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">BH</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">BHR</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000044 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000044">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Bangladesh</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">050</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">BD</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">BGD</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000045 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000045">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Barbados</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">052</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">BB</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">BRB</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000046 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000046">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Belarus</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">112</obo:GEO_000000021>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">BLR</obo:GEO_000000022>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">BY</obo:GEO_000000023>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000047 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000047">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Belgium</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">056</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">BE</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">BEL</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000048 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000048">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Belize</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">084</obo:GEO_000000021>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">BLZ</obo:GEO_000000022>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">BZ</obo:GEO_000000023>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000049 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000049">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Benin</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">204</obo:GEO_000000021>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">BEN</obo:GEO_000000022>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">BJ</obo:GEO_000000023>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000051 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000051">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Bhutan</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">064</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">BT</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">BTN</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000052 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000052">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Bolivia (Plurinational State of)</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">068</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">BO</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">BOL</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000054 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000054">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Bosnia and Herzegovina</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">070</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">BA</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">BIH</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000055 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000055">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Botswana</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">072</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">BW</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">BWA</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000056 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000056">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Brazil</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">076</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">BR</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">BRA</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000058 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000058">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Brunei Darussalam</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">096</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">BN</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">BRN</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000059 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000059">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Bulgaria</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">100</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">BG</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">BGR</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000060 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000060">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Burkina Faso</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">854</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">BF</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">BFA</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000061 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000061">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Burundi</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">108</obo:GEO_000000021>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">BDI</obo:GEO_000000022>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">BI</obo:GEO_000000023>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000062 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000062">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Cambodia</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">116</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">KH</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">KHM</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000063 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000063">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Cameroon</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">120</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">CM</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">CMR</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000064 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000064">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Canada</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">124</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">CA</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">CAN</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000065 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000065">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Cape Verde</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">132</obo:GEO_000000021>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">CPV</obo:GEO_000000022>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">CV</obo:GEO_000000023>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000067 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000067">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Central African Republic</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">140</obo:GEO_000000021>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">CAF</obo:GEO_000000022>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">CF</obo:GEO_000000023>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000068 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000068">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Chad</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">148</obo:GEO_000000021>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">TCD</obo:GEO_000000022>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">TD</obo:GEO_000000023>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000070 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000070">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Chile</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">152</obo:GEO_000000021>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">CHL</obo:GEO_000000022>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">CL</obo:GEO_000000023>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000071 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000071">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">China</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">156</obo:GEO_000000021>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">CHN</obo:GEO_000000022>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">CN</obo:GEO_000000023>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000075 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000075">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Colombia</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">170</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">CO</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">COL</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000076 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000076">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Comoros</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">174</obo:GEO_000000021>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">COM</obo:GEO_000000022>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">KM</obo:GEO_000000023>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000077 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000077">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Congo</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">178</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">CG</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">COG</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000079 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000079">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Costa Rica</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">188</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">CR</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">CRI</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000080 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000080">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Côte d&apos;Ivoire</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">384</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">CI</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">CIV</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000081 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000081">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Croatia</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">191</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">HR</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">HRV</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000082 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000082">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Cuba</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">192</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">CU</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">CUB</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000084 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000084">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Cyprus</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">196</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">CY</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">CYP</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000085 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000085">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Czech Republic</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">203</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">CZ</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">CZE</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000086 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000086">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Democratic People&apos;s Republic of Korea</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">408</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">KP</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">PRK</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000087 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000087">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Democratic Republic of the Congo</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">180</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">CD</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">COD</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000088 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000088">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Denmark</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">208</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">DK</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">DNK</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000089 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000089">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Djibouti</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">262</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">DJ</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">DJI</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000090 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000090">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Dominica</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">212</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">DM</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">DMA</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000091 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000091">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Dominican Republic</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">214</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">DO</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">DOM</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000092 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000092">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Ecuador</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">218</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">EC</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">ECU</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000093 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000093">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Egypt</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">818</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">EG</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">EGY</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000094 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000094">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">El Salvador</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">222</obo:GEO_000000021>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">SLV</obo:GEO_000000022>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">SV</obo:GEO_000000023>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000095 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000095">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Equatorial Guinea</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">226</obo:GEO_000000021>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">GNQ</obo:GEO_000000022>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">GQ</obo:GEO_000000023>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000096 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000096">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Eritrea</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">232</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">ER</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">ERI</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000097 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000097">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Estonia</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">233</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">EE</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">EST</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000098 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000098">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Ethiopia</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">231</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">ET</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">ETH</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000102 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000102">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Fiji</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">242</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">FJ</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">FJI</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000103 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000103">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Finland</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">246</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">FI</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">FIN</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000104 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000104">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">France</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">250</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">FR</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">FRA</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000109 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000109">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Gabon</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">266</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">GA</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">GAB</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000110 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000110">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Gambia</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">270</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">GM</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">GMB</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000111 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000111">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Georgia</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">268</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">GE</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">GEO</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000112 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000112">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Germany</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">276</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">DE</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">DEU</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000113 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000113">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Ghana</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">288</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">GH</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">GHA</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000115 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000115">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Greece</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">300</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">GR</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">GRC</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000117 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000117">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Grenada</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">308</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">GD</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">GRD</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000120 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000120">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Guatemala</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">320</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">GT</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">GTM</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000123 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000123">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Guinea</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">324</obo:GEO_000000021>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">GIN</obo:GEO_000000022>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">GN</obo:GEO_000000023>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000124 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000124">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Guinea-Bissau</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">624</obo:GEO_000000021>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">GNB</obo:GEO_000000022>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">GW</obo:GEO_000000023>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000125 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000125">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Guyana</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">328</obo:GEO_000000021>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">GUY</obo:GEO_000000022>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">GY</obo:GEO_000000023>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000126 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000126">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Haiti</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">332</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">HT</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">HTI</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000127 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000127">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Holy See</rdfs:label>
+        <rdfs:label xml:lang="en">Vatican City State</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">336</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">VA</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">VAT</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000128 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000128">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Honduras</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">340</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">HN</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">HND</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000129 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000129">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Hungary</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">348</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">HU</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">HUN</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000130 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000130">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Iceland</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">352</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">IS</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">ISL</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000131 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000131">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">India</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">356</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">IN</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">IND</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000132 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000132">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Indonesia</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">360</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">ID</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">IDN</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000133 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000133">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Iran (Islamic Republic of)</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">364</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">IR</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">IRN</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000134 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000134">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Iraq</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">368</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">IQ</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">IRQ</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000135 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000135">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Ireland</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">372</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">IE</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">IRL</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000137 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000137">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Israel</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">376</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">IL</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">ISR</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000138 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000138">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Italy</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">380</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">IT</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">ITA</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000139 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000139">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Jamaica</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">388</obo:GEO_000000021>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">JAM</obo:GEO_000000022>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">JM</obo:GEO_000000023>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000140 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000140">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Japan</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">392</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">JP</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">JPN</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000142 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000142">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Jordan</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">400</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">JO</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">JOR</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000143 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000143">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Kazakhstan</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">398</obo:GEO_000000021>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">KAZ</obo:GEO_000000022>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">KZ</obo:GEO_000000023>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000144 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000144">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Kenya</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">404</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">KE</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">KEN</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000145 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000145">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Kiribati</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">296</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">KI</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">KIR</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000146 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000146">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Kuwait</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">414</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">KW</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">KWT</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000147 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000147">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Kyrgyzstan</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">417</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">KG</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">KGZ</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000148 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000148">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Lao People&apos;s Democratic Republic</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">418</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">LA</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">LAO</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000149 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000149">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Latvia</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">428</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">LV</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">LVA</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000150 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000150">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Lebanon</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">422</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">LB</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">LBN</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000151 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000151">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Lesotho</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">426</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">LS</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">LSO</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000152 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000152">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Liberia</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">430</obo:GEO_000000021>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">LBR</obo:GEO_000000022>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">LR</obo:GEO_000000023>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000153 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000153">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Libyan Arab Jamahiriya</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">434</obo:GEO_000000021>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">LBY</obo:GEO_000000022>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">LY</obo:GEO_000000023>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000154 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000154">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Liechtenstein</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">438</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">LI</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">LIE</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000155 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000155">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Lithuania</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">440</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">LT</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">LTU</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000156 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000156">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Luxembourg</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">442</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">LU</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">LUX</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000157 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000157">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Madagascar</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">450</obo:GEO_000000021>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">MDG</obo:GEO_000000022>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">MG</obo:GEO_000000023>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000158 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000158">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Malawi</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">454</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">MW</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">MWI</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000159 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000159">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Malaysia</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">458</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">MY</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">MYS</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000160 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000160">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Maldives</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">462</obo:GEO_000000021>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">MDV</obo:GEO_000000022>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">MV</obo:GEO_000000023>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000161 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000161">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Mali</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">466</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">ML</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">MLI</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000162 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000162">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Malta</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">470</obo:GEO_000000021>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">MLT</obo:GEO_000000022>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">MT</obo:GEO_000000023>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000163 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000163">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Marshall Islands</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">584</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">MH</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">MHL</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000165 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000165">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Mauritania</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">478</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">MR</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">MRT</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000166 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000166">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Mauritius</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">480</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">MU</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">MUS</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000168 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000168">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Mexico</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">484</obo:GEO_000000021>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">MEX</obo:GEO_000000022>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">MX</obo:GEO_000000023>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000169 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000169">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Micronesia (Federated States of)</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">583</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">FM</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">FSM</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000170 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000170">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Monaco</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">492</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">MC</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">MCO</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000171 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000171">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Mongolia</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">496</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">MN</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">MNG</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000172 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000172">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Montenegro </rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">499</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">ME</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">MNE</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000174 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000174">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Morocco</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">504</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">MA</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">MAR</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000175 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000175">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Mozambique </rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">508</obo:GEO_000000021>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">MOZ</obo:GEO_000000022>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">MZ</obo:GEO_000000023>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000176 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000176">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Myanmar</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">104</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">MM</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">MMR</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000177 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000177">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Namibia</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">516</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">NA</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">NAM</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000178 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000178">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Nauru</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">520</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">NR</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">NRU</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000179 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000179">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Nepal</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">524</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">NP</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">NPL</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000180 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000180">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Netherlands</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">528</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">NL</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">NLD</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000183 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000183">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">New Zealand</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">554</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">NZ</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">NZL</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000184 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000184">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Nicaragua</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">558</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">NI</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">NIC</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000185 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000185">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Niger</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">562</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">NE</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">NER</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000186 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000186">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Nigeria</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">566</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">NG</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">NGA</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000191 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000191">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Norway</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">578</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">NO</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">NOR</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000194 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000194">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Oman</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">512</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">OM</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">OMN</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000195 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000195">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Pakistan</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">586</obo:GEO_000000021>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">PAK</obo:GEO_000000022>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">PK</obo:GEO_000000023>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000196 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000196">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Palau</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">585</obo:GEO_000000021>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">PLW</obo:GEO_000000022>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">PW</obo:GEO_000000023>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000197 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000197">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Panama</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">591</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">PA</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">PAN</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000198 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000198">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Papua New Guinea</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">598</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">PG</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">PNG</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000199 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000199">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Paraguay</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">600</obo:GEO_000000021>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">PRY</obo:GEO_000000022>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">PY</obo:GEO_000000023>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000200 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000200">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Peru</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">604</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">PE</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">PER</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000201 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000201">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Philippines</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">608</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">PH</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">PHL</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000203 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000203">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Poland</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">616</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">PL</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">POL</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000204 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000204">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Portugal</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">620</obo:GEO_000000021>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">PRT</obo:GEO_000000022>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">PT</obo:GEO_000000023>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000206 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000206">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Qatar</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">634</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">QA</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">QAT</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000207 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000207">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Republic of Korea</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">410</obo:GEO_000000021>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">KOR</obo:GEO_000000022>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">KR</obo:GEO_000000023>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000208 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000208">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Republic of Moldova</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">498</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">MD</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">MDA</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000210 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000210">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Romania</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">642</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">RO</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">ROU</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000211 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000211">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Russian Federation</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">643</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">RU</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">RUS</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000212 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000212">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Rwanda</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">646</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">RW</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">RWA</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000215 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000215">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Saint Kitts and Nevis</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">659</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">KN</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">KNA</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000216 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000216">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Saint Lucia</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">662</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">LC</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">LCA</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000219 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000219">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Saint Vincent and the Grenadines</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">670</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">VC</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">VCT</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000220 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000220">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Samoa</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">882</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">WS</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">WSM</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000221 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000221">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">San Marino</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">674</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">SM</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">SMR</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000222 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000222">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Sao Tome and Principe</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">678</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">ST</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">STP</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000223 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000223">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Saudi Arabia</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">682</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">SA</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">SAU</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000224 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000224">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Senegal</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">686</obo:GEO_000000021>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">SEN</obo:GEO_000000022>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">SN</obo:GEO_000000023>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000225 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000225">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Serbia</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">688</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">RS</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">SRB</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000226 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000226">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Seychelles</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">690</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">SC</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">SYC</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000227 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000227">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Sierra Leone</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">694</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">SL</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">SLE</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000228 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000228">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Singapore</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">702</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">SG</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">SGP</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000230 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000230">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Slovakia</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">703</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">SK</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">SVK</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000231 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000231">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Slovenia</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">705</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">SI</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">SVN</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000232 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000232">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Solomon Islands</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">090</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">SB</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">SLB</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000233 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000233">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Somalia</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">706</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">SO</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">SOM</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000234 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000234">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">South Africa</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">710</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">ZA</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">ZAF</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000235 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000235">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Spain</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">724</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">ES</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">ESP</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000236 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000236">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Sri Lanka</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">144</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">LK</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">LKA</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000237 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000237">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Sudan</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">736</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">SD</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">SDN</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000238 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000238">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Suriname</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">740</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">SR</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">SUR</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000241 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000241">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Swaziland</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">748</obo:GEO_000000021>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">SWZ</obo:GEO_000000022>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">SZ</obo:GEO_000000023>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000242 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000242">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Sweden</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">752</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">SE</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">SWE</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000243 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000243">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Switzerland</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">756</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">CH</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">CHE</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000244 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000244">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Syrian Arab Republic</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">760</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">SY</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">SYR</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000245 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000245">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Tajikistan</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">762</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">TJ</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">TJK</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000246 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000246">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Thailand</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">764</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">TH</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">THA</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000247 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000247">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">The former Yugoslav Republic of Macedonia</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">807</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">MK</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">MKD</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000248 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000248">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Timor-Leste</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">626</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">TL</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">TLS</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000249 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000249">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Togo</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">768</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">TG</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">TGO</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000252 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000252">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Tonga</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">776</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">TO</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">TON</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000253 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000253">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Trinidad and Tobago</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">780</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">TT</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">TTO</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000254 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000254">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Tunisia</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">788</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">TN</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">TUN</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000255 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000255">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Turkey</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">792</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">TR</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">TUR</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000256 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000256">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Turkmenistan</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">795</obo:GEO_000000021>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">TKM</obo:GEO_000000022>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">TM</obo:GEO_000000023>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000258 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000258">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Tuvalu</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">798</obo:GEO_000000021>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">TUV</obo:GEO_000000022>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">TV</obo:GEO_000000023>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000259 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000259">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Uganda</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">800</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">UG</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">UGA</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000260 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000260">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Ukraine</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">804</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">UA</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">UKR</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000261 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000261">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">United Arab Emirates</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">784</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">AE</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">ARE</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000262 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000262">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">United Kingdom of Great Britain and Northern Ireland</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">826</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">GB</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">GBR</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000263 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000263">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">United Republic of Tanzania</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">834</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">TZ</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">TZA</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000264 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000264">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">United States of America</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">840</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">US</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">USA</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000266 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000266">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Uruguay</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">858</obo:GEO_000000021>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">URY</obo:GEO_000000022>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">UY</obo:GEO_000000023>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000267 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000267">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Uzbekistan</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">860</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">UZ</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">UZB</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000268 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000268">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Vanuatu</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">548</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">VU</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">VUT</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000269 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000269">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Venezuela (Bolivarian Republic of)</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">862</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">VE</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">VEN</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000270 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000270">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Viet Nam</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">704</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">VN</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">VNM</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000273 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000273">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Yemen</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">887</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">YE</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">YEM</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000274 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000274">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Zambia</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">894</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">ZM</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">ZMB</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000275 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000000275">
+        <rdf:type rdf:resource="&obo;GEO_000000396"/>
+        <rdfs:label xml:lang="en">Zimbabwe</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">716</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">ZW</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">ZWE</obo:GEO_000000022>
+    </NamedIndividual>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotations
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <rdf:Description rdf:about="http://www.obofoundry.org/ro/ro.owl#part_of">
+        <rdfs:label xml:lang="en">part_of</rdfs:label>
+    </rdf:Description>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 3.4.2) http://owlapi.sourceforge.net -->
+
