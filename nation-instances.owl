@@ -21,15 +21,15 @@
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
      xmlns:obo="http://purl.obolibrary.org/obo/"
      xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <Ontology rdf:about="&obo;geo/nation-instances.owl">
+    <Ontology rdf:about="&obo;geo/dev/nation-instances.owl">
         <dc:contributor xml:lang="en">Amanda Hicks</dc:contributor>
         <dc:title xml:lang="en">Geographical Entity Ontology - Nation instances file</dc:title>
         <dc:contributor xml:lang="en">Katrina M. Donovan</dc:contributor>
         <dc:contributor xml:lang="en">Mathias Brochhausen</dc:contributor>
         <dc:title xml:lang="en">This &quot;ontology&quot; is actually an inventory of instances that imports the Geographical Entity Ontology.</dc:title>
         <dc:creator xml:lang="en">William R. Hogan</dc:creator>
-        <versionInfo xml:lang="en">release version 2014-07</versionInfo>
-        <imports rdf:resource="&obo;geo.owl"/>
+        <versionInfo xml:lang="en">development version 2014-07-15</versionInfo>
+        <imports rdf:resource="&obo;geo/dev/geo.owl"/>
     </Ontology>
     
 
