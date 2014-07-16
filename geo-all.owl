@@ -22,7 +22,7 @@
         <dc:creator xml:lang="en">William R Hogan</dc:creator>
         <dc:creator xml:lang="en">development version 2014-07-15</dc:creator>
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/dev/nation-and-dependency-instances.owl"/>
-        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/dev/us-mas-dependency.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/dev/us-mas-dependencies.owl"/>
     </owl:Ontology>
 </rdf:RDF>
 
