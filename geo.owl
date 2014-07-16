@@ -1211,7 +1211,7 @@ Note: this definition was taken over from &quot;geopolitical organization&quot;.
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <AbbreviatedIRI>obo:GEO_000000402</AbbreviatedIRI>
-        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">aggregate of dependencies</Literal>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">obsolete aggregate of dependencies</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="owl:deprecated"/>
@@ -1241,7 +1241,7 @@ Note: this definition was taken over from &quot;geopolitical organization&quot;.
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <AbbreviatedIRI>obo:GEO_000000403</AbbreviatedIRI>
-        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">aggregate of major administrative subdivisions</Literal>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">obsolete aggregate of major administrative subdivisions</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="owl:deprecated"/>
