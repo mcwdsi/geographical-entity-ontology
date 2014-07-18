@@ -1,0 +1,157 @@
+<?xml version="1.0"?>
+
+
+<!DOCTYPE rdf:RDF [
+    <!ENTITY owl "http://www.w3.org/2002/07/owl#" >
+    <!ENTITY obo "http://purl.obolibrary.org/obo/" >
+    <!ENTITY xsd "http://www.w3.org/2001/XMLSchema#" >
+    <!ENTITY rdfs "http://www.w3.org/2000/01/rdf-schema#" >
+    <!ENTITY rdf "http://www.w3.org/1999/02/22-rdf-syntax-ns#" >
+]>
+
+
+<rdf:RDF xmlns="&obo;geo/dev/us-geography.owl#"
+     xml:base="&obo;geo/dev/us-geography.owl"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:obo="http://purl.obolibrary.org/obo/">
+    <owl:Ontology rdf:about="&obo;geo/dev/us-geography.owl">
+        <owl:imports rdf:resource="&obo;geo/dev/basic-geography.owl"/>
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000346 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000346">
+        <rdf:type rdf:resource="&obo;GEO_000000335"/>
+        <rdfs:label xml:lang="en">region of contiguous 48 states</rdfs:label>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000338"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000347 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000347">
+        <rdf:type rdf:resource="&obo;GEO_000000335"/>
+        <rdfs:label xml:lang="en">contiguous region of Alaska</rdfs:label>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000338"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000348 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000348">
+        <rdf:type rdf:resource="&obo;geo.owl#GEO_000000206"/>
+        <rdfs:label xml:lang="en">Hawaiʻi</rdfs:label>
+        <obo:IAO_0000118 xml:lang="en">Hawaiʻi Island</obo:IAO_0000118>
+        <obo:IAO_0000118 xml:lang="en">Island of Hawaiʻi</obo:IAO_0000118>
+        <obo:IAO_0000118 xml:lang="en">the Big Island</obo:IAO_0000118>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000356"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000349 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000349">
+        <rdf:type rdf:resource="&obo;geo.owl#GEO_000000206"/>
+        <rdfs:label xml:lang="en">Oʻahu</rdfs:label>
+        <obo:IAO_0000118 xml:lang="en">Oahu</obo:IAO_0000118>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000356"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000350 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000350">
+        <rdf:type rdf:resource="&obo;geo.owl#GEO_000000206"/>
+        <rdfs:label xml:lang="en">Maui</rdfs:label>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000356"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000351 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000351">
+        <rdf:type rdf:resource="&obo;geo.owl#GEO_000000206"/>
+        <rdfs:label xml:lang="en">Kauaʻi</rdfs:label>
+        <obo:IAO_0000118 xml:lang="en">Kauai</obo:IAO_0000118>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000356"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000352 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000352">
+        <rdf:type rdf:resource="&obo;geo.owl#GEO_000000206"/>
+        <rdfs:label xml:lang="en">Molokaʻi</rdfs:label>
+        <obo:IAO_0000118 xml:lang="en">Molokai</obo:IAO_0000118>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000356"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000353 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000353">
+        <rdf:type rdf:resource="&obo;geo.owl#GEO_000000206"/>
+        <rdfs:label xml:lang="en">Lānaʻi</rdfs:label>
+        <obo:IAO_0000118 xml:lang="en">Lanai</obo:IAO_0000118>
+        <obo:IAO_0000118 xml:lang="en">Lanaʻi</obo:IAO_0000118>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000356"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000354 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000354">
+        <rdf:type rdf:resource="&obo;geo.owl#GEO_000000206"/>
+        <rdfs:label xml:lang="en">Niʻihau</rdfs:label>
+        <obo:IAO_0000118 xml:lang="en">Niihau</obo:IAO_0000118>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000356"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000355 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000355">
+        <rdf:type rdf:resource="&obo;geo.owl#GEO_000000206"/>
+        <rdfs:label xml:lang="en">Kahoʻolawe</rdfs:label>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000356"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000356 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000356">
+        <rdf:type rdf:resource="&obo;geo.owl#GEO_000000390"/>
+        <rdfs:label xml:lang="en">Hawaiian Islands</rdfs:label>
+    </owl:NamedIndividual>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 3.4.2) http://owlapi.sourceforge.net -->
+

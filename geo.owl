@@ -510,10 +510,7 @@
     </ObjectPropertyRange>
     <ObjectPropertyRange>
         <ObjectProperty abbreviatedIRI="obo:GEO_000000336"/>
-        <ObjectUnionOf>
-            <Class abbreviatedIRI="obo:geo.owl#GEO_000000199"/>
-            <Class abbreviatedIRI="obo:geo.owl#GEO_000000369"/>
-        </ObjectUnionOf>
+        <Class abbreviatedIRI="obo:geo.owl#GEO_000000199"/>
     </ObjectPropertyRange>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="obo:IAO_0000118"/>
@@ -986,7 +983,24 @@ At some point, we need an &apos;adjacent to&apos; relation if BFO doesn&apos;t p
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
         <AbbreviatedIRI>obo:GEO_000000336</AbbreviatedIRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">It is not intended to be maximal, in the sense that if a has_jurisdiction_in b, and b is not part of c, then a NOT has_jurisdiction_in c.
+
+in other words, it is perfectly fine to say:
+a disjoint b
+c has_jurisdiction_in a
+c has_jurisdiction_in b
+
+otherwise, we&apos;d end up creating some mereological sum of all the islands, contiguous land masses, etc. of the United States, calling it &quot;United States territory&quot;, asserting United States has_jurisdiction_in United States territory, then figuring out all the parts of that territory like islands, etc.  We&apos;d end up doing the same thing for every sovereign state, major administrative subdivision (at least those like Hawaii that are multiple), etc.  Seems like an unnecessary duplication of entities.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>obo:GEO_000000336</AbbreviatedIRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">a governmental organization has jurisdiction in particular territories (areas of land), which means that it can make and enforce laws that govern peoples living in those territories.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>obo:GEO_000000336</AbbreviatedIRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">if a has_jurisdiction_in b, then a has_jurisdiction_in all parts of b.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
