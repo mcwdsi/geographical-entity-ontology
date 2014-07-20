@@ -50,6 +50,10 @@
         <AnnotationProperty abbreviatedIRI="dc:contributor"/>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">Mathias Brochhausen</Literal>
     </Annotation>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="dc:license"/>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">https://creativecommons.org/licenses/by/3.0/</Literal>
+    </Annotation>
     <Declaration>
         <Class abbreviatedIRI="obo:GEO_000000001"/>
     </Declaration>
@@ -117,37 +121,37 @@
         <Class abbreviatedIRI="obo:OBI_0000245"/>
     </Declaration>
     <Declaration>
-        <Class abbreviatedIRI="obo:geo.owl#GEO_000000102"/>
+        <Class abbreviatedIRI="obo:GEO_000000370"/>
     </Declaration>
     <Declaration>
-        <Class abbreviatedIRI="obo:geo.owl#GEO_000000131"/>
+        <Class abbreviatedIRI="obo:GEO_000000371"/>
     </Declaration>
     <Declaration>
-        <Class abbreviatedIRI="obo:geo.owl#GEO_000000151"/>
+        <Class abbreviatedIRI="obo:GEO_000000372"/>
     </Declaration>
     <Declaration>
-        <Class abbreviatedIRI="obo:geo.owl#GEO_000000175"/>
+        <Class abbreviatedIRI="obo:GEO_000000373"/>
     </Declaration>
     <Declaration>
-        <Class abbreviatedIRI="obo:geo.owl#GEO_000000189"/>
+        <Class abbreviatedIRI="obo:GEO_000000374"/>
     </Declaration>
     <Declaration>
-        <Class abbreviatedIRI="obo:geo.owl#GEO_000000199"/>
+        <Class abbreviatedIRI="obo:GEO_000000375"/>
     </Declaration>
     <Declaration>
-        <Class abbreviatedIRI="obo:geo.owl#GEO_000000206"/>
+        <Class abbreviatedIRI="obo:GEO_000000376"/>
     </Declaration>
     <Declaration>
-        <Class abbreviatedIRI="obo:geo.owl#GEO_000000267"/>
+        <Class abbreviatedIRI="obo:GEO_000000377"/>
     </Declaration>
     <Declaration>
-        <Class abbreviatedIRI="obo:geo.owl#GEO_000000306"/>
+        <Class abbreviatedIRI="obo:GEO_000000378"/>
     </Declaration>
     <Declaration>
-        <Class abbreviatedIRI="obo:geo.owl#GEO_000000369"/>
+        <Class abbreviatedIRI="obo:GEO_000000369"/>
     </Declaration>
     <Declaration>
-        <Class abbreviatedIRI="obo:geo.owl#GEO_000000390"/>
+        <Class abbreviatedIRI="obo:GEO_000000390"/>
     </Declaration>
     <Declaration>
         <Class abbreviatedIRI="obo:geo.owl/GEO_000000399"/>
@@ -292,31 +296,31 @@
         </ObjectIntersectionOf>
     </EquivalentClasses>
     <EquivalentClasses>
-        <Class abbreviatedIRI="obo:geo.owl#GEO_000000267"/>
+        <Class abbreviatedIRI="obo:GEO_000000377"/>
         <ObjectSomeValuesFrom>
             <ObjectProperty abbreviatedIRI="obo:BFO_0000075"/>
-            <Class abbreviatedIRI="obo:geo.owl#GEO_000000102"/>
+            <Class abbreviatedIRI="obo:GEO_000000370"/>
         </ObjectSomeValuesFrom>
     </EquivalentClasses>
     <EquivalentClasses>
-        <Class abbreviatedIRI="obo:geo.owl#GEO_000000306"/>
+        <Class abbreviatedIRI="obo:GEO_000000378"/>
         <ObjectSomeValuesFrom>
             <ObjectProperty abbreviatedIRI="obo:BFO_0000075"/>
-            <Class abbreviatedIRI="obo:geo.owl#GEO_000000131"/>
+            <Class abbreviatedIRI="obo:GEO_000000371"/>
         </ObjectSomeValuesFrom>
     </EquivalentClasses>
     <EquivalentClasses>
-        <Class abbreviatedIRI="obo:geo.owl#GEO_000000369"/>
+        <Class abbreviatedIRI="obo:GEO_000000369"/>
         <ObjectSomeValuesFrom>
             <ObjectProperty abbreviatedIRI="obo:BFO_0000075"/>
-            <Class abbreviatedIRI="obo:geo.owl#GEO_000000199"/>
+            <Class abbreviatedIRI="obo:GEO_000000375"/>
         </ObjectSomeValuesFrom>
     </EquivalentClasses>
     <EquivalentClasses>
-        <Class abbreviatedIRI="obo:geo.owl#GEO_000000390"/>
+        <Class abbreviatedIRI="obo:GEO_000000390"/>
         <ObjectSomeValuesFrom>
             <ObjectProperty abbreviatedIRI="obo:BFO_0000075"/>
-            <Class abbreviatedIRI="obo:geo.owl#GEO_000000206"/>
+            <Class abbreviatedIRI="obo:GEO_000000376"/>
         </ObjectSomeValuesFrom>
     </EquivalentClasses>
     <SubClassOf>
@@ -353,13 +357,13 @@
     </SubClassOf>
     <SubClassOf>
         <Class abbreviatedIRI="obo:GEO_000000334"/>
-        <Class abbreviatedIRI="obo:geo.owl#GEO_000000199"/>
+        <Class abbreviatedIRI="obo:GEO_000000375"/>
     </SubClassOf>
     <SubClassOf>
         <Class abbreviatedIRI="obo:GEO_000000334"/>
         <ObjectSomeValuesFrom>
             <ObjectProperty abbreviatedIRI="obo:BFO_0000137"/>
-            <Class abbreviatedIRI="obo:geo.owl#GEO_000000189"/>
+            <Class abbreviatedIRI="obo:GEO_000000374"/>
         </ObjectSomeValuesFrom>
     </SubClassOf>
     <SubClassOf>
@@ -415,48 +419,48 @@
         <Class IRI="http://www.ifomis.org/bfo/1.1/snap#IndependentContinuant"/>
     </SubClassOf>
     <SubClassOf>
-        <Class abbreviatedIRI="obo:geo.owl#GEO_000000102"/>
+        <Class abbreviatedIRI="obo:GEO_000000370"/>
         <Class IRI="http://www.ifomis.org/bfo/1.1/snap#Object"/>
     </SubClassOf>
     <SubClassOf>
-        <Class abbreviatedIRI="obo:geo.owl#GEO_000000131"/>
-        <Class abbreviatedIRI="obo:geo.owl#GEO_000000102"/>
+        <Class abbreviatedIRI="obo:GEO_000000371"/>
+        <Class abbreviatedIRI="obo:GEO_000000370"/>
     </SubClassOf>
     <SubClassOf>
-        <Class abbreviatedIRI="obo:geo.owl#GEO_000000151"/>
-        <Class abbreviatedIRI="obo:geo.owl#GEO_000000102"/>
+        <Class abbreviatedIRI="obo:GEO_000000372"/>
+        <Class abbreviatedIRI="obo:GEO_000000370"/>
     </SubClassOf>
     <SubClassOf>
-        <Class abbreviatedIRI="obo:geo.owl#GEO_000000175"/>
-        <Class abbreviatedIRI="obo:geo.owl#GEO_000000151"/>
+        <Class abbreviatedIRI="obo:GEO_000000373"/>
+        <Class abbreviatedIRI="obo:GEO_000000372"/>
     </SubClassOf>
     <SubClassOf>
-        <Class abbreviatedIRI="obo:geo.owl#GEO_000000189"/>
-        <Class abbreviatedIRI="obo:geo.owl#GEO_000000199"/>
+        <Class abbreviatedIRI="obo:GEO_000000374"/>
+        <Class abbreviatedIRI="obo:GEO_000000375"/>
     </SubClassOf>
     <SubClassOf>
-        <Class abbreviatedIRI="obo:geo.owl#GEO_000000199"/>
-        <Class abbreviatedIRI="obo:geo.owl#GEO_000000151"/>
+        <Class abbreviatedIRI="obo:GEO_000000375"/>
+        <Class abbreviatedIRI="obo:GEO_000000372"/>
     </SubClassOf>
     <SubClassOf>
-        <Class abbreviatedIRI="obo:geo.owl#GEO_000000206"/>
+        <Class abbreviatedIRI="obo:GEO_000000376"/>
         <Class abbreviatedIRI="obo:GEO_000000334"/>
     </SubClassOf>
     <SubClassOf>
-        <Class abbreviatedIRI="obo:geo.owl#GEO_000000267"/>
+        <Class abbreviatedIRI="obo:GEO_000000377"/>
         <Class IRI="http://www.ifomis.org/bfo/1.1/snap#ObjectAggregate"/>
     </SubClassOf>
     <SubClassOf>
-        <Class abbreviatedIRI="obo:geo.owl#GEO_000000306"/>
-        <Class abbreviatedIRI="obo:geo.owl#GEO_000000267"/>
+        <Class abbreviatedIRI="obo:GEO_000000378"/>
+        <Class abbreviatedIRI="obo:GEO_000000377"/>
     </SubClassOf>
     <SubClassOf>
-        <Class abbreviatedIRI="obo:geo.owl#GEO_000000369"/>
-        <Class abbreviatedIRI="obo:geo.owl#GEO_000000306"/>
+        <Class abbreviatedIRI="obo:GEO_000000369"/>
+        <Class abbreviatedIRI="obo:GEO_000000378"/>
     </SubClassOf>
     <SubClassOf>
-        <Class abbreviatedIRI="obo:geo.owl#GEO_000000390"/>
-        <Class abbreviatedIRI="obo:geo.owl#GEO_000000369"/>
+        <Class abbreviatedIRI="obo:GEO_000000390"/>
+        <Class abbreviatedIRI="obo:GEO_000000369"/>
     </SubClassOf>
     <SubClassOf>
         <Class abbreviatedIRI="obo:geo.owl/GEO_000000399"/>
@@ -510,7 +514,7 @@
     </ObjectPropertyRange>
     <ObjectPropertyRange>
         <ObjectProperty abbreviatedIRI="obo:GEO_000000336"/>
-        <Class abbreviatedIRI="obo:geo.owl#GEO_000000199"/>
+        <Class abbreviatedIRI="obo:GEO_000000375"/>
     </ObjectPropertyRange>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="obo:IAO_0000118"/>
@@ -1420,62 +1424,62 @@ for now.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <AbbreviatedIRI>obo:geo.owl#GEO_000000102</AbbreviatedIRI>
+        <AbbreviatedIRI>obo:GEO_000000370</AbbreviatedIRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">geographical entity</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <AbbreviatedIRI>obo:geo.owl#GEO_000000131</AbbreviatedIRI>
+        <AbbreviatedIRI>obo:GEO_000000371</AbbreviatedIRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">geographical feature</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <AbbreviatedIRI>obo:geo.owl#GEO_000000151</AbbreviatedIRI>
+        <AbbreviatedIRI>obo:GEO_000000372</AbbreviatedIRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">geographical region</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <AbbreviatedIRI>obo:geo.owl#GEO_000000175</AbbreviatedIRI>
+        <AbbreviatedIRI>obo:GEO_000000373</AbbreviatedIRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">body of water</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <AbbreviatedIRI>obo:geo.owl#GEO_000000189</AbbreviatedIRI>
+        <AbbreviatedIRI>obo:GEO_000000374</AbbreviatedIRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">continent</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <AbbreviatedIRI>obo:geo.owl#GEO_000000199</AbbreviatedIRI>
+        <AbbreviatedIRI>obo:GEO_000000375</AbbreviatedIRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">land mass</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <AbbreviatedIRI>obo:geo.owl#GEO_000000206</AbbreviatedIRI>
+        <AbbreviatedIRI>obo:GEO_000000376</AbbreviatedIRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">island</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="obo:IAO_0000115"/>
-        <AbbreviatedIRI>obo:geo.owl#GEO_000000267</AbbreviatedIRI>
+        <AbbreviatedIRI>obo:GEO_000000377</AbbreviatedIRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">An object aggregate of geographical entities</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <AbbreviatedIRI>obo:geo.owl#GEO_000000267</AbbreviatedIRI>
+        <AbbreviatedIRI>obo:GEO_000000377</AbbreviatedIRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">aggregate of geographical entities</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <AbbreviatedIRI>obo:geo.owl#GEO_000000306</AbbreviatedIRI>
+        <AbbreviatedIRI>obo:GEO_000000378</AbbreviatedIRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">aggregate of geographical features</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <AbbreviatedIRI>obo:geo.owl#GEO_000000369</AbbreviatedIRI>
+        <AbbreviatedIRI>obo:GEO_000000369</AbbreviatedIRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">aggregate of land masses</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <AbbreviatedIRI>obo:geo.owl#GEO_000000390</AbbreviatedIRI>
+        <AbbreviatedIRI>obo:GEO_000000390</AbbreviatedIRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">aggregate of islands</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
