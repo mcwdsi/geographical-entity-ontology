@@ -232,7 +232,7 @@
     <!-- http://purl.obolibrary.org/obo/GEO_000000069 -->
 
     <NamedIndividual rdf:about="&obo;GEO_000000069">
-        <rdf:type rdf:resource="&obo;geo.owl#GEO_000000390"/>
+        <rdf:type rdf:resource="&obo;GEO_000000390"/>
         <rdfs:label xml:lang="en">Channel Islands</rdfs:label>
         <rdfs:comment xml:lang="en">The Channel Islands are an aggregate of islands that ultimately are under the sovereignty of the United Kingdom.  In terms of government, the Bailiwick of Guernsey controls all but one island, which is controlled by the Bailiwick of Jersey.
 
@@ -934,7 +934,7 @@ For the governmental organizations, see the separate individuals for Jersey and 
     <!-- http://purl.obolibrary.org/obo/GEO_000000272 -->
 
     <NamedIndividual rdf:about="&obo;GEO_000000272">
-        <rdf:type rdf:resource="&obo;geo.owl#GEO_000000151"/>
+        <rdf:type rdf:resource="&obo;GEO_000000372"/>
         <rdfs:label xml:lang="en">Western Sahara</rdfs:label>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">732</obo:GEO_000000023>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">EH</obo:GEO_000000023>
@@ -948,7 +948,7 @@ For the governmental organizations, see the separate individuals for Jersey and 
     <!-- http://purl.obolibrary.org/obo/GEO_000000327 -->
 
     <NamedIndividual rdf:about="&obo;GEO_000000327">
-        <rdf:type rdf:resource="&obo;geo.owl#GEO_000000390"/>
+        <rdf:type rdf:resource="&obo;GEO_000000390"/>
         <rdfs:label xml:lang="en">U.S. Minor Outlying Islands</rdfs:label>
         <obo:GEO_000000011 rdf:datatype="&xsd;string">01878752</obo:GEO_000000011>
         <obo:GEO_000000009 rdf:datatype="&xsd;string">74</obo:GEO_000000009>

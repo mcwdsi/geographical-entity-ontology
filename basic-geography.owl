@@ -40,9 +40,9 @@
     
 
 
-    <!-- http://purl.obolibrary.org/obo/geo.owl#GEO_000000151 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000000372 -->
 
-    <rdf:Description rdf:about="&obo;geo.owl#GEO_000000151">
+    <rdf:Description rdf:about="&obo;GEO_000000372">
         <obo:IAO_0000118 xml:lang="en">geographical location</obo:IAO_0000118>
     </rdf:Description>
     
@@ -62,7 +62,7 @@
     <!-- http://purl.obolibrary.org/obo/GEO_000000338 -->
 
     <owl:NamedIndividual rdf:about="&obo;GEO_000000338">
-        <rdf:type rdf:resource="&obo;geo.owl#GEO_000000189"/>
+        <rdf:type rdf:resource="&obo;GEO_000000374"/>
         <rdfs:label xml:lang="en">continent of North America</rdfs:label>
         <obo:IAO_0000118 xml:lang="en">North America</obo:IAO_0000118>
         <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
@@ -73,7 +73,7 @@
     <!-- http://purl.obolibrary.org/obo/GEO_000000339 -->
 
     <owl:NamedIndividual rdf:about="&obo;GEO_000000339">
-        <rdf:type rdf:resource="&obo;geo.owl#GEO_000000189"/>
+        <rdf:type rdf:resource="&obo;GEO_000000374"/>
         <rdfs:label xml:lang="en">continent of South America</rdfs:label>
         <obo:IAO_0000118 xml:lang="en">South America</obo:IAO_0000118>
         <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
@@ -84,7 +84,7 @@
     <!-- http://purl.obolibrary.org/obo/GEO_000000340 -->
 
     <owl:NamedIndividual rdf:about="&obo;GEO_000000340">
-        <rdf:type rdf:resource="&obo;geo.owl#GEO_000000189"/>
+        <rdf:type rdf:resource="&obo;GEO_000000374"/>
         <rdfs:label xml:lang="en">continent of Africa</rdfs:label>
         <obo:IAO_0000118 xml:lang="en">Africa</obo:IAO_0000118>
         <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
@@ -95,7 +95,7 @@
     <!-- http://purl.obolibrary.org/obo/GEO_000000341 -->
 
     <owl:NamedIndividual rdf:about="&obo;GEO_000000341">
-        <rdf:type rdf:resource="&obo;geo.owl#GEO_000000189"/>
+        <rdf:type rdf:resource="&obo;GEO_000000374"/>
         <rdfs:label xml:lang="en">continent of Asia</rdfs:label>
         <obo:IAO_0000118 xml:lang="en">Asia</obo:IAO_0000118>
         <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
@@ -106,7 +106,7 @@
     <!-- http://purl.obolibrary.org/obo/GEO_000000342 -->
 
     <owl:NamedIndividual rdf:about="&obo;GEO_000000342">
-        <rdf:type rdf:resource="&obo;geo.owl#GEO_000000189"/>
+        <rdf:type rdf:resource="&obo;GEO_000000374"/>
         <rdfs:label xml:lang="en">continent of Europe</rdfs:label>
         <obo:IAO_0000118 xml:lang="en">Europe</obo:IAO_0000118>
         <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
@@ -117,7 +117,7 @@
     <!-- http://purl.obolibrary.org/obo/GEO_000000343 -->
 
     <owl:NamedIndividual rdf:about="&obo;GEO_000000343">
-        <rdf:type rdf:resource="&obo;geo.owl#GEO_000000189"/>
+        <rdf:type rdf:resource="&obo;GEO_000000374"/>
         <rdfs:label xml:lang="en">continent of Australia</rdfs:label>
         <obo:IAO_0000118 xml:lang="en">Australia</obo:IAO_0000118>
         <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
@@ -128,7 +128,7 @@
     <!-- http://purl.obolibrary.org/obo/GEO_000000344 -->
 
     <owl:NamedIndividual rdf:about="&obo;GEO_000000344">
-        <rdf:type rdf:resource="&obo;geo.owl#GEO_000000189"/>
+        <rdf:type rdf:resource="&obo;GEO_000000374"/>
         <rdfs:label xml:lang="en">continent of Antarctica</rdfs:label>
         <obo:IAO_0000118 xml:lang="en">Antarctica</obo:IAO_0000118>
         <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
@@ -139,7 +139,7 @@
     <!-- http://purl.obolibrary.org/obo/GEO_000000345 -->
 
     <owl:NamedIndividual rdf:about="&obo;GEO_000000345">
-        <rdf:type rdf:resource="&obo;geo.owl#GEO_000000151"/>
+        <rdf:type rdf:resource="&obo;GEO_000000372"/>
         <rdfs:label xml:lang="en">region of entire Earth</rdfs:label>
         <rdfs:comment xml:lang="en">does not include the entire Earth, just the entire &quot;surface of the earth&quot; (scare quotes, not term indicators).  Some geology/geography ontology will need to define it well at some point, but as of now, I cannot find any good definitions.</rdfs:comment>
     </owl:NamedIndividual>
