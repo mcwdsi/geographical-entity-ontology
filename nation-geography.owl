@@ -18,7 +18,7 @@
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
      xmlns:obo="http://purl.obolibrary.org/obo/">
     <owl:Ontology rdf:about="&obo;geo/dev/nation-geography.owl">
-        <owl:imports rdf:resource="&obo;geo/dev/geo.owl"/>
+        <owl:imports rdf:resource="&obo;geo/dev/basic-geography.owl"/>
     </owl:Ontology>
     
 
@@ -54,6 +54,12 @@
     ///////////////////////////////////////////////////////////////////////////////////////
      -->
 
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000369 -->
+
+    <owl:Class rdf:about="&obo;GEO_000000369"/>
     
 
 
@@ -146,8 +152,11 @@
     <owl:NamedIndividual rdf:about="&obo;GEO_000000542">
         <rdf:type rdf:resource="&obo;GEO_000000372"/>
         <rdfs:label xml:lang="en">region of Guinea-Bissau</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">624</obo:GEO_000000021>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">GNB</obo:GEO_000000022>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">GW</obo:GEO_000000023>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000340"/>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000729"/>
     </owl:NamedIndividual>
     
 
@@ -190,8 +199,11 @@
     <owl:NamedIndividual rdf:about="&obo;GEO_000000546">
         <rdf:type rdf:resource="&obo;GEO_000000372"/>
         <rdfs:label xml:lang="en">region of Togo</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">768</obo:GEO_000000021>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">TG</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">TGO</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000340"/>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000729"/>
     </owl:NamedIndividual>
     
 
@@ -201,8 +213,11 @@
     <owl:NamedIndividual rdf:about="&obo;GEO_000000547">
         <rdf:type rdf:resource="&obo;GEO_000000372"/>
         <rdfs:label xml:lang="en">region of Guinea</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">324</obo:GEO_000000021>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">GIN</obo:GEO_000000022>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">GN</obo:GEO_000000023>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000340"/>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000729"/>
     </owl:NamedIndividual>
     
 
@@ -740,8 +755,11 @@
     <owl:NamedIndividual rdf:about="&obo;GEO_000000596">
         <rdf:type rdf:resource="&obo;GEO_000000372"/>
         <rdfs:label xml:lang="en">region of Liberia</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">430</obo:GEO_000000021>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">LBR</obo:GEO_000000022>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">LR</obo:GEO_000000023>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000340"/>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000729"/>
     </owl:NamedIndividual>
     
 
@@ -894,8 +912,11 @@
     <owl:NamedIndividual rdf:about="&obo;GEO_000000610">
         <rdf:type rdf:resource="&obo;GEO_000000372"/>
         <rdfs:label xml:lang="en">region of Benin</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">204</obo:GEO_000000021>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">BEN</obo:GEO_000000022>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">BJ</obo:GEO_000000023>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000340"/>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000729"/>
     </owl:NamedIndividual>
     
 
@@ -1070,8 +1091,11 @@
     <owl:NamedIndividual rdf:about="&obo;GEO_000000626">
         <rdf:type rdf:resource="&obo;GEO_000000372"/>
         <rdfs:label xml:lang="en">region of Mauritania</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">478</obo:GEO_000000021>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">MR</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">MRT</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000340"/>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000729"/>
     </owl:NamedIndividual>
     
 
@@ -1268,8 +1292,11 @@
     <owl:NamedIndividual rdf:about="&obo;GEO_000000644">
         <rdf:type rdf:resource="&obo;GEO_000000372"/>
         <rdfs:label xml:lang="en">region of Burkina Faso</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">854</obo:GEO_000000021>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">BF</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">BFA</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000340"/>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000729"/>
     </owl:NamedIndividual>
     
 
@@ -1301,8 +1328,11 @@
     <owl:NamedIndividual rdf:about="&obo;GEO_000000647">
         <rdf:type rdf:resource="&obo;GEO_000000372"/>
         <rdfs:label xml:lang="en">region of Niger</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">562</obo:GEO_000000021>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">NE</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">NER</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000340"/>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000729"/>
     </owl:NamedIndividual>
     
 
@@ -1388,9 +1418,13 @@
 
     <owl:NamedIndividual rdf:about="&obo;GEO_000000655">
         <rdf:type rdf:resource="&obo;GEO_000000372"/>
-        <rdfs:label xml:lang="en">region of Cape Verde</rdfs:label>
+        <rdfs:label xml:lang="en">region of Cabo Verde</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">132</obo:GEO_000000021>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">CPV</obo:GEO_000000022>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">CV</obo:GEO_000000023>
+        <obo:IAO_0000118 xml:lang="en">region of Cape Verde</obo:IAO_0000118>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000340"/>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000729"/>
     </owl:NamedIndividual>
     
 
@@ -1400,8 +1434,11 @@
     <owl:NamedIndividual rdf:about="&obo;GEO_000000656">
         <rdf:type rdf:resource="&obo;GEO_000000372"/>
         <rdfs:label xml:lang="en">region of Nigeria</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">566</obo:GEO_000000021>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">NG</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">NGA</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000340"/>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000729"/>
     </owl:NamedIndividual>
     
 
@@ -1576,8 +1613,11 @@
     <owl:NamedIndividual rdf:about="&obo;GEO_000000672">
         <rdf:type rdf:resource="&obo;GEO_000000372"/>
         <rdfs:label xml:lang="en">region of Côte d&apos;Ivoire</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">384</obo:GEO_000000021>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">CI</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">CIV</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000340"/>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000729"/>
     </owl:NamedIndividual>
     
 
@@ -1886,6 +1926,7 @@
         <rdfs:label xml:lang="en">region of Romania</rdfs:label>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">RO</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">ROU</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000342"/>
     </owl:NamedIndividual>
     
 
@@ -1919,6 +1960,7 @@
         <rdfs:label xml:lang="en">region of Serbia</rdfs:label>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">RS</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">SRB</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000342"/>
     </owl:NamedIndividual>
     
 
@@ -1939,8 +1981,11 @@
     <owl:NamedIndividual rdf:about="&obo;GEO_000000705">
         <rdf:type rdf:resource="&obo;GEO_000000372"/>
         <rdfs:label xml:lang="en">region of Senegal</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">686</obo:GEO_000000021>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">SEN</obo:GEO_000000022>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">SN</obo:GEO_000000023>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000340"/>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000729"/>
     </owl:NamedIndividual>
     
 
@@ -1994,8 +2039,11 @@
     <owl:NamedIndividual rdf:about="&obo;GEO_000000710">
         <rdf:type rdf:resource="&obo;GEO_000000372"/>
         <rdfs:label xml:lang="en">region of Sierra Leone</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">694</obo:GEO_000000021>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">SL</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">SLE</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000340"/>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000729"/>
     </owl:NamedIndividual>
     
 
@@ -2051,6 +2099,7 @@
         <rdfs:label xml:lang="en">region of Greece</rdfs:label>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">GR</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">GRC</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000342"/>
     </owl:NamedIndividual>
     
 
@@ -2073,6 +2122,7 @@
         <rdfs:label xml:lang="en">region of Spain</rdfs:label>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">ES</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">ESP</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000342"/>
     </owl:NamedIndividual>
     
 
@@ -2082,8 +2132,11 @@
     <owl:NamedIndividual rdf:about="&obo;GEO_000000718">
         <rdf:type rdf:resource="&obo;GEO_000000372"/>
         <rdfs:label xml:lang="en">region of Ghana</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">288</obo:GEO_000000021>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">GH</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">GHA</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000340"/>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000729"/>
     </owl:NamedIndividual>
     
 
@@ -2170,8 +2223,11 @@
     <owl:NamedIndividual rdf:about="&obo;GEO_000000726">
         <rdf:type rdf:resource="&obo;GEO_000000372"/>
         <rdfs:label xml:lang="en">region of Gambia</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">270</obo:GEO_000000021>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">GM</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">GMB</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000340"/>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000729"/>
     </owl:NamedIndividual>
     
 
@@ -2194,6 +2250,16 @@
         <rdfs:label xml:lang="en">region of Slovakia</rdfs:label>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">SK</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">SVK</obo:GEO_000000022>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000729 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000729">
+        <rdf:type rdf:resource="&obo;GEO_000000372"/>
+        <rdfs:label xml:lang="en">UN Western Africa geographical region</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">011</obo:GEO_000000021>
     </owl:NamedIndividual>
 </rdf:RDF>
 
