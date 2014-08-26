@@ -92,18 +92,6 @@
     
 
 
-    <!-- http://purl.obolibrary.org/obo/GEO_000000731 -->
-
-    <owl:NamedIndividual rdf:about="&obo;GEO_000000731">
-        <rdf:type rdf:resource="&obo;GEO_000000372"/>
-        <rdfs:label xml:lang="en">region of Puerto Rico</rdfs:label>
-        <obo:GEO_000000021 rdf:datatype="&xsd;string">630</obo:GEO_000000021>
-        <obo:GEO_000000023 rdf:datatype="&xsd;string">PR</obo:GEO_000000023>
-        <obo:GEO_000000022 rdf:datatype="&xsd;string">PRI</obo:GEO_000000022>
-    </owl:NamedIndividual>
-    
-
-
     <!-- http://purl.obolibrary.org/obo/GEO_000000732 -->
 
     <owl:NamedIndividual rdf:about="&obo;GEO_000000732">
@@ -356,18 +344,6 @@
     
 
 
-    <!-- http://purl.obolibrary.org/obo/GEO_000000753 -->
-
-    <owl:NamedIndividual rdf:about="&obo;GEO_000000753">
-        <rdf:type rdf:resource="&obo;GEO_000000372"/>
-        <rdfs:label xml:lang="en">region of American Samoa</rdfs:label>
-        <obo:GEO_000000021 rdf:datatype="&xsd;string">016</obo:GEO_000000021>
-        <obo:GEO_000000023 rdf:datatype="&xsd;string">AS</obo:GEO_000000023>
-        <obo:GEO_000000022 rdf:datatype="&xsd;string">ASM</obo:GEO_000000022>
-    </owl:NamedIndividual>
-    
-
-
     <!-- http://purl.obolibrary.org/obo/GEO_000000754 -->
 
     <owl:NamedIndividual rdf:about="&obo;GEO_000000754">
@@ -400,19 +376,6 @@
         <obo:GEO_000000021 rdf:datatype="&xsd;string">574</obo:GEO_000000021>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">NF</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">NFK</obo:GEO_000000022>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://purl.obolibrary.org/obo/GEO_000000757 -->
-
-    <owl:NamedIndividual rdf:about="&obo;GEO_000000757">
-        <rdf:type rdf:resource="&obo;GEO_000000372"/>
-        <rdfs:label xml:lang="en">region of U.S. Virgin Islands</rdfs:label>
-        <rdfs:label xml:lang="en">region of United States Virgin Islands</rdfs:label>
-        <obo:GEO_000000021 rdf:datatype="&xsd;string">850</obo:GEO_000000021>
-        <obo:GEO_000000023 rdf:datatype="&xsd;string">VI</obo:GEO_000000023>
-        <obo:GEO_000000022 rdf:datatype="&xsd;string">VIR</obo:GEO_000000022>
     </owl:NamedIndividual>
     
 
@@ -453,18 +416,6 @@
     
 
 
-    <!-- http://purl.obolibrary.org/obo/GEO_000000761 -->
-
-    <owl:NamedIndividual rdf:about="&obo;GEO_000000761">
-        <rdf:type rdf:resource="&obo;GEO_000000372"/>
-        <rdfs:label xml:lang="en">region of Northern Mariana Islands</rdfs:label>
-        <obo:GEO_000000021 rdf:datatype="&xsd;string">580</obo:GEO_000000021>
-        <obo:GEO_000000022 rdf:datatype="&xsd;string">MNP</obo:GEO_000000022>
-        <obo:GEO_000000023 rdf:datatype="&xsd;string">MP</obo:GEO_000000023>
-    </owl:NamedIndividual>
-    
-
-
     <!-- http://purl.obolibrary.org/obo/GEO_000000762 -->
 
     <owl:NamedIndividual rdf:about="&obo;GEO_000000762">
@@ -497,18 +448,6 @@
         <obo:GEO_000000021 rdf:datatype="&xsd;string">292</obo:GEO_000000021>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">GI</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">GIB</obo:GEO_000000022>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://purl.obolibrary.org/obo/GEO_000000765 -->
-
-    <owl:NamedIndividual rdf:about="&obo;GEO_000000765">
-        <rdf:type rdf:resource="&obo;GEO_000000372"/>
-        <rdfs:label xml:lang="en">region of Guam</rdfs:label>
-        <obo:GEO_000000021 rdf:datatype="&xsd;string">316</obo:GEO_000000021>
-        <obo:GEO_000000023 rdf:datatype="&xsd;string">GU</obo:GEO_000000023>
-        <obo:GEO_000000022 rdf:datatype="&xsd;string">GUM</obo:GEO_000000022>
     </owl:NamedIndividual>
     
 
@@ -637,6 +576,79 @@
         <obo:BFO_0000137 rdf:resource="&obo;GEO_000000729"/>
         <obo:GEO_000000328 rdf:resource="&obo;GEO_000000737"/>
         <obo:GEO_000000328 rdf:resource="&obo;GEO_000000775"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000777 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000777">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">Inaccessible Island</rdfs:label>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000729"/>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000737"/>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000775"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000778 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000778">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">Gough Island</rdfs:label>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000729"/>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000737"/>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000775"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000779 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000779">
+        <rdf:type rdf:resource="&obo;GEO_000000390"/>
+        <rdfs:label xml:lang="en">Nightingale Islands</rdfs:label>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000737"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000780 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000780">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">Nightingale Island</rdfs:label>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000729"/>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000737"/>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000775"/>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000779"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000781 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000781">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">Middle Island</rdfs:label>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000729"/>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000737"/>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000775"/>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000779"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000782 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000782">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">Stoltenhoff Island</rdfs:label>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000729"/>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000737"/>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000775"/>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000779"/>
     </owl:NamedIndividual>
 </rdf:RDF>
 
