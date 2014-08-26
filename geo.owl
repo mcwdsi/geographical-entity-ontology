@@ -516,6 +516,10 @@
         <ObjectProperty abbreviatedIRI="obo:BFO_0000075"/>
         <ObjectProperty abbreviatedIRI="obo:GEO_000000328"/>
     </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty abbreviatedIRI="obo:BFO_0000137"/>
+        <ObjectProperty abbreviatedIRI="obo:BFO_0000187"/>
+    </InverseObjectProperties>
     <AsymmetricObjectProperty>
         <ObjectProperty abbreviatedIRI="obo:GEO_000000336"/>
     </AsymmetricObjectProperty>
