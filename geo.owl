@@ -24,7 +24,7 @@
     <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
     <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
     <Prefix name="oboInOwl" IRI="http://www.geneontology.org/formats/oboInOwl#"/>
-    <Import>http://www.ifomis.org/bfo/1.1/</Import>
+    <Import>http://www.ifomis.org/bfo/1.1</Import>
     <Import>http://purl.obolibrary.org/obo/iao/ontology-metadata.owl</Import>
     <Annotation>
         <AnnotationProperty abbreviatedIRI="dc:creator"/>
