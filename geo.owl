@@ -19,6 +19,7 @@
      xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#"
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+<<<<<<< HEAD
      xmlns:obo="http://purl.obolibrary.org/obo/"
      xmlns:dc="http://purl.org/dc/elements/1.1/">
     <Ontology rdf:about="&obo;geo/dev/geo.owl">
@@ -30,7 +31,7 @@
         <versionInfo xml:lang="en">development version 2014-07-15</versionInfo>
         <dc:license xml:lang="en">https://creativecommons.org/licenses/by/3.0/</dc:license>
         <imports rdf:resource="&obo;iao/ontology-metadata.owl"/>
-        <imports rdf:resource="http://www.ifomis.org/bfo/1.1/"/>
+        <imports rdf:resource="http://www.ifomis.org/bfo/1.1"/>
     </Ontology>
     
 
@@ -364,6 +365,1141 @@
         <rdfs:label xml:lang="en">is subordinate authority of</rdfs:label>
         <obo:IAO_0000115 xml:lang="en">A governing organization G1 is subordinate to another governing organization G2 iff there is some authority possessed by G2 that is not possessed by G1 and G1&apos;s jurisdiction falls within the relevant jurisdiction of G2.</obo:IAO_0000115>
         <rdfs:comment xml:lang="en">From the Confluence page that proposed it:
+=======
+     ontologyIRI="http://purl.obolibrary.org/obo/geo/dev/geo.owl">
+    <Prefix name="" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="dc" IRI="http://purl.org/dc/elements/1.1/"/>
+    <Prefix name="obo" IRI="http://purl.obolibrary.org/obo/"/>
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Prefix name="oboInOwl" IRI="http://www.geneontology.org/formats/oboInOwl#"/>
+    <Import>http://www.ifomis.org/bfo/1.1</Import>
+    <Import>http://purl.obolibrary.org/obo/iao/ontology-metadata.owl</Import>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="dc:creator"/>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">William R. Hogan</Literal>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="owl:versionInfo"/>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">development version 2014-07-15</Literal>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="dc:title"/>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">Geographical Entity Ontology</Literal>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="dc:license"/>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">https://creativecommons.org/licenses/by/3.0/</Literal>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="dc:contributor"/>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">Katrina M. Donovan</Literal>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="dc:contributor"/>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">Amanda Hicks</Literal>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="dc:contributor"/>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">Mathias Brochhausen</Literal>
+    </Annotation>
+    <Declaration>
+        <Class abbreviatedIRI="obo:GEO_000000001"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="obo:GEO_000000002"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="obo:GEO_000000003"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="obo:GEO_000000004"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="obo:GEO_000000005"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="obo:GEO_000000006"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="obo:GEO_000000007"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="obo:GEO_000000008"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="obo:GEO_000000334"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="obo:GEO_000000335"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="obo:GEO_000000337"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="obo:GEO_000000357"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="obo:GEO_000000369"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="obo:GEO_000000370"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="obo:GEO_000000371"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="obo:GEO_000000372"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="obo:GEO_000000373"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="obo:GEO_000000374"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="obo:GEO_000000375"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="obo:GEO_000000376"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="obo:GEO_000000377"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="obo:GEO_000000378"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="obo:GEO_000000390"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="obo:GEO_000000391"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="obo:GEO_000000392"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="obo:GEO_000000393"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="obo:GEO_000000395"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="obo:GEO_000000396"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="obo:GEO_000000400"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="obo:GEO_000000401"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="obo:GEO_000000402"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="obo:GEO_000000403"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="obo:GEO_000000404"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="obo:OBI_0000245"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="obo:geo.owl/GEO_000000399"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="oboInOwl:ObsoleteClass"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty abbreviatedIRI="obo:BFO_0000075"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty abbreviatedIRI="obo:BFO_0000110"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty abbreviatedIRI="obo:BFO_0000111"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty abbreviatedIRI="obo:BFO_0000137"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty abbreviatedIRI="obo:BFO_0000177"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty abbreviatedIRI="obo:BFO_0000187"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty abbreviatedIRI="obo:GEO_000000328"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty abbreviatedIRI="obo:GEO_000000329"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty abbreviatedIRI="obo:GEO_000000336"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="obo:GEO_000000009"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="obo:GEO_000000010"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="obo:GEO_000000011"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="obo:GEO_000000021"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="obo:GEO_000000022"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="obo:GEO_000000023"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="obo:GEO_000000358"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="obo:GEO_000000359"/>
+    </Declaration>
+    <EquivalentClasses>
+        <Class abbreviatedIRI="obo:GEO_000000002"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty abbreviatedIRI="obo:BFO_0000075"/>
+            <ObjectUnionOf>
+                <Class abbreviatedIRI="obo:GEO_000000391"/>
+                <Class abbreviatedIRI="obo:GEO_000000400"/>
+            </ObjectUnionOf>
+        </ObjectSomeValuesFrom>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class abbreviatedIRI="obo:GEO_000000004"/>
+        <ObjectIntersectionOf>
+            <Class abbreviatedIRI="obo:GEO_000000400"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty abbreviatedIRI="obo:GEO_000000329"/>
+                <Class abbreviatedIRI="obo:GEO_000000396"/>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class abbreviatedIRI="obo:GEO_000000007"/>
+        <ObjectIntersectionOf>
+            <ObjectComplementOf>
+                <Class abbreviatedIRI="obo:GEO_000000005"/>
+            </ObjectComplementOf>
+            <ObjectAllValuesFrom>
+                <ObjectProperty abbreviatedIRI="obo:BFO_0000075"/>
+                <Class abbreviatedIRI="obo:GEO_000000005"/>
+            </ObjectAllValuesFrom>
+            <ObjectMinCardinality cardinality="2">
+                <ObjectProperty abbreviatedIRI="obo:BFO_0000075"/>
+                <Class abbreviatedIRI="obo:GEO_000000005"/>
+            </ObjectMinCardinality>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class abbreviatedIRI="obo:GEO_000000008"/>
+        <ObjectIntersectionOf>
+            <ObjectComplementOf>
+                <Class abbreviatedIRI="obo:GEO_000000006"/>
+            </ObjectComplementOf>
+            <ObjectAllValuesFrom>
+                <ObjectProperty abbreviatedIRI="obo:BFO_0000075"/>
+                <Class abbreviatedIRI="obo:GEO_000000006"/>
+            </ObjectAllValuesFrom>
+            <ObjectMinCardinality cardinality="2">
+                <ObjectProperty abbreviatedIRI="obo:BFO_0000075"/>
+                <Class abbreviatedIRI="obo:GEO_000000006"/>
+            </ObjectMinCardinality>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class abbreviatedIRI="obo:GEO_000000337"/>
+        <ObjectIntersectionOf>
+            <ObjectComplementOf>
+                <Class abbreviatedIRI="obo:GEO_000000400"/>
+            </ObjectComplementOf>
+            <ObjectAllValuesFrom>
+                <ObjectProperty abbreviatedIRI="obo:BFO_0000075"/>
+                <Class abbreviatedIRI="obo:GEO_000000400"/>
+            </ObjectAllValuesFrom>
+            <ObjectMinCardinality cardinality="2">
+                <ObjectProperty abbreviatedIRI="obo:BFO_0000075"/>
+                <Class abbreviatedIRI="obo:GEO_000000400"/>
+            </ObjectMinCardinality>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class abbreviatedIRI="obo:GEO_000000369"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty abbreviatedIRI="obo:BFO_0000075"/>
+            <Class abbreviatedIRI="obo:GEO_000000375"/>
+        </ObjectSomeValuesFrom>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class abbreviatedIRI="obo:GEO_000000377"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty abbreviatedIRI="obo:BFO_0000075"/>
+            <Class abbreviatedIRI="obo:GEO_000000370"/>
+        </ObjectSomeValuesFrom>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class abbreviatedIRI="obo:GEO_000000378"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty abbreviatedIRI="obo:BFO_0000075"/>
+            <Class abbreviatedIRI="obo:GEO_000000371"/>
+        </ObjectSomeValuesFrom>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class abbreviatedIRI="obo:GEO_000000390"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty abbreviatedIRI="obo:BFO_0000075"/>
+            <Class abbreviatedIRI="obo:GEO_000000376"/>
+        </ObjectSomeValuesFrom>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class abbreviatedIRI="obo:GEO_000000401"/>
+        <ObjectIntersectionOf>
+            <ObjectComplementOf>
+                <Class abbreviatedIRI="obo:GEO_000000391"/>
+            </ObjectComplementOf>
+            <ObjectAllValuesFrom>
+                <ObjectProperty abbreviatedIRI="obo:BFO_0000075"/>
+                <Class abbreviatedIRI="obo:GEO_000000391"/>
+            </ObjectAllValuesFrom>
+            <ObjectMinCardinality cardinality="2">
+                <ObjectProperty abbreviatedIRI="obo:BFO_0000075"/>
+                <Class abbreviatedIRI="obo:GEO_000000391"/>
+            </ObjectMinCardinality>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class abbreviatedIRI="obo:GEO_000000404"/>
+        <ObjectIntersectionOf>
+            <ObjectComplementOf>
+                <Class abbreviatedIRI="obo:GEO_000000396"/>
+            </ObjectComplementOf>
+            <ObjectAllValuesFrom>
+                <ObjectProperty abbreviatedIRI="obo:BFO_0000075"/>
+                <Class abbreviatedIRI="obo:GEO_000000396"/>
+            </ObjectAllValuesFrom>
+            <ObjectMinCardinality cardinality="2">
+                <ObjectProperty abbreviatedIRI="obo:BFO_0000075"/>
+                <Class abbreviatedIRI="obo:GEO_000000396"/>
+            </ObjectMinCardinality>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <SubClassOf>
+        <Class abbreviatedIRI="obo:GEO_000000001"/>
+        <Class abbreviatedIRI="oboInOwl:ObsoleteClass"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class abbreviatedIRI="obo:GEO_000000002"/>
+        <Class IRI="http://www.ifomis.org/bfo/1.1/snap#IndependentContinuant"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class abbreviatedIRI="obo:GEO_000000003"/>
+        <Class abbreviatedIRI="oboInOwl:ObsoleteClass"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class abbreviatedIRI="obo:GEO_000000004"/>
+        <Class abbreviatedIRI="obo:GEO_000000400"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class abbreviatedIRI="obo:GEO_000000005"/>
+        <Class abbreviatedIRI="obo:GEO_000000004"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class abbreviatedIRI="obo:GEO_000000006"/>
+        <Class abbreviatedIRI="obo:GEO_000000004"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class abbreviatedIRI="obo:GEO_000000007"/>
+        <Class abbreviatedIRI="obo:GEO_000000337"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class abbreviatedIRI="obo:GEO_000000008"/>
+        <Class abbreviatedIRI="obo:GEO_000000337"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class abbreviatedIRI="obo:GEO_000000334"/>
+        <Class abbreviatedIRI="obo:GEO_000000375"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class abbreviatedIRI="obo:GEO_000000334"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty abbreviatedIRI="obo:BFO_0000137"/>
+            <Class abbreviatedIRI="obo:GEO_000000374"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class abbreviatedIRI="obo:GEO_000000335"/>
+        <Class abbreviatedIRI="obo:GEO_000000334"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class abbreviatedIRI="obo:GEO_000000337"/>
+        <Class IRI="http://www.ifomis.org/bfo/1.1/snap#IndependentContinuant"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class abbreviatedIRI="obo:GEO_000000357"/>
+        <Class abbreviatedIRI="obo:GEO_000000334"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class abbreviatedIRI="obo:GEO_000000369"/>
+        <Class abbreviatedIRI="obo:GEO_000000378"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class abbreviatedIRI="obo:GEO_000000370"/>
+        <Class IRI="http://www.ifomis.org/bfo/1.1/snap#Object"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class abbreviatedIRI="obo:GEO_000000371"/>
+        <Class abbreviatedIRI="obo:GEO_000000370"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class abbreviatedIRI="obo:GEO_000000372"/>
+        <Class abbreviatedIRI="obo:GEO_000000370"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class abbreviatedIRI="obo:GEO_000000373"/>
+        <Class abbreviatedIRI="obo:GEO_000000372"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class abbreviatedIRI="obo:GEO_000000374"/>
+        <Class abbreviatedIRI="obo:GEO_000000375"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class abbreviatedIRI="obo:GEO_000000375"/>
+        <Class abbreviatedIRI="obo:GEO_000000372"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class abbreviatedIRI="obo:GEO_000000376"/>
+        <Class abbreviatedIRI="obo:GEO_000000334"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class abbreviatedIRI="obo:GEO_000000377"/>
+        <Class IRI="http://www.ifomis.org/bfo/1.1/snap#ObjectAggregate"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class abbreviatedIRI="obo:GEO_000000378"/>
+        <Class abbreviatedIRI="obo:GEO_000000377"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class abbreviatedIRI="obo:GEO_000000390"/>
+        <Class abbreviatedIRI="obo:GEO_000000369"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class abbreviatedIRI="obo:GEO_000000391"/>
+        <Class abbreviatedIRI="obo:OBI_0000245"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class abbreviatedIRI="obo:GEO_000000392"/>
+        <Class abbreviatedIRI="obo:GEO_000000391"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class abbreviatedIRI="obo:GEO_000000393"/>
+        <Class abbreviatedIRI="obo:GEO_000000391"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class abbreviatedIRI="obo:GEO_000000395"/>
+        <Class abbreviatedIRI="obo:GEO_000000391"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class abbreviatedIRI="obo:GEO_000000396"/>
+        <Class abbreviatedIRI="obo:GEO_000000400"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class abbreviatedIRI="obo:GEO_000000400"/>
+        <Class abbreviatedIRI="obo:OBI_0000245"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class abbreviatedIRI="obo:GEO_000000401"/>
+        <Class IRI="http://www.ifomis.org/bfo/1.1/snap#IndependentContinuant"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class abbreviatedIRI="obo:GEO_000000402"/>
+        <Class abbreviatedIRI="obo:GEO_000000337"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class abbreviatedIRI="obo:GEO_000000403"/>
+        <Class abbreviatedIRI="obo:GEO_000000337"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class abbreviatedIRI="obo:GEO_000000404"/>
+        <Class abbreviatedIRI="obo:GEO_000000337"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class abbreviatedIRI="obo:OBI_0000245"/>
+        <Class IRI="http://www.ifomis.org/bfo/1.1/snap#IndependentContinuant"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class abbreviatedIRI="obo:geo.owl/GEO_000000399"/>
+        <Class abbreviatedIRI="obo:GEO_000000400"/>
+    </SubClassOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty abbreviatedIRI="obo:BFO_0000075"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty abbreviatedIRI="obo:BFO_0000110"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty abbreviatedIRI="obo:BFO_0000111"/>
+        <ObjectProperty abbreviatedIRI="obo:BFO_0000110"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty abbreviatedIRI="obo:BFO_0000137"/>
+        <ObjectProperty abbreviatedIRI="obo:BFO_0000177"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty abbreviatedIRI="obo:BFO_0000177"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty abbreviatedIRI="obo:BFO_0000187"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <InverseObjectProperties>
+        <ObjectProperty abbreviatedIRI="obo:BFO_0000075"/>
+        <ObjectProperty abbreviatedIRI="obo:GEO_000000328"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty abbreviatedIRI="obo:BFO_0000137"/>
+        <ObjectProperty abbreviatedIRI="obo:BFO_0000187"/>
+    </InverseObjectProperties>
+    <AsymmetricObjectProperty>
+        <ObjectProperty abbreviatedIRI="obo:GEO_000000336"/>
+    </AsymmetricObjectProperty>
+    <TransitiveObjectProperty>
+        <ObjectProperty abbreviatedIRI="obo:BFO_0000137"/>
+    </TransitiveObjectProperty>
+    <TransitiveObjectProperty>
+        <ObjectProperty abbreviatedIRI="obo:BFO_0000177"/>
+    </TransitiveObjectProperty>
+    <ReflexiveObjectProperty>
+        <ObjectProperty abbreviatedIRI="obo:BFO_0000177"/>
+    </ReflexiveObjectProperty>
+    <IrreflexiveObjectProperty>
+        <ObjectProperty abbreviatedIRI="obo:GEO_000000329"/>
+    </IrreflexiveObjectProperty>
+    <IrreflexiveObjectProperty>
+        <ObjectProperty abbreviatedIRI="obo:GEO_000000336"/>
+    </IrreflexiveObjectProperty>
+    <ObjectPropertyDomain>
+        <ObjectProperty abbreviatedIRI="obo:GEO_000000329"/>
+        <Class abbreviatedIRI="obo:GEO_000000400"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty abbreviatedIRI="obo:GEO_000000336"/>
+        <Class abbreviatedIRI="obo:GEO_000000400"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty abbreviatedIRI="obo:GEO_000000329"/>
+        <Class abbreviatedIRI="obo:GEO_000000400"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty abbreviatedIRI="obo:GEO_000000336"/>
+        <Class abbreviatedIRI="obo:GEO_000000375"/>
+    </ObjectPropertyRange>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000118"/>
+        <AbbreviatedIRI>obo:BFO_0000075</AbbreviatedIRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">aggregate of</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000118"/>
+        <AbbreviatedIRI>obo:BFO_0000075</AbbreviatedIRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">aggregate_of</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000412"/>
+        <AbbreviatedIRI>obo:BFO_0000075</AbbreviatedIRI>
+        <Literal datatypeIRI="&xsd;string">http://purl.obolibrary.org/obo/omrse.owl</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>obo:BFO_0000075</AbbreviatedIRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">is aggregate of</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:BFO_0000179"/>
+        <AbbreviatedIRI>obo:BFO_0000110</AbbreviatedIRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">c-has-part_at</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:BFO_0000180"/>
+        <AbbreviatedIRI>obo:BFO_0000110</AbbreviatedIRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">hasContinuantPartAt</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000115"/>
+        <AbbreviatedIRI>obo:BFO_0000110</AbbreviatedIRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">[copied from inverse property &apos;part of continuant at all times that whole exists&apos;] forall(t) exists_at(y,t) -&gt; exists_at(x,t) and &apos;part of continuant&apos;(x,y,t)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000115"/>
+        <AbbreviatedIRI>obo:BFO_0000110</AbbreviatedIRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">b has_continuant_part c at t = Def. c continuant_part_of b at t. (axiom label in BFO2 Reference: [006-001])</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000116"/>
+        <AbbreviatedIRI>obo:BFO_0000110</AbbreviatedIRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">Alan Ruttenberg: This is a binary version of a ternary time-indexed, instance-level, relation. The BFO reading of the binary relation &apos;has continuant part at all times@en&apos; is: forall(t) exists_at(x,t) -&gt; exists_at(y,t) and &apos;has continuant part@en(x,y,t)&apos;.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000116"/>
+        <AbbreviatedIRI>obo:BFO_0000110</AbbreviatedIRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">[copied from inverse property &apos;part of continuant at all times that whole exists&apos;] This is a binary version of a ternary time-indexed, instance level, relation. Unlike the rest of the temporalized relations which temporally quantify over existence of the subject of the relation, this relation temporally quantifies over the existence of the object of the relation. The relation is provided tentatively, to assess whether the GO needs such a relation. It is inverse of &apos;has continuant part at all times&apos;</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000412"/>
+        <AbbreviatedIRI>obo:BFO_0000110</AbbreviatedIRI>
+        <Literal datatypeIRI="&xsd;string">http://purl.obolibrary.org/obo/bfo.owl</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000602"/>
+        <AbbreviatedIRI>obo:BFO_0000110</AbbreviatedIRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">(iff (hasContinuantPartAt a b t) (continuantPartOfAt b a t)) // axiom label in BFO2 CLIF: [006-001] </Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <AbbreviatedIRI>obo:BFO_0000110</AbbreviatedIRI>
+        <AbbreviatedIRI>obo:bfo.owl</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>obo:BFO_0000110</AbbreviatedIRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">has continuant part at all times</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:BFO_0000179"/>
+        <AbbreviatedIRI>obo:BFO_0000111</AbbreviatedIRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">c-has-ppart_at</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:BFO_0000180"/>
+        <AbbreviatedIRI>obo:BFO_0000111</AbbreviatedIRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">hasProperContinuantPartAt</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000115"/>
+        <AbbreviatedIRI>obo:BFO_0000111</AbbreviatedIRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">b has_proper_continuant_part c at t = Def. c proper_continuant_part_of b at t. [XXX-001</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000116"/>
+        <AbbreviatedIRI>obo:BFO_0000111</AbbreviatedIRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">Alan Ruttenberg: This is a binary version of a ternary time-indexed, instance-level, relation. The BFO reading of the binary relation &apos;has proper continuant part at all times@en&apos; is: forall(t) exists_at(x,t) -&gt; exists_at(y,t) and &apos;has proper continuant part@en(x,y,t)&apos;.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000412"/>
+        <AbbreviatedIRI>obo:BFO_0000111</AbbreviatedIRI>
+        <Literal datatypeIRI="&xsd;string">http://purl.obolibrary.org/obo/bfo.owl</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <AbbreviatedIRI>obo:BFO_0000111</AbbreviatedIRI>
+        <AbbreviatedIRI>obo:bfo.owl</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>obo:BFO_0000111</AbbreviatedIRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">has proper continuant part at all times</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:BFO_0000179"/>
+        <AbbreviatedIRI>obo:BFO_0000137</AbbreviatedIRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">c-ppart-of_at</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:BFO_0000180"/>
+        <AbbreviatedIRI>obo:BFO_0000137</AbbreviatedIRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">properContinuantPartOfAt</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000115"/>
+        <AbbreviatedIRI>obo:BFO_0000137</AbbreviatedIRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">b proper_continuant_part_of c at t =Def. b continuant_part_of c at t  &amp; b and c are not identical. (axiom label in BFO2 Reference: [004-001])</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000116"/>
+        <AbbreviatedIRI>obo:BFO_0000137</AbbreviatedIRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">Alan Ruttenberg: This is a binary version of a ternary time-indexed, instance-level, relation. The BFO reading of the binary relation &apos;proper part of continuant at all times@en&apos; is: forall(t) exists_at(x,t) -&gt; exists_at(y,t) and &apos;proper part of continuant@en(x,y,t)&apos;.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000412"/>
+        <AbbreviatedIRI>obo:BFO_0000137</AbbreviatedIRI>
+        <Literal datatypeIRI="&xsd;string">http://purl.obolibrary.org/obo/bfo.owl</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000602"/>
+        <AbbreviatedIRI>obo:BFO_0000137</AbbreviatedIRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">(iff (properContinuantPartOfAt a b t) (and (continuantPartOfAt a b t) (not (= a b)))) // axiom label in BFO2 CLIF: [004-001] </Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <AbbreviatedIRI>obo:BFO_0000137</AbbreviatedIRI>
+        <AbbreviatedIRI>obo:bfo.owl</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>obo:BFO_0000137</AbbreviatedIRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">proper part of continuant at all times</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:BFO_0000179"/>
+        <AbbreviatedIRI>obo:BFO_0000177</AbbreviatedIRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">c-part-of_at</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:BFO_0000180"/>
+        <AbbreviatedIRI>obo:BFO_0000177</AbbreviatedIRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">continuantPartOfAt</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000112"/>
+        <AbbreviatedIRI>obo:BFO_0000177</AbbreviatedIRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">Mary’s arm continuant_part_of Mary in the time of her life prior to her operation</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000112"/>
+        <AbbreviatedIRI>obo:BFO_0000177</AbbreviatedIRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">the Northern hemisphere of the planet Earth is a part of the planet Earth at all times at which the planet Earth exists.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000115"/>
+        <AbbreviatedIRI>obo:BFO_0000177</AbbreviatedIRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">[copied from inverse property &apos;has continuant part at all times that part exists&apos;] forall(t) exists_at(y,t) -&gt; exists_at(x,t) and &apos;has continuant part&apos;(x,y,t)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000116"/>
+        <AbbreviatedIRI>obo:BFO_0000177</AbbreviatedIRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">Alan Ruttenberg: This is a binary version of a ternary time-indexed, instance-level, relation. The BFO reading of the binary relation &apos;part of continuant at all times@en&apos; is: forall(t) exists_at(x,t) -&gt; exists_at(y,t) and &apos;part of continuant@en(x,y,t)&apos;.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000116"/>
+        <AbbreviatedIRI>obo:BFO_0000177</AbbreviatedIRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">BFO 2 Reference: Immaterial entities are in some cases continuant parts of their material hosts. Thus the hold of a ship, for example, is a part of the ship; it may itself have parts, which may have names (used for example by ship stow planners, customs inspectors, and the like). Immaterial entities under both 1. and 2. can be of zero, one, two or three dimensions. We define:a(immaterial entity)[Definition: a is an immaterial entity = Def. a is an independent continuant that has no material entities as parts. (axiom label in BFO2 Reference: [028-001])</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000116"/>
+        <AbbreviatedIRI>obo:BFO_0000177</AbbreviatedIRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">BFO 2 Reference: a (continuant or occurrent) part of itself. We appreciate that this is counterintuitive for some users, since it implies for example that President Obama is a part of himself. However it brings benefits in simplifying the logical formalism, and it captures an important feature of identity, namely that it is the limit case of mereological inclusion.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000116"/>
+        <AbbreviatedIRI>obo:BFO_0000177</AbbreviatedIRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">BFO2 Reference: continuant</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000116"/>
+        <AbbreviatedIRI>obo:BFO_0000177</AbbreviatedIRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">BFO2 Reference: continuantThe range for ‘t’ (as in all cases throughout this document unless otherwise specified) is: temporal region.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000116"/>
+        <AbbreviatedIRI>obo:BFO_0000177</AbbreviatedIRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">[copied from inverse property &apos;has continuant part at all times that part exists&apos;] This is a binary version of a ternary time-indexed, instance level, relation. Unlike the rest of the temporalized relations which temporally quantify over existence of the subject of the relation, this relation temporally quantifies over the existence of the object of the relation. The relation is provided tentatively, to assess whether the GO needs such a relation. It is inverse of &apos;part of continuant at all times&apos;</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000412"/>
+        <AbbreviatedIRI>obo:BFO_0000177</AbbreviatedIRI>
+        <Literal datatypeIRI="&xsd;string">http://purl.obolibrary.org/obo/bfo.owl</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000600"/>
+        <AbbreviatedIRI>obo:BFO_0000177</AbbreviatedIRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">b continuant_part_of c at t =Def. b is a part of c at t &amp; t is a time &amp; b and c are continuants. (axiom label in BFO2 Reference: [002-001])</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000601"/>
+        <AbbreviatedIRI>obo:BFO_0000177</AbbreviatedIRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">continuant_part_of is antisymmetric. (axiom label in BFO2 Reference: [120-001])</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000601"/>
+        <AbbreviatedIRI>obo:BFO_0000177</AbbreviatedIRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">continuant_part_of is reflexive (every continuant entity is a continuant_part_of itself). (axiom label in BFO2 Reference: [111-002])</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000601"/>
+        <AbbreviatedIRI>obo:BFO_0000177</AbbreviatedIRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">continuant_part_of is transitive. (axiom label in BFO2 Reference: [110-001])</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000601"/>
+        <AbbreviatedIRI>obo:BFO_0000177</AbbreviatedIRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">continuant_part_of satisfies unique product. (axiom label in BFO2 Reference: [122-001])</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000601"/>
+        <AbbreviatedIRI>obo:BFO_0000177</AbbreviatedIRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">continuant_part_of satisfies weak supplementation. (axiom label in BFO2 Reference: [121-001])</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000601"/>
+        <AbbreviatedIRI>obo:BFO_0000177</AbbreviatedIRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">if b continuant_part_of c at t and b is an independent continuant, then b is located_in c at t. (axiom label in BFO2 Reference: [047-002])</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000602"/>
+        <AbbreviatedIRI>obo:BFO_0000177</AbbreviatedIRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">(forall (x t) (if (Continuant x) (continuantPartOfAt x x t))) // axiom label in BFO2 CLIF: [111-002] </Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000602"/>
+        <AbbreviatedIRI>obo:BFO_0000177</AbbreviatedIRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">(forall (x y t) (if (and (continuantPartOfAt x y t) (IndependentContinuant x)) (locatedInAt x y t))) // axiom label in BFO2 CLIF: [047-002] </Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000602"/>
+        <AbbreviatedIRI>obo:BFO_0000177</AbbreviatedIRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">(forall (x y t) (if (and (continuantPartOfAt x y t) (continuantPartOfAt y x t)) (= x y))) // axiom label in BFO2 CLIF: [120-001] </Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000602"/>
+        <AbbreviatedIRI>obo:BFO_0000177</AbbreviatedIRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">(forall (x y t) (if (and (continuantPartOfAt x y t) (not (= x y))) (exists (z) (and (continuantPartOfAt z y t) (not (exists (w) (and (continuantPartOfAt w x t) (continuantPartOfAt w z t)))))))) // axiom label in BFO2 CLIF: [121-001] </Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000602"/>
+        <AbbreviatedIRI>obo:BFO_0000177</AbbreviatedIRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">(forall (x y t) (if (exists (v) (and (continuantPartOfAt v x t) (continuantPartOfAt v y t))) (exists (z) (forall (u w) (iff (iff (continuantPartOfAt w u t) (and (continuantPartOfAt w x t) (continuantPartOfAt w y t))) (= z u)))))) // axiom label in BFO2 CLIF: [122-001] </Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000602"/>
+        <AbbreviatedIRI>obo:BFO_0000177</AbbreviatedIRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">(forall (x y z t) (if (and (continuantPartOfAt x y t) (continuantPartOfAt y z t)) (continuantPartOfAt x z t))) // axiom label in BFO2 CLIF: [110-001] </Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000602"/>
+        <AbbreviatedIRI>obo:BFO_0000177</AbbreviatedIRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">(iff (ImmaterialEntity a) (and (IndependentContinuant a) (not (exists (b t) (and (MaterialEntity b) (continuantPartOfAt b a t)))))) // axiom label in BFO2 CLIF: [028-001] </Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <AbbreviatedIRI>obo:BFO_0000177</AbbreviatedIRI>
+        <AbbreviatedIRI>obo:bfo.owl</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>obo:BFO_0000177</AbbreviatedIRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">part of continuant at all times</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>obo:BFO_0000179</AbbreviatedIRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">BFO OWL specification label</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>obo:BFO_0000180</AbbreviatedIRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">BFO CLIF specification label</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:BFO_0000179"/>
+        <AbbreviatedIRI>obo:BFO_0000187</AbbreviatedIRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">c-has-part-object_at</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000112"/>
+        <AbbreviatedIRI>obo:BFO_0000187</AbbreviatedIRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">[copied from inverse property &apos;part of continuant at all times&apos;] Mary’s arm continuant_part_of Mary in the time of her life prior to her operation</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000112"/>
+        <AbbreviatedIRI>obo:BFO_0000187</AbbreviatedIRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">[copied from inverse property &apos;part of continuant at all times&apos;] the Northern hemisphere of the planet Earth is a part of the planet Earth at all times at which the planet Earth exists.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000115"/>
+        <AbbreviatedIRI>obo:BFO_0000187</AbbreviatedIRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">forall(t) exists_at(y,t) -&gt; exists_at(x,t) and &apos;has continuant part&apos;(x,y,t)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000116"/>
+        <AbbreviatedIRI>obo:BFO_0000187</AbbreviatedIRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">This is a binary version of a ternary time-indexed, instance level, relation. Unlike the rest of the temporalized relations which temporally quantify over existence of the subject of the relation, this relation temporally quantifies over the existence of the object of the relation. The relation is provided tentatively, to assess whether the GO needs such a relation. It is inverse of &apos;part of continuant at all times&apos;</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000116"/>
+        <AbbreviatedIRI>obo:BFO_0000187</AbbreviatedIRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">[copied from inverse property &apos;part of continuant at all times&apos;] Alan Ruttenberg: This is a binary version of a ternary time-indexed, instance-level, relation. The BFO reading of the binary relation &apos;part of continuant at all times@en&apos; is: forall(t) exists_at(x,t) -&gt; exists_at(y,t) and &apos;part of continuant@en(x,y,t)&apos;.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000116"/>
+        <AbbreviatedIRI>obo:BFO_0000187</AbbreviatedIRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">[copied from inverse property &apos;part of continuant at all times&apos;] BFO 2 Reference: Immaterial entities are in some cases continuant parts of their material hosts. Thus the hold of a ship, for example, is a part of the ship; it may itself have parts, which may have names (used for example by ship stow planners, customs inspectors, and the like). Immaterial entities under both 1. and 2. can be of zero, one, two or three dimensions. We define:a(immaterial entity)[Definition: a is an immaterial entity = Def. a is an independent continuant that has no material entities as parts. (axiom label in BFO2 Reference: [028-001])</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000116"/>
+        <AbbreviatedIRI>obo:BFO_0000187</AbbreviatedIRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">[copied from inverse property &apos;part of continuant at all times&apos;] BFO 2 Reference: a (continuant or occurrent) part of itself. We appreciate that this is counterintuitive for some users, since it implies for example that President Obama is a part of himself. However it brings benefits in simplifying the logical formalism, and it captures an important feature of identity, namely that it is the limit case of mereological inclusion.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000116"/>
+        <AbbreviatedIRI>obo:BFO_0000187</AbbreviatedIRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">[copied from inverse property &apos;part of continuant at all times&apos;] BFO2 Reference: continuant</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000116"/>
+        <AbbreviatedIRI>obo:BFO_0000187</AbbreviatedIRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">[copied from inverse property &apos;part of continuant at all times&apos;] BFO2 Reference: continuantThe range for ‘t’ (as in all cases throughout this document unless otherwise specified) is: temporal region.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000412"/>
+        <AbbreviatedIRI>obo:BFO_0000187</AbbreviatedIRI>
+        <Literal datatypeIRI="&xsd;string">http://purl.obolibrary.org/obo/bfo.owl</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000600"/>
+        <AbbreviatedIRI>obo:BFO_0000187</AbbreviatedIRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">[copied from inverse property &apos;part of continuant at all times&apos;] b continuant_part_of c at t =Def. b is a part of c at t &amp; t is a time &amp; b and c are continuants. (axiom label in BFO2 Reference: [002-001])</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <AbbreviatedIRI>obo:BFO_0000187</AbbreviatedIRI>
+        <AbbreviatedIRI>obo:bfo.owl</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>obo:BFO_0000187</AbbreviatedIRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">has continuant part at all times that part exists</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000115"/>
+        <AbbreviatedIRI>obo:GEO_000000001</AbbreviatedIRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">An organization that governs the people living in a particular geographical region or aggregate of geographical regions.  The geographical region it governs can change over time (such as the westward expansion of the United States and the addition of Hawaii)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000117"/>
+        <AbbreviatedIRI>obo:GEO_000000001</AbbreviatedIRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">William R. Hogan</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>obo:GEO_000000001</AbbreviatedIRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">In some cases, geopolitical entities possess uninhabited geographical regions.  However, it is that case that it controls the movement of people in and out of those regions, and its laws apply to those regions.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>obo:GEO_000000001</AbbreviatedIRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">geopolitical entity</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="owl:deprecated"/>
+        <AbbreviatedIRI>obo:GEO_000000001</AbbreviatedIRI>
+        <Literal datatypeIRI="&xsd;boolean">true</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000115"/>
+        <AbbreviatedIRI>obo:GEO_000000002</AbbreviatedIRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">An aggregate of geopoliticial entities.  Examples include the group of states of the United States, the nations of North America, and so on.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000117"/>
+        <AbbreviatedIRI>obo:GEO_000000002</AbbreviatedIRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">William R. Hogan</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>obo:GEO_000000002</AbbreviatedIRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">group of geopolitical entities</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000115"/>
+        <AbbreviatedIRI>obo:GEO_000000003</AbbreviatedIRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">A geopolitical entity that is self contained and recognizes no higher political authority than itself.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000117"/>
+        <AbbreviatedIRI>obo:GEO_000000003</AbbreviatedIRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">William R. Hogan</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>obo:GEO_000000003</AbbreviatedIRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">nation</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="owl:deprecated"/>
+        <AbbreviatedIRI>obo:GEO_000000003</AbbreviatedIRI>
+        <Literal datatypeIRI="&xsd;boolean">true</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000115"/>
+        <AbbreviatedIRI>obo:GEO_000000004</AbbreviatedIRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">a governmental organization that has a local, regional, or territorial government that recognizes a sovereign state as its higher political authority</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000117"/>
+        <AbbreviatedIRI>obo:GEO_000000004</AbbreviatedIRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">Amanda Hicks</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000117"/>
+        <AbbreviatedIRI>obo:GEO_000000004</AbbreviatedIRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">William R. Hogan</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>obo:GEO_000000004</AbbreviatedIRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">subnational entity</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000115"/>
+        <AbbreviatedIRI>obo:GEO_000000005</AbbreviatedIRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">A subnational entity that is the primary organizational member of a nation, is subject to the full set of laws of the nation, enjoys all the privileges established under the laws of the nation, is not a member of any other geopolitical entity, and itself governs a part of the geographical region governed by the nation.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000117"/>
+        <AbbreviatedIRI>obo:GEO_000000005</AbbreviatedIRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">Amanda Hicks</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000117"/>
+        <AbbreviatedIRI>obo:GEO_000000005</AbbreviatedIRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">William R. Hogan</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>obo:GEO_000000005</AbbreviatedIRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">examples: Northern Ireland, Florida</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>obo:GEO_000000005</AbbreviatedIRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">major administrative subdivision</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000115"/>
+        <AbbreviatedIRI>obo:GEO_000000006</AbbreviatedIRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">A subnational entity that does not possess full political independence or sovereignty as a sovereign state, but remains politically outside of the controlling state and controls a geographical region that is outside the controlling state&apos;s integral region.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000117"/>
+        <AbbreviatedIRI>obo:GEO_000000006</AbbreviatedIRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">Amanda Hicks</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000117"/>
+        <AbbreviatedIRI>obo:GEO_000000006</AbbreviatedIRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">William R. Hogan</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>obo:GEO_000000006</AbbreviatedIRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">Typically, the common feature is that the dependency does not conduct foreign affairs, and relegates this authority to the sovereign state.  But otherwise, it is largely or completely autonomous relative to the administrative subdivisions.  Examples include Puerto Rico (U.S.), Guam (U.S.), Greenland (Denmark), French Polynesia (France), and Falkland Islands (United Kingdom). </Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>obo:GEO_000000006</AbbreviatedIRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">geopolitical dependency</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000115"/>
+        <AbbreviatedIRI>obo:GEO_000000007</AbbreviatedIRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">An aggregate of governmental organizations that is not itself a major administrative subdivision and whose members are only major administrative subdivisions that have some feature in common.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000117"/>
+        <AbbreviatedIRI>obo:GEO_000000007</AbbreviatedIRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">Amanda Hicks</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>obo:GEO_000000007</AbbreviatedIRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">Examples: all the major administrative subdivisions of the United States (which is different from the U.S. itself), all the major administrative subdivisions with a bicameral legislature, all the major administrative subdivisions with a judiciary, etc.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>obo:GEO_000000007</AbbreviatedIRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">aggregate of major administrative subdivisions</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>obo:GEO_000000007</AbbreviatedIRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">group of major administrative subdivisions</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000115"/>
+        <AbbreviatedIRI>obo:GEO_000000008</AbbreviatedIRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">An aggregate of governmental organizations that is not itself a geopolitical dependency and whose members are only geopolitical dependencies that have some feature in common.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000117"/>
+        <AbbreviatedIRI>obo:GEO_000000008</AbbreviatedIRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">Amanda Hicks</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>obo:GEO_000000008</AbbreviatedIRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">Examples: all the dependencies of the United States, all of the dependencies whose territory is located in the Carribean Sea, French Overseas Collectivities, Biritish Crown Dependencies.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>obo:GEO_000000008</AbbreviatedIRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">aggregate of dependencies</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>obo:GEO_000000008</AbbreviatedIRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">group of dependencies</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>obo:GEO_000000009</AbbreviatedIRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">US State Two Digit Identifier</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>obo:GEO_000000010</AbbreviatedIRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">US State Two Letter Abbreviation</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>obo:GEO_000000011</AbbreviatedIRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">US State Ens Identifier</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>obo:GEO_000000012</AbbreviatedIRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">member of</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>obo:GEO_000000021</AbbreviatedIRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">UN Numerical Code</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>obo:GEO_000000022</AbbreviatedIRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">ISO 3166-1-alpha-3 code</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>obo:GEO_000000023</AbbreviatedIRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">ISO 3166-1-alpha-2 code</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>obo:GEO_000000328</AbbreviatedIRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">is in aggregate</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000115"/>
+        <AbbreviatedIRI>obo:GEO_000000329</AbbreviatedIRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">A governing organization G1 is subordinate to another governing organization G2 iff there is some authority possessed by G2 that is not possessed by G1 and G1&apos;s jurisdiction falls within the relevant jurisdiction of G2.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>obo:GEO_000000329</AbbreviatedIRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">From the Confluence page that proposed it:
+>>>>>>> 2a78ccea26200a7908b27b29aab8f02413adcc8d
 
 &apos;is subordinate authority of&apos;
 Domain: governing organization
