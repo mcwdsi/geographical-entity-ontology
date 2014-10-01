@@ -654,7 +654,7 @@
     <!-- http://purl.obolibrary.org/obo/GEO_000000587 -->
 
     <owl:NamedIndividual rdf:about="&obo;GEO_000000587">
-        <rdf:type rdf:resource="&obo;GEO_000000369"/>
+        <rdf:type rdf:resource="&obo;GEO_000000372"/>
         <rdfs:label xml:lang="en">region of United States of America</rdfs:label>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">US</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">USA</obo:GEO_000000022>

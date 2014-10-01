@@ -14,13 +14,13 @@
 
 <rdf:RDF xmlns="http://www.w3.org/2002/07/owl#"
      xml:base="http://www.w3.org/2002/07/owl"
-     xmlns:dc="http://purl.org/dc/elements/1.1/"
-     xmlns:obo="http://purl.obolibrary.org/obo/"
-     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-     xmlns:owl="http://www.w3.org/2002/07/owl#"
-     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-     xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#">
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:obo="http://purl.obolibrary.org/obo/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
     <Ontology rdf:about="&obo;geo/dev/us-mas-dependency.owl">
         <dc:contributor xml:lang="en">Amanda Hicks</dc:contributor>
         <dc:title xml:lang="en">Geographical Entity Ontology - United States major administrative subdivision and dependency instances file</dc:title>
@@ -31,28 +31,6 @@
         <versionInfo xml:lang="en">development version 2014-07-15</versionInfo>
         <imports rdf:resource="&obo;geo/dev/geo.owl"/>
     </Ontology>
-    
-
-
-    <!-- 
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Annotation properties
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-     -->
-
-    
-
-
-    <!-- 
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Datatypes
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-     -->
-
     
 
 
@@ -147,8 +125,8 @@
         <obo:GEO_000000021 rdf:datatype="&xsd;string">016</obo:GEO_000000021>
         <obo:GEO_000000011 rdf:datatype="&xsd;string">01802701</obo:GEO_000000011>
         <obo:GEO_000000009 rdf:datatype="&xsd;string">60</obo:GEO_000000009>
-        <obo:GEO_000000010 rdf:datatype="&xsd;string">AS</obo:GEO_000000010>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">AS</obo:GEO_000000023>
+        <obo:GEO_000000010 rdf:datatype="&xsd;string">AS</obo:GEO_000000010>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">ASM</obo:GEO_000000022>
         <obo:GEO_000000328 rdf:resource="&obo;GEO_000000015"/>
         <obo:GEO_000000328 rdf:resource="&obo;GEO_000000017"/>
@@ -205,8 +183,8 @@
         <obo:GEO_000000011 rdf:datatype="&xsd;string">01779808</obo:GEO_000000011>
         <obo:GEO_000000021 rdf:datatype="&xsd;string">630</obo:GEO_000000021>
         <obo:GEO_000000009 rdf:datatype="&xsd;string">72</obo:GEO_000000009>
-        <obo:GEO_000000010 rdf:datatype="&xsd;string">PR</obo:GEO_000000010>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">PR</obo:GEO_000000023>
+        <obo:GEO_000000010 rdf:datatype="&xsd;string">PR</obo:GEO_000000010>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">PRI</obo:GEO_000000022>
         <obo:GEO_000000328 rdf:resource="&obo;GEO_000000015"/>
         <obo:GEO_000000328 rdf:resource="&obo;GEO_000000017"/>
@@ -238,8 +216,8 @@
         <obo:GEO_000000011 rdf:datatype="&xsd;string">01802710</obo:GEO_000000011>
         <obo:GEO_000000009 rdf:datatype="&xsd;string">78</obo:GEO_000000009>
         <obo:GEO_000000021 rdf:datatype="&xsd;string">850</obo:GEO_000000021>
-        <obo:GEO_000000010 rdf:datatype="&xsd;string">VI</obo:GEO_000000010>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">VI</obo:GEO_000000023>
+        <obo:GEO_000000010 rdf:datatype="&xsd;string">VI</obo:GEO_000000010>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">VIR</obo:GEO_000000022>
         <obo:GEO_000000328 rdf:resource="&obo;GEO_000000015"/>
         <obo:GEO_000000328 rdf:resource="&obo;GEO_000000017"/>
@@ -971,48 +949,48 @@
     ///////////////////////////////////////////////////////////////////////////////////////
      -->
 
-    <rdf:Description rdf:about="&obo;IAO_0000111">
-        <obo:IAO_0000114 rdf:resource="&obo;IAO_0000122"/>
-    </rdf:Description>
-    <rdf:Description rdf:about="&obo;IAO_0000112">
-        <obo:IAO_0000114 rdf:resource="&obo;IAO_0000122"/>
-    </rdf:Description>
-    <rdf:Description rdf:about="&obo;IAO_0000589">
-        <obo:IAO_0000114 rdf:resource="&obo;IAO_0000125"/>
-    </rdf:Description>
     <rdf:Description rdf:about="&obo;IAO_0000115">
         <obo:IAO_0000114 rdf:resource="&obo;IAO_0000122"/>
     </rdf:Description>
-    <rdf:Description rdf:about="&obo;IAO_0000117">
-        <obo:IAO_0000114 rdf:resource="&obo;IAO_0000122"/>
-    </rdf:Description>
-    <rdf:Description rdf:about="&obo;IAO_0000116">
-        <obo:IAO_0000114 rdf:resource="&obo;IAO_0000122"/>
-    </rdf:Description>
-    <rdf:Description rdf:about="&obo;IAO_0100001">
+    <rdf:Description rdf:about="&obo;IAO_0000225">
         <obo:IAO_0000114 rdf:resource="&obo;IAO_0000125"/>
     </rdf:Description>
     <rdf:Description rdf:about="&obo;IAO_0000412">
         <obo:IAO_0000114 rdf:resource="&obo;IAO_0000125"/>
     </rdf:Description>
-    <rdf:Description rdf:about="&obo;IAO_0000119">
+    <rdf:Description rdf:about="&obo;IAO_0000116">
         <obo:IAO_0000114 rdf:resource="&obo;IAO_0000122"/>
     </rdf:Description>
-    <rdf:Description rdf:about="&obo;IAO_0000118">
+    <rdf:Description rdf:about="&obo;IAO_0000589">
         <obo:IAO_0000114 rdf:resource="&obo;IAO_0000125"/>
     </rdf:Description>
-    <rdf:Description rdf:about="&obo;IAO_0000232">
+    <rdf:Description rdf:about="&obo;IAO_0000117">
         <obo:IAO_0000114 rdf:resource="&obo;IAO_0000122"/>
     </rdf:Description>
     <rdf:Description rdf:about="&obo;IAO_0000078">
         <obo:IAO_0000114 rdf:resource="&obo;IAO_0000125"/>
     </rdf:Description>
-    <rdf:Description rdf:about="&obo;IAO_0000225">
+    <rdf:Description rdf:about="&obo;IAO_0000111">
+        <obo:IAO_0000114 rdf:resource="&obo;IAO_0000122"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="&obo;IAO_0000232">
+        <obo:IAO_0000114 rdf:resource="&obo;IAO_0000122"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="&obo;IAO_0000112">
+        <obo:IAO_0000114 rdf:resource="&obo;IAO_0000122"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="&obo;IAO_0100001">
         <obo:IAO_0000114 rdf:resource="&obo;IAO_0000125"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="&obo;IAO_0000118">
+        <obo:IAO_0000114 rdf:resource="&obo;IAO_0000125"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="&obo;IAO_0000119">
+        <obo:IAO_0000114 rdf:resource="&obo;IAO_0000122"/>
     </rdf:Description>
 </rdf:RDF>
 
 
 
-<!-- Generated by the OWL API (version 3.2.5.1928) http://owlapi.sourceforge.net -->
+<!-- Generated by the OWL API (version 3.4.2) http://owlapi.sourceforge.net -->
 

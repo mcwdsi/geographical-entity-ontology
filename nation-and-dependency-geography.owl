@@ -155,7 +155,7 @@
     <!-- http://purl.obolibrary.org/obo/GEO_000000737 -->
 
     <owl:NamedIndividual rdf:about="&obo;GEO_000000737">
-        <rdf:type rdf:resource="&obo;GEO_000000369"/>
+        <rdf:type rdf:resource="&obo;GEO_000000372"/>
         <rdfs:label xml:lang="en">region of Saint Helena</rdfs:label>
         <obo:GEO_000000021 rdf:datatype="&xsd;string">654</obo:GEO_000000021>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">SH</obo:GEO_000000023>

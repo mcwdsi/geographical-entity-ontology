@@ -12,11 +12,11 @@
 
 <rdf:RDF xmlns="&obo;geo/dev/us-geography.owl#"
      xml:base="&obo;geo/dev/us-geography.owl"
-     xmlns:obo="http://purl.obolibrary.org/obo/"
-     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:owl="http://www.w3.org/2002/07/owl#"
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
-     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:obo="http://purl.obolibrary.org/obo/">
     <owl:Ontology rdf:about="&obo;geo/dev/us-geography.owl">
         <owl:imports rdf:resource="&obo;geo/dev/basic-geography.owl"/>
     </owl:Ontology>
@@ -31,54 +31,93 @@
     ///////////////////////////////////////////////////////////////////////////////////////
      -->
 
-    <owl:AnnotationProperty rdf:about="&obo;GEO_000000443">
-        <rdfs:label xml:lang="en">metropolitan division code</rdfs:label>
-    </owl:AnnotationProperty>
-    <owl:AnnotationProperty rdf:about="&obo;GEO_000000441">
-        <rdfs:label xml:lang="en">CBSA code</rdfs:label>
-        <rdfs:label xml:lang="en">core based statistical area code</rdfs:label>
-    </owl:AnnotationProperty>
-    <owl:AnnotationProperty rdf:about="&obo;GEO_000000442">
-        <rdfs:label xml:lang="en">CSA code</rdfs:label>
-        <rdfs:label xml:lang="en">combined statistical area code</rdfs:label>
-    </owl:AnnotationProperty>
-    <owl:AnnotationProperty rdf:about="&obo;GEO_000000362">
-        <rdfs:label xml:lang="en">USPS Code</rdfs:label>
-    </owl:AnnotationProperty>
-    <owl:AnnotationProperty rdf:about="&obo;GEO_000000361">
-        <rdfs:label xml:lang="en">INCITS 31 Code</rdfs:label>
-        <rdfs:comment xml:lang="en">Codes for the Identification of Counties and Equivalent Areas of the United States, Puerto Rico, and the Insular Areas</rdfs:comment>
-        <rdfs:comment xml:lang="en">Most recent version is INCITS 31-2009</rdfs:comment>
-    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000360 -->
+
     <owl:AnnotationProperty rdf:about="&obo;GEO_000000360">
         <rdfs:label xml:lang="en">INCITS 38 Code</rdfs:label>
         <rdfs:comment xml:lang="en">Codes for the Identification of the States and Equivalent Areas in the United States</rdfs:comment>
         <rdfs:comment xml:lang="en">Most recent version is INCITS 38-2009</rdfs:comment>
     </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000361 -->
+
+    <owl:AnnotationProperty rdf:about="&obo;GEO_000000361">
+        <rdfs:label xml:lang="en">INCITS 31 Code</rdfs:label>
+        <rdfs:comment xml:lang="en">Codes for the Identification of Counties and Equivalent Areas of the United States, Puerto Rico, and the Insular Areas</rdfs:comment>
+        <rdfs:comment xml:lang="en">Most recent version is INCITS 31-2009</rdfs:comment>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000362 -->
+
+    <owl:AnnotationProperty rdf:about="&obo;GEO_000000362">
+        <rdfs:label xml:lang="en">USPS Code</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000441 -->
+
+    <owl:AnnotationProperty rdf:about="&obo;GEO_000000441">
+        <rdfs:label xml:lang="en">CBSA code</rdfs:label>
+        <rdfs:label xml:lang="en">core based statistical area code</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000442 -->
+
+    <owl:AnnotationProperty rdf:about="&obo;GEO_000000442">
+        <rdfs:label xml:lang="en">CSA code</rdfs:label>
+        <rdfs:label xml:lang="en">combined statistical area code</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000443 -->
+
+    <owl:AnnotationProperty rdf:about="&obo;GEO_000000443">
+        <rdfs:label xml:lang="en">metropolitan division code</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000115 -->
+
     <rdf:Description rdf:about="&obo;IAO_0000115">
         <rdfs:label xml:lang="en">definition</rdfs:label>
         <obo:IAO_0000114 rdf:resource="&obo;IAO_0000122"/>
     </rdf:Description>
-    <rdf:Description rdf:about="&obo;IAO_0000119">
-        <obo:IAO_0000114 rdf:resource="&obo;IAO_0000122"/>
-    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000117 -->
+
     <rdf:Description rdf:about="&obo;IAO_0000117">
         <obo:IAO_0000114 rdf:resource="&obo;IAO_0000122"/>
     </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000118 -->
+
     <rdf:Description rdf:about="&obo;IAO_0000118">
         <obo:IAO_0000114 rdf:resource="&obo;IAO_0000125"/>
     </rdf:Description>
     
 
 
-    <!-- 
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Datatypes
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-     -->
+    <!-- http://purl.obolibrary.org/obo/IAO_0000119 -->
 
+    <rdf:Description rdf:about="&obo;IAO_0000119">
+        <obo:IAO_0000114 rdf:resource="&obo;IAO_0000122"/>
+    </rdf:Description>
     
 
 
@@ -129,8 +168,8 @@
         <obo:GEO_000000358 rdf:datatype="&xsd;string">US-74</obo:GEO_000000358>
         <obo:IAO_0000117>William R. Hogan</obo:IAO_0000117>
         <obo:IAO_0000119>Adapted from Wikipedia.org</obo:IAO_0000119>
-        <rdfs:comment>Despite having a unique two-digit state code and two-letter state abbreviation, this entity really just represents several, uninhabited islands that are possessions of the United States and thus make up part of the United States geographical region.  They do not have any government with the exception of Palmyra Atoll.</rdfs:comment>
         <obo:IAO_0000115>An aggregate of islands that are part of the territory of the United States of America, grouped together by the International Standards Organization for statistical purposes.  It has as members eight United States insular areas in the Pacific Ocean: Baker Island, Howland Island, Jarvis Island, Johnston Atoll, Kingman Reef, Midway Islands, Palmyra Atoll, and Wake Island; and one US insular area in the Caribbean Sea: Navassa Island.</obo:IAO_0000115>
+        <rdfs:comment>Despite having a unique two-digit state code and two-letter state abbreviation, this entity really just represents several, uninhabited islands that are possessions of the United States and thus make up part of the United States geographical region.  They do not have any government with the exception of Palmyra Atoll.</rdfs:comment>
     </owl:NamedIndividual>
     
 
@@ -2078,47 +2117,47 @@
     ///////////////////////////////////////////////////////////////////////////////////////
      -->
 
-    <rdf:Description rdf:about="&obo;IAO_0000111">
-        <obo:IAO_0000114 rdf:resource="&obo;IAO_0000122"/>
-    </rdf:Description>
-    <rdf:Description rdf:about="&obo;IAO_0100001">
-        <obo:IAO_0000114 rdf:resource="&obo;IAO_0000125"/>
-    </rdf:Description>
-    <rdf:Description rdf:about="&obo;IAO_0000112">
-        <obo:IAO_0000114 rdf:resource="&obo;IAO_0000122"/>
-    </rdf:Description>
-    <rdf:Description rdf:about="&obo;IAO_0000602">
-        <rdfs:label xml:lang="en">has associated axiom(fol)</rdfs:label>
-    </rdf:Description>
-    <rdf:Description rdf:about="&obo;IAO_0000589">
-        <obo:IAO_0000114 rdf:resource="&obo;IAO_0000125"/>
-    </rdf:Description>
-    <rdf:Description rdf:about="&obo;BFO_0000180">
-        <rdfs:label xml:lang="en">BFO CLIF specification label</rdfs:label>
-    </rdf:Description>
     <rdf:Description rdf:about="&obo;IAO_0000412">
         <rdfs:label xml:lang="en">imported from</rdfs:label>
+        <obo:IAO_0000114 rdf:resource="&obo;IAO_0000125"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="&obo;IAO_0000225">
         <obo:IAO_0000114 rdf:resource="&obo;IAO_0000125"/>
     </rdf:Description>
     <rdf:Description rdf:about="&obo;IAO_0000116">
         <rdfs:label xml:lang="en">editor note</rdfs:label>
         <obo:IAO_0000114 rdf:resource="&obo;IAO_0000122"/>
     </rdf:Description>
-    <rdf:Description rdf:about="&obo;IAO_0000232">
-        <obo:IAO_0000114 rdf:resource="&obo;IAO_0000122"/>
+    <rdf:Description rdf:about="&obo;IAO_0000589">
+        <obo:IAO_0000114 rdf:resource="&obo;IAO_0000125"/>
     </rdf:Description>
     <rdf:Description rdf:about="&obo;IAO_0000078">
         <obo:IAO_0000114 rdf:resource="&obo;IAO_0000125"/>
     </rdf:Description>
+    <rdf:Description rdf:about="&obo;IAO_0000111">
+        <obo:IAO_0000114 rdf:resource="&obo;IAO_0000122"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="&obo;IAO_0000232">
+        <obo:IAO_0000114 rdf:resource="&obo;IAO_0000122"/>
+    </rdf:Description>
     <rdf:Description rdf:about="&obo;BFO_0000179">
         <rdfs:label xml:lang="en">BFO OWL specification label</rdfs:label>
     </rdf:Description>
-    <rdf:Description rdf:about="&obo;IAO_0000225">
+    <rdf:Description rdf:about="&obo;IAO_0000112">
+        <obo:IAO_0000114 rdf:resource="&obo;IAO_0000122"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="&obo;IAO_0100001">
         <obo:IAO_0000114 rdf:resource="&obo;IAO_0000125"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="&obo;IAO_0000602">
+        <rdfs:label xml:lang="en">has associated axiom(fol)</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="&obo;BFO_0000180">
+        <rdfs:label xml:lang="en">BFO CLIF specification label</rdfs:label>
     </rdf:Description>
 </rdf:RDF>
 
 
 
-<!-- Generated by the OWL API (version 3.2.5.1928) http://owlapi.sourceforge.net -->
+<!-- Generated by the OWL API (version 3.4.2) http://owlapi.sourceforge.net -->
 
