@@ -31,7 +31,7 @@
         <versionInfo xml:lang="en">development version 2014-07-15</versionInfo>
         <dc:license xml:lang="en">https://creativecommons.org/licenses/by/3.0/</dc:license>
         <imports rdf:resource="&obo;iao/ontology-metadata.owl"/>
-        <imports rdf:resource="http://www.ifomis.org/bfo/1.1"/>
+        <imports rdf:resource="http://repos.frontology.org/bfo-1.1/raw/master/bfo-1.1.owl"/>
     </Ontology>
     
 
