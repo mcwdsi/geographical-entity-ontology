@@ -425,7 +425,7 @@ otherwise, we&apos;d end up creating some mereological sum of all the islands, c
     <!-- http://purl.obolibrary.org/obo/GEO_000000002 -->
 
     <Class rdf:about="&obo;GEO_000000002">
-        <rdfs:label xml:lang="en">group of geopolitical entities</rdfs:label>
+        <rdfs:label xml:lang="en">obsolete group of governmental organizations</rdfs:label>
         <equivalentClass>
             <Restriction>
                 <onProperty rdf:resource="&obo;BFO_0000075"/>
@@ -440,8 +440,11 @@ otherwise, we&apos;d end up creating some mereological sum of all the islands, c
             </Restriction>
         </equivalentClass>
         <rdfs:subClassOf rdf:resource="http://www.ifomis.org/bfo/1.1/snap#IndependentContinuant"/>
+        <deprecated rdf:datatype="&xsd;boolean">true</deprecated>
         <obo:IAO_0000115 xml:lang="en">An aggregate of geopoliticial entities.  Examples include the group of states of the United States, the nations of North America, and so on.</obo:IAO_0000115>
         <obo:IAO_0000117 xml:lang="en">William R. Hogan</obo:IAO_0000117>
+        <obo:IAO_0000111 xml:lang="en">obsolete aggregate of governmental organizations</obo:IAO_0000111>
+        <rdfs:comment xml:lang="en">taken over by GEO_0000000401</rdfs:comment>
     </Class>
     
 
@@ -771,6 +774,7 @@ One question is whether this class encompasses fiat parts of islands.</rdfs:comm
         <rdfs:label xml:lang="en">geopoli organization</rdfs:label>
         <rdfs:subClassOf rdf:resource="&obo;OBI_0000245"/>
         <obo:IAO_0000117 xml:lang="en">Amanda Hicks</obo:IAO_0000117>
+        <obo:IAO_0000111 xml:lang="en">geopolitical organization</obo:IAO_0000111>
     </Class>
     
 
@@ -778,7 +782,7 @@ One question is whether this class encompasses fiat parts of islands.</rdfs:comm
     <!-- http://purl.obolibrary.org/obo/GEO_000000392 -->
 
     <Class rdf:about="&obo;GEO_000000392">
-        <rdfs:label xml:lang="en">private governance organizations</rdfs:label>
+        <rdfs:label xml:lang="en">private governance organization</rdfs:label>
         <rdfs:subClassOf rdf:resource="&obo;GEO_000000391"/>
         <obo:IAO_0000119>&quot;Although the very meaning of the term is controversial, it involves authoritative decsionmaking in areas that once were part of national legal frameworks, the government, the sovereign state, or the public sector.&quot;
 
@@ -793,7 +797,7 @@ Karns and Mingst (2004) p. 14.</obo:IAO_0000119>
     <!-- http://purl.obolibrary.org/obo/GEO_000000393 -->
 
     <Class rdf:about="&obo;GEO_000000393">
-        <rdfs:label xml:lang="en">nongovernmental organizations</rdfs:label>
+        <rdfs:label xml:lang="en">nongovernmental organization</rdfs:label>
         <rdfs:subClassOf rdf:resource="&obo;GEO_000000391"/>
         <rdfs:comment xml:lang="en">Examples:
 Internaltion Federation of Red Cross and Red Crescent Societies, Oxfam, CARE, Doctors Without Borders, World Wildlife Fund, Transparency International, Human Rights Watch, Amnesty International, and Save the Children.</rdfs:comment>
@@ -853,7 +857,7 @@ Note: this definition was taken over from &quot;geopolitical organization&quot;.
     <!-- http://purl.obolibrary.org/obo/GEO_000000401 -->
 
     <Class rdf:about="&obo;GEO_000000401">
-        <rdfs:label xml:lang="en">aggregate of geopoli organizations</rdfs:label>
+        <rdfs:label xml:lang="en">aggregate of geopolitical organizations</rdfs:label>
         <equivalentClass>
             <Class>
                 <intersectionOf rdf:parseType="Collection">
