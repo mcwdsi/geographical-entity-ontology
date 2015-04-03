@@ -1,0 +1,973 @@
+<?xml version="1.0"?>
+
+
+<!DOCTYPE rdf:RDF [
+    <!ENTITY owl "http://www.w3.org/2002/07/owl#" >
+    <!ENTITY obo "http://purl.obolibrary.org/obo/" >
+    <!ENTITY xsd "http://www.w3.org/2001/XMLSchema#" >
+    <!ENTITY rdfs "http://www.w3.org/2000/01/rdf-schema#" >
+    <!ENTITY rdf "http://www.w3.org/1999/02/22-rdf-syntax-ns#" >
+]>
+
+
+<rdf:RDF xmlns="&obo;geo/dev/us-geography.owl#"
+     xml:base="&obo;geo/dev/us-geography.owl"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:obo="http://purl.obolibrary.org/obo/">
+    <owl:Ontology rdf:about="&obo;geo/dev/us-integral-geography.owl">
+        <owl:imports rdf:resource="&obo;geo/dev/basic-geography.owl"/>
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000360 -->
+
+    <owl:AnnotationProperty rdf:about="&obo;GEO_000000360">
+        <rdfs:label xml:lang="en">INCITS 38 Code</rdfs:label>
+        <rdfs:comment xml:lang="en">Codes for the Identification of the States and Equivalent Areas in the United States</rdfs:comment>
+        <rdfs:comment xml:lang="en">Most recent version is INCITS 38-2009</rdfs:comment>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000361 -->
+
+    <owl:AnnotationProperty rdf:about="&obo;GEO_000000361">
+        <rdfs:label xml:lang="en">INCITS 31 Code</rdfs:label>
+        <rdfs:comment xml:lang="en">Codes for the Identification of Counties and Equivalent Areas of the United States, Puerto Rico, and the Insular Areas</rdfs:comment>
+        <rdfs:comment xml:lang="en">Most recent version is INCITS 31-2009</rdfs:comment>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000362 -->
+
+    <owl:AnnotationProperty rdf:about="&obo;GEO_000000362">
+        <rdfs:label xml:lang="en">USPS Code</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000441 -->
+
+    <owl:AnnotationProperty rdf:about="&obo;GEO_000000441">
+        <rdfs:label xml:lang="en">CBSA code</rdfs:label>
+        <rdfs:label xml:lang="en">core based statistical area code</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000442 -->
+
+    <owl:AnnotationProperty rdf:about="&obo;GEO_000000442">
+        <rdfs:label xml:lang="en">CSA code</rdfs:label>
+        <rdfs:label xml:lang="en">combined statistical area code</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000443 -->
+
+    <owl:AnnotationProperty rdf:about="&obo;GEO_000000443">
+        <rdfs:label xml:lang="en">metropolitan division code</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000118 -->
+
+    <rdf:Description rdf:about="&obo;IAO_0000118">
+        <obo:IAO_0000114 rdf:resource="&obo;IAO_0000125"/>
+    </rdf:Description>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/BFO_0000137 -->
+
+    <rdf:Description rdf:about="&obo;BFO_0000137">
+        <owl:inverseOf rdf:resource="&obo;BFO_0000187"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/BFO_0000187 -->
+
+    <rdf:Description rdf:about="&obo;BFO_0000187"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000346 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000346">
+        <rdf:type rdf:resource="&obo;GEO_000000335"/>
+        <rdfs:label xml:lang="en">region of contiguous 48 states</rdfs:label>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000338"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000347 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000347">
+        <rdf:type rdf:resource="&obo;GEO_000000335"/>
+        <rdfs:label xml:lang="en">contiguous region of Alaska</rdfs:label>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000338"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000348 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000348">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">Hawaiʻi</rdfs:label>
+        <obo:IAO_0000118 xml:lang="en">Hawaiʻi Island</obo:IAO_0000118>
+        <obo:IAO_0000118 xml:lang="en">Island of Hawaiʻi</obo:IAO_0000118>
+        <obo:IAO_0000118 xml:lang="en">the Big Island</obo:IAO_0000118>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000356"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000349 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000349">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">Oʻahu</rdfs:label>
+        <obo:IAO_0000118 xml:lang="en">Oahu</obo:IAO_0000118>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000356"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000350 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000350">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">Maui</rdfs:label>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000356"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000351 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000351">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">Kauaʻi</rdfs:label>
+        <obo:IAO_0000118 xml:lang="en">Kauai</obo:IAO_0000118>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000356"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000352 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000352">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">Molokaʻi</rdfs:label>
+        <obo:IAO_0000118 xml:lang="en">Molokai</obo:IAO_0000118>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000356"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000353 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000353">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">Lānaʻi</rdfs:label>
+        <obo:IAO_0000118 xml:lang="en">Lanai</obo:IAO_0000118>
+        <obo:IAO_0000118 xml:lang="en">Lanaʻi</obo:IAO_0000118>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000356"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000354 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000354">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">Niʻihau</rdfs:label>
+        <obo:IAO_0000118 xml:lang="en">Niihau</obo:IAO_0000118>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000356"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000355 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000355">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">Kahoʻolawe</rdfs:label>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000356"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000356 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000356">
+        <rdf:type rdf:resource="&obo;GEO_000000390"/>
+        <rdfs:label xml:lang="en">Hawaiian Islands</rdfs:label>
+        <obo:GEO_000000360 rdf:datatype="&xsd;string">15</obo:GEO_000000360>
+        <obo:GEO_000000362 rdf:datatype="&xsd;string">HI</obo:GEO_000000362>
+        <obo:GEO_000000358 rdf:datatype="&xsd;string">US-15</obo:GEO_000000358>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000363 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000363">
+        <rdf:type rdf:resource="&obo;GEO_000000372"/>
+        <rdfs:label xml:lang="en">region of Alabama</rdfs:label>
+        <obo:GEO_000000360 rdf:datatype="&xsd;string">01</obo:GEO_000000360>
+        <obo:GEO_000000362 rdf:datatype="&xsd;string">AL</obo:GEO_000000362>
+        <obo:GEO_000000358 rdf:datatype="&xsd;string">US-01</obo:GEO_000000358>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000346"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000364 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000364">
+        <rdf:type rdf:resource="&obo;GEO_000000372"/>
+        <rdfs:label xml:lang="en">region of Alaska</rdfs:label>
+        <obo:GEO_000000360 rdf:datatype="&xsd;string">02</obo:GEO_000000360>
+        <obo:GEO_000000362 rdf:datatype="&xsd;string">AK</obo:GEO_000000362>
+        <obo:GEO_000000358 rdf:datatype="&xsd;string">US-02</obo:GEO_000000358>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000338"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000365 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000365">
+        <rdf:type rdf:resource="&obo;GEO_000000372"/>
+        <rdfs:label xml:lang="en">region of Arizona</rdfs:label>
+        <obo:GEO_000000360 rdf:datatype="&xsd;string">04</obo:GEO_000000360>
+        <obo:GEO_000000362 rdf:datatype="&xsd;string">AZ</obo:GEO_000000362>
+        <obo:GEO_000000358 rdf:datatype="&xsd;string">US-04</obo:GEO_000000358>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000346"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000366 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000366">
+        <rdf:type rdf:resource="&obo;GEO_000000372"/>
+        <rdfs:label xml:lang="en">region of Arkansas</rdfs:label>
+        <obo:GEO_000000360 rdf:datatype="&xsd;string">05</obo:GEO_000000360>
+        <obo:GEO_000000362 rdf:datatype="&xsd;string">AR</obo:GEO_000000362>
+        <obo:GEO_000000358 rdf:datatype="&xsd;string">US-05</obo:GEO_000000358>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000346"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000367 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000367">
+        <rdf:type rdf:resource="&obo;GEO_000000372"/>
+        <rdfs:label xml:lang="en">region of California</rdfs:label>
+        <obo:GEO_000000360 rdf:datatype="&xsd;string">06</obo:GEO_000000360>
+        <obo:GEO_000000362 rdf:datatype="&xsd;string">CA</obo:GEO_000000362>
+        <obo:GEO_000000358 rdf:datatype="&xsd;string">US-06</obo:GEO_000000358>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000346"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000368 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000368">
+        <rdf:type rdf:resource="&obo;GEO_000000372"/>
+        <rdfs:label xml:lang="en">region of Colorado</rdfs:label>
+        <obo:GEO_000000360 rdf:datatype="&xsd;string">08</obo:GEO_000000360>
+        <obo:GEO_000000362 rdf:datatype="&xsd;string">CO</obo:GEO_000000362>
+        <obo:GEO_000000358 rdf:datatype="&xsd;string">US-08</obo:GEO_000000358>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000346"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000379 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000379">
+        <rdf:type rdf:resource="&obo;GEO_000000372"/>
+        <rdfs:label xml:lang="en">region of Connecticut</rdfs:label>
+        <obo:GEO_000000360 rdf:datatype="&xsd;string">09</obo:GEO_000000360>
+        <obo:GEO_000000362 rdf:datatype="&xsd;string">CT</obo:GEO_000000362>
+        <obo:GEO_000000358 rdf:datatype="&xsd;string">US-09</obo:GEO_000000358>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000346"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000380 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000380">
+        <rdf:type rdf:resource="&obo;GEO_000000372"/>
+        <rdfs:label xml:lang="en">region of Florida</rdfs:label>
+        <obo:GEO_000000360 rdf:datatype="&xsd;string">12</obo:GEO_000000360>
+        <obo:GEO_000000362 rdf:datatype="&xsd;string">FL</obo:GEO_000000362>
+        <obo:GEO_000000358 rdf:datatype="&xsd;string">US-12</obo:GEO_000000358>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000346"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000381 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000381">
+        <rdf:type rdf:resource="&obo;GEO_000000372"/>
+        <rdfs:label xml:lang="en">region of Georgia</rdfs:label>
+        <rdfs:label xml:lang="en">region of Georgia (US state)</rdfs:label>
+        <obo:GEO_000000360 rdf:datatype="&xsd;string">13</obo:GEO_000000360>
+        <obo:GEO_000000362 rdf:datatype="&xsd;string">GA</obo:GEO_000000362>
+        <obo:GEO_000000358 rdf:datatype="&xsd;string">US-13</obo:GEO_000000358>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000346"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000382 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000382">
+        <rdf:type rdf:resource="&obo;GEO_000000372"/>
+        <rdfs:label xml:lang="en">region of Idaho</rdfs:label>
+        <obo:GEO_000000360 rdf:datatype="&xsd;string">16</obo:GEO_000000360>
+        <obo:GEO_000000362 rdf:datatype="&xsd;string">ID</obo:GEO_000000362>
+        <obo:GEO_000000358 rdf:datatype="&xsd;string">US-16</obo:GEO_000000358>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000346"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000383 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000383">
+        <rdf:type rdf:resource="&obo;GEO_000000372"/>
+        <rdfs:label xml:lang="en">region of Illinois</rdfs:label>
+        <obo:GEO_000000360 rdf:datatype="&xsd;string">17</obo:GEO_000000360>
+        <obo:GEO_000000362 rdf:datatype="&xsd;string">IL</obo:GEO_000000362>
+        <obo:GEO_000000358 rdf:datatype="&xsd;string">US-17</obo:GEO_000000358>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000346"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000384 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000384">
+        <rdf:type rdf:resource="&obo;GEO_000000372"/>
+        <rdfs:label xml:lang="en">region of Indiana</rdfs:label>
+        <obo:GEO_000000360 rdf:datatype="&xsd;string">18</obo:GEO_000000360>
+        <obo:GEO_000000362 rdf:datatype="&xsd;string">IN</obo:GEO_000000362>
+        <obo:GEO_000000358 rdf:datatype="&xsd;string">US-18</obo:GEO_000000358>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000346"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000385 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000385">
+        <rdf:type rdf:resource="&obo;GEO_000000372"/>
+        <rdfs:label xml:lang="en">region of Iowa</rdfs:label>
+        <obo:GEO_000000360 rdf:datatype="&xsd;string">19</obo:GEO_000000360>
+        <obo:GEO_000000362 rdf:datatype="&xsd;string">IA</obo:GEO_000000362>
+        <obo:GEO_000000358 rdf:datatype="&xsd;string">US-19</obo:GEO_000000358>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000346"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000386 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000386">
+        <rdf:type rdf:resource="&obo;GEO_000000372"/>
+        <rdfs:label xml:lang="en">region of Kansas</rdfs:label>
+        <obo:GEO_000000360 rdf:datatype="&xsd;string">20</obo:GEO_000000360>
+        <obo:GEO_000000362 rdf:datatype="&xsd;string">KS</obo:GEO_000000362>
+        <obo:GEO_000000358 rdf:datatype="&xsd;string">US-20</obo:GEO_000000358>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000346"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000387 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000387">
+        <rdf:type rdf:resource="&obo;GEO_000000372"/>
+        <rdfs:label xml:lang="en">region of Kentucky</rdfs:label>
+        <obo:GEO_000000360 rdf:datatype="&xsd;string">21</obo:GEO_000000360>
+        <obo:GEO_000000362 rdf:datatype="&xsd;string">KY</obo:GEO_000000362>
+        <obo:GEO_000000358 rdf:datatype="&xsd;string">US-21</obo:GEO_000000358>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000346"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000388 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000388">
+        <rdf:type rdf:resource="&obo;GEO_000000372"/>
+        <rdfs:label xml:lang="en">region of Louisiana</rdfs:label>
+        <obo:GEO_000000360 rdf:datatype="&xsd;string">22</obo:GEO_000000360>
+        <obo:GEO_000000362 rdf:datatype="&xsd;string">LA</obo:GEO_000000362>
+        <obo:GEO_000000358 rdf:datatype="&xsd;string">US-22</obo:GEO_000000358>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000346"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000389 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000389">
+        <rdf:type rdf:resource="&obo;GEO_000000372"/>
+        <rdfs:label xml:lang="en">region of Maine</rdfs:label>
+        <obo:GEO_000000360 rdf:datatype="&xsd;string">23</obo:GEO_000000360>
+        <obo:GEO_000000362 rdf:datatype="&xsd;string">ME</obo:GEO_000000362>
+        <obo:GEO_000000358 rdf:datatype="&xsd;string">US-23</obo:GEO_000000358>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000346"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000394 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000394">
+        <rdf:type rdf:resource="&obo;GEO_000000372"/>
+        <rdfs:label xml:lang="en">region of Massachusetts</rdfs:label>
+        <obo:GEO_000000360 rdf:datatype="&xsd;string">25</obo:GEO_000000360>
+        <obo:GEO_000000362 rdf:datatype="&xsd;string">MA</obo:GEO_000000362>
+        <obo:GEO_000000358 rdf:datatype="&xsd;string">US-25</obo:GEO_000000358>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000346"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000397 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000397">
+        <rdf:type rdf:resource="&obo;GEO_000000372"/>
+        <rdfs:label xml:lang="en">region of Michigan</rdfs:label>
+        <obo:GEO_000000360 rdf:datatype="&xsd;string">26</obo:GEO_000000360>
+        <obo:GEO_000000362 rdf:datatype="&xsd;string">MI</obo:GEO_000000362>
+        <obo:GEO_000000358 rdf:datatype="&xsd;string">US-26</obo:GEO_000000358>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000346"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000398 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000398">
+        <rdf:type rdf:resource="&obo;GEO_000000372"/>
+        <rdfs:label xml:lang="en">region of Minnesota</rdfs:label>
+        <obo:GEO_000000360 rdf:datatype="&xsd;string">27</obo:GEO_000000360>
+        <obo:GEO_000000362 rdf:datatype="&xsd;string">MN</obo:GEO_000000362>
+        <obo:GEO_000000358 rdf:datatype="&xsd;string">US-27</obo:GEO_000000358>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000346"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000399 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000399">
+        <rdf:type rdf:resource="&obo;GEO_000000372"/>
+        <rdfs:label xml:lang="en">region of Mississippi</rdfs:label>
+        <obo:GEO_000000360 rdf:datatype="&xsd;string">28</obo:GEO_000000360>
+        <obo:GEO_000000362 rdf:datatype="&xsd;string">MS</obo:GEO_000000362>
+        <obo:GEO_000000358 rdf:datatype="&xsd;string">US-28</obo:GEO_000000358>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000346"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000405 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000405">
+        <rdf:type rdf:resource="&obo;GEO_000000372"/>
+        <rdfs:label xml:lang="en">region of Missouri</rdfs:label>
+        <obo:GEO_000000360 rdf:datatype="&xsd;string">29</obo:GEO_000000360>
+        <obo:GEO_000000362 rdf:datatype="&xsd;string">MO</obo:GEO_000000362>
+        <obo:GEO_000000358 rdf:datatype="&xsd;string">US-29</obo:GEO_000000358>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000346"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000406 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000406">
+        <rdf:type rdf:resource="&obo;GEO_000000372"/>
+        <rdfs:label xml:lang="en">region of Montana</rdfs:label>
+        <obo:GEO_000000360 rdf:datatype="&xsd;string">30</obo:GEO_000000360>
+        <obo:GEO_000000362 rdf:datatype="&xsd;string">MT</obo:GEO_000000362>
+        <obo:GEO_000000358 rdf:datatype="&xsd;string">US-30</obo:GEO_000000358>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000346"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000407 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000407">
+        <rdf:type rdf:resource="&obo;GEO_000000372"/>
+        <rdfs:label xml:lang="en">region of Nebraska</rdfs:label>
+        <obo:GEO_000000360 rdf:datatype="&xsd;string">31</obo:GEO_000000360>
+        <obo:GEO_000000362 rdf:datatype="&xsd;string">NE</obo:GEO_000000362>
+        <obo:GEO_000000358 rdf:datatype="&xsd;string">US-31</obo:GEO_000000358>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000346"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000408 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000408">
+        <rdf:type rdf:resource="&obo;GEO_000000372"/>
+        <rdfs:label xml:lang="en">region of Nevada</rdfs:label>
+        <obo:GEO_000000360 rdf:datatype="&xsd;string">32</obo:GEO_000000360>
+        <obo:GEO_000000362 rdf:datatype="&xsd;string">NV</obo:GEO_000000362>
+        <obo:GEO_000000358 rdf:datatype="&xsd;string">US-32</obo:GEO_000000358>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000346"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000409 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000409">
+        <rdf:type rdf:resource="&obo;GEO_000000372"/>
+        <rdfs:label xml:lang="en">region of New Hampshire</rdfs:label>
+        <obo:GEO_000000360 rdf:datatype="&xsd;string">33</obo:GEO_000000360>
+        <obo:GEO_000000362 rdf:datatype="&xsd;string">NH</obo:GEO_000000362>
+        <obo:GEO_000000358 rdf:datatype="&xsd;string">US-33</obo:GEO_000000358>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000346"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000410 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000410">
+        <rdf:type rdf:resource="&obo;GEO_000000372"/>
+        <rdfs:label xml:lang="en">region of Washington D.C.</rdfs:label>
+        <rdfs:label xml:lang="en">region of the District of Columbia</rdfs:label>
+        <obo:GEO_000000360 rdf:datatype="&xsd;string">11</obo:GEO_000000360>
+        <obo:GEO_000000361 rdf:datatype="&xsd;string">11001</obo:GEO_000000361>
+        <obo:GEO_000000362 rdf:datatype="&xsd;string">DC</obo:GEO_000000362>
+        <rdfs:comment rdf:datatype="&xsd;string">Note that D.C. is also a &quot;county equivalent&quot;, so the INCITS 31 code (11001) identifies exactly the same geographic region as does the INCITS 38 code (11).  We  assign only one Apollo Location Code, however: US-11</rdfs:comment>
+        <obo:GEO_000000358 rdf:datatype="&xsd;string">US-11</obo:GEO_000000358>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000346"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000411 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000411">
+        <rdf:type rdf:resource="&obo;GEO_000000372"/>
+        <rdfs:label xml:lang="en">region of Virginia</rdfs:label>
+        <obo:GEO_000000360 rdf:datatype="&xsd;string">51</obo:GEO_000000360>
+        <obo:GEO_000000358 rdf:datatype="&xsd;string">US-51</obo:GEO_000000358>
+        <obo:GEO_000000362 rdf:datatype="&xsd;string">VA</obo:GEO_000000362>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000346"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000412 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000412">
+        <rdf:type rdf:resource="&obo;GEO_000000372"/>
+        <rdfs:label xml:lang="en">region of Maryland</rdfs:label>
+        <obo:GEO_000000360 rdf:datatype="&xsd;string">24</obo:GEO_000000360>
+        <obo:GEO_000000362 rdf:datatype="&xsd;string">MD</obo:GEO_000000362>
+        <obo:GEO_000000358 rdf:datatype="&xsd;string">US-24</obo:GEO_000000358>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000346"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000413 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000413">
+        <rdf:type rdf:resource="&obo;GEO_000000372"/>
+        <rdfs:label xml:lang="en">region of Delaware</rdfs:label>
+        <obo:GEO_000000360 rdf:datatype="&xsd;string">10</obo:GEO_000000360>
+        <obo:GEO_000000362 rdf:datatype="&xsd;string">DE</obo:GEO_000000362>
+        <obo:GEO_000000358 rdf:datatype="&xsd;string">US-10</obo:GEO_000000358>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000346"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000414 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000414">
+        <rdf:type rdf:resource="&obo;GEO_000000372"/>
+        <rdfs:label xml:lang="en">region of West Virginia</rdfs:label>
+        <obo:GEO_000000360 rdf:datatype="&xsd;string">54</obo:GEO_000000360>
+        <obo:GEO_000000358 rdf:datatype="&xsd;string">US-54</obo:GEO_000000358>
+        <obo:GEO_000000362 rdf:datatype="&xsd;string">WV</obo:GEO_000000362>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000346"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000460 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000460">
+        <rdf:type rdf:resource="&obo;GEO_000000372"/>
+        <rdfs:label xml:lang="en">region of New Jersey</rdfs:label>
+        <obo:GEO_000000360 rdf:datatype="&xsd;string">34</obo:GEO_000000360>
+        <obo:GEO_000000362 rdf:datatype="&xsd;string">NJ</obo:GEO_000000362>
+        <obo:GEO_000000358 rdf:datatype="&xsd;string">US-34</obo:GEO_000000358>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000346"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000462 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000462">
+        <rdf:type rdf:resource="&obo;GEO_000000372"/>
+        <rdfs:label xml:lang="en">region of Pennsylvania</rdfs:label>
+        <obo:GEO_000000360 rdf:datatype="&xsd;string">42</obo:GEO_000000360>
+        <obo:GEO_000000362 rdf:datatype="&xsd;string">PA</obo:GEO_000000362>
+        <obo:GEO_000000358 rdf:datatype="&xsd;string">US-42</obo:GEO_000000358>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000346"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000467 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000467">
+        <rdf:type rdf:resource="&obo;GEO_000000372"/>
+        <rdfs:label xml:lang="en">region of New Mexico</rdfs:label>
+        <obo:GEO_000000360 rdf:datatype="&xsd;string">35</obo:GEO_000000360>
+        <obo:GEO_000000362 rdf:datatype="&xsd;string">NM</obo:GEO_000000362>
+        <obo:GEO_000000358 rdf:datatype="&xsd;string">US-35</obo:GEO_000000358>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000346"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000468 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000468">
+        <rdf:type rdf:resource="&obo;GEO_000000372"/>
+        <rdfs:label xml:lang="en">region of New York</rdfs:label>
+        <obo:GEO_000000360 rdf:datatype="&xsd;string">36</obo:GEO_000000360>
+        <obo:GEO_000000362 rdf:datatype="&xsd;string">NY</obo:GEO_000000362>
+        <obo:GEO_000000358 rdf:datatype="&xsd;string">US-36</obo:GEO_000000358>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000346"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000469 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000469">
+        <rdf:type rdf:resource="&obo;GEO_000000372"/>
+        <rdfs:label xml:lang="en">region of North Carolina</rdfs:label>
+        <obo:GEO_000000360 rdf:datatype="&xsd;string">37</obo:GEO_000000360>
+        <obo:GEO_000000362 rdf:datatype="&xsd;string">NC</obo:GEO_000000362>
+        <obo:GEO_000000358 rdf:datatype="&xsd;string">US-37</obo:GEO_000000358>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000346"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000470 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000470">
+        <rdf:type rdf:resource="&obo;GEO_000000372"/>
+        <rdfs:label xml:lang="en">region of North Dakota</rdfs:label>
+        <obo:GEO_000000360 rdf:datatype="&xsd;string">38</obo:GEO_000000360>
+        <obo:GEO_000000362 rdf:datatype="&xsd;string">ND</obo:GEO_000000362>
+        <obo:GEO_000000358 rdf:datatype="&xsd;string">US-38</obo:GEO_000000358>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000346"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000471 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000471">
+        <rdf:type rdf:resource="&obo;GEO_000000372"/>
+        <rdfs:label xml:lang="en">region of Ohio</rdfs:label>
+        <obo:GEO_000000360 rdf:datatype="&xsd;string">39</obo:GEO_000000360>
+        <obo:GEO_000000362 rdf:datatype="&xsd;string">OH</obo:GEO_000000362>
+        <obo:GEO_000000358 rdf:datatype="&xsd;string">US-39</obo:GEO_000000358>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000346"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000472 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000472">
+        <rdf:type rdf:resource="&obo;GEO_000000372"/>
+        <rdfs:label xml:lang="en">region of Oklahoma</rdfs:label>
+        <obo:GEO_000000360 rdf:datatype="&xsd;string">40
+</obo:GEO_000000360>
+        <obo:GEO_000000362 rdf:datatype="&xsd;string">OK</obo:GEO_000000362>
+        <obo:GEO_000000358 rdf:datatype="&xsd;string">US-40</obo:GEO_000000358>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000346"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000473 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000473">
+        <rdf:type rdf:resource="&obo;GEO_000000372"/>
+        <rdfs:label xml:lang="en">region of Oregon</rdfs:label>
+        <obo:GEO_000000360 rdf:datatype="&xsd;string">41</obo:GEO_000000360>
+        <obo:GEO_000000362 rdf:datatype="&xsd;string">OR</obo:GEO_000000362>
+        <obo:GEO_000000358 rdf:datatype="&xsd;string">US-41</obo:GEO_000000358>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000346"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000474 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000474">
+        <rdf:type rdf:resource="&obo;GEO_000000372"/>
+        <rdfs:label xml:lang="en">region of Rhode Island</rdfs:label>
+        <obo:GEO_000000360 rdf:datatype="&xsd;string">44</obo:GEO_000000360>
+        <obo:GEO_000000362 rdf:datatype="&xsd;string">RI</obo:GEO_000000362>
+        <obo:GEO_000000358 rdf:datatype="&xsd;string">US-44</obo:GEO_000000358>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000346"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000475 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000475">
+        <rdf:type rdf:resource="&obo;GEO_000000372"/>
+        <rdfs:label xml:lang="en">region of South Carolina</rdfs:label>
+        <obo:GEO_000000360 rdf:datatype="&xsd;string">45</obo:GEO_000000360>
+        <obo:GEO_000000362 rdf:datatype="&xsd;string">SC</obo:GEO_000000362>
+        <obo:GEO_000000358 rdf:datatype="&xsd;string">US-45</obo:GEO_000000358>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000346"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000476 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000476">
+        <rdf:type rdf:resource="&obo;GEO_000000372"/>
+        <rdfs:label xml:lang="en">region of South Dakota</rdfs:label>
+        <obo:GEO_000000360 rdf:datatype="&xsd;string">46</obo:GEO_000000360>
+        <obo:GEO_000000362 rdf:datatype="&xsd;string">SD</obo:GEO_000000362>
+        <obo:GEO_000000358 rdf:datatype="&xsd;string">US-46</obo:GEO_000000358>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000346"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000477 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000477">
+        <rdf:type rdf:resource="&obo;GEO_000000372"/>
+        <rdfs:label xml:lang="en">region of Tennessee</rdfs:label>
+        <obo:GEO_000000360 rdf:datatype="&xsd;string">47</obo:GEO_000000360>
+        <obo:GEO_000000362 rdf:datatype="&xsd;string">TN</obo:GEO_000000362>
+        <obo:GEO_000000358 rdf:datatype="&xsd;string">US-47</obo:GEO_000000358>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000346"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000478 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000478">
+        <rdf:type rdf:resource="&obo;GEO_000000372"/>
+        <rdfs:label xml:lang="en">region of Texas</rdfs:label>
+        <obo:GEO_000000360 rdf:datatype="&xsd;string">48</obo:GEO_000000360>
+        <obo:GEO_000000362 rdf:datatype="&xsd;string">TX</obo:GEO_000000362>
+        <obo:GEO_000000358 rdf:datatype="&xsd;string">US-48</obo:GEO_000000358>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000346"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000479 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000479">
+        <rdf:type rdf:resource="&obo;GEO_000000372"/>
+        <rdfs:label xml:lang="en">region of Utah</rdfs:label>
+        <obo:GEO_000000360 rdf:datatype="&xsd;string">49</obo:GEO_000000360>
+        <obo:GEO_000000358 rdf:datatype="&xsd;string">US-49</obo:GEO_000000358>
+        <obo:GEO_000000362 rdf:datatype="&xsd;string">UT</obo:GEO_000000362>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000346"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000480 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000480">
+        <rdf:type rdf:resource="&obo;GEO_000000372"/>
+        <rdfs:label xml:lang="en">region of Vermont</rdfs:label>
+        <obo:GEO_000000360 rdf:datatype="&xsd;string">50</obo:GEO_000000360>
+        <obo:GEO_000000358 rdf:datatype="&xsd;string">US-50</obo:GEO_000000358>
+        <obo:GEO_000000362 rdf:datatype="&xsd;string">VT</obo:GEO_000000362>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000346"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000481 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000481">
+        <rdf:type rdf:resource="&obo;GEO_000000372"/>
+        <rdfs:label xml:lang="en">region of Washington</rdfs:label>
+        <rdfs:label xml:lang="en">region of Washington (US state)</rdfs:label>
+        <obo:GEO_000000360 rdf:datatype="&xsd;string">53</obo:GEO_000000360>
+        <obo:GEO_000000358 rdf:datatype="&xsd;string">US-53</obo:GEO_000000358>
+        <obo:GEO_000000362 rdf:datatype="&xsd;string">WA</obo:GEO_000000362>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000346"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000482 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000482">
+        <rdf:type rdf:resource="&obo;GEO_000000372"/>
+        <rdfs:label xml:lang="en">region of Wisconsin</rdfs:label>
+        <obo:GEO_000000360 rdf:datatype="&xsd;string">55</obo:GEO_000000360>
+        <obo:GEO_000000358 rdf:datatype="&xsd;string">US-55</obo:GEO_000000358>
+        <obo:GEO_000000362 rdf:datatype="&xsd;string">WI</obo:GEO_000000362>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000346"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000483 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000483">
+        <rdf:type rdf:resource="&obo;GEO_000000372"/>
+        <rdfs:label xml:lang="en">region of Wyoming</rdfs:label>
+        <obo:GEO_000000360 rdf:datatype="&xsd;string">56</obo:GEO_000000360>
+        <obo:GEO_000000358 rdf:datatype="&xsd;string">US-56</obo:GEO_000000358>
+        <obo:GEO_000000362 rdf:datatype="&xsd;string">WY</obo:GEO_000000362>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000346"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotations
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <rdf:Description rdf:about="&obo;IAO_0000225">
+        <obo:IAO_0000114 rdf:resource="&obo;IAO_0000125"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="&obo;IAO_0000412">
+        <rdfs:label xml:lang="en">imported from</rdfs:label>
+        <obo:IAO_0000114 rdf:resource="&obo;IAO_0000125"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="&obo;IAO_0000115">
+        <rdfs:label xml:lang="en">definition</rdfs:label>
+        <obo:IAO_0000114 rdf:resource="&obo;IAO_0000122"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="&obo;IAO_0000116">
+        <rdfs:label xml:lang="en">editor note</rdfs:label>
+        <obo:IAO_0000114 rdf:resource="&obo;IAO_0000122"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="&obo;IAO_0000589">
+        <obo:IAO_0000114 rdf:resource="&obo;IAO_0000125"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="&obo;IAO_0000117">
+        <obo:IAO_0000114 rdf:resource="&obo;IAO_0000122"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="&obo;BFO_0000179">
+        <rdfs:label xml:lang="en">BFO OWL specification label</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="&obo;IAO_0000111">
+        <obo:IAO_0000114 rdf:resource="&obo;IAO_0000122"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="&obo;IAO_0000078">
+        <obo:IAO_0000114 rdf:resource="&obo;IAO_0000125"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="&obo;IAO_0000232">
+        <obo:IAO_0000114 rdf:resource="&obo;IAO_0000122"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="&obo;IAO_0000112">
+        <obo:IAO_0000114 rdf:resource="&obo;IAO_0000122"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="&obo;IAO_0100001">
+        <obo:IAO_0000114 rdf:resource="&obo;IAO_0000125"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="&obo;BFO_0000180">
+        <rdfs:label xml:lang="en">BFO CLIF specification label</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="&obo;IAO_0000602">
+        <rdfs:label xml:lang="en">has associated axiom(fol)</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="&obo;IAO_0000119">
+        <obo:IAO_0000114 rdf:resource="&obo;IAO_0000122"/>
+    </rdf:Description>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 3.5.1) http://owlapi.sourceforge.net -->
+
