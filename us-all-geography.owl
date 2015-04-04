@@ -21,7 +21,7 @@
      xmlns:dc="http://purl.org/dc/elements/1.1/">
     <owl:Ontology rdf:about="&obo;geo/dev/us-all-geography.owl">
         <dc:creator xml:lang="en">William R. Hogan</dc:creator>
-        <owl:imports rdf:resource="&obo;geo/dev/basic-geography.owl"/>
+        <owl:imports rdf:resource="&obo;geo/dev/us-integral-geography.owl"/>
     </owl:Ontology>
     
 
@@ -744,21 +744,21 @@
     <rdf:Description rdf:about="&obo;IAO_0000225">
         <obo:IAO_0000114 rdf:resource="&obo;IAO_0000125"/>
     </rdf:Description>
-    <rdf:Description rdf:about="&obo;IAO_0000589">
-        <obo:IAO_0000114 rdf:resource="&obo;IAO_0000125"/>
-    </rdf:Description>
     <rdf:Description rdf:about="&obo;IAO_0000116">
         <rdfs:label xml:lang="en">editor note</rdfs:label>
         <obo:IAO_0000114 rdf:resource="&obo;IAO_0000122"/>
     </rdf:Description>
+    <rdf:Description rdf:about="&obo;IAO_0000589">
+        <obo:IAO_0000114 rdf:resource="&obo;IAO_0000125"/>
+    </rdf:Description>
     <rdf:Description rdf:about="&obo;IAO_0000111">
+        <obo:IAO_0000114 rdf:resource="&obo;IAO_0000122"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="&obo;IAO_0000232">
         <obo:IAO_0000114 rdf:resource="&obo;IAO_0000122"/>
     </rdf:Description>
     <rdf:Description rdf:about="&obo;BFO_0000179">
         <rdfs:label xml:lang="en">BFO OWL specification label</rdfs:label>
-    </rdf:Description>
-    <rdf:Description rdf:about="&obo;IAO_0000232">
-        <obo:IAO_0000114 rdf:resource="&obo;IAO_0000122"/>
     </rdf:Description>
     <rdf:Description rdf:about="&obo;IAO_0000078">
         <obo:IAO_0000114 rdf:resource="&obo;IAO_0000125"/>
