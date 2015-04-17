@@ -1187,6 +1187,7 @@ Date accessed: 2015-04-13</obo:IAO_0000119>
     <!-- http://purl.obolibrary.org/obo/GEO_000000789 -->
 
     <Class rdf:about="&obo;GEO_000000789">
+        <rdfs:label xml:lang="en">plane angle measurement unit label</rdfs:label>
         <rdfs:subClassOf rdf:resource="&obo;IAO_0000003"/>
         <obo:IAO_0000111 xml:lang="en">planar angular measurement unit label</obo:IAO_0000111>
     </Class>
