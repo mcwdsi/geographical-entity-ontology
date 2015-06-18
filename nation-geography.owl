@@ -122,6 +122,7 @@
         <rdfs:label xml:lang="en">region of The former Yugoslav Republic of Macedonia</rdfs:label>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">MK</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">MKD</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000342"/>
     </owl:NamedIndividual>
     
 
@@ -133,6 +134,7 @@
         <rdfs:label xml:lang="en">region of Guyana</rdfs:label>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">GUY</obo:GEO_000000022>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">GY</obo:GEO_000000023>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000339"/>
     </owl:NamedIndividual>
     
 
@@ -144,6 +146,7 @@
         <rdfs:label xml:lang="en">region of Thailand</rdfs:label>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">TH</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">THA</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000341"/>
     </owl:NamedIndividual>
     
 
@@ -169,6 +172,7 @@
         <rdfs:label xml:lang="en">region of Tajikistan</rdfs:label>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">TJ</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">TJK</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000341"/>
     </owl:NamedIndividual>
     
 
@@ -192,6 +196,7 @@
         <rdfs:label xml:lang="en">region of Honduras</rdfs:label>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">HN</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">HND</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000338"/>
     </owl:NamedIndividual>
     
 
@@ -231,6 +236,7 @@
         <rdfs:label xml:lang="en">region of Syrian Arab Republic</rdfs:label>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">SY</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">SYR</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000341"/>
     </owl:NamedIndividual>
     
 
@@ -266,6 +272,7 @@
         <rdfs:label xml:lang="en">region of Guatemala</rdfs:label>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">GT</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">GTM</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000338"/>
     </owl:NamedIndividual>
     
 
@@ -313,6 +320,7 @@
         <rdfs:label xml:lang="en">region of Israel</rdfs:label>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">IL</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">ISR</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000341"/>
     </owl:NamedIndividual>
     
 
@@ -346,6 +354,7 @@
         <rdfs:label xml:lang="en">region of Turkmenistan</rdfs:label>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">TKM</obo:GEO_000000022>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">TM</obo:GEO_000000023>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000341"/>
     </owl:NamedIndividual>
     
 
@@ -379,6 +388,7 @@
         <rdfs:label xml:lang="en">region of Iraq</rdfs:label>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">IQ</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">IRQ</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000341"/>
     </owl:NamedIndividual>
     
 
@@ -390,6 +400,7 @@
         <rdfs:label xml:lang="en">region of Turkey</rdfs:label>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">TR</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">TUR</obo:GEO_000000022>
+        <rdfs:comment xml:lang="en">Turkey spans Europe and Asia (source: CIA Factbook)</rdfs:comment>
     </owl:NamedIndividual>
     
 
@@ -401,6 +412,7 @@
         <rdfs:label xml:lang="en">region of Iran (Islamic Republic of)</rdfs:label>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">IR</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">IRN</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000341"/>
     </owl:NamedIndividual>
     
 
@@ -446,6 +458,7 @@
         <rdfs:label xml:lang="en">region of India</rdfs:label>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">IN</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">IND</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000341"/>
     </owl:NamedIndividual>
     
 
@@ -480,6 +493,7 @@
         <rdfs:label xml:lang="en">region of Latvia</rdfs:label>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">LV</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">LVA</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000342"/>
     </owl:NamedIndividual>
     
 
@@ -503,6 +517,7 @@
         <rdfs:label xml:lang="en">region of Lao People&apos;s Democratic Republic</rdfs:label>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">LA</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">LAO</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000341"/>
     </owl:NamedIndividual>
     
 
@@ -526,6 +541,7 @@
         <rdfs:label xml:lang="en">region of Kyrgyzstan</rdfs:label>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">KG</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">KGZ</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000341"/>
     </owl:NamedIndividual>
     
 
@@ -548,6 +564,7 @@
         <rdfs:label xml:lang="en">region of Kuwait</rdfs:label>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">KW</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">KWT</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000341"/>
     </owl:NamedIndividual>
     
 
@@ -559,6 +576,7 @@
         <rdfs:label xml:lang="en">region of Uzbekistan</rdfs:label>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">UZ</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">UZB</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000341"/>
     </owl:NamedIndividual>
     
 
@@ -592,6 +610,7 @@
         <rdfs:label xml:lang="en">region of United Arab Emirates</rdfs:label>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">AE</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">ARE</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000341"/>
     </owl:NamedIndividual>
     
 
@@ -603,6 +622,7 @@
         <rdfs:label xml:lang="en">region of Ukraine</rdfs:label>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">UA</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">UKR</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000342"/>
     </owl:NamedIndividual>
     
 
@@ -614,6 +634,7 @@
         <rdfs:label xml:lang="en">region of Afghanistan</rdfs:label>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">AF</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">AFG</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000341"/>
     </owl:NamedIndividual>
     
 
@@ -660,6 +681,7 @@
         <rdfs:label xml:lang="en">region of Kazakhstan</rdfs:label>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">KAZ</obo:GEO_000000022>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">KZ</obo:GEO_000000023>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000341"/>
     </owl:NamedIndividual>
     
 
@@ -682,6 +704,7 @@
         <rdfs:label xml:lang="en">region of Jordan</rdfs:label>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">JO</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">JOR</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000341"/>
     </owl:NamedIndividual>
     
 
@@ -693,6 +716,7 @@
         <rdfs:label xml:lang="en">region of United Republic of Tanzania</rdfs:label>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">TZ</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">TZA</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000340"/>
     </owl:NamedIndividual>
     
 
@@ -704,6 +728,7 @@
         <rdfs:label xml:lang="en">region of Australia</rdfs:label>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">AU</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">AUS</obo:GEO_000000022>
+        <rdfs:comment xml:lang="en">Australia is continent of Australia plus islands.</rdfs:comment>
     </owl:NamedIndividual>
     
 
@@ -715,6 +740,7 @@
         <rdfs:label xml:lang="en">region of Malaysia</rdfs:label>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">MY</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">MYS</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000341"/>
     </owl:NamedIndividual>
     
 
@@ -738,6 +764,7 @@
         <rdfs:label xml:lang="en">region of Armenia</rdfs:label>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">AM</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">ARM</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000341"/>
     </owl:NamedIndividual>
     
 
@@ -760,6 +787,7 @@
         <rdfs:label xml:lang="en">region of Angola</rdfs:label>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">AGO</obo:GEO_000000022>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">AO</obo:GEO_000000023>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000340"/>
     </owl:NamedIndividual>
     
 
@@ -785,6 +813,7 @@
         <rdfs:label xml:lang="en">region of Yemen</rdfs:label>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">YE</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">YEM</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000341"/>
     </owl:NamedIndividual>
     
 
@@ -796,6 +825,7 @@
         <rdfs:label xml:lang="en">region of Andorra</rdfs:label>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">AD</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">AND</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000342"/>
     </owl:NamedIndividual>
     
 
@@ -807,6 +837,7 @@
         <rdfs:label xml:lang="en">region of Lesotho</rdfs:label>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">LS</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">LSO</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000340"/>
     </owl:NamedIndividual>
     
 
@@ -818,6 +849,7 @@
         <rdfs:label xml:lang="en">region of Lebanon</rdfs:label>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">LB</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">LBN</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000341"/>
     </owl:NamedIndividual>
     
 
@@ -876,6 +908,7 @@
         <rdfs:label xml:lang="en">region of Lithuania</rdfs:label>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">LT</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">LTU</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000342"/>
     </owl:NamedIndividual>
     
 
@@ -911,6 +944,7 @@
         <rdfs:label xml:lang="en">region of Libyan Arab Jamahiriya</rdfs:label>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">LBY</obo:GEO_000000022>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">LY</obo:GEO_000000023>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000340"/>
     </owl:NamedIndividual>
     
 
@@ -1017,6 +1051,7 @@
         <rdfs:label xml:lang="en">region of Azerbaijan</rdfs:label>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">AZ</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">AZE</obo:GEO_000000022>
+        <rdfs:comment xml:lang="en">spans Europe and Asia (source: CIA Factbook)</rdfs:comment>
     </owl:NamedIndividual>
     
 
@@ -1028,6 +1063,7 @@
         <rdfs:label xml:lang="en">region of Malta</rdfs:label>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">MLT</obo:GEO_000000022>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">MT</obo:GEO_000000023>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000342"/>
     </owl:NamedIndividual>
     
 
@@ -1074,6 +1110,7 @@
         <rdfs:label xml:lang="en">region of Belarus</rdfs:label>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">BLR</obo:GEO_000000022>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">BY</obo:GEO_000000023>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000342"/>
     </owl:NamedIndividual>
     
 
@@ -1107,6 +1144,7 @@
         <rdfs:label xml:lang="en">region of Bangladesh</rdfs:label>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">BD</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">BGD</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000341"/>
     </owl:NamedIndividual>
     
 
@@ -1132,6 +1170,7 @@
         <rdfs:label xml:lang="en">region of Bahrain</rdfs:label>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">BH</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">BHR</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000341"/>
     </owl:NamedIndividual>
     
 
@@ -1155,6 +1194,7 @@
         <rdfs:label xml:lang="en">region of Bulgaria</rdfs:label>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">BG</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">BGR</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000342"/>
     </owl:NamedIndividual>
     
 
@@ -1166,6 +1206,7 @@
         <rdfs:label xml:lang="en">region of Brunei Darussalam</rdfs:label>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">BN</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">BRN</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000341"/>
     </owl:NamedIndividual>
     
 
@@ -1177,6 +1218,7 @@
         <rdfs:label xml:lang="en">region of Nepal</rdfs:label>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">NP</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">NPL</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000341"/>
     </owl:NamedIndividual>
     
 
@@ -1212,6 +1254,7 @@
         <rdfs:label xml:lang="en">region of Bhutan</rdfs:label>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">BT</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">BTN</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000341"/>
     </owl:NamedIndividual>
     
 
@@ -1223,6 +1266,7 @@
         <rdfs:label xml:lang="en">region of Montenegro </rdfs:label>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">ME</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">MNE</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000342"/>
     </owl:NamedIndividual>
     
 
@@ -1234,6 +1278,7 @@
         <rdfs:label xml:lang="en">region of Mongolia</rdfs:label>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">MN</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">MNG</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000341"/>
     </owl:NamedIndividual>
     
 
@@ -1268,6 +1313,7 @@
         <rdfs:label xml:lang="en">region of Namibia</rdfs:label>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">NA</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">NAM</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000340"/>
     </owl:NamedIndividual>
     
 
@@ -1279,6 +1325,7 @@
         <rdfs:label xml:lang="en">region of Botswana</rdfs:label>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">BW</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">BWA</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000340"/>
     </owl:NamedIndividual>
     
 
@@ -1290,6 +1337,7 @@
         <rdfs:label xml:lang="en">region of Myanmar</rdfs:label>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">MM</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">MMR</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000341"/>
     </owl:NamedIndividual>
     
 
@@ -1301,6 +1349,7 @@
         <rdfs:label xml:lang="en">region of Bosnia and Herzegovina</rdfs:label>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">BA</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">BIH</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000342"/>
     </owl:NamedIndividual>
     
 
@@ -1388,6 +1437,7 @@
         <rdfs:label xml:lang="en">region of Nicaragua</rdfs:label>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">NI</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">NIC</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000338"/>
     </owl:NamedIndividual>
     
 
@@ -1422,6 +1472,7 @@
         <rdfs:label xml:lang="en">region of Burundi</rdfs:label>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">BDI</obo:GEO_000000022>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">BI</obo:GEO_000000023>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000340"/>
     </owl:NamedIndividual>
     
 
@@ -1545,6 +1596,7 @@
         <rdfs:label xml:lang="en">region of Pakistan</rdfs:label>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">PAK</obo:GEO_000000022>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">PK</obo:GEO_000000023>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000341"/>
     </owl:NamedIndividual>
     
 
@@ -1556,6 +1608,7 @@
         <rdfs:label xml:lang="en">region of Oman</rdfs:label>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">OM</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">OMN</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000341"/>
     </owl:NamedIndividual>
     
 
@@ -1567,6 +1620,7 @@
         <rdfs:label xml:lang="en">region of Costa Rica</rdfs:label>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">CR</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">CRI</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000338"/>
     </owl:NamedIndividual>
     
 
@@ -1647,6 +1701,7 @@
         <rdfs:label xml:lang="en">region of Croatia</rdfs:label>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">HR</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">HRV</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000342"/>
     </owl:NamedIndividual>
     
 
@@ -1743,7 +1798,7 @@
         <rdfs:label xml:lang="en">region of Egypt</rdfs:label>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">EG</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">EGY</obo:GEO_000000022>
-        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000340"/>
+        <rdfs:comment xml:lang="en">spans Africa and Asia (source: CIA Factbook)</rdfs:comment>
     </owl:NamedIndividual>
     
 
@@ -1755,6 +1810,7 @@
         <rdfs:label xml:lang="en">region of Ecuador</rdfs:label>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">EC</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">ECU</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000338"/>
     </owl:NamedIndividual>
     
 
@@ -1788,6 +1844,7 @@
         <rdfs:label xml:lang="en">region of Estonia</rdfs:label>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">EE</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">EST</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000342"/>
     </owl:NamedIndividual>
     
 
@@ -1799,6 +1856,7 @@
         <rdfs:label xml:lang="en">region of Eritrea</rdfs:label>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">ER</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">ERI</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000340"/>
     </owl:NamedIndividual>
     
 
@@ -1810,6 +1868,7 @@
         <rdfs:label xml:lang="en">region of Equatorial Guinea</rdfs:label>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">GNQ</obo:GEO_000000022>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">GQ</obo:GEO_000000023>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000340"/>
     </owl:NamedIndividual>
     
 
@@ -1821,6 +1880,7 @@
         <rdfs:label xml:lang="en">region of El Salvador</rdfs:label>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">SLV</obo:GEO_000000022>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">SV</obo:GEO_000000023>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000338"/>
     </owl:NamedIndividual>
     
 
@@ -1879,6 +1939,7 @@
         <rdfs:label xml:lang="en">region of Republic of Moldova</rdfs:label>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">MD</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">MDA</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000342"/>
     </owl:NamedIndividual>
     
 
@@ -1902,6 +1963,7 @@
         <rdfs:label xml:lang="en">region of Qatar</rdfs:label>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">QA</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">QAT</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000341"/>
     </owl:NamedIndividual>
     
 
@@ -1970,6 +2032,7 @@
         <rdfs:label xml:lang="en">region of Russian Federation</rdfs:label>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">RU</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">RUS</obo:GEO_000000022>
+        <rdfs:comment xml:lang="en">Russia spans Europe and Asia (source: CIA Factbook)</rdfs:comment>
     </owl:NamedIndividual>
     
 
@@ -2028,6 +2091,7 @@
         <rdfs:label xml:lang="en">region of Finland</rdfs:label>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">FI</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">FIN</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000342"/>
     </owl:NamedIndividual>
     
 
@@ -2064,6 +2128,7 @@
         <rdfs:label xml:lang="en">region of Saudi Arabia</rdfs:label>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">SA</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">SAU</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000341"/>
     </owl:NamedIndividual>
     
 
@@ -2231,6 +2296,7 @@
         <rdfs:label xml:lang="en">region of Suriname</rdfs:label>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">SR</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">SUR</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000339"/>
     </owl:NamedIndividual>
     
 
@@ -2243,7 +2309,7 @@
         <obo:GEO_000000023 rdf:datatype="&xsd;string">DE</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">DEU</obo:GEO_000000022>
         <obo:IAO_0000111 xml:lang="en">region of Germany ca. 1990-present</obo:IAO_0000111>
-        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000722"/>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000342"/>
     </owl:NamedIndividual>
     
 
@@ -2267,6 +2333,7 @@
         <rdfs:label xml:lang="en">region of Georgia</rdfs:label>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">GE</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">GEO</obo:GEO_000000022>
+        <rdfs:comment xml:lang="en">spans Europe and Asia</rdfs:comment>
     </owl:NamedIndividual>
     
 
@@ -2358,5 +2425,5 @@
 
 
 
-<!-- Generated by the OWL API (version 3.5.0) http://owlapi.sourceforge.net -->
+<!-- Generated by the OWL API (version 3.5.1) http://owlapi.sourceforge.net -->
 
