@@ -1121,7 +1121,7 @@ Note: this definition was taken over from &quot;geopolitical organization&quot;.
     <!-- http://purl.obolibrary.org/obo/GEO_000000787 -->
 
     <Class rdf:about="&obo;GEO_000000787">
-        <rdfs:label xml:lang="en">geodetic datum</rdfs:label>
+        <rdfs:label xml:lang="en">geodetic coordinate measurement datum</rdfs:label>
         <equivalentClass>
             <Class>
                 <intersectionOf rdf:parseType="Collection">
