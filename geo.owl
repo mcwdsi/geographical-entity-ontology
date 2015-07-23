@@ -30,7 +30,7 @@
         <dc:creator xml:lang="en">William R. Hogan</dc:creator>
         <versionInfo xml:lang="en">development version 2014-07-15</versionInfo>
         <dc:license xml:lang="en">https://creativecommons.org/licenses/by/3.0/</dc:license>
-        <imports rdf:resource="http://ifomis.org/bfo/1.1"/>
+        <imports rdf:resource="http://www.ifomis.org/bfo/1.1"/>
         <imports rdf:resource="https://information-artifact-ontology.googlecode.com/svn/releases/2011-08-04/ontology/ontology-metadata.owl"/>
     </Ontology>
     
