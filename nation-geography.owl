@@ -2209,7 +2209,7 @@
         <rdf:type rdf:resource="&obo;GEO_000000372"/>
         <rdfs:label xml:lang="en">region of greater Sudan</rdfs:label>
         <obo:GEO_000000021 rdf:datatype="&xsd;string">736</obo:GEO_000000021>
-        <rdfs:comment xml:lang="en">The region of Sudan prior to split of Sudan and South Sudan</rdfs:comment>
+        <rdfs:comment xml:lang="en">The region of Sudan from its formation in 1956 until its split from South Sudan in 2011.</rdfs:comment>
         <obo:IAO_0000111 xml:lang="en">combined region of Sudan and South Sudan</obo:IAO_0000111>
         <obo:IAO_0000111 xml:lang="en">region of Sudan ca. 1956-2011</obo:IAO_0000111>
         <obo:BFO_0000137 rdf:resource="&obo;GEO_000000340"/>
@@ -2402,10 +2402,11 @@
 
     <owl:NamedIndividual rdf:about="&obo;GEO_000000784">
         <rdf:type rdf:resource="&obo;GEO_000000372"/>
+        <rdfs:label xml:lang="en">region of Sudan</rdfs:label>
         <obo:GEO_000000021 rdf:datatype="&xsd;string">729</obo:GEO_000000021>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">SD</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">SDN</obo:GEO_000000022>
-        <obo:IAO_0000111 xml:lang="en">region of Sudan</obo:IAO_0000111>
+        <obo:IAO_0000111 xml:lang="en">region of Sudan ca. 2011-present</obo:IAO_0000111>
         <obo:BFO_0000137 rdf:resource="&obo;GEO_000000714"/>
     </owl:NamedIndividual>
     
@@ -2415,10 +2416,11 @@
 
     <owl:NamedIndividual rdf:about="&obo;GEO_000000785">
         <rdf:type rdf:resource="&obo;GEO_000000372"/>
+        <rdfs:label xml:lang="en">region of South Sudan</rdfs:label>
         <obo:GEO_000000021 rdf:datatype="&xsd;string">728</obo:GEO_000000021>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">SS</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">SSD</obo:GEO_000000022>
-        <obo:IAO_0000111 xml:lang="en">region of South Sudan</obo:IAO_0000111>
+        <obo:IAO_0000111 xml:lang="en">region of South Sudan ca. 2011-present</obo:IAO_0000111>
         <obo:BFO_0000137 rdf:resource="&obo;GEO_000000714"/>
     </owl:NamedIndividual>
 </rdf:RDF>
