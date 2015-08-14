@@ -9,31 +9,33 @@
     <!ENTITY rdfs "http://www.w3.org/2000/01/rdf-schema#" >
     <!ENTITY rdf "http://www.w3.org/1999/02/22-rdf-syntax-ns#" >
     <!ENTITY oboInOwl "http://www.geneontology.org/formats/oboInOwl#" >
+    <!ENTITY protege "http://protege.stanford.edu/plugins/owl/protege#" >
 ]>
 
 
-<rdf:RDF xmlns="http://www.w3.org/2002/07/owl#"
-     xml:base="http://www.w3.org/2002/07/owl"
+<rdf:RDF xmlns="&obo;geo/dev/geo.owl#"
+     xml:base="&obo;geo/dev/geo.owl"
      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:owl="http://www.w3.org/2002/07/owl#"
      xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#"
+     xmlns:protege="http://protege.stanford.edu/plugins/owl/protege#"
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
      xmlns:obo="http://purl.obolibrary.org/obo/"
      xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <Ontology rdf:about="&obo;geo/dev/geo.owl">
+    <owl:Ontology rdf:about="&obo;geo/dev/geo.owl">
         <dc:contributor xml:lang="en">Amanda Hicks</dc:contributor>
         <dc:title xml:lang="en">Geographical Entity Ontology</dc:title>
         <dc:contributor xml:lang="en">Katrina M. Donovan</dc:contributor>
         <dc:contributor xml:lang="en">Mathias Brochhausen</dc:contributor>
         <rdfs:comment xml:lang="en">When citing the Geographical Entities Ontology (GEO), use the permanent URL of the ontology: http://purl.obolibrary.org/obo/geo.owl.  When referencing a specific component of GEO such as a class, object property, or individual, use that component&apos;s Uniform Resource Identifier (URI).</rdfs:comment>
         <dc:creator xml:lang="en">William R. Hogan</dc:creator>
-        <versionInfo xml:lang="en">development version 2014-07-15</versionInfo>
+        <owl:versionInfo xml:lang="en">development version 2014-07-15</owl:versionInfo>
         <dc:license xml:lang="en">https://creativecommons.org/licenses/by/3.0/</dc:license>
-        <imports rdf:resource="&obo;iao/2015-02-23/ontology-metadata.owl"/>
-        <imports rdf:resource="http://www.ifomis.org/bfo/1.1"/>
-        <imports rdf:resource="https://information-artifact-ontology.googlecode.com/svn/releases/2011-08-04/ontology/ontology-metadata.owl"/>
-    </Ontology>
+        <owl:imports rdf:resource="&obo;bfo/2014-05-03/classes-only.owl"/>
+        <owl:imports rdf:resource="&obo;iao/dev/ontology-metadata.owl"/>
+        <owl:imports rdf:resource="&obo;ro/releases/2015-02-11/core.owl"/>
+    </owl:Ontology>
     
 
 
@@ -66,65 +68,65 @@
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000009 -->
 
-    <AnnotationProperty rdf:about="&obo;GEO_000000009">
+    <owl:AnnotationProperty rdf:about="&obo;GEO_000000009">
         <rdfs:label xml:lang="en">US State Two Digit Identifier</rdfs:label>
-    </AnnotationProperty>
+    </owl:AnnotationProperty>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000010 -->
 
-    <AnnotationProperty rdf:about="&obo;GEO_000000010">
+    <owl:AnnotationProperty rdf:about="&obo;GEO_000000010">
         <rdfs:label xml:lang="en">US State Two Letter Abbreviation</rdfs:label>
-    </AnnotationProperty>
+    </owl:AnnotationProperty>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000011 -->
 
-    <AnnotationProperty rdf:about="&obo;GEO_000000011">
+    <owl:AnnotationProperty rdf:about="&obo;GEO_000000011">
         <rdfs:label xml:lang="en">US State Ens Identifier</rdfs:label>
-    </AnnotationProperty>
+    </owl:AnnotationProperty>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000021 -->
 
-    <AnnotationProperty rdf:about="&obo;GEO_000000021">
+    <owl:AnnotationProperty rdf:about="&obo;GEO_000000021">
         <rdfs:label xml:lang="en">UN Numerical Code</rdfs:label>
-    </AnnotationProperty>
+    </owl:AnnotationProperty>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000022 -->
 
-    <AnnotationProperty rdf:about="&obo;GEO_000000022">
+    <owl:AnnotationProperty rdf:about="&obo;GEO_000000022">
         <rdfs:label xml:lang="en">ISO 3166-1-alpha-3 code</rdfs:label>
-    </AnnotationProperty>
+    </owl:AnnotationProperty>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000023 -->
 
-    <AnnotationProperty rdf:about="&obo;GEO_000000023">
+    <owl:AnnotationProperty rdf:about="&obo;GEO_000000023">
         <rdfs:label xml:lang="en">ISO 3166-1-alpha-2 code</rdfs:label>
-    </AnnotationProperty>
+    </owl:AnnotationProperty>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000358 -->
 
-    <AnnotationProperty rdf:about="&obo;GEO_000000358">
+    <owl:AnnotationProperty rdf:about="&obo;GEO_000000358">
         <rdfs:label xml:lang="en">Proposed Apollo Location Code</rdfs:label>
-    </AnnotationProperty>
+    </owl:AnnotationProperty>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000359 -->
 
-    <AnnotationProperty rdf:about="&obo;GEO_000000359">
+    <owl:AnnotationProperty rdf:about="&obo;GEO_000000359">
         <rdfs:label xml:lang="en">ISO 3166-2 code</rdfs:label>
-    </AnnotationProperty>
+    </owl:AnnotationProperty>
     
 
 
@@ -246,6 +248,12 @@
     
 
 
+    <!-- http://purl.org/dc/elements/1.1/contributor -->
+
+    <owl:AnnotationProperty rdf:about="&dc;contributor"/>
+    
+
+
     <!-- http://purl.org/dc/elements/1.1/source -->
 
     <rdf:Description rdf:about="&dc;source">
@@ -282,46 +290,22 @@
     
 
 
-    <!-- http://purl.obolibrary.org/obo/BFO_0000056 -->
-
-    <ObjectProperty rdf:about="&obo;BFO_0000056">
-        <rdfs:label xml:lang="en">participates in</rdfs:label>
-        <obo:IAO_0000412 rdf:datatype="&xsd;string">http://purl.obolibrary.org/obo/obi.owl</obo:IAO_0000412>
-        <obo:IAO_0000111 xml:lang="en">participates in</obo:IAO_0000111>
-        <obo:IAO_0000118 xml:lang="en">participates_in</obo:IAO_0000118>
-        <rdfs:subPropertyOf rdf:resource="&owl;topObjectProperty"/>
-    </ObjectProperty>
-    
-
-
-    <!-- http://purl.obolibrary.org/obo/BFO_0000057 -->
-
-    <ObjectProperty rdf:about="&obo;BFO_0000057">
-        <rdfs:label xml:lang="en">has participant</rdfs:label>
-        <obo:IAO_0000412 rdf:datatype="&xsd;string">http://purl.obolibrary.org/obo/obi.owl</obo:IAO_0000412>
-        <obo:IAO_0000111 xml:lang="en">has participant</obo:IAO_0000111>
-        <obo:IAO_0000118 xml:lang="en">has_participant</obo:IAO_0000118>
-        <rdfs:subPropertyOf rdf:resource="&owl;topObjectProperty"/>
-    </ObjectProperty>
-    
-
-
     <!-- http://purl.obolibrary.org/obo/BFO_0000075 -->
 
-    <ObjectProperty rdf:about="&obo;BFO_0000075">
+    <owl:ObjectProperty rdf:about="&obo;BFO_0000075">
         <rdfs:label xml:lang="en">is aggregate of</rdfs:label>
         <obo:IAO_0000412 rdf:datatype="&xsd;string">http://purl.obolibrary.org/obo/omrse.owl</obo:IAO_0000412>
         <obo:IAO_0000118 xml:lang="en">aggregate of</obo:IAO_0000118>
         <obo:IAO_0000118 xml:lang="en">aggregate_of</obo:IAO_0000118>
-        <inverseOf rdf:resource="&obo;GEO_000000328"/>
+        <owl:inverseOf rdf:resource="&obo;GEO_000000328"/>
         <rdfs:subPropertyOf rdf:resource="&owl;topObjectProperty"/>
-    </ObjectProperty>
+    </owl:ObjectProperty>
     
 
 
     <!-- http://purl.obolibrary.org/obo/BFO_0000110 -->
 
-    <ObjectProperty rdf:about="&obo;BFO_0000110">
+    <owl:ObjectProperty rdf:about="&obo;BFO_0000110">
         <rdfs:label xml:lang="en">has continuant part at all times</rdfs:label>
         <obo:IAO_0000412 rdf:datatype="&xsd;string">http://purl.obolibrary.org/obo/bfo.owl</obo:IAO_0000412>
         <obo:IAO_0000602>(iff (hasContinuantPartAt a b t) (continuantPartOfAt b a t)) // axiom label in BFO2 CLIF: [006-001] </obo:IAO_0000602>
@@ -333,13 +317,13 @@
         <obo:BFO_0000180>hasContinuantPartAt</obo:BFO_0000180>
         <rdfs:isDefinedBy rdf:resource="&obo;bfo.owl"/>
         <rdfs:subPropertyOf rdf:resource="&owl;topObjectProperty"/>
-    </ObjectProperty>
+    </owl:ObjectProperty>
     
 
 
     <!-- http://purl.obolibrary.org/obo/BFO_0000111 -->
 
-    <ObjectProperty rdf:about="&obo;BFO_0000111">
+    <owl:ObjectProperty rdf:about="&obo;BFO_0000111">
         <rdfs:label xml:lang="en">has proper continuant part at all times</rdfs:label>
         <obo:IAO_0000412 rdf:datatype="&xsd;string">http://purl.obolibrary.org/obo/bfo.owl</obo:IAO_0000412>
         <obo:BFO_0000180>hasProperContinuantPartAt</obo:BFO_0000180>
@@ -348,13 +332,13 @@
         <obo:IAO_0000115 xml:lang="en">b has_proper_continuant_part c at t = Def. c proper_continuant_part_of b at t. [XXX-001</obo:IAO_0000115>
         <rdfs:subPropertyOf rdf:resource="&obo;BFO_0000110"/>
         <rdfs:isDefinedBy rdf:resource="&obo;bfo.owl"/>
-    </ObjectProperty>
+    </owl:ObjectProperty>
     
 
 
     <!-- http://purl.obolibrary.org/obo/BFO_0000137 -->
 
-    <ObjectProperty rdf:about="&obo;BFO_0000137">
+    <owl:ObjectProperty rdf:about="&obo;BFO_0000137">
         <rdf:type rdf:resource="&owl;TransitiveProperty"/>
         <rdfs:label xml:lang="en">proper part of continuant at all times</rdfs:label>
         <obo:IAO_0000412 rdf:datatype="&xsd;string">http://purl.obolibrary.org/obo/bfo.owl</obo:IAO_0000412>
@@ -364,15 +348,15 @@
         <obo:IAO_0000602>(iff (properContinuantPartOfAt a b t) (and (continuantPartOfAt a b t) (not (= a b)))) // axiom label in BFO2 CLIF: [004-001] </obo:IAO_0000602>
         <obo:IAO_0000116>Alan Ruttenberg: This is a binary version of a ternary time-indexed, instance-level, relation. The BFO reading of the binary relation &apos;proper part of continuant at all times@en&apos; is: forall(t) exists_at(x,t) -&gt; exists_at(y,t) and &apos;proper part of continuant@en(x,y,t)&apos;.</obo:IAO_0000116>
         <rdfs:subPropertyOf rdf:resource="&obo;BFO_0000177"/>
-        <inverseOf rdf:resource="&obo;BFO_0000187"/>
+        <owl:inverseOf rdf:resource="&obo;BFO_0000187"/>
         <rdfs:isDefinedBy rdf:resource="&obo;bfo.owl"/>
-    </ObjectProperty>
+    </owl:ObjectProperty>
     
 
 
     <!-- http://purl.obolibrary.org/obo/BFO_0000177 -->
 
-    <ObjectProperty rdf:about="&obo;BFO_0000177">
+    <owl:ObjectProperty rdf:about="&obo;BFO_0000177">
         <rdf:type rdf:resource="&owl;ReflexiveProperty"/>
         <rdf:type rdf:resource="&owl;TransitiveProperty"/>
         <rdfs:label xml:lang="en">part of continuant at all times</rdfs:label>
@@ -404,13 +388,13 @@
         <obo:IAO_0000112 xml:lang="en">the Northern hemisphere of the planet Earth is a part of the planet Earth at all times at which the planet Earth exists.</obo:IAO_0000112>
         <rdfs:isDefinedBy rdf:resource="&obo;bfo.owl"/>
         <rdfs:subPropertyOf rdf:resource="&owl;topObjectProperty"/>
-    </ObjectProperty>
+    </owl:ObjectProperty>
     
 
 
     <!-- http://purl.obolibrary.org/obo/BFO_0000187 -->
 
-    <ObjectProperty rdf:about="&obo;BFO_0000187">
+    <owl:ObjectProperty rdf:about="&obo;BFO_0000187">
         <rdfs:label xml:lang="en">has continuant part at all times that part exists</rdfs:label>
         <obo:IAO_0000412 rdf:datatype="&xsd;string">http://purl.obolibrary.org/obo/bfo.owl</obo:IAO_0000412>
         <obo:IAO_0000116>[copied from inverse property &apos;part of continuant at all times&apos;] BFO2 Reference: continuant</obo:IAO_0000116>
@@ -426,21 +410,21 @@
         <obo:IAO_0000116>[copied from inverse property &apos;part of continuant at all times&apos;] BFO 2 Reference: a (continuant or occurrent) part of itself. We appreciate that this is counterintuitive for some users, since it implies for example that President Obama is a part of himself. However it brings benefits in simplifying the logical formalism, and it captures an important feature of identity, namely that it is the limit case of mereological inclusion.</obo:IAO_0000116>
         <rdfs:isDefinedBy rdf:resource="&obo;bfo.owl"/>
         <rdfs:subPropertyOf rdf:resource="&owl;topObjectProperty"/>
-    </ObjectProperty>
+    </owl:ObjectProperty>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000328 -->
 
-    <ObjectProperty rdf:about="&obo;GEO_000000328">
+    <owl:ObjectProperty rdf:about="&obo;GEO_000000328">
         <rdfs:label xml:lang="en">is in aggregate</rdfs:label>
-    </ObjectProperty>
+    </owl:ObjectProperty>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000329 -->
 
-    <ObjectProperty rdf:about="&obo;GEO_000000329">
+    <owl:ObjectProperty rdf:about="&obo;GEO_000000329">
         <rdf:type rdf:resource="&owl;IrreflexiveProperty"/>
         <rdfs:label xml:lang="en">is subordinate authority of</rdfs:label>
         <rdfs:comment>
@@ -452,13 +436,13 @@ Natural language definition: A governing organization G1 is subordinate to anoth
         <obo:IAO_0000115 xml:lang="en">A governing organization G1 is subordinate to another governing organization G2 iff there is some authority possessed by G2 that is not possessed by G1 and G1&apos;s jurisdiction falls within the relevant jurisdiction of G2.</obo:IAO_0000115>
         <rdfs:range rdf:resource="&obo;GEO_000000400"/>
         <rdfs:domain rdf:resource="&obo;GEO_000000400"/>
-    </ObjectProperty>
+    </owl:ObjectProperty>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000336 -->
 
-    <ObjectProperty rdf:about="&obo;GEO_000000336">
+    <owl:ObjectProperty rdf:about="&obo;GEO_000000336">
         <rdf:type rdf:resource="&owl;AsymmetricProperty"/>
         <rdf:type rdf:resource="&owl;IrreflexiveProperty"/>
         <rdfs:label xml:lang="en">has jurisdiction in</rdfs:label>
@@ -474,25 +458,25 @@ otherwise, we&apos;d end up creating some mereological sum of all the islands, c
         <rdfs:comment xml:lang="en">if a has_jurisdiction_in b, then a has_jurisdiction_in all parts of b.</rdfs:comment>
         <rdfs:range rdf:resource="&obo;GEO_000000375"/>
         <rdfs:domain rdf:resource="&obo;GEO_000000400"/>
-    </ObjectProperty>
+    </owl:ObjectProperty>
     
 
 
     <!-- http://purl.obolibrary.org/obo/IAO_0000039 -->
 
-    <ObjectProperty rdf:about="&obo;IAO_0000039">
+    <owl:ObjectProperty rdf:about="&obo;IAO_0000039">
         <rdfs:label xml:lang="en">has measurement unit label</rdfs:label>
         <obo:IAO_0000412 rdf:datatype="&xsd;string">http://purl.obolibrary.org/obo/obi.owl</obo:IAO_0000412>
         <obo:IAO_0000115>A relation between a value specification and its unit of measurement.</obo:IAO_0000115>
         <obo:IAO_0000111 xml:lang="en">has measurement unit label</obo:IAO_0000111>
         <rdfs:subPropertyOf rdf:resource="&owl;topObjectProperty"/>
-    </ObjectProperty>
+    </owl:ObjectProperty>
     
 
 
     <!-- http://purl.obolibrary.org/obo/OBI_0000293 -->
 
-    <ObjectProperty rdf:about="&obo;OBI_0000293">
+    <owl:ObjectProperty rdf:about="&obo;OBI_0000293">
         <rdfs:label xml:lang="en">has_specified_input</rdfs:label>
         <obo:IAO_0000116 rdf:datatype="&xsd;string">8/17/09: specified inputs of one process are not necessarily specified inputs of a larger process that it is part of. This is in contrast to how &apos;has participant&apos; works.</obo:IAO_0000116>
         <obo:IAO_0000117 rdf:datatype="&xsd;string">PERSON: Bjoern Peters</obo:IAO_0000117>
@@ -503,15 +487,15 @@ otherwise, we&apos;d end up creating some mereological sum of all the islands, c
         <obo:IAO_0000117 xml:lang="en">PERSON: Alan Ruttenberg</obo:IAO_0000117>
         <obo:IAO_0000111 xml:lang="en">has_specified_input</obo:IAO_0000111>
         <obo:IAO_0000112 xml:lang="en">see is_input_of example_of_usage</obo:IAO_0000112>
-        <rdfs:subPropertyOf rdf:resource="&obo;BFO_0000057"/>
         <obo:IAO_0000114 rdf:resource="&obo;IAO_0000122"/>
-    </ObjectProperty>
+        <rdfs:subPropertyOf rdf:resource="&obo;RO_0000057"/>
+    </owl:ObjectProperty>
     
 
 
     <!-- http://purl.obolibrary.org/obo/OBI_0000295 -->
 
-    <ObjectProperty rdf:about="&obo;OBI_0000295">
+    <owl:ObjectProperty rdf:about="&obo;OBI_0000295">
         <rdfs:label xml:lang="en">is_specified_input_of</rdfs:label>
         <obo:IAO_0000117 rdf:datatype="&xsd;string">PERSON:Bjoern Peters</obo:IAO_0000117>
         <obo:IAO_0000412 rdf:datatype="&xsd;string">http://purl.obolibrary.org/obo/obi.owl</obo:IAO_0000412>
@@ -519,15 +503,15 @@ otherwise, we&apos;d end up creating some mereological sum of all the islands, c
         <obo:IAO_0000117 xml:lang="en">Alan Ruttenberg</obo:IAO_0000117>
         <obo:IAO_0000111 xml:lang="en">is_specified_input_of</obo:IAO_0000111>
         <obo:IAO_0000112 xml:lang="en">some Autologous EBV(Epstein-Barr virus)-transformed B-LCL (B lymphocyte cell line) is_input_for instance of Chromum Release Assay described at https://wiki.cbil.upenn.edu/obiwiki/index.php/Chromium_Release_assay</obo:IAO_0000112>
-        <rdfs:subPropertyOf rdf:resource="&obo;BFO_0000056"/>
         <obo:IAO_0000114 rdf:resource="&obo;IAO_0000122"/>
-    </ObjectProperty>
+        <rdfs:subPropertyOf rdf:resource="&obo;RO_0000056"/>
+    </owl:ObjectProperty>
     
 
 
     <!-- http://purl.obolibrary.org/obo/OBI_0000299 -->
 
-    <ObjectProperty rdf:about="&obo;OBI_0000299">
+    <owl:ObjectProperty rdf:about="&obo;OBI_0000299">
         <rdfs:label xml:lang="en">has_specified_output</rdfs:label>
         <obo:IAO_0000117 rdf:datatype="&xsd;string">PERSON: Bjoern Peters</obo:IAO_0000117>
         <obo:IAO_0000117 rdf:datatype="&xsd;string">PERSON: Larry Hunter</obo:IAO_0000117>
@@ -536,30 +520,30 @@ otherwise, we&apos;d end up creating some mereological sum of all the islands, c
         <obo:IAO_0000115 xml:lang="en">A relation between a planned process and a continuant participating in that process. The presence of the continuant at the end of the process is explicitly specified in the objective specification which the process realizes the concretization of.</obo:IAO_0000115>
         <obo:IAO_0000117 xml:lang="en">PERSON: Alan Ruttenberg</obo:IAO_0000117>
         <obo:IAO_0000111 xml:lang="en">has_specified_output</obo:IAO_0000111>
-        <rdfs:subPropertyOf rdf:resource="&obo;BFO_0000057"/>
         <obo:IAO_0000114 rdf:resource="&obo;IAO_0000122"/>
-    </ObjectProperty>
+        <rdfs:subPropertyOf rdf:resource="&obo;RO_0000057"/>
+    </owl:ObjectProperty>
     
 
 
     <!-- http://purl.obolibrary.org/obo/OBI_0000312 -->
 
-    <ObjectProperty rdf:about="&obo;OBI_0000312">
+    <owl:ObjectProperty rdf:about="&obo;OBI_0000312">
         <rdfs:label xml:lang="en">is_specified_output_of</rdfs:label>
         <obo:IAO_0000117 rdf:datatype="&xsd;string">PERSON:Bjoern Peters</obo:IAO_0000117>
         <obo:IAO_0000412 rdf:datatype="&xsd;string">http://purl.obolibrary.org/obo/obi.owl</obo:IAO_0000412>
         <obo:IAO_0000115 xml:lang="en">A relation between a planned process and a continuant participating in that process. The presence of the continuant at the end of the process is explicitly specified in the objective specification which the process realizes the concretization of.</obo:IAO_0000115>
         <obo:IAO_0000117 xml:lang="en">Alan Ruttenberg</obo:IAO_0000117>
         <obo:IAO_0000111 xml:lang="en">is_specified_output_of</obo:IAO_0000111>
-        <rdfs:subPropertyOf rdf:resource="&obo;BFO_0000056"/>
         <obo:IAO_0000114 rdf:resource="&obo;IAO_0000122"/>
-    </ObjectProperty>
+        <rdfs:subPropertyOf rdf:resource="&obo;RO_0000056"/>
+    </owl:ObjectProperty>
     
 
 
     <!-- http://purl.obolibrary.org/obo/OBI_0001938 -->
 
-    <ObjectProperty rdf:about="&obo;OBI_0001938">
+    <owl:ObjectProperty rdf:about="&obo;OBI_0001938">
         <rdfs:label>has value specification</rdfs:label>
         <obo:IAO_0000412 rdf:datatype="&xsd;string">http://purl.obolibrary.org/obo/obi.owl</obo:IAO_0000412>
         <obo:IAO_0000117>PERSON: James A. Overton</obo:IAO_0000117>
@@ -568,7 +552,31 @@ otherwise, we&apos;d end up creating some mereological sum of all the islands, c
         <obo:IAO_0000111>has value specification</obo:IAO_0000111>
         <obo:IAO_0000114 rdf:resource="&obo;IAO_0000120"/>
         <rdfs:subPropertyOf rdf:resource="&owl;topObjectProperty"/>
-    </ObjectProperty>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/RO_0000056 -->
+
+    <owl:ObjectProperty rdf:about="&obo;RO_0000056">
+        <rdfs:label xml:lang="en">participates in</rdfs:label>
+        <obo:IAO_0000412 rdf:datatype="&xsd;string">http://purl.obolibrary.org/obo/obi.owl</obo:IAO_0000412>
+        <obo:IAO_0000111 xml:lang="en">participates in</obo:IAO_0000111>
+        <obo:IAO_0000118 xml:lang="en">participates_in</obo:IAO_0000118>
+        <rdfs:subPropertyOf rdf:resource="&owl;topObjectProperty"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/RO_0000057 -->
+
+    <owl:ObjectProperty rdf:about="&obo;RO_0000057">
+        <rdfs:label xml:lang="en">has participant</rdfs:label>
+        <obo:IAO_0000412 rdf:datatype="&xsd;string">http://purl.obolibrary.org/obo/obi.owl</obo:IAO_0000412>
+        <obo:IAO_0000111 xml:lang="en">has participant</obo:IAO_0000111>
+        <obo:IAO_0000118 xml:lang="en">has_participant</obo:IAO_0000118>
+        <rdfs:subPropertyOf rdf:resource="&owl;topObjectProperty"/>
+    </owl:ObjectProperty>
     
 
 
@@ -583,187 +591,205 @@ otherwise, we&apos;d end up creating some mereological sum of all the islands, c
     
 
 
+    <!-- http://purl.obolibrary.org/obo/BFO_0000004 -->
+
+    <owl:Class rdf:about="&obo;BFO_0000004"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/BFO_0000027 -->
+
+    <owl:Class rdf:about="&obo;BFO_0000027"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/BFO_0000040 -->
+
+    <owl:Class rdf:about="&obo;BFO_0000040"/>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/GEO_000000001 -->
 
-    <Class rdf:about="&obo;GEO_000000001">
+    <owl:Class rdf:about="&obo;GEO_000000001">
         <rdfs:label xml:lang="en">geopolitical entity</rdfs:label>
         <rdfs:subClassOf rdf:resource="&oboInOwl;ObsoleteClass"/>
-        <deprecated rdf:datatype="&xsd;boolean">true</deprecated>
+        <owl:deprecated rdf:datatype="&xsd;boolean">true</owl:deprecated>
         <obo:IAO_0000115 xml:lang="en">An organization that governs the people living in a particular geographical region or aggregate of geographical regions.  The geographical region it governs can change over time (such as the westward expansion of the United States and the addition of Hawaii)</obo:IAO_0000115>
         <rdfs:comment xml:lang="en">In some cases, geopolitical entities possess uninhabited geographical regions.  However, it is that case that it controls the movement of people in and out of those regions, and its laws apply to those regions.</rdfs:comment>
         <obo:IAO_0000117 xml:lang="en">William R. Hogan</obo:IAO_0000117>
-    </Class>
+    </owl:Class>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000002 -->
 
-    <Class rdf:about="&obo;GEO_000000002">
+    <owl:Class rdf:about="&obo;GEO_000000002">
         <rdfs:label xml:lang="en">obsolete group of governmental organizations</rdfs:label>
-        <equivalentClass>
-            <Restriction>
-                <onProperty rdf:resource="&obo;BFO_0000075"/>
-                <someValuesFrom>
-                    <Class>
-                        <unionOf rdf:parseType="Collection">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="&obo;BFO_0000075"/>
+                <owl:someValuesFrom>
+                    <owl:Class>
+                        <owl:unionOf rdf:parseType="Collection">
                             <rdf:Description rdf:about="&obo;GEO_000000391"/>
                             <rdf:Description rdf:about="&obo;GEO_000000400"/>
-                        </unionOf>
-                    </Class>
-                </someValuesFrom>
-            </Restriction>
-        </equivalentClass>
-        <rdfs:subClassOf rdf:resource="http://www.ifomis.org/bfo/1.1/snap#IndependentContinuant"/>
-        <deprecated rdf:datatype="&xsd;boolean">true</deprecated>
+                        </owl:unionOf>
+                    </owl:Class>
+                </owl:someValuesFrom>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="&obo;BFO_0000004"/>
+        <owl:deprecated rdf:datatype="&xsd;boolean">true</owl:deprecated>
         <obo:IAO_0000115 xml:lang="en">An aggregate of geopoliticial entities.  Examples include the group of states of the United States, the nations of North America, and so on.</obo:IAO_0000115>
         <obo:IAO_0000117 xml:lang="en">William R. Hogan</obo:IAO_0000117>
         <obo:IAO_0000111 xml:lang="en">obsolete aggregate of governmental organizations</obo:IAO_0000111>
         <rdfs:comment xml:lang="en">taken over by GEO_0000000401</rdfs:comment>
-    </Class>
+    </owl:Class>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000003 -->
 
-    <Class rdf:about="&obo;GEO_000000003">
+    <owl:Class rdf:about="&obo;GEO_000000003">
         <rdfs:label xml:lang="en">nation</rdfs:label>
         <rdfs:subClassOf rdf:resource="&oboInOwl;ObsoleteClass"/>
-        <deprecated rdf:datatype="&xsd;boolean">true</deprecated>
+        <owl:deprecated rdf:datatype="&xsd;boolean">true</owl:deprecated>
         <obo:IAO_0000115 xml:lang="en">A geopolitical entity that is self contained and recognizes no higher political authority than itself.</obo:IAO_0000115>
         <obo:IAO_0000117 xml:lang="en">William R. Hogan</obo:IAO_0000117>
-    </Class>
+    </owl:Class>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000004 -->
 
-    <Class rdf:about="&obo;GEO_000000004">
+    <owl:Class rdf:about="&obo;GEO_000000004">
         <rdfs:label xml:lang="en">subnational entity</rdfs:label>
-        <equivalentClass>
-            <Class>
-                <intersectionOf rdf:parseType="Collection">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
                     <rdf:Description rdf:about="&obo;GEO_000000400"/>
-                    <Restriction>
-                        <onProperty rdf:resource="&obo;GEO_000000329"/>
-                        <someValuesFrom rdf:resource="&obo;GEO_000000396"/>
-                    </Restriction>
-                </intersectionOf>
-            </Class>
-        </equivalentClass>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="&obo;GEO_000000329"/>
+                        <owl:someValuesFrom rdf:resource="&obo;GEO_000000396"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
         <rdfs:subClassOf rdf:resource="&obo;GEO_000000400"/>
         <obo:IAO_0000117 xml:lang="en">Amanda Hicks</obo:IAO_0000117>
         <obo:IAO_0000117 xml:lang="en">William R. Hogan</obo:IAO_0000117>
         <obo:IAO_0000115 xml:lang="en">a governmental organization that has a local, regional, or territorial government that recognizes a sovereign state as its higher political authority</obo:IAO_0000115>
-    </Class>
+    </owl:Class>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000005 -->
 
-    <Class rdf:about="&obo;GEO_000000005">
+    <owl:Class rdf:about="&obo;GEO_000000005">
         <rdfs:label xml:lang="en">major administrative subdivision</rdfs:label>
         <rdfs:subClassOf rdf:resource="&obo;GEO_000000004"/>
         <obo:IAO_0000115 xml:lang="en">A subnational entity that is the primary organizational member of a nation, is subject to the full set of laws of the nation, enjoys all the privileges established under the laws of the nation, is not a member of any other geopolitical entity, and itself governs a part of the geographical region governed by the nation.</obo:IAO_0000115>
         <obo:IAO_0000117 xml:lang="en">Amanda Hicks</obo:IAO_0000117>
         <obo:IAO_0000117 xml:lang="en">William R. Hogan</obo:IAO_0000117>
         <rdfs:comment xml:lang="en">examples: Northern Ireland, Florida</rdfs:comment>
-    </Class>
+    </owl:Class>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000006 -->
 
-    <Class rdf:about="&obo;GEO_000000006">
+    <owl:Class rdf:about="&obo;GEO_000000006">
         <rdfs:label xml:lang="en">geopolitical dependency</rdfs:label>
         <rdfs:subClassOf rdf:resource="&obo;GEO_000000004"/>
         <obo:IAO_0000115 xml:lang="en">A subnational entity that does not possess full political independence or sovereignty as a sovereign state, but remains politically outside of the controlling state and controls a geographical region that is outside the controlling state&apos;s integral region.</obo:IAO_0000115>
         <obo:IAO_0000117 xml:lang="en">Amanda Hicks</obo:IAO_0000117>
         <rdfs:comment xml:lang="en">Typically, the common feature is that the dependency does not conduct foreign affairs, and relegates this authority to the sovereign state.  But otherwise, it is largely or completely autonomous relative to the administrative subdivisions.  Examples include Puerto Rico (U.S.), Guam (U.S.), Greenland (Denmark), French Polynesia (France), and Falkland Islands (United Kingdom). </rdfs:comment>
         <obo:IAO_0000117 xml:lang="en">William R. Hogan</obo:IAO_0000117>
-    </Class>
+    </owl:Class>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000007 -->
 
-    <Class rdf:about="&obo;GEO_000000007">
+    <owl:Class rdf:about="&obo;GEO_000000007">
         <rdfs:label xml:lang="en">aggregate of major administrative subdivisions</rdfs:label>
         <rdfs:label xml:lang="en">group of major administrative subdivisions</rdfs:label>
-        <equivalentClass>
-            <Class>
-                <intersectionOf rdf:parseType="Collection">
-                    <Class>
-                        <complementOf rdf:resource="&obo;GEO_000000005"/>
-                    </Class>
-                    <Restriction>
-                        <onProperty rdf:resource="&obo;BFO_0000075"/>
-                        <allValuesFrom rdf:resource="&obo;GEO_000000005"/>
-                    </Restriction>
-                    <Restriction>
-                        <onProperty rdf:resource="&obo;BFO_0000075"/>
-                        <onClass rdf:resource="&obo;GEO_000000005"/>
-                        <minQualifiedCardinality rdf:datatype="&xsd;nonNegativeInteger">2</minQualifiedCardinality>
-                    </Restriction>
-                </intersectionOf>
-            </Class>
-        </equivalentClass>
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <owl:Class>
+                        <owl:complementOf rdf:resource="&obo;GEO_000000005"/>
+                    </owl:Class>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="&obo;BFO_0000075"/>
+                        <owl:allValuesFrom rdf:resource="&obo;GEO_000000005"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="&obo;BFO_0000075"/>
+                        <owl:onClass rdf:resource="&obo;GEO_000000005"/>
+                        <owl:minQualifiedCardinality rdf:datatype="&xsd;nonNegativeInteger">2</owl:minQualifiedCardinality>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
         <rdfs:subClassOf rdf:resource="&obo;GEO_000000337"/>
         <obo:IAO_0000117 xml:lang="en">Amanda Hicks</obo:IAO_0000117>
         <obo:IAO_0000115 xml:lang="en">An aggregate of governmental organizations that is not itself a major administrative subdivision and whose members are only major administrative subdivisions that have some feature in common.</obo:IAO_0000115>
         <rdfs:comment xml:lang="en">Examples: all the major administrative subdivisions of the United States (which is different from the U.S. itself), all the major administrative subdivisions with a bicameral legislature, all the major administrative subdivisions with a judiciary, etc.</rdfs:comment>
-    </Class>
+    </owl:Class>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000008 -->
 
-    <Class rdf:about="&obo;GEO_000000008">
+    <owl:Class rdf:about="&obo;GEO_000000008">
         <rdfs:label xml:lang="en">aggregate of dependencies</rdfs:label>
         <rdfs:label xml:lang="en">group of dependencies</rdfs:label>
-        <equivalentClass>
-            <Class>
-                <intersectionOf rdf:parseType="Collection">
-                    <Class>
-                        <complementOf rdf:resource="&obo;GEO_000000006"/>
-                    </Class>
-                    <Restriction>
-                        <onProperty rdf:resource="&obo;BFO_0000075"/>
-                        <allValuesFrom rdf:resource="&obo;GEO_000000006"/>
-                    </Restriction>
-                    <Restriction>
-                        <onProperty rdf:resource="&obo;BFO_0000075"/>
-                        <onClass rdf:resource="&obo;GEO_000000006"/>
-                        <minQualifiedCardinality rdf:datatype="&xsd;nonNegativeInteger">2</minQualifiedCardinality>
-                    </Restriction>
-                </intersectionOf>
-            </Class>
-        </equivalentClass>
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <owl:Class>
+                        <owl:complementOf rdf:resource="&obo;GEO_000000006"/>
+                    </owl:Class>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="&obo;BFO_0000075"/>
+                        <owl:allValuesFrom rdf:resource="&obo;GEO_000000006"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="&obo;BFO_0000075"/>
+                        <owl:onClass rdf:resource="&obo;GEO_000000006"/>
+                        <owl:minQualifiedCardinality rdf:datatype="&xsd;nonNegativeInteger">2</owl:minQualifiedCardinality>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
         <rdfs:subClassOf rdf:resource="&obo;GEO_000000337"/>
         <obo:IAO_0000117 xml:lang="en">Amanda Hicks</obo:IAO_0000117>
         <obo:IAO_0000115 xml:lang="en">An aggregate of governmental organizations that is not itself a geopolitical dependency and whose members are only geopolitical dependencies that have some feature in common.</obo:IAO_0000115>
         <rdfs:comment xml:lang="en">Examples: all the dependencies of the United States, all of the dependencies whose territory is located in the Carribean Sea, French Overseas Collectivities, Biritish Crown Dependencies.</rdfs:comment>
-    </Class>
+    </owl:Class>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000334 -->
 
-    <Class rdf:about="&obo;GEO_000000334">
+    <owl:Class rdf:about="&obo;GEO_000000334">
         <rdfs:label xml:lang="en">subcontinental land mass</rdfs:label>
         <rdfs:subClassOf rdf:resource="&obo;GEO_000000375"/>
         <rdfs:subClassOf>
-            <Restriction>
-                <onProperty rdf:resource="&obo;BFO_0000137"/>
-                <someValuesFrom rdf:resource="&obo;GEO_000000374"/>
-            </Restriction>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="&obo;BFO_0000137"/>
+                <owl:someValuesFrom rdf:resource="&obo;GEO_000000374"/>
+            </owl:Restriction>
         </rdfs:subClassOf>
-    </Class>
+    </owl:Class>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000335 -->
 
-    <Class rdf:about="&obo;GEO_000000335">
+    <owl:Class rdf:about="&obo;GEO_000000335">
         <rdfs:label xml:lang="en">contiguous land mass</rdfs:label>
         <rdfs:subClassOf rdf:resource="&obo;GEO_000000334"/>
         <obo:IAO_0000118 xml:lang="en">contiguous continental land mass</obo:IAO_0000118>
@@ -772,190 +798,190 @@ otherwise, we&apos;d end up creating some mereological sum of all the islands, c
 At some point, we need an &apos;adjacent to&apos; relation if BFO doesn&apos;t provide it.
 
 One question is whether this class encompasses fiat parts of islands.</rdfs:comment>
-    </Class>
+    </owl:Class>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000337 -->
 
-    <Class rdf:about="&obo;GEO_000000337">
+    <owl:Class rdf:about="&obo;GEO_000000337">
         <rdfs:label xml:lang="en">aggregate of governmental organizations</rdfs:label>
-        <equivalentClass>
-            <Class>
-                <intersectionOf rdf:parseType="Collection">
-                    <Class>
-                        <complementOf rdf:resource="&obo;GEO_000000400"/>
-                    </Class>
-                    <Restriction>
-                        <onProperty rdf:resource="&obo;BFO_0000075"/>
-                        <allValuesFrom rdf:resource="&obo;GEO_000000400"/>
-                    </Restriction>
-                    <Restriction>
-                        <onProperty rdf:resource="&obo;BFO_0000075"/>
-                        <onClass rdf:resource="&obo;GEO_000000400"/>
-                        <minQualifiedCardinality rdf:datatype="&xsd;nonNegativeInteger">2</minQualifiedCardinality>
-                    </Restriction>
-                </intersectionOf>
-            </Class>
-        </equivalentClass>
-        <rdfs:subClassOf rdf:resource="http://www.ifomis.org/bfo/1.1/snap#IndependentContinuant"/>
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <owl:Class>
+                        <owl:complementOf rdf:resource="&obo;GEO_000000400"/>
+                    </owl:Class>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="&obo;BFO_0000075"/>
+                        <owl:allValuesFrom rdf:resource="&obo;GEO_000000400"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="&obo;BFO_0000075"/>
+                        <owl:onClass rdf:resource="&obo;GEO_000000400"/>
+                        <owl:minQualifiedCardinality rdf:datatype="&xsd;nonNegativeInteger">2</owl:minQualifiedCardinality>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="&obo;BFO_0000004"/>
         <obo:IAO_0000115 xml:lang="en">An aggregate of organizations that is not itself a governmental organization, has only governmental organizations as members, and has at least two governmental organizations as members.
 </obo:IAO_0000115>
         <obo:IAO_0000117>William R. Hogan</obo:IAO_0000117>
-    </Class>
+    </owl:Class>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000357 -->
 
-    <Class rdf:about="&obo;GEO_000000357">
+    <owl:Class rdf:about="&obo;GEO_000000357">
         <rdfs:label xml:lang="en">contiguous island land mass</rdfs:label>
         <rdfs:subClassOf rdf:resource="&obo;GEO_000000334"/>
         <rdfs:comment xml:lang="en">It cannot be a part of the island, for example, that is below water.</rdfs:comment>
         <obo:IAO_0000117>William R. Hogan</obo:IAO_0000117>
         <obo:IAO_0000115 xml:lang="en">A subcontinental land mass that is part of an island and includes part of the land surface of the island.</obo:IAO_0000115>
-    </Class>
+    </owl:Class>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000369 -->
 
-    <Class rdf:about="&obo;GEO_000000369">
+    <owl:Class rdf:about="&obo;GEO_000000369">
         <rdfs:label xml:lang="en">aggregate of contiguous land masses</rdfs:label>
-        <equivalentClass>
-            <Restriction>
-                <onProperty rdf:resource="&obo;BFO_0000075"/>
-                <someValuesFrom rdf:resource="&obo;GEO_000000375"/>
-            </Restriction>
-        </equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="&obo;BFO_0000075"/>
+                <owl:someValuesFrom rdf:resource="&obo;GEO_000000375"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
         <rdfs:subClassOf rdf:resource="&obo;GEO_000000375"/>
-    </Class>
+    </owl:Class>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000370 -->
 
-    <Class rdf:about="&obo;GEO_000000370">
+    <owl:Class rdf:about="&obo;GEO_000000370">
         <rdfs:label xml:lang="en">geographical entity</rdfs:label>
-        <rdfs:subClassOf rdf:resource="http://www.ifomis.org/bfo/1.1/snap#MaterialEntity"/>
-    </Class>
+        <rdfs:subClassOf rdf:resource="&obo;BFO_0000040"/>
+    </owl:Class>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000371 -->
 
-    <Class rdf:about="&obo;GEO_000000371">
+    <owl:Class rdf:about="&obo;GEO_000000371">
         <rdfs:label xml:lang="en">geographical feature</rdfs:label>
         <rdfs:subClassOf rdf:resource="&obo;GEO_000000370"/>
-    </Class>
+    </owl:Class>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000372 -->
 
-    <Class rdf:about="&obo;GEO_000000372">
+    <owl:Class rdf:about="&obo;GEO_000000372">
         <rdfs:label xml:lang="en">geographical region</rdfs:label>
         <rdfs:subClassOf rdf:resource="&obo;GEO_000000370"/>
-    </Class>
+    </owl:Class>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000373 -->
 
-    <Class rdf:about="&obo;GEO_000000373">
+    <owl:Class rdf:about="&obo;GEO_000000373">
         <rdfs:label xml:lang="en">body of water</rdfs:label>
         <rdfs:subClassOf rdf:resource="&obo;GEO_000000372"/>
-    </Class>
+    </owl:Class>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000374 -->
 
-    <Class rdf:about="&obo;GEO_000000374">
+    <owl:Class rdf:about="&obo;GEO_000000374">
         <rdfs:label xml:lang="en">continent</rdfs:label>
         <rdfs:subClassOf rdf:resource="&obo;GEO_000000375"/>
-    </Class>
+    </owl:Class>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000375 -->
 
-    <Class rdf:about="&obo;GEO_000000375">
+    <owl:Class rdf:about="&obo;GEO_000000375">
         <rdfs:label xml:lang="en">land mass</rdfs:label>
         <rdfs:subClassOf rdf:resource="&obo;GEO_000000372"/>
-    </Class>
+    </owl:Class>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000376 -->
 
-    <Class rdf:about="&obo;GEO_000000376">
+    <owl:Class rdf:about="&obo;GEO_000000376">
         <rdfs:label xml:lang="en">island</rdfs:label>
         <rdfs:subClassOf rdf:resource="&obo;GEO_000000334"/>
-    </Class>
+    </owl:Class>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000377 -->
 
-    <Class rdf:about="&obo;GEO_000000377">
+    <owl:Class rdf:about="&obo;GEO_000000377">
         <rdfs:label xml:lang="en">aggregate of geographical entities</rdfs:label>
-        <equivalentClass>
-            <Restriction>
-                <onProperty rdf:resource="&obo;BFO_0000075"/>
-                <someValuesFrom rdf:resource="&obo;GEO_000000370"/>
-            </Restriction>
-        </equivalentClass>
-        <rdfs:subClassOf rdf:resource="http://www.ifomis.org/bfo/1.1/snap#ObjectAggregate"/>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="&obo;BFO_0000075"/>
+                <owl:someValuesFrom rdf:resource="&obo;GEO_000000370"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="&obo;BFO_0000027"/>
         <obo:IAO_0000115 xml:lang="en">An object aggregate of geographical entities</obo:IAO_0000115>
-    </Class>
+    </owl:Class>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000378 -->
 
-    <Class rdf:about="&obo;GEO_000000378">
+    <owl:Class rdf:about="&obo;GEO_000000378">
         <rdfs:label xml:lang="en">aggregate of geographical features</rdfs:label>
-        <equivalentClass>
-            <Restriction>
-                <onProperty rdf:resource="&obo;BFO_0000075"/>
-                <someValuesFrom rdf:resource="&obo;GEO_000000371"/>
-            </Restriction>
-        </equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="&obo;BFO_0000075"/>
+                <owl:someValuesFrom rdf:resource="&obo;GEO_000000371"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
         <rdfs:subClassOf rdf:resource="&obo;GEO_000000377"/>
-    </Class>
+    </owl:Class>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000390 -->
 
-    <Class rdf:about="&obo;GEO_000000390">
+    <owl:Class rdf:about="&obo;GEO_000000390">
         <rdfs:label xml:lang="en">aggregate of islands</rdfs:label>
-        <equivalentClass>
-            <Restriction>
-                <onProperty rdf:resource="&obo;BFO_0000075"/>
-                <someValuesFrom rdf:resource="&obo;GEO_000000376"/>
-            </Restriction>
-        </equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="&obo;BFO_0000075"/>
+                <owl:someValuesFrom rdf:resource="&obo;GEO_000000376"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
         <rdfs:subClassOf rdf:resource="&obo;GEO_000000369"/>
-    </Class>
+    </owl:Class>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000391 -->
 
-    <Class rdf:about="&obo;GEO_000000391">
+    <owl:Class rdf:about="&obo;GEO_000000391">
         <rdfs:label xml:lang="en">geopoli organization</rdfs:label>
         <rdfs:subClassOf rdf:resource="&obo;OBI_0000245"/>
         <obo:IAO_0000117 xml:lang="en">Amanda Hicks</obo:IAO_0000117>
         <obo:IAO_0000111 xml:lang="en">geopolitical organization</obo:IAO_0000111>
-    </Class>
+    </owl:Class>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000392 -->
 
-    <Class rdf:about="&obo;GEO_000000392">
+    <owl:Class rdf:about="&obo;GEO_000000392">
         <rdfs:label xml:lang="en">private governance organization</rdfs:label>
         <rdfs:subClassOf rdf:resource="&obo;GEO_000000391"/>
         <obo:IAO_0000119>&quot;Although the very meaning of the term is controversial, it involves authoritative decsionmaking in areas that once were part of national legal frameworks, the government, the sovereign state, or the public sector.&quot;
@@ -964,13 +990,13 @@ Karns and Mingst (2004) p. 14.</obo:IAO_0000119>
         <obo:IAO_0000117 xml:lang="en">Amanda Hicks</obo:IAO_0000117>
         <rdfs:comment xml:lang="en">Examples: private bond-rating agencies such as Moody&apos;s Investors Service, International Chamber of Commerce, Worldwide Responsible Apparel Manufacturing Principles, Forest Stewardship</rdfs:comment>
         <dc:contributor xml:lang="en">Katrina Donovan</dc:contributor>
-    </Class>
+    </owl:Class>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000393 -->
 
-    <Class rdf:about="&obo;GEO_000000393">
+    <owl:Class rdf:about="&obo;GEO_000000393">
         <rdfs:label xml:lang="en">nongovernmental organization</rdfs:label>
         <rdfs:subClassOf rdf:resource="&obo;GEO_000000391"/>
         <rdfs:comment xml:lang="en">Examples:
@@ -980,13 +1006,13 @@ Internaltion Federation of Red Cross and Red Crescent Societies, Oxfam, CARE, Do
 
 Karns and Mingst (2004) p. 10f.</obo:IAO_0000119>
         <obo:IAO_0000115 xml:lang="en">a geopolitical organization that is voluntary and private, whose members are individual persons or organizations that come together to acheive a common purpose.</obo:IAO_0000115>
-    </Class>
+    </owl:Class>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000395 -->
 
-    <Class rdf:about="&obo;GEO_000000395">
+    <owl:Class rdf:about="&obo;GEO_000000395">
         <rdfs:label xml:lang="en">intergovernmental organization</rdfs:label>
         <rdfs:subClassOf rdf:resource="&obo;GEO_000000391"/>
         <obo:IAO_0000115>an intergovernmental organization that has at least three member states, that has activies in at least three states, and that is unified by some formal intergovernmental agreement</obo:IAO_0000115>
@@ -995,13 +1021,13 @@ Karns and Mingst (2004) p. 10f.</obo:IAO_0000119>
         <dc:contributor xml:lang="en">Katrina Donovan</dc:contributor>
         <rdfs:comment xml:lang="en">examples:
 North American Free Trade Argreement [NAFTA] , Universal Postal Union [UPU], Oragnaization of American States [OAS], World Bank), Organization of Petroleum exporting countries [OPEC] United Nations [UN[, The World Trade Organization [WTO], The World Health Organization [WHO], UNICEF</rdfs:comment>
-    </Class>
+    </owl:Class>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000396 -->
 
-    <Class rdf:about="&obo;GEO_000000396">
+    <owl:Class rdf:about="&obo;GEO_000000396">
         <rdfs:label xml:lang="en">sovereign state</rdfs:label>
         <rdfs:subClassOf rdf:resource="&obo;GEO_000000400"/>
         <obo:IAO_0000115 xml:lang="en">A governmental organization with a defined territory on which it exercises internal and external sovereignty, a permanent population, a government, and the capacity to enter into relations with other sovereign states.</obo:IAO_0000115>
@@ -1010,13 +1036,13 @@ North American Free Trade Argreement [NAFTA] , Universal Postal Union [UPU], Ora
         <obo:IAO_0000119 xml:lang="en">http://en.wikipedia.org/wiki/Sovereign_state</obo:IAO_0000119>
         <obo:IAO_0000118 xml:lang="en">nation</obo:IAO_0000118>
         <obo:IAO_0000118 xml:lang="en">nation state</obo:IAO_0000118>
-    </Class>
+    </owl:Class>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000400 -->
 
-    <Class rdf:about="&obo;GEO_000000400">
+    <owl:Class rdf:about="&obo;GEO_000000400">
         <rdfs:label xml:lang="en">governmental organization</rdfs:label>
         <rdfs:subClassOf rdf:resource="&obo;OBI_0000245"/>
         <obo:IAO_0000117 xml:lang="en">Amanda Hicks</obo:IAO_0000117>
@@ -1024,153 +1050,153 @@ North American Free Trade Argreement [NAFTA] , Universal Postal Union [UPU], Ora
 
 Note: this definition was taken over from &quot;geopolitical organization&quot;.</obo:IAO_0000115>
         <rdfs:comment xml:lang="en">IMPORTANT: The label &quot;geopolitical organization&quot; was previously used for OMRSE_00000044 (governmental organization).  &quot;geopoli organization&quot; is a label for a new and different class.</rdfs:comment>
-    </Class>
+    </owl:Class>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000401 -->
 
-    <Class rdf:about="&obo;GEO_000000401">
+    <owl:Class rdf:about="&obo;GEO_000000401">
         <rdfs:label xml:lang="en">aggregate of geopolitical organizations</rdfs:label>
-        <equivalentClass>
-            <Class>
-                <intersectionOf rdf:parseType="Collection">
-                    <Class>
-                        <complementOf rdf:resource="&obo;GEO_000000391"/>
-                    </Class>
-                    <Restriction>
-                        <onProperty rdf:resource="&obo;BFO_0000075"/>
-                        <allValuesFrom rdf:resource="&obo;GEO_000000391"/>
-                    </Restriction>
-                    <Restriction>
-                        <onProperty rdf:resource="&obo;BFO_0000075"/>
-                        <onClass rdf:resource="&obo;GEO_000000391"/>
-                        <minQualifiedCardinality rdf:datatype="&xsd;nonNegativeInteger">2</minQualifiedCardinality>
-                    </Restriction>
-                </intersectionOf>
-            </Class>
-        </equivalentClass>
-        <rdfs:subClassOf rdf:resource="http://www.ifomis.org/bfo/1.1/snap#IndependentContinuant"/>
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <owl:Class>
+                        <owl:complementOf rdf:resource="&obo;GEO_000000391"/>
+                    </owl:Class>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="&obo;BFO_0000075"/>
+                        <owl:allValuesFrom rdf:resource="&obo;GEO_000000391"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="&obo;BFO_0000075"/>
+                        <owl:onClass rdf:resource="&obo;GEO_000000391"/>
+                        <owl:minQualifiedCardinality rdf:datatype="&xsd;nonNegativeInteger">2</owl:minQualifiedCardinality>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="&obo;BFO_0000004"/>
         <obo:IAO_0000412 rdf:datatype="&xsd;string">http://purl.obolibrary.org/obo/omrse.owl</obo:IAO_0000412>
         <obo:IAO_0000117 xml:lang="en">Amanda Hicks</obo:IAO_0000117>
         <obo:IAO_0000115 xml:lang="en">An object aggregate that is not itself a geopolitical organization and whose members are only geopolitical organizations that have some feature in common</obo:IAO_0000115>
         <obo:IAO_0000117 xml:lang="en">William R. Hogan
 </obo:IAO_0000117>
-    </Class>
+    </owl:Class>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000402 -->
 
-    <Class rdf:about="&obo;GEO_000000402">
+    <owl:Class rdf:about="&obo;GEO_000000402">
         <rdfs:label xml:lang="en">obsolete aggregate of dependencies</rdfs:label>
         <rdfs:subClassOf rdf:resource="&obo;GEO_000000337"/>
         <obo:IAO_0000412 rdf:datatype="&xsd;string">http://purl.obolibrary.org/obo/omrse.owl</obo:IAO_0000412>
-        <deprecated rdf:datatype="&xsd;boolean">true</deprecated>
+        <owl:deprecated rdf:datatype="&xsd;boolean">true</owl:deprecated>
         <obo:IAO_0000117 xml:lang="en">Amanda Hicks</obo:IAO_0000117>
         <obo:IAO_0000115 xml:lang="en">An aggregate of governmental organizations that is not itself a geopolitical dependency and whose members are only geopolitical dependencies that have some feature in common.</obo:IAO_0000115>
         <rdfs:comment xml:lang="en">Examples: all the dependencies of the United States, all of the dependencies whose territory is located in the Carribean Sea, French Overseas Collectivities, Biritish Crown Dependencies.</rdfs:comment>
-    </Class>
+    </owl:Class>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000403 -->
 
-    <Class rdf:about="&obo;GEO_000000403">
+    <owl:Class rdf:about="&obo;GEO_000000403">
         <rdfs:label xml:lang="en">obsolete aggregate of major administrative subdivisions</rdfs:label>
         <rdfs:subClassOf rdf:resource="&obo;GEO_000000337"/>
         <obo:IAO_0000412 rdf:datatype="&xsd;string">http://purl.obolibrary.org/obo/omrse.owl</obo:IAO_0000412>
-        <deprecated rdf:datatype="&xsd;boolean">true</deprecated>
+        <owl:deprecated rdf:datatype="&xsd;boolean">true</owl:deprecated>
         <obo:IAO_0000117 xml:lang="en">Amanda Hicks</obo:IAO_0000117>
         <obo:IAO_0000115 xml:lang="en">An aggregate of governmental organizations that is not itself a major administrative subdivision and whose members are only major administrative subdivisions that have some feature in common</obo:IAO_0000115>
         <rdfs:comment xml:lang="en">Examples: all the major administrative subdivisions of the United States (which is different from the U.S. itself), all the major administrative subdivisions with a bicameral legislature, all the major administrative subdivisions with a judiciary, etc.</rdfs:comment>
-    </Class>
+    </owl:Class>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000404 -->
 
-    <Class rdf:about="&obo;GEO_000000404">
+    <owl:Class rdf:about="&obo;GEO_000000404">
         <rdfs:label xml:lang="en">aggregate of sovereign states</rdfs:label>
-        <equivalentClass>
-            <Class>
-                <intersectionOf rdf:parseType="Collection">
-                    <Class>
-                        <complementOf rdf:resource="&obo;GEO_000000396"/>
-                    </Class>
-                    <Restriction>
-                        <onProperty rdf:resource="&obo;BFO_0000075"/>
-                        <allValuesFrom rdf:resource="&obo;GEO_000000396"/>
-                    </Restriction>
-                    <Restriction>
-                        <onProperty rdf:resource="&obo;BFO_0000075"/>
-                        <onClass rdf:resource="&obo;GEO_000000396"/>
-                        <minQualifiedCardinality rdf:datatype="&xsd;nonNegativeInteger">2</minQualifiedCardinality>
-                    </Restriction>
-                </intersectionOf>
-            </Class>
-        </equivalentClass>
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <owl:Class>
+                        <owl:complementOf rdf:resource="&obo;GEO_000000396"/>
+                    </owl:Class>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="&obo;BFO_0000075"/>
+                        <owl:allValuesFrom rdf:resource="&obo;GEO_000000396"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="&obo;BFO_0000075"/>
+                        <owl:onClass rdf:resource="&obo;GEO_000000396"/>
+                        <owl:minQualifiedCardinality rdf:datatype="&xsd;nonNegativeInteger">2</owl:minQualifiedCardinality>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
         <rdfs:subClassOf rdf:resource="&obo;GEO_000000337"/>
         <obo:IAO_0000412 rdf:datatype="&xsd;string">http://purl.obolibrary.org/obo/omrse.owl</obo:IAO_0000412>
         <obo:IAO_0000115 xml:lang="en">An aggregate of governmental organizations that is not itself a sovereign state and whose members are only sovereign states that have some feature in common</obo:IAO_0000115>
         <obo:IAO_0000117 xml:lang="en">William R. Hogan</obo:IAO_0000117>
         <rdfs:comment xml:lang="en">examples: all the sovereign states in North America, all the sovereign states with a GDP below or exceeding a particular quantity of money, all the sovereign states with a constitutional monarchy, all the sovereign states who belong to the U.N. (which is different than the U.N. itself), etc.</rdfs:comment>
-    </Class>
+    </owl:Class>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000787 -->
 
-    <Class rdf:about="&obo;GEO_000000787">
+    <owl:Class rdf:about="&obo;GEO_000000787">
         <rdfs:label xml:lang="en">geodetic coordinate measurement datum</rdfs:label>
-        <equivalentClass>
-            <Class>
-                <intersectionOf rdf:parseType="Collection">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
                     <rdf:Description rdf:about="&obo;IAO_0000027"/>
-                    <Restriction>
-                        <onProperty rdf:resource="&obo;OBI_0000312"/>
-                        <someValuesFrom>
-                            <Class>
-                                <intersectionOf rdf:parseType="Collection">
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="&obo;OBI_0000312"/>
+                        <owl:someValuesFrom>
+                            <owl:Class>
+                                <owl:intersectionOf rdf:parseType="Collection">
                                     <rdf:Description rdf:about="http://www.ifomis.org/bfo/1.1/span#Process"/>
-                                    <Restriction>
-                                        <onProperty rdf:resource="&obo;OBI_0000293"/>
-                                        <someValuesFrom rdf:resource="&obo;GEO_000000788"/>
-                                    </Restriction>
-                                </intersectionOf>
-                            </Class>
-                        </someValuesFrom>
-                    </Restriction>
-                    <Restriction>
-                        <onProperty rdf:resource="&obo;OBI_0001938"/>
-                        <someValuesFrom>
-                            <Class>
-                                <intersectionOf rdf:parseType="Collection">
+                                    <owl:Restriction>
+                                        <owl:onProperty rdf:resource="&obo;OBI_0000293"/>
+                                        <owl:someValuesFrom rdf:resource="&obo;GEO_000000788"/>
+                                    </owl:Restriction>
+                                </owl:intersectionOf>
+                            </owl:Class>
+                        </owl:someValuesFrom>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="&obo;OBI_0001938"/>
+                        <owl:someValuesFrom>
+                            <owl:Class>
+                                <owl:intersectionOf rdf:parseType="Collection">
                                     <rdf:Description rdf:about="&obo;OBI_0001933"/>
-                                    <Restriction>
-                                        <onProperty rdf:resource="&obo;IAO_0000039"/>
-                                        <hasValue rdf:resource="&obo;GEO_000000790"/>
-                                    </Restriction>
-                                </intersectionOf>
-                            </Class>
-                        </someValuesFrom>
-                    </Restriction>
-                </intersectionOf>
-            </Class>
-        </equivalentClass>
+                                    <owl:Restriction>
+                                        <owl:onProperty rdf:resource="&obo;IAO_0000039"/>
+                                        <owl:hasValue rdf:resource="&obo;GEO_000000790"/>
+                                    </owl:Restriction>
+                                </owl:intersectionOf>
+                            </owl:Class>
+                        </owl:someValuesFrom>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
         <rdfs:subClassOf rdf:resource="&obo;IAO_0000027"/>
         <obo:IAO_0000115 xml:lang="en">A measurement of location on the Earth that uses a single number to specify a coordinate in a coordinate system known as a geodetic datum.</obo:IAO_0000115>
         <obo:IAO_0000117 xml:lang="en">Josh Hanna</obo:IAO_0000117>
         <obo:IAO_0000117 xml:lang="en">William R. Hogan</obo:IAO_0000117>
         <obo:IAO_0000111 xml:lang="en">geodetic coordinate measurement datum</obo:IAO_0000111>
         <rdfs:comment xml:lang="en">latitude and longitude are key subtypes</rdfs:comment>
-    </Class>
+    </owl:Class>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000788 -->
 
-    <Class rdf:about="&obo;GEO_000000788">
+    <owl:Class rdf:about="&obo;GEO_000000788">
         <rdfs:label xml:lang="en">geodetic datum</rdfs:label>
         <rdfs:subClassOf rdf:resource="&obo;IAO_0000030"/>
         <obo:IAO_0000115 xml:lang="en">A coordinate system, and a set of reference points, used to locate places on the Earth (or similar objects).</obo:IAO_0000115>
@@ -1181,23 +1207,23 @@ Note: this definition was taken over from &quot;geopolitical organization&quot;.
 Date accessed: 2015-04-13</obo:IAO_0000119>
         <obo:IAO_0000117 xml:lang="en">William R. Hogan</obo:IAO_0000117>
         <obo:IAO_0000111 xml:lang="en">geodetic datum</obo:IAO_0000111>
-    </Class>
+    </owl:Class>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000789 -->
 
-    <Class rdf:about="&obo;GEO_000000789">
+    <owl:Class rdf:about="&obo;GEO_000000789">
         <rdfs:label xml:lang="en">plane angle measurement unit label</rdfs:label>
         <rdfs:subClassOf rdf:resource="&obo;IAO_0000003"/>
         <obo:IAO_0000111 xml:lang="en">planar angular measurement unit label</obo:IAO_0000111>
-    </Class>
+    </owl:Class>
     
 
 
     <!-- http://purl.obolibrary.org/obo/IAO_0000003 -->
 
-    <Class rdf:about="&obo;IAO_0000003">
+    <owl:Class rdf:about="&obo;IAO_0000003">
         <rdfs:label xml:lang="en">measurement unit label</rdfs:label>
         <rdfs:subClassOf rdf:resource="&obo;IAO_0000009"/>
         <obo:IAO_0000412 rdf:datatype="&xsd;string">http://purl.obolibrary.org/obo/obi.owl</obo:IAO_0000412>
@@ -1213,13 +1239,13 @@ of this, different, term.</obo:IAO_0000116>
         <obo:IAO_0000117 xml:lang="en">PERSON: Melanie Courtot</obo:IAO_0000117>
         <obo:IAO_0000111 xml:lang="en">measurement unit label</obo:IAO_0000111>
         <obo:IAO_0000114 rdf:resource="&obo;IAO_0000122"/>
-    </Class>
+    </owl:Class>
     
 
 
     <!-- http://purl.obolibrary.org/obo/IAO_0000009 -->
 
-    <Class rdf:about="&obo;IAO_0000009">
+    <owl:Class rdf:about="&obo;IAO_0000009">
         <rdfs:label xml:lang="en">data item label</rdfs:label>
         <rdfs:subClassOf rdf:resource="&obo;IAO_0000030"/>
         <obo:IAO_0000412 rdf:datatype="&xsd;string">http://purl.obolibrary.org/obo/obi.owl</obo:IAO_0000412>
@@ -1231,15 +1257,15 @@ of this, different, term.</obo:IAO_0000116>
         <obo:IAO_0000111 xml:lang="en">data item label</obo:IAO_0000111>
         <obo:IAO_0000116 xml:lang="en">http://www.golovchenko.org/cgi-bin/wnsearch?q=label#4n</obo:IAO_0000116>
         <obo:IAO_0000114 rdf:resource="&obo;IAO_0000122"/>
-    </Class>
+    </owl:Class>
     
 
 
     <!-- http://purl.obolibrary.org/obo/OBI_0000245 -->
 
-    <Class rdf:about="&obo;OBI_0000245">
+    <owl:Class rdf:about="&obo;OBI_0000245">
         <rdfs:label xml:lang="en">organization</rdfs:label>
-        <rdfs:subClassOf rdf:resource="http://www.ifomis.org/bfo/1.1/snap#IndependentContinuant"/>
+        <rdfs:subClassOf rdf:resource="&obo;BFO_0000004"/>
         <obo:IAO_0000119 rdf:datatype="&xsd;string">GROUP: OBI</obo:IAO_0000119>
         <obo:IAO_0000117 rdf:datatype="&xsd;string">PERSON: Alan Ruttenberg</obo:IAO_0000117>
         <obo:IAO_0000117 rdf:datatype="&xsd;string">PERSON: Bjoern Peters</obo:IAO_0000117>
@@ -1276,13 +1302,13 @@ for now.</obo:IAO_0000116>
         <obo:IAO_0000112 xml:lang="en">PMID: 16353909.AAPS J. 2005 Sep 22;7(2):E274-80. Review. The joint food and agriculture organization of the United Nations/World Health Organization Expert Committee on Food Additives and its role in the evaluation of the safety of veterinary drug residues in foods.</obo:IAO_0000112>
         <obo:IAO_0000111 xml:lang="en">organization</obo:IAO_0000111>
         <obo:IAO_0000114 rdf:resource="&obo;IAO_0000122"/>
-    </Class>
+    </owl:Class>
     
 
 
     <!-- http://purl.obolibrary.org/obo/OBI_0001620 -->
 
-    <Class rdf:about="&obo;OBI_0001620">
+    <owl:Class rdf:about="&obo;OBI_0001620">
         <rdfs:label xml:lang="en">latitude coordinate measurement datum</rdfs:label>
         <rdfs:subClassOf rdf:resource="&obo;GEO_000000787"/>
         <obo:IAO_0000412 rdf:datatype="&xsd;string">http://purl.obolibrary.org/obo/obi.owl</obo:IAO_0000412>
@@ -1294,13 +1320,13 @@ for now.</obo:IAO_0000116>
         <obo:IAO_0000118 xml:lang="en">latitude</obo:IAO_0000118>
         <obo:IAO_0000111 xml:lang="en">latitude coordinate measurement datum</obo:IAO_0000111>
         <obo:IAO_0000114 rdf:resource="&obo;IAO_0000120"/>
-    </Class>
+    </owl:Class>
     
 
 
     <!-- http://purl.obolibrary.org/obo/OBI_0001621 -->
 
-    <Class rdf:about="&obo;OBI_0001621">
+    <owl:Class rdf:about="&obo;OBI_0001621">
         <rdfs:label xml:lang="en">longitude coordinate measurement datum</rdfs:label>
         <rdfs:subClassOf rdf:resource="&obo;GEO_000000787"/>
         <obo:IAO_0000412 rdf:datatype="&xsd;string">http://purl.obolibrary.org/obo/obi.owl</obo:IAO_0000412>
@@ -1312,13 +1338,13 @@ for now.</obo:IAO_0000116>
         <obo:IAO_0000118 xml:lang="en">longitude</obo:IAO_0000118>
         <obo:IAO_0000111 xml:lang="en">longitude coordinate measurement datum</obo:IAO_0000111>
         <obo:IAO_0000114 rdf:resource="&obo;IAO_0000120"/>
-    </Class>
+    </owl:Class>
     
 
 
     <!-- http://purl.obolibrary.org/obo/OBI_0001933 -->
 
-    <Class rdf:about="&obo;OBI_0001933">
+    <owl:Class rdf:about="&obo;OBI_0001933">
         <rdfs:label>value specification</rdfs:label>
         <rdfs:subClassOf rdf:resource="&obo;IAO_0000030"/>
         <obo:IAO_0000412 rdf:datatype="&xsd;string">http://purl.obolibrary.org/obo/obi.owl</obo:IAO_0000412>
@@ -1328,30 +1354,36 @@ for now.</obo:IAO_0000116>
         <obo:IAO_0000117>PERSON:Bjoern Peters</obo:IAO_0000117>
         <obo:IAO_0000112>The value of &apos;positive&apos; in a classification scheme of &quot;positive or negative&quot;; the value of &apos;20g&apos; on the quantitative scale of mass.</obo:IAO_0000112>
         <obo:IAO_0000114 rdf:resource="&obo;IAO_0000122"/>
-    </Class>
+    </owl:Class>
     
 
 
     <!-- http://purl.obolibrary.org/obo/geo.owl/GEO_000000399 -->
 
-    <Class rdf:about="&obo;geo.owl/GEO_000000399">
+    <owl:Class rdf:about="&obo;geo.owl/GEO_000000399">
         <rdfs:label xml:lang="en">supranational entity</rdfs:label>
         <rdfs:subClassOf rdf:resource="&obo;GEO_000000400"/>
         <rdfs:comment>e.g., the EU</rdfs:comment>
         <obo:IAO_0000117 xml:lang="en">Amanda Hicks</obo:IAO_0000117>
-    </Class>
+    </owl:Class>
     
 
 
     <!-- http://www.geneontology.org/formats/oboInOwl#ObsoleteClass -->
 
-    <Class rdf:about="&oboInOwl;ObsoleteClass">
+    <owl:Class rdf:about="&oboInOwl;ObsoleteClass">
         <rdfs:label xml:lang="en">obsolete_class</rdfs:label>
         <obo:IAO_0000412 rdf:datatype="&xsd;string">http://www.geneontology.org/formats/oboInOwl</obo:IAO_0000412>
         <oboInOwl:hasDefinition>
             <rdf:Description/>
         </oboInOwl:hasDefinition>
-    </Class>
+    </owl:Class>
+    
+
+
+    <!-- http://www.ifomis.org/bfo/1.1/span#Process -->
+
+    <owl:Class rdf:about="http://www.ifomis.org/bfo/1.1/span#Process"/>
     
 
 
@@ -1368,18 +1400,18 @@ for now.</obo:IAO_0000116>
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000790 -->
 
-    <NamedIndividual rdf:about="&obo;GEO_000000790">
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000790">
         <rdf:type rdf:resource="&obo;GEO_000000789"/>
         <rdfs:label xml:lang="en">angular degree</rdfs:label>
         <rdfs:label xml:lang="en">°</rdfs:label>
         <obo:IAO_0000111 xml:lang="en">angular degree</obo:IAO_0000111>
-    </NamedIndividual>
+    </owl:NamedIndividual>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000791 -->
 
-    <NamedIndividual rdf:about="&obo;GEO_000000791">
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000791">
         <rdf:type rdf:resource="&obo;GEO_000000789"/>
         <rdfs:label xml:lang="en">rad</rdfs:label>
         <rdfs:label xml:lang="en">radian</rdfs:label>
@@ -1388,7 +1420,7 @@ for now.</obo:IAO_0000116>
         <rdfs:comment xml:lang="en">Technically in the S.I. system it is a derived unit m•m^-1.</rdfs:comment>
         <obo:IAO_0000117 xml:lang="en">William R. Hogan</obo:IAO_0000117>
         <obo:IAO_0000111 xml:lang="en">radian</obo:IAO_0000111>
-    </NamedIndividual>
+    </owl:NamedIndividual>
     
 
 
@@ -1400,7 +1432,7 @@ for now.</obo:IAO_0000116>
     ///////////////////////////////////////////////////////////////////////////////////////
      -->
 
-    <rdf:Description rdf:about="http://www.obofoundry.org/ro/ro.owl#part_of">
+    <rdf:Description rdf:about="&obo;BFO_0000050">
         <rdfs:label xml:lang="en">part_of</rdfs:label>
     </rdf:Description>
 </rdf:RDF>
