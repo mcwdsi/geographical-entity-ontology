@@ -1158,7 +1158,7 @@ Note: this definition was taken over from &quot;geopolitical organization&quot;.
                         <owl:someValuesFrom>
                             <owl:Class>
                                 <owl:intersectionOf rdf:parseType="Collection">
-                                    <rdf:Description rdf:about="http://www.ifomis.org/bfo/1.1/span#Process"/>
+                                    <rdf:Description rdf:about="&obo;BFO_0000015"/>
                                     <owl:Restriction>
                                         <owl:onProperty rdf:resource="&obo;OBI_0000293"/>
                                         <owl:someValuesFrom rdf:resource="&obo;GEO_000000788"/>
@@ -1378,12 +1378,6 @@ for now.</obo:IAO_0000116>
             <rdf:Description/>
         </oboInOwl:hasDefinition>
     </owl:Class>
-    
-
-
-    <!-- http://www.ifomis.org/bfo/1.1/span#Process -->
-
-    <owl:Class rdf:about="http://www.ifomis.org/bfo/1.1/span#Process"/>
     
 
 
