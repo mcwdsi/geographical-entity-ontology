@@ -23,7 +23,7 @@
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
      xmlns:obo="http://purl.obolibrary.org/obo/"
      xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <owl:Ontology rdf:about="&obo;geo/dev/geo.owl">
+    <owl:Ontology rdf:about="&obo;geo/bfo2/geo.owl">
         <dc:contributor xml:lang="en">Amanda Hicks</dc:contributor>
         <dc:title xml:lang="en">Geographical Entity Ontology</dc:title>
         <dc:contributor xml:lang="en">Katrina M. Donovan</dc:contributor>
