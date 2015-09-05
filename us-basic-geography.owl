@@ -1,0 +1,331 @@
+<?xml version="1.0"?>
+
+
+<!DOCTYPE rdf:RDF [
+    <!ENTITY owl "http://www.w3.org/2002/07/owl#" >
+    <!ENTITY obo "http://purl.obolibrary.org/obo/" >
+    <!ENTITY xsd "http://www.w3.org/2001/XMLSchema#" >
+    <!ENTITY rdfs "http://www.w3.org/2000/01/rdf-schema#" >
+    <!ENTITY rdf "http://www.w3.org/1999/02/22-rdf-syntax-ns#" >
+]>
+
+
+<rdf:RDF xmlns="&obo;geo/dev/us-geography.owl#"
+     xml:base="&obo;geo/dev/us-geography.owl"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:obo="http://purl.obolibrary.org/obo/">
+    <owl:Ontology rdf:about="&obo;geo/dev/us-basic-geography.owl">
+        <owl:imports rdf:resource="&obo;geo/dev/basic-geography.owl"/>
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000360 -->
+
+    <owl:AnnotationProperty rdf:about="&obo;GEO_000000360">
+        <rdfs:label xml:lang="en">INCITS 38 Code</rdfs:label>
+        <rdfs:comment xml:lang="en">Codes for the Identification of the States and Equivalent Areas in the United States</rdfs:comment>
+        <rdfs:comment xml:lang="en">Most recent version is INCITS 38-2009</rdfs:comment>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000361 -->
+
+    <owl:AnnotationProperty rdf:about="&obo;GEO_000000361">
+        <rdfs:label xml:lang="en">INCITS 31 Code</rdfs:label>
+        <rdfs:comment xml:lang="en">Codes for the Identification of Counties and Equivalent Areas of the United States, Puerto Rico, and the Insular Areas</rdfs:comment>
+        <rdfs:comment xml:lang="en">Most recent version is INCITS 31-2009</rdfs:comment>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000362 -->
+
+    <owl:AnnotationProperty rdf:about="&obo;GEO_000000362">
+        <rdfs:label xml:lang="en">USPS Code</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000441 -->
+
+    <owl:AnnotationProperty rdf:about="&obo;GEO_000000441">
+        <rdfs:label xml:lang="en">CBSA code</rdfs:label>
+        <rdfs:label xml:lang="en">core based statistical area code</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000442 -->
+
+    <owl:AnnotationProperty rdf:about="&obo;GEO_000000442">
+        <rdfs:label xml:lang="en">CSA code</rdfs:label>
+        <rdfs:label xml:lang="en">combined statistical area code</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000443 -->
+
+    <owl:AnnotationProperty rdf:about="&obo;GEO_000000443">
+        <rdfs:label xml:lang="en">metropolitan division code</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000111 -->
+
+    <rdf:Description rdf:about="&obo;IAO_0000111">
+        <obo:IAO_0000114 rdf:resource="&obo;IAO_0000122"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000118 -->
+
+    <rdf:Description rdf:about="&obo;IAO_0000118">
+        <obo:IAO_0000114 rdf:resource="&obo;IAO_0000125"/>
+    </rdf:Description>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/BFO_0000137 -->
+
+    <rdf:Description rdf:about="&obo;BFO_0000137">
+        <owl:inverseOf rdf:resource="&obo;BFO_0000187"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/BFO_0000187 -->
+
+    <rdf:Description rdf:about="&obo;BFO_0000187"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000346 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000346">
+        <rdf:type rdf:resource="&obo;GEO_000000335"/>
+        <rdfs:label xml:lang="en">region of contiguous 48 states</rdfs:label>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000338"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000347 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000347">
+        <rdf:type rdf:resource="&obo;GEO_000000335"/>
+        <rdfs:label xml:lang="en">contiguous region of Alaska</rdfs:label>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000338"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000348 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000348">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">Hawaiʻi</rdfs:label>
+        <obo:IAO_0000118 xml:lang="en">Hawaiʻi Island</obo:IAO_0000118>
+        <obo:IAO_0000118 xml:lang="en">Island of Hawaiʻi</obo:IAO_0000118>
+        <obo:IAO_0000118 xml:lang="en">the Big Island</obo:IAO_0000118>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000356"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000349 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000349">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">Oʻahu</rdfs:label>
+        <obo:IAO_0000118 xml:lang="en">Oahu</obo:IAO_0000118>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000356"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000350 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000350">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">Maui</rdfs:label>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000356"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000351 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000351">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">Kauaʻi</rdfs:label>
+        <obo:IAO_0000118 xml:lang="en">Kauai</obo:IAO_0000118>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000356"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000352 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000352">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">Molokaʻi</rdfs:label>
+        <obo:IAO_0000118 xml:lang="en">Molokai</obo:IAO_0000118>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000356"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000353 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000353">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">Lānaʻi</rdfs:label>
+        <obo:IAO_0000118 xml:lang="en">Lanai</obo:IAO_0000118>
+        <obo:IAO_0000118 xml:lang="en">Lanaʻi</obo:IAO_0000118>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000356"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000354 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000354">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">Niʻihau</rdfs:label>
+        <obo:IAO_0000118 xml:lang="en">Niihau</obo:IAO_0000118>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000356"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000355 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000355">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">Kahoʻolawe</rdfs:label>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000356"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000356 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000356">
+        <rdf:type rdf:resource="&obo;GEO_000000390"/>
+        <rdfs:label xml:lang="en">Hawaiian Islands</rdfs:label>
+        <obo:GEO_000000360 rdf:datatype="&xsd;string">15</obo:GEO_000000360>
+        <obo:GEO_000000362 rdf:datatype="&xsd;string">HI</obo:GEO_000000362>
+        <obo:GEO_000000358 rdf:datatype="&xsd;string">US-15</obo:GEO_000000358>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000792 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000792">
+        <rdf:type rdf:resource="&obo;GEO_000000390"/>
+        <obo:IAO_0000111 xml:lang="en">islands of Alaska</obo:IAO_0000111>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotations
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <rdf:Description rdf:about="&obo;IAO_0000115">
+        <rdfs:label xml:lang="en">definition</rdfs:label>
+        <obo:IAO_0000114 rdf:resource="&obo;IAO_0000122"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="&obo;IAO_0000225">
+        <obo:IAO_0000114 rdf:resource="&obo;IAO_0000125"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="&obo;IAO_0000412">
+        <rdfs:label xml:lang="en">imported from</rdfs:label>
+        <obo:IAO_0000114 rdf:resource="&obo;IAO_0000125"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="&obo;IAO_0000116">
+        <rdfs:label xml:lang="en">editor note</rdfs:label>
+        <obo:IAO_0000114 rdf:resource="&obo;IAO_0000122"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="&obo;IAO_0000589">
+        <obo:IAO_0000114 rdf:resource="&obo;IAO_0000125"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="&obo;IAO_0000117">
+        <obo:IAO_0000114 rdf:resource="&obo;IAO_0000122"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="&obo;BFO_0000179">
+        <rdfs:label xml:lang="en">BFO OWL specification label</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="&obo;IAO_0000078">
+        <obo:IAO_0000114 rdf:resource="&obo;IAO_0000125"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="&obo;IAO_0000232">
+        <obo:IAO_0000114 rdf:resource="&obo;IAO_0000122"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="&obo;IAO_0000112">
+        <obo:IAO_0000114 rdf:resource="&obo;IAO_0000122"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="&obo;IAO_0100001">
+        <obo:IAO_0000114 rdf:resource="&obo;IAO_0000125"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="&obo;BFO_0000180">
+        <rdfs:label xml:lang="en">BFO CLIF specification label</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="&obo;IAO_0000602">
+        <rdfs:label xml:lang="en">has associated axiom(fol)</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="&obo;IAO_0000119">
+        <obo:IAO_0000114 rdf:resource="&obo;IAO_0000122"/>
+    </rdf:Description>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 3.5.1) http://owlapi.sourceforge.net -->
+

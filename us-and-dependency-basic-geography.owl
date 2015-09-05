@@ -1,0 +1,790 @@
+<?xml version="1.0"?>
+
+
+<!DOCTYPE rdf:RDF [
+    <!ENTITY owl "http://www.w3.org/2002/07/owl#" >
+    <!ENTITY obo "http://purl.obolibrary.org/obo/" >
+    <!ENTITY xsd "http://www.w3.org/2001/XMLSchema#" >
+    <!ENTITY rdfs "http://www.w3.org/2000/01/rdf-schema#" >
+    <!ENTITY rdf "http://www.w3.org/1999/02/22-rdf-syntax-ns#" >
+]>
+
+
+<rdf:RDF xmlns="&obo;geo/dev/us-geography.owl#"
+     xml:base="&obo;geo/dev/us-geography.owl"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:obo="http://purl.obolibrary.org/obo/">
+    <owl:Ontology rdf:about="&obo;geo/dev/us-and-dependency-basic-geography.owl">
+        <owl:imports rdf:resource="&obo;geo/dev/us-basic-geography.owl"/>
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000360 -->
+
+    <owl:AnnotationProperty rdf:about="&obo;GEO_000000360">
+        <rdfs:label xml:lang="en">INCITS 38 Code</rdfs:label>
+        <rdfs:comment xml:lang="en">Codes for the Identification of the States and Equivalent Areas in the United States</rdfs:comment>
+        <rdfs:comment xml:lang="en">Most recent version is INCITS 38-2009</rdfs:comment>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000361 -->
+
+    <owl:AnnotationProperty rdf:about="&obo;GEO_000000361">
+        <rdfs:label xml:lang="en">INCITS 31 Code</rdfs:label>
+        <rdfs:comment xml:lang="en">Codes for the Identification of Counties and Equivalent Areas of the United States, Puerto Rico, and the Insular Areas</rdfs:comment>
+        <rdfs:comment xml:lang="en">Most recent version is INCITS 31-2009</rdfs:comment>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000362 -->
+
+    <owl:AnnotationProperty rdf:about="&obo;GEO_000000362">
+        <rdfs:label xml:lang="en">USPS Code</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000441 -->
+
+    <owl:AnnotationProperty rdf:about="&obo;GEO_000000441">
+        <rdfs:label xml:lang="en">CBSA code</rdfs:label>
+        <rdfs:label xml:lang="en">core based statistical area code</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000442 -->
+
+    <owl:AnnotationProperty rdf:about="&obo;GEO_000000442">
+        <rdfs:label xml:lang="en">CSA code</rdfs:label>
+        <rdfs:label xml:lang="en">combined statistical area code</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000443 -->
+
+    <owl:AnnotationProperty rdf:about="&obo;GEO_000000443">
+        <rdfs:label xml:lang="en">metropolitan division code</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000115 -->
+
+    <rdf:Description rdf:about="&obo;IAO_0000115">
+        <rdfs:label xml:lang="en">definition</rdfs:label>
+        <obo:IAO_0000114 rdf:resource="&obo;IAO_0000122"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000117 -->
+
+    <rdf:Description rdf:about="&obo;IAO_0000117">
+        <obo:IAO_0000114 rdf:resource="&obo;IAO_0000122"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000118 -->
+
+    <rdf:Description rdf:about="&obo;IAO_0000118">
+        <obo:IAO_0000114 rdf:resource="&obo;IAO_0000125"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000119 -->
+
+    <rdf:Description rdf:about="&obo;IAO_0000119">
+        <obo:IAO_0000114 rdf:resource="&obo;IAO_0000122"/>
+    </rdf:Description>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/BFO_0000137 -->
+
+    <rdf:Description rdf:about="&obo;BFO_0000137">
+        <owl:inverseOf rdf:resource="&obo;BFO_0000187"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/BFO_0000187 -->
+
+    <rdf:Description rdf:about="&obo;BFO_0000187"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000327 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000327">
+        <rdf:type rdf:resource="&obo;GEO_000000390"/>
+        <rdfs:label xml:lang="en">U.S. Minor Outlying Islands</rdfs:label>
+        <obo:GEO_000000011 rdf:datatype="&xsd;string">01878752</obo:GEO_000000011>
+        <obo:GEO_000000360 rdf:datatype="&xsd;string">74</obo:GEO_000000360>
+        <obo:GEO_000000362 rdf:datatype="&xsd;string">UM</obo:GEO_000000362>
+        <obo:GEO_000000358 rdf:datatype="&xsd;string">US-74</obo:GEO_000000358>
+        <obo:IAO_0000117>William R. Hogan</obo:IAO_0000117>
+        <obo:IAO_0000119>Adapted from Wikipedia.org</obo:IAO_0000119>
+        <obo:IAO_0000115>An aggregate of islands that are part of the territory of the United States of America, grouped together by the International Standards Organization for statistical purposes.  It has as members eight United States insular areas in the Pacific Ocean: Baker Island, Howland Island, Jarvis Island, Johnston Atoll, Kingman Reef, Midway Islands, Palmyra Atoll, and Wake Island; and one US insular area in the Caribbean Sea: Navassa Island.</obo:IAO_0000115>
+        <rdfs:comment>Despite having a unique two-digit state code and two-letter state abbreviation, this entity really just represents several, uninhabited islands that are possessions of the United States and thus make up part of the United States geographical region.  They do not have any government with the exception of Palmyra Atoll.</rdfs:comment>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000349 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000349">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">Oʻahu</rdfs:label>
+        <obo:IAO_0000118 xml:lang="en">Oahu</obo:IAO_0000118>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000484 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000484">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">Tutuila</rdfs:label>
+        <rdfs:comment xml:lang="en">the largest island of American Samoa</rdfs:comment>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000485"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000485 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000485">
+        <rdf:type rdf:resource="&obo;GEO_000000390"/>
+        <rdfs:label xml:lang="en">region of American Samoa</rdfs:label>
+        <obo:GEO_000000360 rdf:datatype="&xsd;string">60</obo:GEO_000000360>
+        <obo:GEO_000000362 rdf:datatype="&xsd;string">AS</obo:GEO_000000362>
+        <obo:GEO_000000358 rdf:datatype="&xsd;string">US-60</obo:GEO_000000358>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000486 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000486">
+        <rdf:type rdf:resource="&obo;GEO_000000390"/>
+        <rdfs:label xml:lang="en">Manuʻa</rdfs:label>
+        <rdfs:label xml:lang="en">Manuʻa Islands Group</rdfs:label>
+        <rdfs:comment xml:lang="en">a group of 3 islands in Oceania that are part of American Samoa</rdfs:comment>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000487 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000487">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">Ta‘ū</rdfs:label>
+        <rdfs:comment xml:lang="en">the largest island in the Manu&apos;a group</rdfs:comment>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000485"/>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000486"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000488 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000488">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">Ofu</rdfs:label>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000485"/>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000486"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000489 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000489">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">Olosega</rdfs:label>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000485"/>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000486"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000490 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000490">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">Aunu&apos;u</rdfs:label>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000485"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000491 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000491">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">Motu O Manu</rdfs:label>
+        <rdfs:label xml:lang="en">Rose Atoll</rdfs:label>
+        <rdfs:label xml:lang="en">Rose Island (American Samoa)</rdfs:label>
+        <rdfs:comment xml:lang="en">uninhabited as of 2014</rdfs:comment>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000485"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000492 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000492">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">Swains Island</rdfs:label>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000485"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000493 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000493">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">island of Guam</rdfs:label>
+        <obo:GEO_000000360 rdf:datatype="&xsd;string">66</obo:GEO_000000360>
+        <obo:GEO_000000362 rdf:datatype="&xsd;string">GU</obo:GEO_000000362>
+        <obo:GEO_000000358 rdf:datatype="&xsd;string">US-66</obo:GEO_000000358>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000494 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000494">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">Alamagan</rdfs:label>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000495"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000495 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000495">
+        <rdf:type rdf:resource="&obo;GEO_000000390"/>
+        <rdfs:label xml:lang="en">region of Northern Mariana Islands</rdfs:label>
+        <obo:GEO_000000360 rdf:datatype="&xsd;string">69</obo:GEO_000000360>
+        <obo:GEO_000000362 rdf:datatype="&xsd;string">MP</obo:GEO_000000362>
+        <obo:GEO_000000358 rdf:datatype="&xsd;string">US-69</obo:GEO_000000358>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000496 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000496">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">Agrihan</rdfs:label>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000495"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000497 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000497">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">Anatahan</rdfs:label>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000495"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000498 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000498">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">Pagan</rdfs:label>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000495"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000499 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000499">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">Sarigan</rdfs:label>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000495"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000500 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000500">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">Rota</rdfs:label>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000495"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000501 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000501">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">Saipan</rdfs:label>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000495"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000502 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000502">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">Tinian</rdfs:label>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000495"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000503 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000503">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">North island of Maug Islands</rdfs:label>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000495"/>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000506"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000504 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000504">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">West island of Maug Islands</rdfs:label>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000495"/>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000506"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000505 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000505">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">East island of Maug Islands</rdfs:label>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000495"/>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000506"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000506 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000506">
+        <rdf:type rdf:resource="&obo;GEO_000000390"/>
+        <rdfs:label xml:lang="en">Maug Islands</rdfs:label>
+        <rdfs:comment xml:lang="en">a group of 3 islands in the Northern Mariana Islands of the United States</rdfs:comment>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000507 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000507">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">Asuncion Island</rdfs:label>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000495"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000508 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000508">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">Farallon de Pajaros</rdfs:label>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000495"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000509 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000509">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">Guguan</rdfs:label>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000495"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000510 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000510">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">Sarigan</rdfs:label>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000495"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000511 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000511">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">Farallon de Mednilla</rdfs:label>
+        <rdfs:comment xml:lang="en">uninhabited as of 2014</rdfs:comment>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000495"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000512 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000512">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">Aguijan</rdfs:label>
+        <rdfs:comment xml:lang="en">uninhabited as of 2014</rdfs:comment>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000495"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000513 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000513">
+        <rdf:type rdf:resource="&obo;GEO_000000390"/>
+        <rdfs:label xml:lang="en">region of Puerto Rico</rdfs:label>
+        <obo:GEO_000000360 rdf:datatype="&xsd;string">72</obo:GEO_000000360>
+        <obo:GEO_000000362 rdf:datatype="&xsd;string">PR</obo:GEO_000000362>
+        <obo:GEO_000000358 rdf:datatype="&xsd;string">US-72</obo:GEO_000000358>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000514 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000514">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">main island of Puerto Rico</rdfs:label>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000513"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000515 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000515">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">Vieques</rdfs:label>
+        <rdfs:label xml:lang="es">Isla de Vieques</rdfs:label>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000513"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000516 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000516">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">Snake Island</rdfs:label>
+        <rdfs:label xml:lang="es">Isla Culebra</rdfs:label>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000513"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000517 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000517">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">Mona</rdfs:label>
+        <rdfs:label xml:lang="es">Isla de la Mona</rdfs:label>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000513"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000518 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000518">
+        <rdf:type rdf:resource="&obo;GEO_000000390"/>
+        <rdfs:label xml:lang="en">region of Virgin Islands of the United States</rdfs:label>
+        <obo:GEO_000000360 rdf:datatype="&xsd;string">78</obo:GEO_000000360>
+        <obo:GEO_000000358 rdf:datatype="&xsd;string">US-78</obo:GEO_000000358>
+        <obo:GEO_000000362 rdf:datatype="&xsd;string">VI</obo:GEO_000000362>
+        <obo:IAO_0000118 xml:lang="en">region of U.S. Virgin Islands</obo:IAO_0000118>
+        <obo:IAO_0000118 xml:lang="en">region of United States Virgin Islands</obo:IAO_0000118>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000519 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000519">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">Saint Croix</rdfs:label>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000518"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000520 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000520">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">Saint John</rdfs:label>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000518"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000521 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000521">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">Saint Thomas</rdfs:label>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000518"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000522 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000522">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">Water Island</rdfs:label>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000518"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000523 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000523">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">Hassel Island</rdfs:label>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000518"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000524 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000524">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">Baker Island</rdfs:label>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000327"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000525 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000525">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">Jarvis Island</rdfs:label>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000327"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000526 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000526">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">Howland Island</rdfs:label>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000327"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000527 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000527">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">Johnston Atoll</rdfs:label>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000327"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000528 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000528">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">Kingman Reef</rdfs:label>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000327"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000529 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000529">
+        <rdf:type rdf:resource="&obo;GEO_000000390"/>
+        <rdfs:label xml:lang="en">Midway Islands</rdfs:label>
+        <obo:IAO_0000118 xml:lang="en">Midway Atoll</obo:IAO_0000118>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000530 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000530">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">Palmyra Atoll</rdfs:label>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000327"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000531 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000531">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">Wake Island</rdfs:label>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000327"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000532 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000532">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">Navassa Island</rdfs:label>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000327"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000533 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000533">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">Sand Island</rdfs:label>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000327"/>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000529"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000534 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000534">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">Eastern Island</rdfs:label>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000327"/>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000529"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000535 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000535">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">Spit Island</rdfs:label>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000327"/>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000529"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotations
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <rdf:Description rdf:about="&obo;IAO_0000225">
+        <obo:IAO_0000114 rdf:resource="&obo;IAO_0000125"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="&obo;IAO_0000412">
+        <rdfs:label xml:lang="en">imported from</rdfs:label>
+        <obo:IAO_0000114 rdf:resource="&obo;IAO_0000125"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="&obo;IAO_0000116">
+        <rdfs:label xml:lang="en">editor note</rdfs:label>
+        <obo:IAO_0000114 rdf:resource="&obo;IAO_0000122"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="&obo;IAO_0000589">
+        <obo:IAO_0000114 rdf:resource="&obo;IAO_0000125"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="&obo;BFO_0000179">
+        <rdfs:label xml:lang="en">BFO OWL specification label</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="&obo;IAO_0000111">
+        <obo:IAO_0000114 rdf:resource="&obo;IAO_0000122"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="&obo;IAO_0000078">
+        <obo:IAO_0000114 rdf:resource="&obo;IAO_0000125"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="&obo;IAO_0000232">
+        <obo:IAO_0000114 rdf:resource="&obo;IAO_0000122"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="&obo;IAO_0000112">
+        <obo:IAO_0000114 rdf:resource="&obo;IAO_0000122"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="&obo;IAO_0100001">
+        <obo:IAO_0000114 rdf:resource="&obo;IAO_0000125"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="&obo;IAO_0000602">
+        <rdfs:label xml:lang="en">has associated axiom(fol)</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="&obo;BFO_0000180">
+        <rdfs:label xml:lang="en">BFO CLIF specification label</rdfs:label>
+    </rdf:Description>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 3.5.1) http://owlapi.sourceforge.net -->
+
