@@ -34,7 +34,7 @@
         <dc:license xml:lang="en">https://creativecommons.org/licenses/by/3.0/</dc:license>
         <owl:imports rdf:resource="&obo;bfo/2014-05-03/classes-only.owl"/>
         <owl:imports rdf:resource="&obo;iao/dev/ontology-metadata.owl"/>
-        <owl:imports rdf:resource="&obo;ro/releases/2015-02-11/core.owl"/>
+        <owl:imports rdf:resource="&obo;ro/core.owl"/>
     </owl:Ontology>
     
 
