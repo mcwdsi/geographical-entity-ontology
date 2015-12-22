@@ -96,14 +96,6 @@
     
 
 
-    <!-- http://purl.obolibrary.org/obo/IAO_0000118 -->
-
-    <rdf:Description rdf:about="&obo;IAO_0000118">
-        <obo:IAO_0000114 rdf:resource="&obo;IAO_0000125"/>
-    </rdf:Description>
-    
-
-
     <!-- 
     ///////////////////////////////////////////////////////////////////////////////////////
     //
@@ -146,6 +138,7 @@
         <rdf:type rdf:resource="&obo;GEO_000000335"/>
         <rdfs:label xml:lang="en">region of contiguous 48 states</rdfs:label>
         <obo:BFO_0000137 rdf:resource="&obo;GEO_000000338"/>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000587"/>
     </owl:NamedIndividual>
     
 
@@ -156,95 +149,7 @@
         <rdf:type rdf:resource="&obo;GEO_000000335"/>
         <rdfs:label xml:lang="en">contiguous region of Alaska</rdfs:label>
         <obo:BFO_0000137 rdf:resource="&obo;GEO_000000338"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://purl.obolibrary.org/obo/GEO_000000348 -->
-
-    <owl:NamedIndividual rdf:about="&obo;GEO_000000348">
-        <rdf:type rdf:resource="&obo;GEO_000000376"/>
-        <rdfs:label xml:lang="en">Hawaiʻi</rdfs:label>
-        <obo:IAO_0000118 xml:lang="en">Hawaiʻi Island</obo:IAO_0000118>
-        <obo:IAO_0000118 xml:lang="en">Island of Hawaiʻi</obo:IAO_0000118>
-        <obo:IAO_0000118 xml:lang="en">the Big Island</obo:IAO_0000118>
-        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000356"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://purl.obolibrary.org/obo/GEO_000000349 -->
-
-    <owl:NamedIndividual rdf:about="&obo;GEO_000000349">
-        <rdf:type rdf:resource="&obo;GEO_000000376"/>
-        <rdfs:label xml:lang="en">Oʻahu</rdfs:label>
-        <obo:IAO_0000118 xml:lang="en">Oahu</obo:IAO_0000118>
-        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000356"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://purl.obolibrary.org/obo/GEO_000000350 -->
-
-    <owl:NamedIndividual rdf:about="&obo;GEO_000000350">
-        <rdf:type rdf:resource="&obo;GEO_000000376"/>
-        <rdfs:label xml:lang="en">Maui</rdfs:label>
-        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000356"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://purl.obolibrary.org/obo/GEO_000000351 -->
-
-    <owl:NamedIndividual rdf:about="&obo;GEO_000000351">
-        <rdf:type rdf:resource="&obo;GEO_000000376"/>
-        <rdfs:label xml:lang="en">Kauaʻi</rdfs:label>
-        <obo:IAO_0000118 xml:lang="en">Kauai</obo:IAO_0000118>
-        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000356"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://purl.obolibrary.org/obo/GEO_000000352 -->
-
-    <owl:NamedIndividual rdf:about="&obo;GEO_000000352">
-        <rdf:type rdf:resource="&obo;GEO_000000376"/>
-        <rdfs:label xml:lang="en">Molokaʻi</rdfs:label>
-        <obo:IAO_0000118 xml:lang="en">Molokai</obo:IAO_0000118>
-        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000356"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://purl.obolibrary.org/obo/GEO_000000353 -->
-
-    <owl:NamedIndividual rdf:about="&obo;GEO_000000353">
-        <rdf:type rdf:resource="&obo;GEO_000000376"/>
-        <rdfs:label xml:lang="en">Lānaʻi</rdfs:label>
-        <obo:IAO_0000118 xml:lang="en">Lanai</obo:IAO_0000118>
-        <obo:IAO_0000118 xml:lang="en">Lanaʻi</obo:IAO_0000118>
-        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000356"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://purl.obolibrary.org/obo/GEO_000000354 -->
-
-    <owl:NamedIndividual rdf:about="&obo;GEO_000000354">
-        <rdf:type rdf:resource="&obo;GEO_000000376"/>
-        <rdfs:label xml:lang="en">Niʻihau</rdfs:label>
-        <obo:IAO_0000118 xml:lang="en">Niihau</obo:IAO_0000118>
-        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000356"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://purl.obolibrary.org/obo/GEO_000000355 -->
-
-    <owl:NamedIndividual rdf:about="&obo;GEO_000000355">
-        <rdf:type rdf:resource="&obo;GEO_000000376"/>
-        <rdfs:label xml:lang="en">Kahoʻolawe</rdfs:label>
-        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000356"/>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000587"/>
     </owl:NamedIndividual>
     
 
@@ -257,6 +162,18 @@
         <obo:GEO_000000360 rdf:datatype="&xsd;string">15</obo:GEO_000000360>
         <obo:GEO_000000362 rdf:datatype="&xsd;string">HI</obo:GEO_000000362>
         <obo:GEO_000000358 rdf:datatype="&xsd;string">US-15</obo:GEO_000000358>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000587"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000587 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000587">
+        <rdf:type rdf:resource="&obo;GEO_000000377"/>
+        <rdfs:label xml:lang="en">region of United States of America</rdfs:label>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">US</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">USA</obo:GEO_000000022>
     </owl:NamedIndividual>
     
 
@@ -266,6 +183,7 @@
     <owl:NamedIndividual rdf:about="&obo;GEO_000000792">
         <rdf:type rdf:resource="&obo;GEO_000000390"/>
         <obo:IAO_0000111 xml:lang="en">islands of Alaska</obo:IAO_0000111>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000587"/>
     </owl:NamedIndividual>
     
 
@@ -278,23 +196,23 @@
     ///////////////////////////////////////////////////////////////////////////////////////
      -->
 
+    <rdf:Description rdf:about="&obo;IAO_0000225">
+        <obo:IAO_0000114 rdf:resource="&obo;IAO_0000125"/>
+    </rdf:Description>
     <rdf:Description rdf:about="&obo;IAO_0000115">
         <rdfs:label xml:lang="en">definition</rdfs:label>
         <obo:IAO_0000114 rdf:resource="&obo;IAO_0000122"/>
-    </rdf:Description>
-    <rdf:Description rdf:about="&obo;IAO_0000225">
-        <obo:IAO_0000114 rdf:resource="&obo;IAO_0000125"/>
     </rdf:Description>
     <rdf:Description rdf:about="&obo;IAO_0000412">
         <rdfs:label xml:lang="en">imported from</rdfs:label>
         <obo:IAO_0000114 rdf:resource="&obo;IAO_0000125"/>
     </rdf:Description>
+    <rdf:Description rdf:about="&obo;IAO_0000589">
+        <obo:IAO_0000114 rdf:resource="&obo;IAO_0000125"/>
+    </rdf:Description>
     <rdf:Description rdf:about="&obo;IAO_0000116">
         <rdfs:label xml:lang="en">editor note</rdfs:label>
         <obo:IAO_0000114 rdf:resource="&obo;IAO_0000122"/>
-    </rdf:Description>
-    <rdf:Description rdf:about="&obo;IAO_0000589">
-        <obo:IAO_0000114 rdf:resource="&obo;IAO_0000125"/>
     </rdf:Description>
     <rdf:Description rdf:about="&obo;IAO_0000117">
         <obo:IAO_0000114 rdf:resource="&obo;IAO_0000122"/>
@@ -302,11 +220,11 @@
     <rdf:Description rdf:about="&obo;BFO_0000179">
         <rdfs:label xml:lang="en">BFO OWL specification label</rdfs:label>
     </rdf:Description>
-    <rdf:Description rdf:about="&obo;IAO_0000078">
-        <obo:IAO_0000114 rdf:resource="&obo;IAO_0000125"/>
-    </rdf:Description>
     <rdf:Description rdf:about="&obo;IAO_0000232">
         <obo:IAO_0000114 rdf:resource="&obo;IAO_0000122"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="&obo;IAO_0000078">
+        <obo:IAO_0000114 rdf:resource="&obo;IAO_0000125"/>
     </rdf:Description>
     <rdf:Description rdf:about="&obo;IAO_0000112">
         <obo:IAO_0000114 rdf:resource="&obo;IAO_0000122"/>
@@ -319,6 +237,9 @@
     </rdf:Description>
     <rdf:Description rdf:about="&obo;IAO_0000602">
         <rdfs:label xml:lang="en">has associated axiom(fol)</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="&obo;IAO_0000118">
+        <obo:IAO_0000114 rdf:resource="&obo;IAO_0000125"/>
     </rdf:Description>
     <rdf:Description rdf:about="&obo;IAO_0000119">
         <obo:IAO_0000114 rdf:resource="&obo;IAO_0000122"/>

@@ -131,27 +131,6 @@
 
     
 
-
-    <!-- http://purl.obolibrary.org/obo/GEO_000000346 -->
-
-    <owl:NamedIndividual rdf:about="&obo;GEO_000000346">
-        <rdf:type rdf:resource="&obo;GEO_000000335"/>
-        <rdfs:label xml:lang="en">region of contiguous 48 states</rdfs:label>
-        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000338"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://purl.obolibrary.org/obo/GEO_000000347 -->
-
-    <owl:NamedIndividual rdf:about="&obo;GEO_000000347">
-        <rdf:type rdf:resource="&obo;GEO_000000335"/>
-        <rdfs:label xml:lang="en">contiguous region of Alaska</rdfs:label>
-        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000338"/>
-    </owl:NamedIndividual>
-    
-
-
     <!-- http://purl.obolibrary.org/obo/GEO_000000348 -->
 
     <owl:NamedIndividual rdf:about="&obo;GEO_000000348">
@@ -237,18 +216,6 @@
         <rdf:type rdf:resource="&obo;GEO_000000376"/>
         <rdfs:label xml:lang="en">Kahoʻolawe</rdfs:label>
         <obo:GEO_000000328 rdf:resource="&obo;GEO_000000356"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://purl.obolibrary.org/obo/GEO_000000356 -->
-
-    <owl:NamedIndividual rdf:about="&obo;GEO_000000356">
-        <rdf:type rdf:resource="&obo;GEO_000000390"/>
-        <rdfs:label xml:lang="en">Hawaiian Islands</rdfs:label>
-        <obo:GEO_000000360 rdf:datatype="&xsd;string">15</obo:GEO_000000360>
-        <obo:GEO_000000362 rdf:datatype="&xsd;string">HI</obo:GEO_000000362>
-        <obo:GEO_000000358 rdf:datatype="&xsd;string">US-15</obo:GEO_000000358>
     </owl:NamedIndividual>
     
 
