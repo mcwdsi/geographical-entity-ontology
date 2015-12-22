@@ -182,6 +182,7 @@
 
     <owl:NamedIndividual rdf:about="&obo;GEO_000000792">
         <rdf:type rdf:resource="&obo;GEO_000000390"/>
+        <rdfs:label xml:lang="en">Alaskan islands</rdfs:label>
         <obo:IAO_0000111 xml:lang="en">islands of Alaska</obo:IAO_0000111>
         <obo:GEO_000000328 rdf:resource="&obo;GEO_000000587"/>
     </owl:NamedIndividual>

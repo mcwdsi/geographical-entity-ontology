@@ -18,7 +18,7 @@
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
      xmlns:obo="http://purl.obolibrary.org/obo/">
     <owl:Ontology rdf:about="&obo;geo/dev/nation-geography.owl">
-        <owl:imports rdf:resource="&obo;geo/dev/basic-geography.owl"/>
+        <owl:imports rdf:resource="&obo;geo/dev/us-basic-geography.owl"/>
     </owl:Ontology>
     
 
@@ -682,17 +682,6 @@
         <obo:GEO_000000022 rdf:datatype="&xsd;string">KAZ</obo:GEO_000000022>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">KZ</obo:GEO_000000023>
         <obo:BFO_0000137 rdf:resource="&obo;GEO_000000341"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://purl.obolibrary.org/obo/GEO_000000587 -->
-
-    <owl:NamedIndividual rdf:about="&obo;GEO_000000587">
-        <rdf:type rdf:resource="&obo;GEO_000000372"/>
-        <rdfs:label xml:lang="en">region of United States of America</rdfs:label>
-        <obo:GEO_000000023 rdf:datatype="&xsd;string">US</obo:GEO_000000023>
-        <obo:GEO_000000022 rdf:datatype="&xsd;string">USA</obo:GEO_000000022>
     </owl:NamedIndividual>
     
 

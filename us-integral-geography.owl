@@ -18,7 +18,7 @@
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
      xmlns:obo="http://purl.obolibrary.org/obo/">
     <owl:Ontology rdf:about="&obo;geo/dev/us-integral-geography.owl">
-        <owl:imports rdf:resource="&obo;geo/dev/basic-geography.owl"/>
+        <owl:imports rdf:resource="&obo;geo/dev/us-basic-geography.owl"/>
     </owl:Ontology>
     
 
@@ -130,6 +130,7 @@
      -->
 
     
+
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000348 -->
 
@@ -908,11 +909,11 @@
     <rdf:Description rdf:about="&obo;BFO_0000179">
         <rdfs:label xml:lang="en">BFO OWL specification label</rdfs:label>
     </rdf:Description>
-    <rdf:Description rdf:about="&obo;IAO_0000111">
-        <obo:IAO_0000114 rdf:resource="&obo;IAO_0000122"/>
-    </rdf:Description>
     <rdf:Description rdf:about="&obo;IAO_0000078">
         <obo:IAO_0000114 rdf:resource="&obo;IAO_0000125"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="&obo;IAO_0000111">
+        <obo:IAO_0000114 rdf:resource="&obo;IAO_0000122"/>
     </rdf:Description>
     <rdf:Description rdf:about="&obo;IAO_0000232">
         <obo:IAO_0000114 rdf:resource="&obo;IAO_0000122"/>
