@@ -263,10 +263,38 @@
     
 
 
+    <!-- http://www.geneontology.org/formats/oboInOwl#created_by -->
+
+    <owl:AnnotationProperty rdf:about="&oboInOwl;created_by"/>
+    
+
+
     <!-- http://www.geneontology.org/formats/oboInOwl#hasDefinition -->
 
     <rdf:Description rdf:about="&oboInOwl;hasDefinition">
         <rdfs:label xml:lang="en">has_definition</rdfs:label>
+    </rdf:Description>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#hasOBONamespace -->
+
+    <rdf:Description rdf:about="&oboInOwl;hasOBONamespace">
+        <rdfs:label rdf:datatype="&xsd;string">has_obo_namespace</rdfs:label>
+    </rdf:Description>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#id -->
+
+    <owl:AnnotationProperty rdf:about="&oboInOwl;id"/>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#inSubset -->
+
+    <rdf:Description rdf:about="&oboInOwl;inSubset">
+        <rdfs:label rdf:datatype="&xsd;string">in_subset</rdfs:label>
     </rdf:Description>
     
 
@@ -1358,6 +1386,21 @@ for now.</obo:IAO_0000116>
     
 
 
+    <!-- http://purl.obolibrary.org/obo/UO_0000047 -->
+
+    <owl:Class rdf:about="&obo;UO_0000047">
+        <rdfs:label rdf:datatype="&xsd;string">area unit</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;IAO_0000003"/>
+        <obo:IAO_0000115 rdf:datatype="&xsd;string">A unit which is a standard measure of the amount of a 2-dimensional flat surface.</obo:IAO_0000115>
+        <oboInOwl:id rdf:datatype="&xsd;string">UO:0000047</oboInOwl:id>
+        <oboInOwl:created_by rdf:datatype="&xsd;string">george gkoutos</oboInOwl:created_by>
+        <obo:IAO_0000412 rdf:datatype="&xsd;string">http://purl.obolibrary.org/obo/uo.owl</obo:IAO_0000412>
+        <oboInOwl:hasOBONamespace rdf:datatype="&xsd;string">unit.ontology</oboInOwl:hasOBONamespace>
+        <oboInOwl:inSubset rdf:resource="&obo;uo#unit_group_slim"/>
+    </owl:Class>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/geo.owl/GEO_000000399 -->
 
     <owl:Class rdf:about="&obo;geo.owl/GEO_000000399">
@@ -1414,6 +1457,27 @@ for now.</obo:IAO_0000116>
         <rdfs:comment xml:lang="en">Technically in the S.I. system it is a derived unit m•m^-1.</rdfs:comment>
         <obo:IAO_0000117 xml:lang="en">William R. Hogan</obo:IAO_0000117>
         <obo:IAO_0000111 xml:lang="en">radian</obo:IAO_0000111>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000796 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000000796">
+        <rdf:type rdf:resource="&obo;UO_0000047"/>
+        <rdfs:label xml:lang="en">square mile</rdfs:label>
+        <rdfs:comment xml:lang="en">An area unit which is equal to the area enclosed by a square in a flat plane which is one mile on every side.</rdfs:comment>
+        <obo:IAO_0000111 xml:lang="en">square mile</obo:IAO_0000111>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/UO_0000080 -->
+
+    <owl:NamedIndividual rdf:about="&obo;UO_0000080">
+        <rdf:type rdf:resource="&obo;UO_0000047"/>
+        <rdfs:label rdf:datatype="&xsd;string">square meter</rdfs:label>
+        <rdfs:comment rdf:datatype="&xsd;string">&quot;An area unit which is equal to an area enclosed by a square with sides each 1 meter long.&quot; [NIST:NIST]</rdfs:comment>
     </owl:NamedIndividual>
     
 
