@@ -88,6 +88,18 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/GEO_000000795 -->
+
+    <owl:AnnotationProperty rdf:about="&obo;GEO_000000795">
+        <rdfs:label xml:lang="en">GNIS Feature ID</rdfs:label>
+        <rdfs:label xml:lang="en">GNIS ID</rdfs:label>
+        <rdfs:label xml:lang="en">INCITS 446 ID</rdfs:label>
+        <rdfs:label xml:lang="en">USGS GNIS Feature ID</rdfs:label>
+        <obo:IAO_0000111 xml:lang="en">Unites States Geological Survey Geographic Names Information System Feature Identifier</obo:IAO_0000111>
+    </owl:AnnotationProperty>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/IAO_0000111 -->
 
     <rdf:Description rdf:about="&obo;IAO_0000111">
