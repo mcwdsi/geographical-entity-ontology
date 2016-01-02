@@ -1465,6 +1465,20 @@ for now.</obo:IAO_0000116>
     
 
 
+    <!-- http://purl.obolibrary.org/obo/OBI_0001931 -->
+
+    <owl:Class rdf:about="&obo;OBI_0001931">
+        <rdfs:label>scalar value specification</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;OBI_0001933"/>
+        <obo:IAO_0000412 rdf:datatype="&xsd;string">http://purl.obolibrary.org/obo/obi.owl</obo:IAO_0000412>
+        <obo:IAO_0000115>A value specification that consists of two parts: a numeral and a unit label</obo:IAO_0000115>
+        <obo:IAO_0000117>PERSON:Bjoern Peters</obo:IAO_0000117>
+        <obo:IAO_0000111>scalar value specification</obo:IAO_0000111>
+        <obo:IAO_0000114 rdf:resource="&obo;IAO_0000123"/>
+    </owl:Class>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/OBI_0001933 -->
 
     <owl:Class rdf:about="&obo;OBI_0001933">
