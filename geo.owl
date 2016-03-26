@@ -23,6 +23,11 @@
         <dc:contributor xml:lang="en">Amanda Hicks</dc:contributor>
         <rdfs:comment xml:lang="en">When citing the Geographical Entities Ontology (GEO), use the permanent URL of the ontology: http://purl.obolibrary.org/obo/geo.owl.  When referencing a specific component of GEO such as a class, object property, or individual, use that component&apos;s Uniform Resource Identifier (URI).</rdfs:comment>
         <owl:versionInfo xml:lang="en">development version 2014-07-15</owl:versionInfo>
+        <obo:IAO_0000116>If you are wondering where the individuals that were previously in geo.owl have gone, they have been moved to other OWL files according to a modularization strategy that seeks to avoid compiling all possible geographical entities into one, giant, outsized file.
+
+For example: nations and their dependencies are now in nation-and-dependency-instances.owl available at http://purl.obolibrary.org/obo/geo/nation-and-dependency-instances.owl
+
+For a full list of PURLs, see the geo.yml file here: https://raw.githubusercontent.com/OBOFoundry/purl.obolibrary.org/master/config/geo.yml</obo:IAO_0000116>
     </owl:Ontology>
     
 
