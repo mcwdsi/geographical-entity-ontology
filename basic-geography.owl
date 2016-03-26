@@ -1,31 +1,40 @@
 <?xml version="1.0"?>
-
-
-<!DOCTYPE rdf:RDF [
-    <!ENTITY owl "http://www.w3.org/2002/07/owl#" >
-    <!ENTITY obo "http://purl.obolibrary.org/obo/" >
-    <!ENTITY dc "http://purl.org/dc/elements/1.1/" >
-    <!ENTITY xsd "http://www.w3.org/2001/XMLSchema#" >
-    <!ENTITY rdfs "http://www.w3.org/2000/01/rdf-schema#" >
-    <!ENTITY rdf "http://www.w3.org/1999/02/22-rdf-syntax-ns#" >
-]>
-
-
-<rdf:RDF xmlns="&obo;geo/dev/basic-geography.owl#"
-     xml:base="&obo;geo/dev/basic-geography.owl"
+<rdf:RDF xmlns="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl#"
+     xml:base="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl"
      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:protege="http://protege.stanford.edu/plugins/owl/protege#"
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
      xmlns:obo="http://purl.obolibrary.org/obo/"
+     xmlns:foaf="http://xmlns.com/foaf/0.1/"
      xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <owl:Ontology rdf:about="&obo;geo/dev/basic-geography.owl">
-        <owl:versionInfo xml:lang="en">2014-07-31</owl:versionInfo>
-        <rdfs:comment xml:lang="en">This OWL file is an inventory of instances that are geographical (material) entities (not organizations).</rdfs:comment>
+    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/geo/basic-geography.owl">
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/iao/ontology-metadata.owl"/>
         <dc:creator xml:lang="en">William R. Hogan</dc:creator>
-        <owl:imports rdf:resource="&obo;geo/dev/geo.owl"/>
-        <owl:imports rdf:resource="&obo;iao/ontology-metadata.owl"/>
+        <rdfs:comment xml:lang="en">This OWL file is an inventory of instances that are geographical (material) entities (not organizations).</rdfs:comment>
+        <owl:versionInfo xml:lang="en">2014-07-31</owl:versionInfo>
     </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/BFO_0000137 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/BFO_0000137"/>
     
 
 
@@ -42,9 +51,15 @@
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000372 -->
 
-    <rdf:Description rdf:about="&obo;GEO_000000372">
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GEO_000000372">
         <obo:IAO_0000118 xml:lang="en">geographical location</obo:IAO_0000118>
     </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000374 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GEO_000000374"/>
     
 
 
@@ -61,92 +76,92 @@
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000338 -->
 
-    <owl:NamedIndividual rdf:about="&obo;GEO_000000338">
-        <rdf:type rdf:resource="&obo;GEO_000000374"/>
-        <rdfs:label xml:lang="en">continent of North America</rdfs:label>
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000338">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000374"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000345"/>
         <obo:IAO_0000118 xml:lang="en">North America</obo:IAO_0000118>
-        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
+        <rdfs:label xml:lang="en">continent of North America</rdfs:label>
     </owl:NamedIndividual>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000339 -->
 
-    <owl:NamedIndividual rdf:about="&obo;GEO_000000339">
-        <rdf:type rdf:resource="&obo;GEO_000000374"/>
-        <rdfs:label xml:lang="en">continent of South America</rdfs:label>
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000339">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000374"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000345"/>
         <obo:IAO_0000118 xml:lang="en">South America</obo:IAO_0000118>
-        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
+        <rdfs:label xml:lang="en">continent of South America</rdfs:label>
     </owl:NamedIndividual>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000340 -->
 
-    <owl:NamedIndividual rdf:about="&obo;GEO_000000340">
-        <rdf:type rdf:resource="&obo;GEO_000000374"/>
-        <rdfs:label xml:lang="en">continent of Africa</rdfs:label>
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000340">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000374"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000345"/>
         <obo:IAO_0000118 xml:lang="en">Africa</obo:IAO_0000118>
-        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
+        <rdfs:label xml:lang="en">continent of Africa</rdfs:label>
     </owl:NamedIndividual>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000341 -->
 
-    <owl:NamedIndividual rdf:about="&obo;GEO_000000341">
-        <rdf:type rdf:resource="&obo;GEO_000000374"/>
-        <rdfs:label xml:lang="en">continent of Asia</rdfs:label>
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000341">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000374"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000345"/>
         <obo:IAO_0000118 xml:lang="en">Asia</obo:IAO_0000118>
-        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
+        <rdfs:label xml:lang="en">continent of Asia</rdfs:label>
     </owl:NamedIndividual>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000342 -->
 
-    <owl:NamedIndividual rdf:about="&obo;GEO_000000342">
-        <rdf:type rdf:resource="&obo;GEO_000000374"/>
-        <rdfs:label xml:lang="en">continent of Europe</rdfs:label>
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000342">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000374"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000345"/>
         <obo:IAO_0000118 xml:lang="en">Europe</obo:IAO_0000118>
-        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
+        <rdfs:label xml:lang="en">continent of Europe</rdfs:label>
     </owl:NamedIndividual>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000343 -->
 
-    <owl:NamedIndividual rdf:about="&obo;GEO_000000343">
-        <rdf:type rdf:resource="&obo;GEO_000000374"/>
-        <rdfs:label xml:lang="en">continent of Australia</rdfs:label>
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000343">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000374"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000345"/>
         <obo:IAO_0000118 xml:lang="en">Australia</obo:IAO_0000118>
-        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
+        <rdfs:label xml:lang="en">continent of Australia</rdfs:label>
     </owl:NamedIndividual>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000344 -->
 
-    <owl:NamedIndividual rdf:about="&obo;GEO_000000344">
-        <rdf:type rdf:resource="&obo;GEO_000000374"/>
-        <rdfs:label xml:lang="en">continent of Antarctica</rdfs:label>
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000344">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000374"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000345"/>
         <obo:IAO_0000118 xml:lang="en">Antarctica</obo:IAO_0000118>
-        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
+        <rdfs:label xml:lang="en">continent of Antarctica</rdfs:label>
     </owl:NamedIndividual>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000345 -->
 
-    <owl:NamedIndividual rdf:about="&obo;GEO_000000345">
-        <rdf:type rdf:resource="&obo;GEO_000000372"/>
-        <rdfs:label xml:lang="en">Earth</rdfs:label>
-        <rdfs:comment xml:lang="en">does not include the entire Earth, just the entire &quot;surface of the earth&quot; (scare quotes, not term indicators).  Some geology/geography ontology will need to define it well at some point, but as of now, I cannot find any good definitions.</rdfs:comment>
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000345">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
         <obo:IAO_0000111 xml:lang="en">region of entire Earth</obo:IAO_0000111>
+        <rdfs:comment xml:lang="en">does not include the entire Earth, just the entire &quot;surface of the earth&quot; (scare quotes, not term indicators).  Some geology/geography ontology will need to define it well at some point, but as of now, I cannot find any good definitions.</rdfs:comment>
+        <rdfs:label xml:lang="en">Earth</rdfs:label>
     </owl:NamedIndividual>
 </rdf:RDF>
 
 
 
-<!-- Generated by the OWL API (version 3.5.0) http://owlapi.sourceforge.net -->
+<!-- Generated by the OWL API (version 4.1.3.20151118-2017) https://github.com/owlcs/owlapi -->
 
