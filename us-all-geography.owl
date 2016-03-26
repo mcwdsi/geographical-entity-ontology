@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
-<rdf:RDF xmlns="http://purl.obolibrary.org/obo/geo/dev/us-geography.owl#"
-     xml:base="http://purl.obolibrary.org/obo/geo/dev/us-geography.owl"
+<rdf:RDF xmlns="http://purl.obolibrary.org/obo/geo/us-geography.owl#"
+     xml:base="http://purl.obolibrary.org/obo/geo/us-geography.owl"
      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:owl="http://www.w3.org/2002/07/owl#"
      xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#"

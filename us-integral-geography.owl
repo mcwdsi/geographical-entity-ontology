@@ -10,8 +10,8 @@
 ]>
 
 
-<rdf:RDF xmlns="&obo;geo/dev/us-geography.owl#"
-     xml:base="&obo;geo/dev/us-geography.owl"
+<rdf:RDF xmlns="&obo;geo/us-geography.owl#"
+     xml:base="&obo;geo/us-geography.owl"
      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:owl="http://www.w3.org/2002/07/owl#"
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
