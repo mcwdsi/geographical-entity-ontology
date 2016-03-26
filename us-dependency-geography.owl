@@ -17,8 +17,8 @@
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
      xmlns:obo="http://purl.obolibrary.org/obo/">
-    <owl:Ontology rdf:about="&obo;geo/dev/us-dependency-geography.owl">
-        <owl:imports rdf:resource="&obo;geo/dev/us-basic-geography.owl"/>
+    <owl:Ontology rdf:about="&obo;geo/us-dependency-geography.owl">
+        <owl:imports rdf:resource="&obo;geo/us-basic-geography.owl"/>
     </owl:Ontology>
     
 

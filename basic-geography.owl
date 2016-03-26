@@ -16,7 +16,7 @@
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/iao/ontology-metadata.owl"/>
         <dc:creator xml:lang="en">William R. Hogan</dc:creator>
         <rdfs:comment xml:lang="en">This OWL file is an inventory of instances that are geographical (material) entities (not organizations).</rdfs:comment>
-        <owl:versionInfo xml:lang="en">2014-07-31</owl:versionInfo>
+        <owl:versionInfo xml:lang="en">2016-03-26</owl:versionInfo>
     </owl:Ontology>
     
 

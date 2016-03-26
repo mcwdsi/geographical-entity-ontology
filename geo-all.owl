@@ -17,12 +17,12 @@
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
      xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/geo/dev/geo-all.owl">
+    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/geo/geo-all.owl">
         <rdfs:comment xml:lang="en">Geographical Entity Ontology - all instances file</rdfs:comment>
         <dc:creator xml:lang="en">William R Hogan</dc:creator>
-        <dc:creator xml:lang="en">development version 2014-07-15</dc:creator>
-        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/dev/nation-and-dependency-instances.owl"/>
-        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/dev/us-mas-dependencies.owl"/>
+	<dc:creator xml:lang="en">production version 2016-03-26</dc:creator>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/nation-and-dependency-instances.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/us-mas-dependencies.owl"/>
     </owl:Ontology>
 </rdf:RDF>
 

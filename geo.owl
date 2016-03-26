@@ -17,12 +17,12 @@
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/ro/core.owl"/>
         <dc:contributor xml:lang="en">Mathias Brochhausen</dc:contributor>
         <dc:title xml:lang="en">Geographical Entity Ontology</dc:title>
+        <owl:versionInfo xml:lang="en">production version 2016-03-26</owl:versionInfo>
         <dc:contributor xml:lang="en">Katrina M. Donovan</dc:contributor>
         <dc:license xml:lang="en">https://creativecommons.org/licenses/by/3.0/</dc:license>
         <dc:creator xml:lang="en">William R. Hogan</dc:creator>
         <dc:contributor xml:lang="en">Amanda Hicks</dc:contributor>
         <rdfs:comment xml:lang="en">When citing the Geographical Entities Ontology (GEO), use the permanent URL of the ontology: http://purl.obolibrary.org/obo/geo.owl.  When referencing a specific component of GEO such as a class, object property, or individual, use that component&apos;s Uniform Resource Identifier (URI).</rdfs:comment>
-        <owl:versionInfo xml:lang="en">development version 2014-07-15</owl:versionInfo>
         <obo:IAO_0000116>If you are wondering where the individuals that were previously in geo.owl have gone, they have been moved to other OWL files according to a modularization strategy that seeks to avoid compiling all possible geographical entities into one, giant, outsized file.
 
 For example: nations and their dependencies are now in nation-and-dependency-instances.owl available at http://purl.obolibrary.org/obo/geo/nation-and-dependency-instances.owl
