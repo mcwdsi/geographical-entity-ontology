@@ -1,0 +1,2824 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://purl.obolibrary.org/obo/geo/us-me-county-geography.owl#"
+     xml:base="http://purl.obolibrary.org/obo/geo/us-me-county-geography.owl"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:obo="http://purl.obolibrary.org/obo/">
+    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/geo/us-me-county-geography.owl">
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/dev/us-integral-geography.owl"/>
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000361 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/GEO_000000361"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000795 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/GEO_000000795"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000111 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000111"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000118 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000118"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/BFO_0000083 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/BFO_0000083"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/BFO_0000111 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/BFO_0000111"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/BFO_0000137 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/BFO_0000137"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000039 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000039"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000136 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000136"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OBI_0001938 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/OBI_0001938"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/RO_0000053 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/RO_0000053"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000004 -->
+
+    <owl:DatatypeProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000004"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/BFO_0000018 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BFO_0000018"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/BFO_0000028 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BFO_0000028"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000372 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GEO_000000372"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000032 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/IAO_0000032"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OBI_0001620 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OBI_0001620"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OBI_0001621 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OBI_0001621"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OBI_0001931 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OBI_0001931"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/PATO_0001323 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/PATO_0001323"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000389 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000389"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000790 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000790"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000796 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000796"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013736 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013736">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Androscoggin County, ME</rdfs:label>
+        <obo:GEO_000000795 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00581286</obo:GEO_000000795>
+        <obo:GEO_000000361 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">23001</obo:GEO_000000361>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Androscoggin County</obo:IAO_0000118>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Androscoggin County, ME</obo:IAO_0000111>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000389"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013737"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013738"/>
+        <obo:BFO_0000083 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013743"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013737 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013737">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">land area of region of Androscoggin County, ME</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013738 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013738">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">water area of region of Androscoggin County, ME</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013739 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013739">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Androscoggin County, ME in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013737"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1211937419</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1211937419 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.211937419E9</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013740 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013740">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Androscoggin County, ME in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013738"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">75599699</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">75599699 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">7.5599699E7</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013741 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013741">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Androscoggin County, ME in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013737"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">467.932</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">467.932 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">467.932</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013742 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013742">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Androscoggin County, ME in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013738"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">29.189</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">29.189 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">29.189</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013743 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013743">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000028"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">spatial region occupied by region of Androscoggin County, ME</rdfs:label>
+        <obo:BFO_0000111 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013744"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013744 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013744">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000018"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2015 interior point of spatial region occupied by region of Androscoggin County, ME</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013745 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013745">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001620"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">latitude measurement of 2015 interior point of region of Androscoggin County, ME</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013744"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">44.167681 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">44.167681</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000790"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013746 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013746">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001621"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">longitude measurement of 2015 interior point of region of Androscoggin County, ME</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013744"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-70.207435 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-70.207435</obo:IAO_0000004>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013747 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013747">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Aroostook County, ME</rdfs:label>
+        <obo:GEO_000000795 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00581287</obo:GEO_000000795>
+        <obo:GEO_000000361 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">23003</obo:GEO_000000361>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Aroostook County</obo:IAO_0000118>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Aroostook County, ME</obo:IAO_0000111>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000389"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013748"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013749"/>
+        <obo:BFO_0000083 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013754"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013748 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013748">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">land area of region of Aroostook County, ME</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013749 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013749">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">water area of region of Aroostook County, ME</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013750 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013750">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Aroostook County, ME in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013748"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">17278047428</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">17278047428 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.7278047428E10</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013751 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013751">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Aroostook County, ME in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013749"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">405253178</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">405253178 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.05253178E8</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013752 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013752">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Aroostook County, ME in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013748"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6671.092</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6671.092 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6671.092</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013753 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013753">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Aroostook County, ME in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013749"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">156.469</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">156.469 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">156.469</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013754 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013754">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000028"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">spatial region occupied by region of Aroostook County, ME</rdfs:label>
+        <obo:BFO_0000111 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013755"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013755 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013755">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000018"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2015 interior point of spatial region occupied by region of Aroostook County, ME</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013756 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013756">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001620"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">latitude measurement of 2015 interior point of region of Aroostook County, ME</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013755"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">46.727082 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">46.727082</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000790"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013757 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013757">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001621"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">longitude measurement of 2015 interior point of region of Aroostook County, ME</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013755"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-68.649426 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-68.649426</obo:IAO_0000004>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013758 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013758">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Cumberland County, ME</rdfs:label>
+        <obo:GEO_000000795 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00581288</obo:GEO_000000795>
+        <obo:GEO_000000361 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">23005</obo:GEO_000000361>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cumberland County</obo:IAO_0000118>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Cumberland County, ME</obo:IAO_0000111>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000389"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013759"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013760"/>
+        <obo:BFO_0000083 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013765"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013759 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013759">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">land area of region of Cumberland County, ME</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013760 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013760">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">water area of region of Cumberland County, ME</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013761 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013761">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Cumberland County, ME in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013759"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2164390945</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2164390945 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.164390945E9</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013762 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013762">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Cumberland County, ME in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013760"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">988822127</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">988822127 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">9.88822127E8</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013763 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013763">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Cumberland County, ME in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013759"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">835.676</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">835.676 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">835.676</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013764 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013764">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Cumberland County, ME in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013760"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">381.786</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">381.786 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">381.786</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013765 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013765">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000028"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">spatial region occupied by region of Cumberland County, ME</rdfs:label>
+        <obo:BFO_0000111 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013766"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013766 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013766">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000018"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2015 interior point of spatial region occupied by region of Cumberland County, ME</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013767 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013767">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001620"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">latitude measurement of 2015 interior point of region of Cumberland County, ME</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013766"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">43.808348 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">43.808348</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000790"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013768 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013768">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001621"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">longitude measurement of 2015 interior point of region of Cumberland County, ME</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013766"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-70.330375 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-70.330375</obo:IAO_0000004>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013769 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013769">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Franklin County, ME</rdfs:label>
+        <obo:GEO_000000795 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00581289</obo:GEO_000000795>
+        <obo:GEO_000000361 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">23007</obo:GEO_000000361>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Franklin County</obo:IAO_0000118>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Franklin County, ME</obo:IAO_0000111>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000389"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013770"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013771"/>
+        <obo:BFO_0000083 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013776"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013770 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013770">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">land area of region of Franklin County, ME</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013771 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013771">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">water area of region of Franklin County, ME</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013772 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013772">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Franklin County, ME in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013770"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4395175202</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4395175202 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.395175202E9</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013773 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013773">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Franklin County, ME in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013771"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">121369620</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">121369620 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.2136962E8</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013774 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013774">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Franklin County, ME in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013770"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1696.987</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1696.987 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1696.987</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013775 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013775">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Franklin County, ME in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013771"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">46.861</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">46.861 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">46.861</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013776 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013776">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000028"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">spatial region occupied by region of Franklin County, ME</rdfs:label>
+        <obo:BFO_0000111 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013777"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013777 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013777">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000018"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2015 interior point of spatial region occupied by region of Franklin County, ME</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013778 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013778">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001620"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">latitude measurement of 2015 interior point of region of Franklin County, ME</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013777"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">44.973012 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">44.973012</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000790"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013779 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013779">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001621"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">longitude measurement of 2015 interior point of region of Franklin County, ME</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013777"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-70.444727 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-70.444727</obo:IAO_0000004>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013780 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013780">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Hancock County, ME</rdfs:label>
+        <obo:GEO_000000795 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00581290</obo:GEO_000000795>
+        <obo:GEO_000000361 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">23009</obo:GEO_000000361>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hancock County</obo:IAO_0000118>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Hancock County, ME</obo:IAO_0000111>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000389"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013781"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013782"/>
+        <obo:BFO_0000083 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013787"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013781 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013781">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">land area of region of Hancock County, ME</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013782 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013782">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">water area of region of Hancock County, ME</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013783 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013783">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Hancock County, ME in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013781"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4110275786</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4110275786 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.110275786E9</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013784 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013784">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Hancock County, ME in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013782"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1963073951</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1963073951 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.963073951E9</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013785 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013785">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Hancock County, ME in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013781"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1586.986</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1586.986 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1586.986</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013786 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013786">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Hancock County, ME in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013782"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">757.947</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">757.947 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">757.947</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013787 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013787">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000028"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">spatial region occupied by region of Hancock County, ME</rdfs:label>
+        <obo:BFO_0000111 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013788"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013788 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013788">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000018"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2015 interior point of spatial region occupied by region of Hancock County, ME</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013789 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013789">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001620"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">latitude measurement of 2015 interior point of region of Hancock County, ME</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013788"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">44.564906 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">44.564906</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000790"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013790 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013790">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001621"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">longitude measurement of 2015 interior point of region of Hancock County, ME</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013788"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-68.370703 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-68.370703</obo:IAO_0000004>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013791 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013791">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Kennebec County, ME</rdfs:label>
+        <obo:GEO_000000795 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00581291</obo:GEO_000000795>
+        <obo:GEO_000000361 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">23011</obo:GEO_000000361>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kennebec County</obo:IAO_0000118>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Kennebec County, ME</obo:IAO_0000111>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000389"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013792"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013793"/>
+        <obo:BFO_0000083 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013798"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013792 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013792">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">land area of region of Kennebec County, ME</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013793 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013793">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">water area of region of Kennebec County, ME</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013794 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013794">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Kennebec County, ME in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013792"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2246806175</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2246806175 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.246806175E9</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013795 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013795">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Kennebec County, ME in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013793"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">216724439</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">216724439 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.16724439E8</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013796 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013796">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Kennebec County, ME in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013792"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">867.497</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">867.497 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">867.497</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013797 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013797">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Kennebec County, ME in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013793"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">83.678</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">83.678 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">83.678</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013798 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013798">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000028"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">spatial region occupied by region of Kennebec County, ME</rdfs:label>
+        <obo:BFO_0000111 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013799"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013799 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013799">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000018"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2015 interior point of spatial region occupied by region of Kennebec County, ME</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013800 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013800">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001620"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">latitude measurement of 2015 interior point of region of Kennebec County, ME</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013799"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">44.417012 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">44.417012</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000790"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013801 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013801">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001621"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">longitude measurement of 2015 interior point of region of Kennebec County, ME</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013799"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-69.765764 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-69.765764</obo:IAO_0000004>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013802 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013802">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Knox County, ME</rdfs:label>
+        <obo:GEO_000000795 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00581292</obo:GEO_000000795>
+        <obo:GEO_000000361 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">23013</obo:GEO_000000361>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Knox County</obo:IAO_0000118>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Knox County, ME</obo:IAO_0000111>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000389"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013803"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013804"/>
+        <obo:BFO_0000083 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013809"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013803 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013803">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">land area of region of Knox County, ME</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013804 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013804">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">water area of region of Knox County, ME</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013805 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013805">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Knox County, ME in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013803"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">945693971</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">945693971 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">9.45693971E8</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013806 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013806">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Knox County, ME in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013804"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2017108221</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2017108221 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.017108221E9</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013807 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013807">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Knox County, ME in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013803"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">365.134</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">365.134 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">365.134</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013808 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013808">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Knox County, ME in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013804"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">778.810</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">778.810 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">778.81</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013809 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013809">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000028"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">spatial region occupied by region of Knox County, ME</rdfs:label>
+        <obo:BFO_0000111 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013810"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013810 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013810">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000018"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2015 interior point of spatial region occupied by region of Knox County, ME</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013811 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013811">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001620"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">latitude measurement of 2015 interior point of region of Knox County, ME</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013810"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">44.042045 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">44.042045</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000790"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013812 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013812">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001621"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">longitude measurement of 2015 interior point of region of Knox County, ME</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013810"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-69.038514 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-69.038514</obo:IAO_0000004>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013813 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013813">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Lincoln County, ME</rdfs:label>
+        <obo:GEO_000000795 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00581293</obo:GEO_000000795>
+        <obo:GEO_000000361 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">23015</obo:GEO_000000361>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lincoln County</obo:IAO_0000118>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Lincoln County, ME</obo:IAO_0000111>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000389"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013814"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013815"/>
+        <obo:BFO_0000083 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013820"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013814 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013814">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">land area of region of Lincoln County, ME</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013815 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013815">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">water area of region of Lincoln County, ME</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013816 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013816">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Lincoln County, ME in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013814"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1180625664</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1180625664 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.180625664E9</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013817 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013817">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Lincoln County, ME in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013815"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">631363741</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">631363741 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.31363741E8</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013818 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013818">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Lincoln County, ME in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013814"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">455.842</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">455.842 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">455.842</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013819 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013819">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Lincoln County, ME in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013815"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">243.771</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">243.771 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">243.771</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013820 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013820">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000028"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">spatial region occupied by region of Lincoln County, ME</rdfs:label>
+        <obo:BFO_0000111 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013821"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013821 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013821">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000018"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2015 interior point of spatial region occupied by region of Lincoln County, ME</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013822 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013822">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001620"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">latitude measurement of 2015 interior point of region of Lincoln County, ME</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013821"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">43.994263 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">43.994263</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000790"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013823 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013823">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001621"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">longitude measurement of 2015 interior point of region of Lincoln County, ME</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013821"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-69.514038 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-69.514038</obo:IAO_0000004>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013824 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013824">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Oxford County, ME</rdfs:label>
+        <obo:GEO_000000795 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00581294</obo:GEO_000000795>
+        <obo:GEO_000000361 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">23017</obo:GEO_000000361>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Oxford County</obo:IAO_0000118>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Oxford County, ME</obo:IAO_0000111>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000389"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013825"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013826"/>
+        <obo:BFO_0000083 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013831"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013825 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013825">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">land area of region of Oxford County, ME</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013826 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013826">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">water area of region of Oxford County, ME</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013827 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013827">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Oxford County, ME in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013825"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5379039602</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5379039602 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.379039602E9</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013828 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013828">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Oxford County, ME in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013826"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">256039720</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">256039720 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.5603972E8</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013829 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013829">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Oxford County, ME in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013825"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2076.859</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2076.859 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2076.859</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013830 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013830">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Oxford County, ME in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013826"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">98.857</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">98.857 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">98.857</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013831 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013831">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000028"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">spatial region occupied by region of Oxford County, ME</rdfs:label>
+        <obo:BFO_0000111 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013832"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013832 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013832">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000018"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2015 interior point of spatial region occupied by region of Oxford County, ME</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013833 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013833">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001620"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">latitude measurement of 2015 interior point of region of Oxford County, ME</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013832"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">44.494500 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">44.4945</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000790"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013834 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013834">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001621"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">longitude measurement of 2015 interior point of region of Oxford County, ME</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013832"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-70.734421 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-70.734421</obo:IAO_0000004>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013835 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013835">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Penobscot County, ME</rdfs:label>
+        <obo:GEO_000000795 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00581295</obo:GEO_000000795>
+        <obo:GEO_000000361 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">23019</obo:GEO_000000361>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Penobscot County</obo:IAO_0000118>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Penobscot County, ME</obo:IAO_0000111>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000389"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013836"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013837"/>
+        <obo:BFO_0000083 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013842"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013836 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013836">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">land area of region of Penobscot County, ME</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013837 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013837">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">water area of region of Penobscot County, ME</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013838 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013838">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Penobscot County, ME in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013836"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8799074164</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8799074164 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">8.799074164E9</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013839 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013839">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Penobscot County, ME in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013837"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">413603851</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">413603851 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.13603851E8</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013840 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013840">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Penobscot County, ME in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013836"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3397.342</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3397.342 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3397.342</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013841 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013841">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Penobscot County, ME in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013837"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">159.693</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">159.693 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">159.693</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013842 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013842">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000028"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">spatial region occupied by region of Penobscot County, ME</rdfs:label>
+        <obo:BFO_0000111 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013843"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013843 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013843">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000018"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2015 interior point of spatial region occupied by region of Penobscot County, ME</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013844 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013844">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001620"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">latitude measurement of 2015 interior point of region of Penobscot County, ME</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013843"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">45.409279 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">45.409279</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000790"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013845 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013845">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001621"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">longitude measurement of 2015 interior point of region of Penobscot County, ME</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013843"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-68.666598 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-68.666598</obo:IAO_0000004>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013846 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013846">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Piscataquis County, ME</rdfs:label>
+        <obo:GEO_000000795 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00581296</obo:GEO_000000795>
+        <obo:GEO_000000361 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">23021</obo:GEO_000000361>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Piscataquis County</obo:IAO_0000118>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Piscataquis County, ME</obo:IAO_0000111>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000389"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013847"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013848"/>
+        <obo:BFO_0000083 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013853"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013847 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013847">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">land area of region of Piscataquis County, ME</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013848 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013848">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">water area of region of Piscataquis County, ME</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013849 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013849">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Piscataquis County, ME in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013847"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10258678459</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10258678459 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0258678459E10</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013850 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013850">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Piscataquis County, ME in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013848"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1080563045</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1080563045 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.080563045E9</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013851 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013851">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Piscataquis County, ME in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013847"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3960.898</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3960.898 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3960.898</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013852 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013852">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Piscataquis County, ME in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013848"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">417.208</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">417.208 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">417.208</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013853 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013853">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000028"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">spatial region occupied by region of Piscataquis County, ME</rdfs:label>
+        <obo:BFO_0000111 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013854"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013854 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013854">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000018"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2015 interior point of spatial region occupied by region of Piscataquis County, ME</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013855 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013855">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001620"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">latitude measurement of 2015 interior point of region of Piscataquis County, ME</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013854"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">45.917685 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">45.917685</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000790"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013856 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013856">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001621"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">longitude measurement of 2015 interior point of region of Piscataquis County, ME</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013854"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-69.104536 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-69.104536</obo:IAO_0000004>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013857 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013857">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Sagadahoc County, ME</rdfs:label>
+        <obo:GEO_000000795 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00581297</obo:GEO_000000795>
+        <obo:GEO_000000361 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">23023</obo:GEO_000000361>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sagadahoc County</obo:IAO_0000118>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Sagadahoc County, ME</obo:IAO_0000111>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000389"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013858"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013859"/>
+        <obo:BFO_0000083 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013864"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013858 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013858">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">land area of region of Sagadahoc County, ME</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013859 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013859">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">water area of region of Sagadahoc County, ME</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013860 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013860">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Sagadahoc County, ME in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013858"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">657803474</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">657803474 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.57803474E8</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013861 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013861">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Sagadahoc County, ME in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013859"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">300569626</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">300569626 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.00569626E8</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013862 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013862">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Sagadahoc County, ME in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013858"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">253.979</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">253.979 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">253.979</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013863 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013863">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Sagadahoc County, ME in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013859"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">116.051</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">116.051 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">116.051</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013864 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013864">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000028"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">spatial region occupied by region of Sagadahoc County, ME</rdfs:label>
+        <obo:BFO_0000111 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013865"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013865 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013865">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000018"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2015 interior point of spatial region occupied by region of Sagadahoc County, ME</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013866 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013866">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001620"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">latitude measurement of 2015 interior point of region of Sagadahoc County, ME</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013865"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">43.916645 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">43.916645</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000790"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013867 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013867">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001621"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">longitude measurement of 2015 interior point of region of Sagadahoc County, ME</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013865"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-69.844326 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-69.844326</obo:IAO_0000004>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013868 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013868">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Somerset County, ME</rdfs:label>
+        <obo:GEO_000000795 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00581298</obo:GEO_000000795>
+        <obo:GEO_000000361 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">23025</obo:GEO_000000361>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Somerset County</obo:IAO_0000118>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Somerset County, ME</obo:IAO_0000111>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000389"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013869"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013870"/>
+        <obo:BFO_0000083 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013875"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013869 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013869">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">land area of region of Somerset County, ME</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013870 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013870">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">water area of region of Somerset County, ME</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013871 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013871">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Somerset County, ME in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013869"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10164314642</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10164314642 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0164314642E10</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013872 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013872">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Somerset County, ME in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013870"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">437895944</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">437895944 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.37895944E8</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013873 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013873">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Somerset County, ME in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013869"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3924.464</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3924.464 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3924.464</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013874 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013874">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Somerset County, ME in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013870"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">169.073</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">169.073 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">169.073</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013875 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013875">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000028"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">spatial region occupied by region of Somerset County, ME</rdfs:label>
+        <obo:BFO_0000111 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013876"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013876 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013876">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000018"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2015 interior point of spatial region occupied by region of Somerset County, ME</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013877 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013877">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001620"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">latitude measurement of 2015 interior point of region of Somerset County, ME</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013876"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">45.507482 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">45.507482</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000790"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013878 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013878">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001621"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">longitude measurement of 2015 interior point of region of Somerset County, ME</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013876"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-69.976040 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-69.97604</obo:IAO_0000004>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013879 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013879">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Waldo County, ME</rdfs:label>
+        <obo:GEO_000000795 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00581299</obo:GEO_000000795>
+        <obo:GEO_000000361 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">23027</obo:GEO_000000361>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Waldo County</obo:IAO_0000118>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Waldo County, ME</obo:IAO_0000111>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000389"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013880"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013881"/>
+        <obo:BFO_0000083 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013886"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013880 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013880">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">land area of region of Waldo County, ME</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013881 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013881">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">water area of region of Waldo County, ME</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013882 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013882">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Waldo County, ME in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013880"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1890504130</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1890504130 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.89050413E9</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013883 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013883">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Waldo County, ME in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013881"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">318126866</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">318126866 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.18126866E8</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013884 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013884">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Waldo County, ME in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013880"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">729.928</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">729.928 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">729.928</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013885 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013885">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Waldo County, ME in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013881"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">122.829</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">122.829 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">122.829</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013886 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013886">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000028"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">spatial region occupied by region of Waldo County, ME</rdfs:label>
+        <obo:BFO_0000111 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013887"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013887 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013887">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000018"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2015 interior point of spatial region occupied by region of Waldo County, ME</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013888 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013888">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001620"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">latitude measurement of 2015 interior point of region of Waldo County, ME</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013887"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">44.505834 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">44.505834</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000790"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013889 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013889">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001621"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">longitude measurement of 2015 interior point of region of Waldo County, ME</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013887"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-69.138952 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-69.138952</obo:IAO_0000004>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013890 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013890">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Washington County, ME</rdfs:label>
+        <obo:GEO_000000795 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00581300</obo:GEO_000000795>
+        <obo:GEO_000000361 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">23029</obo:GEO_000000361>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Washington County</obo:IAO_0000118>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Washington County, ME</obo:IAO_0000111>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000389"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013891"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013892"/>
+        <obo:BFO_0000083 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013897"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013891 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013891">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">land area of region of Washington County, ME</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013892 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013892">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">water area of region of Washington County, ME</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013893 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013893">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Washington County, ME in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013891"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6637321519</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6637321519 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.637321519E9</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013894 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013894">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Washington County, ME in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013892"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1799989402</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1799989402 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.799989402E9</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013895 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013895">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Washington County, ME in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013891"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2562.684</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2562.684 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2562.684</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013896 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013896">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Washington County, ME in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013892"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">694.980</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">694.980 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">694.98</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013897 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013897">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000028"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">spatial region occupied by region of Washington County, ME</rdfs:label>
+        <obo:BFO_0000111 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013898"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013898 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013898">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000018"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2015 interior point of spatial region occupied by region of Washington County, ME</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013899 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013899">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001620"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">latitude measurement of 2015 interior point of region of Washington County, ME</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013898"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">44.967009 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">44.967009</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000790"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013900 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013900">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001621"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">longitude measurement of 2015 interior point of region of Washington County, ME</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013898"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-67.609354 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-67.609354</obo:IAO_0000004>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013901 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013901">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of York County, ME</rdfs:label>
+        <obo:GEO_000000795 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00581301</obo:GEO_000000795>
+        <obo:GEO_000000361 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">23031</obo:GEO_000000361>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">York County</obo:IAO_0000118>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of York County, ME</obo:IAO_0000111>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000389"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013902"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013903"/>
+        <obo:BFO_0000083 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013908"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013902 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013902">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">land area of region of York County, ME</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013903 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013903">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">water area of region of York County, ME</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013904 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013904">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of York County, ME in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013902"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2566086356</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2566086356 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.566086356E9</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013905 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013905">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of York County, ME in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013903"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">722457634</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">722457634 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">7.22457634E8</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013906 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013906">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of York County, ME in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013902"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">990.772</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">990.772 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">990.772</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013907 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013907">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of York County, ME in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013903"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">278.942</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">278.942 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">278.942</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013908 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013908">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000028"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">spatial region occupied by region of York County, ME</rdfs:label>
+        <obo:BFO_0000111 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013909"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013909 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013909">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000018"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2015 interior point of spatial region occupied by region of York County, ME</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013910 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013910">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001620"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">latitude measurement of 2015 interior point of region of York County, ME</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013909"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">43.426019 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">43.426019</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000790"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000013911 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000013911">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001621"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">longitude measurement of 2015 interior point of region of York County, ME</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000013909"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-70.668425 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-70.668425</obo:IAO_0000004>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/UO_0000080 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/UO_0000080"/>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 3.5.0) http://owlapi.sourceforge.net -->
+

@@ -1,0 +1,1031 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://purl.obolibrary.org/obo/geo/us-hi-county-geography.owl#"
+     xml:base="http://purl.obolibrary.org/obo/geo/us-hi-county-geography.owl"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:obo="http://purl.obolibrary.org/obo/">
+    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/geo/us-hi-county-geography.owl">
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/dev/us-integral-geography.owl"/>
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000361 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/GEO_000000361"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000795 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/GEO_000000795"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000111 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000111"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000118 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000118"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/BFO_0000083 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/BFO_0000083"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/BFO_0000111 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/BFO_0000111"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/BFO_0000137 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/BFO_0000137"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000039 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000039"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000136 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000136"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OBI_0001938 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/OBI_0001938"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/RO_0000053 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/RO_0000053"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000004 -->
+
+    <owl:DatatypeProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000004"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/BFO_0000018 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BFO_0000018"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/BFO_0000028 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BFO_0000028"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000372 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GEO_000000372"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000032 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/IAO_0000032"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OBI_0001620 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OBI_0001620"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OBI_0001621 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OBI_0001621"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OBI_0001931 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OBI_0001931"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/PATO_0001323 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/PATO_0001323"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000356 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000356"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000790 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000790"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000796 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000796"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000006795 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000006795">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Hawaii County, HI</rdfs:label>
+        <obo:GEO_000000795 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00365280</obo:GEO_000000795>
+        <obo:GEO_000000361 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">15001</obo:GEO_000000361>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hawaii County</obo:IAO_0000118>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Hawaii County, HI</obo:IAO_0000111>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000356"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000006796"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000006797"/>
+        <obo:BFO_0000083 rdf:resource="http://purl.obolibrary.org/obo/GEO_000006802"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000006796 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000006796">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">land area of region of Hawaii County, HI</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000006797 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000006797">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">water area of region of Hawaii County, HI</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000006798 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000006798">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Hawaii County, HI in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000006796"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10433651107</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10433651107 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0433651107E10</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000006799 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000006799">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Hawaii County, HI in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000006797"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2739477691</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2739477691 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.739477691E9</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000006800 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000006800">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Hawaii County, HI in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000006796"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4028.455</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4028.455 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4028.455</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000006801 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000006801">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Hawaii County, HI in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000006797"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1057.718</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1057.718 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1057.718</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000006802 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000006802">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000028"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">spatial region occupied by region of Hawaii County, HI</rdfs:label>
+        <obo:BFO_0000111 rdf:resource="http://purl.obolibrary.org/obo/GEO_000006803"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000006803 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000006803">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000018"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2015 interior point of spatial region occupied by region of Hawaii County, HI</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000006804 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000006804">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001620"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">latitude measurement of 2015 interior point of region of Hawaii County, HI</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000006803"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">19.597764 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">19.597764</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000790"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000006805 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000006805">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001621"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">longitude measurement of 2015 interior point of region of Hawaii County, HI</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000006803"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-155.502443 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-155.502443</obo:IAO_0000004>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000006806 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000006806">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Honolulu County, HI</rdfs:label>
+        <obo:GEO_000000795 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00365281</obo:GEO_000000795>
+        <obo:GEO_000000361 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">15003</obo:GEO_000000361>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Honolulu County</obo:IAO_0000118>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Honolulu County, HI</obo:IAO_0000111>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000356"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000006807"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000006808"/>
+        <obo:BFO_0000083 rdf:resource="http://purl.obolibrary.org/obo/GEO_000006813"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000006807 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000006807">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">land area of region of Honolulu County, HI</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000006808 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000006808">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">water area of region of Honolulu County, HI</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000006809 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000006809">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Honolulu County, HI in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000006807"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1555505156</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1555505156 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.555505156E9</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000006810 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000006810">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Honolulu County, HI in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000006808"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4054940027</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4054940027 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.054940027E9</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000006811 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000006811">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Honolulu County, HI in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000006807"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">600.584</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">600.584 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">600.584</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000006812 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000006812">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Honolulu County, HI in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000006808"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1565.621</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1565.621 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1565.621</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000006813 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000006813">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000028"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">spatial region occupied by region of Honolulu County, HI</rdfs:label>
+        <obo:BFO_0000111 rdf:resource="http://purl.obolibrary.org/obo/GEO_000006814"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000006814 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000006814">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000018"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2015 interior point of spatial region occupied by region of Honolulu County, HI</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000006815 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000006815">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001620"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">latitude measurement of 2015 interior point of region of Honolulu County, HI</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000006814"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">21.461365 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">21.461365</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000790"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000006816 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000006816">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001621"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">longitude measurement of 2015 interior point of region of Honolulu County, HI</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000006814"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-158.201974 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-158.201974</obo:IAO_0000004>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000006817 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000006817">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Kalawao County, HI</rdfs:label>
+        <obo:GEO_000000795 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01702380</obo:GEO_000000795>
+        <obo:GEO_000000361 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">15005</obo:GEO_000000361>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kalawao County</obo:IAO_0000118>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Kalawao County, HI</obo:IAO_0000111>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000356"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000006818"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000006819"/>
+        <obo:BFO_0000083 rdf:resource="http://purl.obolibrary.org/obo/GEO_000006824"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000006818 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000006818">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">land area of region of Kalawao County, HI</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000006819 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000006819">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">water area of region of Kalawao County, HI</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000006820 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000006820">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Kalawao County, HI in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000006818"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">31057602</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">31057602 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.1057602E7</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000006821 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000006821">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Kalawao County, HI in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000006819"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">105769486</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">105769486 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.05769486E8</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000006822 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000006822">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Kalawao County, HI in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000006818"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11.991</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11.991 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">11.991</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000006823 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000006823">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Kalawao County, HI in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000006819"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">40.838</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">40.838 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">40.838</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000006824 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000006824">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000028"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">spatial region occupied by region of Kalawao County, HI</rdfs:label>
+        <obo:BFO_0000111 rdf:resource="http://purl.obolibrary.org/obo/GEO_000006825"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000006825 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000006825">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000018"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2015 interior point of spatial region occupied by region of Kalawao County, HI</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000006826 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000006826">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001620"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">latitude measurement of 2015 interior point of region of Kalawao County, HI</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000006825"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">21.218764 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">21.218764</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000790"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000006827 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000006827">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001621"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">longitude measurement of 2015 interior point of region of Kalawao County, HI</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000006825"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-156.974010 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-156.97401</obo:IAO_0000004>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000006828 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000006828">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Kauai County, HI</rdfs:label>
+        <obo:GEO_000000795 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00365282</obo:GEO_000000795>
+        <obo:GEO_000000361 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">15007</obo:GEO_000000361>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kauai County</obo:IAO_0000118>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Kauai County, HI</obo:IAO_0000111>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000356"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000006829"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000006830"/>
+        <obo:BFO_0000083 rdf:resource="http://purl.obolibrary.org/obo/GEO_000006835"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000006829 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000006829">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">land area of region of Kauai County, HI</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000006830 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000006830">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">water area of region of Kauai County, HI</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000006831 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000006831">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Kauai County, HI in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000006829"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1605560469</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1605560469 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.605560469E9</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000006832 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000006832">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Kauai County, HI in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000006830"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1674243566</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1674243566 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.674243566E9</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000006833 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000006833">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Kauai County, HI in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000006829"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">619.910</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">619.910 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">619.91</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000006834 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000006834">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Kauai County, HI in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000006830"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">646.429</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">646.429 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">646.429</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000006835 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000006835">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000028"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">spatial region occupied by region of Kauai County, HI</rdfs:label>
+        <obo:BFO_0000111 rdf:resource="http://purl.obolibrary.org/obo/GEO_000006836"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000006836 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000006836">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000018"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2015 interior point of spatial region occupied by region of Kauai County, HI</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000006837 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000006837">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001620"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">latitude measurement of 2015 interior point of region of Kauai County, HI</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000006836"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">22.012038 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">22.012038</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000790"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000006838 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000006838">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001621"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">longitude measurement of 2015 interior point of region of Kauai County, HI</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000006836"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-159.705965 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-159.705965</obo:IAO_0000004>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000006839 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000006839">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Maui County, HI</rdfs:label>
+        <obo:GEO_000000795 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00365283</obo:GEO_000000795>
+        <obo:GEO_000000361 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">15009</obo:GEO_000000361>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Maui County</obo:IAO_0000118>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Maui County, HI</obo:IAO_0000111>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000356"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000006840"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000006841"/>
+        <obo:BFO_0000083 rdf:resource="http://purl.obolibrary.org/obo/GEO_000006846"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000006840 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000006840">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">land area of region of Maui County, HI</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000006841 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000006841">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">water area of region of Maui County, HI</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000006842 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000006842">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Maui County, HI in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000006840"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3008359138</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3008359138 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.008359138E9</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000006843 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000006843">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Maui County, HI in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000006841"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3203293646</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3203293646 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.203293646E9</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000006844 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000006844">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Maui County, HI in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000006840"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1161.534</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1161.534 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1161.534</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000006845 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000006845">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Maui County, HI in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000006841"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1236.799</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1236.799 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1236.799</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000006846 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000006846">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000028"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">spatial region occupied by region of Maui County, HI</rdfs:label>
+        <obo:BFO_0000111 rdf:resource="http://purl.obolibrary.org/obo/GEO_000006847"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000006847 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000006847">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000018"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2015 interior point of spatial region occupied by region of Maui County, HI</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000006848 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000006848">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001620"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">latitude measurement of 2015 interior point of region of Maui County, HI</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000006847"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20.855931 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">20.855931</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000790"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000006849 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000006849">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001621"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">longitude measurement of 2015 interior point of region of Maui County, HI</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000006847"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-156.601550 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-156.60155</obo:IAO_0000004>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/UO_0000080 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/UO_0000080"/>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 3.5.0) http://owlapi.sourceforge.net -->
+

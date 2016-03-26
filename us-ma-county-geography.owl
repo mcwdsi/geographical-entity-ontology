@@ -1,0 +1,2498 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://purl.obolibrary.org/obo/geo/us-ma-county-geography.owl#"
+     xml:base="http://purl.obolibrary.org/obo/geo/us-ma-county-geography.owl"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:obo="http://purl.obolibrary.org/obo/">
+    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/geo/us-ma-county-geography.owl">
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/dev/us-integral-geography.owl"/>
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000361 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/GEO_000000361"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000795 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/GEO_000000795"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000111 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000111"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000118 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000118"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/BFO_0000083 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/BFO_0000083"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/BFO_0000111 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/BFO_0000111"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/BFO_0000137 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/BFO_0000137"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000039 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000039"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000136 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000136"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OBI_0001938 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/OBI_0001938"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/RO_0000053 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/RO_0000053"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000004 -->
+
+    <owl:DatatypeProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000004"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/BFO_0000018 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BFO_0000018"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/BFO_0000028 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BFO_0000028"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000372 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GEO_000000372"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000032 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/IAO_0000032"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OBI_0001620 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OBI_0001620"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OBI_0001621 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OBI_0001621"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OBI_0001931 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OBI_0001931"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/PATO_0001323 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/PATO_0001323"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000394 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000394"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000790 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000790"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000796 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000796"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014160 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014160">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Barnstable County, MA</rdfs:label>
+        <obo:GEO_000000795 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00606927</obo:GEO_000000795>
+        <obo:GEO_000000361 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25001</obo:GEO_000000361>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Barnstable County</obo:IAO_0000118>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Barnstable County, MA</obo:IAO_0000111>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000394"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014161"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014162"/>
+        <obo:BFO_0000083 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014167"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014161 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014161">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">land area of region of Barnstable County, MA</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014162 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014162">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">water area of region of Barnstable County, MA</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014163 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014163">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Barnstable County, MA in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014161"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1019719638</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1019719638 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.019719638E9</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014164 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014164">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Barnstable County, MA in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014162"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2361606119</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2361606119 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.361606119E9</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014165 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014165">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Barnstable County, MA in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014161"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">393.716</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">393.716 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">393.716</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014166 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014166">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Barnstable County, MA in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014162"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">911.821</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">911.821 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">911.821</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014167 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014167">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000028"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">spatial region occupied by region of Barnstable County, MA</rdfs:label>
+        <obo:BFO_0000111 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014168"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014168 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014168">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000018"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2015 interior point of spatial region occupied by region of Barnstable County, MA</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014169 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014169">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001620"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">latitude measurement of 2015 interior point of region of Barnstable County, MA</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014168"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">41.798819 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">41.798819</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000790"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014170 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014170">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001621"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">longitude measurement of 2015 interior point of region of Barnstable County, MA</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014168"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-70.211083 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-70.211083</obo:IAO_0000004>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014171 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014171">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Berkshire County, MA</rdfs:label>
+        <obo:GEO_000000795 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00606928</obo:GEO_000000795>
+        <obo:GEO_000000361 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25003</obo:GEO_000000361>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Berkshire County</obo:IAO_0000118>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Berkshire County, MA</obo:IAO_0000111>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000394"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014172"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014173"/>
+        <obo:BFO_0000083 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014178"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014172 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014172">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">land area of region of Berkshire County, MA</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014173 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014173">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">water area of region of Berkshire County, MA</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014174 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014174">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Berkshire County, MA in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014172"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2400491048</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2400491048 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.400491048E9</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014175 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014175">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Berkshire County, MA in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014173"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">50746697</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">50746697 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.0746697E7</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014176 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014176">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Berkshire County, MA in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014172"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">926.835</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">926.835 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">926.835</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014177 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014177">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Berkshire County, MA in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014173"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">19.593</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">19.593 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">19.593</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014178 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014178">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000028"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">spatial region occupied by region of Berkshire County, MA</rdfs:label>
+        <obo:BFO_0000111 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014179"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014179 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014179">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000018"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2015 interior point of spatial region occupied by region of Berkshire County, MA</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014180 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014180">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001620"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">latitude measurement of 2015 interior point of region of Berkshire County, MA</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014179"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">42.375314 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">42.375314</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000790"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014181 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014181">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001621"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">longitude measurement of 2015 interior point of region of Berkshire County, MA</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014179"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-73.213948 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-73.213948</obo:IAO_0000004>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014182 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014182">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Bristol County, MA</rdfs:label>
+        <obo:GEO_000000795 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00606929</obo:GEO_000000795>
+        <obo:GEO_000000361 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25005</obo:GEO_000000361>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bristol County</obo:IAO_0000118>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Bristol County, MA</obo:IAO_0000111>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000394"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014183"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014184"/>
+        <obo:BFO_0000083 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014189"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014183 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014183">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">land area of region of Bristol County, MA</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014184 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014184">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">water area of region of Bristol County, MA</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014185 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014185">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Bristol County, MA in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014183"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1432602435</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1432602435 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.432602435E9</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014186 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014186">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Bristol County, MA in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014184"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">357662687</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">357662687 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.57662687E8</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014187 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014187">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Bristol County, MA in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014183"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">553.131</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">553.131 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">553.131</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014188 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014188">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Bristol County, MA in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014184"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">138.094</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">138.094 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">138.094</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014189 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014189">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000028"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">spatial region occupied by region of Bristol County, MA</rdfs:label>
+        <obo:BFO_0000111 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014190"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014190 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014190">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000018"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2015 interior point of spatial region occupied by region of Bristol County, MA</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014191 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014191">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001620"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">latitude measurement of 2015 interior point of region of Bristol County, MA</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014190"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">41.746863 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">41.746863</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000790"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014192 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014192">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001621"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">longitude measurement of 2015 interior point of region of Bristol County, MA</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014190"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-71.090509 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-71.090509</obo:IAO_0000004>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014193 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014193">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Dukes County, MA</rdfs:label>
+        <obo:GEO_000000795 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00606930</obo:GEO_000000795>
+        <obo:GEO_000000361 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25007</obo:GEO_000000361>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dukes County</obo:IAO_0000118>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Dukes County, MA</obo:IAO_0000111>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000394"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014194"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014195"/>
+        <obo:BFO_0000083 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014200"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014194 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014194">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">land area of region of Dukes County, MA</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014195 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014195">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">water area of region of Dukes County, MA</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014196 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014196">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Dukes County, MA in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014194"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">267455894</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">267455894 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.67455894E8</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014197 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014197">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Dukes County, MA in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014195"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1004127633</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1004127633 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.004127633E9</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014198 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014198">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Dukes County, MA in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014194"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">103.265</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">103.265 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">103.265</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014199 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014199">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Dukes County, MA in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014195"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">387.696</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">387.696 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">387.696</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014200 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014200">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000028"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">spatial region occupied by region of Dukes County, MA</rdfs:label>
+        <obo:BFO_0000111 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014201"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014201 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014201">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000018"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2015 interior point of spatial region occupied by region of Dukes County, MA</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014202 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014202">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001620"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">latitude measurement of 2015 interior point of region of Dukes County, MA</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014201"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">41.380969 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">41.380969</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000790"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014203 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014203">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001621"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">longitude measurement of 2015 interior point of region of Dukes County, MA</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014201"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-70.701504 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-70.701504</obo:IAO_0000004>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014204 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014204">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Essex County, MA</rdfs:label>
+        <obo:GEO_000000795 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00606931</obo:GEO_000000795>
+        <obo:GEO_000000361 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25009</obo:GEO_000000361>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Essex County</obo:IAO_0000118>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Essex County, MA</obo:IAO_0000111>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000394"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014205"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014206"/>
+        <obo:BFO_0000083 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014211"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014205 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014205">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">land area of region of Essex County, MA</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014206 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014206">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">water area of region of Essex County, MA</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014207 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014207">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Essex County, MA in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014205"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1275669707</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1275669707 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.275669707E9</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014208 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014208">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Essex County, MA in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014206"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">870068134</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">870068134 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">8.70068134E8</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014209 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014209">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Essex County, MA in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014205"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">492.539</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">492.539 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">492.539</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014210 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014210">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Essex County, MA in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014206"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">335.935</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">335.935 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">335.935</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014211 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014211">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000028"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">spatial region occupied by region of Essex County, MA</rdfs:label>
+        <obo:BFO_0000111 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014212"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014212 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014212">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000018"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2015 interior point of spatial region occupied by region of Essex County, MA</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014213 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014213">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001620"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">latitude measurement of 2015 interior point of region of Essex County, MA</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014212"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">42.642711 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">42.642711</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000790"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014214 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014214">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001621"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">longitude measurement of 2015 interior point of region of Essex County, MA</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014212"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-70.865107 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-70.865107</obo:IAO_0000004>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014215 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014215">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Franklin County, MA</rdfs:label>
+        <obo:GEO_000000795 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00606932</obo:GEO_000000795>
+        <obo:GEO_000000361 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25011</obo:GEO_000000361>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Franklin County</obo:IAO_0000118>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Franklin County, MA</obo:IAO_0000111>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000394"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014216"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014217"/>
+        <obo:BFO_0000083 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014222"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014216 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014216">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">land area of region of Franklin County, MA</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014217 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014217">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">water area of region of Franklin County, MA</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014218 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014218">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Franklin County, MA in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014216"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1811271672</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1811271672 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.811271672E9</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014219 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014219">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Franklin County, MA in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014217"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">65368074</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">65368074 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5368074E7</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014220 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014220">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Franklin County, MA in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014216"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">699.336</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">699.336 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">699.336</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014221 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014221">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Franklin County, MA in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014217"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25.239</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25.239 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">25.239</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014222 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014222">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000028"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">spatial region occupied by region of Franklin County, MA</rdfs:label>
+        <obo:BFO_0000111 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014223"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014223 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014223">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000018"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2015 interior point of spatial region occupied by region of Franklin County, MA</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014224 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014224">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001620"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">latitude measurement of 2015 interior point of region of Franklin County, MA</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014223"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">42.584504 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">42.584504</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000790"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014225 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014225">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001621"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">longitude measurement of 2015 interior point of region of Franklin County, MA</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014223"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-72.591792 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-72.591792</obo:IAO_0000004>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014226 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014226">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Hampden County, MA</rdfs:label>
+        <obo:GEO_000000795 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00606933</obo:GEO_000000795>
+        <obo:GEO_000000361 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25013</obo:GEO_000000361>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hampden County</obo:IAO_0000118>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Hampden County, MA</obo:IAO_0000111>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000394"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014227"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014228"/>
+        <obo:BFO_0000083 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014233"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014227 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014227">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">land area of region of Hampden County, MA</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014228 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014228">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">water area of region of Hampden County, MA</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014229 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014229">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Hampden County, MA in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014227"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1598409204</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1598409204 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.598409204E9</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014230 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014230">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Hampden County, MA in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014228"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">44293472</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">44293472 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.4293472E7</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014231 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014231">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Hampden County, MA in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014227"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">617.149</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">617.149 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">617.149</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014232 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014232">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Hampden County, MA in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014228"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">17.102</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">17.102 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">17.102</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014233 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014233">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000028"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">spatial region occupied by region of Hampden County, MA</rdfs:label>
+        <obo:BFO_0000111 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014234"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014234 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014234">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000018"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2015 interior point of spatial region occupied by region of Hampden County, MA</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014235 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014235">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001620"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">latitude measurement of 2015 interior point of region of Hampden County, MA</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014234"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">42.136198 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">42.136198</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000790"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014236 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014236">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001621"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">longitude measurement of 2015 interior point of region of Hampden County, MA</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014234"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-72.635648 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-72.635648</obo:IAO_0000004>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014237 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014237">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Hampshire County, MA</rdfs:label>
+        <obo:GEO_000000795 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00606934</obo:GEO_000000795>
+        <obo:GEO_000000361 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25015</obo:GEO_000000361>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hampshire County</obo:IAO_0000118>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Hampshire County, MA</obo:IAO_0000111>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000394"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014238"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014239"/>
+        <obo:BFO_0000083 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014244"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014238 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014238">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">land area of region of Hampshire County, MA</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014239 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014239">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">water area of region of Hampshire County, MA</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014240 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014240">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Hampshire County, MA in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014238"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1365598019</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1365598019 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.365598019E9</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014241 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014241">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Hampshire County, MA in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014239"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">46487557</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">46487557 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.6487557E7</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014242 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014242">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Hampshire County, MA in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014238"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">527.260</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">527.260 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">527.26</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014243 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014243">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Hampshire County, MA in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014239"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">17.949</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">17.949 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">17.949</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014244 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014244">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000028"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">spatial region occupied by region of Hampshire County, MA</rdfs:label>
+        <obo:BFO_0000111 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014245"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014245 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014245">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000018"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2015 interior point of spatial region occupied by region of Hampshire County, MA</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014246 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014246">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001620"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">latitude measurement of 2015 interior point of region of Hampshire County, MA</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014245"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">42.339459 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">42.339459</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000790"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014247 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014247">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001621"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">longitude measurement of 2015 interior point of region of Hampshire County, MA</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014245"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-72.663694 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-72.663694</obo:IAO_0000004>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014248 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014248">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Middlesex County, MA</rdfs:label>
+        <obo:GEO_000000795 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00606935</obo:GEO_000000795>
+        <obo:GEO_000000361 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25017</obo:GEO_000000361>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Middlesex County</obo:IAO_0000118>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Middlesex County, MA</obo:IAO_0000111>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000394"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014249"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014250"/>
+        <obo:BFO_0000083 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014255"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014249 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014249">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">land area of region of Middlesex County, MA</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014250 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014250">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">water area of region of Middlesex County, MA</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014251 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014251">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Middlesex County, MA in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014249"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2118147279</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2118147279 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.118147279E9</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014252 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014252">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Middlesex County, MA in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014250"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">75727649</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">75727649 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">7.5727649E7</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014253 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014253">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Middlesex County, MA in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014249"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">817.821</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">817.821 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">817.821</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014254 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014254">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Middlesex County, MA in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014250"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">29.239</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">29.239 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">29.239</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014255 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014255">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000028"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">spatial region occupied by region of Middlesex County, MA</rdfs:label>
+        <obo:BFO_0000111 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014256"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014256 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014256">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000018"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2015 interior point of spatial region occupied by region of Middlesex County, MA</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014257 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014257">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001620"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">latitude measurement of 2015 interior point of region of Middlesex County, MA</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014256"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">42.481711 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">42.481711</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000790"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014258 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014258">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001621"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">longitude measurement of 2015 interior point of region of Middlesex County, MA</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014256"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-71.394917 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-71.394917</obo:IAO_0000004>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014259 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014259">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Nantucket County, MA</rdfs:label>
+        <obo:GEO_000000795 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00606936</obo:GEO_000000795>
+        <obo:GEO_000000361 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25019</obo:GEO_000000361>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nantucket County</obo:IAO_0000118>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Nantucket County, MA</obo:IAO_0000111>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000394"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014260"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014261"/>
+        <obo:BFO_0000083 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014266"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014260 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014260">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">land area of region of Nantucket County, MA</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014261 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014261">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">water area of region of Nantucket County, MA</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014262 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014262">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Nantucket County, MA in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014260"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">119431671</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">119431671 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.19431671E8</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014263 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014263">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Nantucket County, MA in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014261"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">667032212</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">667032212 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.67032212E8</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014264 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014264">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Nantucket County, MA in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014260"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">46.113</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">46.113 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">46.113</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014265 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014265">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Nantucket County, MA in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014261"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">257.543</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">257.543 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">257.543</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014266 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014266">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000028"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">spatial region occupied by region of Nantucket County, MA</rdfs:label>
+        <obo:BFO_0000111 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014267"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014267 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014267">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000018"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2015 interior point of spatial region occupied by region of Nantucket County, MA</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014268 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014268">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001620"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">latitude measurement of 2015 interior point of region of Nantucket County, MA</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014267"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">41.305878 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">41.305878</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000790"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014269 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014269">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001621"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">longitude measurement of 2015 interior point of region of Nantucket County, MA</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014267"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-70.141910 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-70.14191</obo:IAO_0000004>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014270 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014270">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Norfolk County, MA</rdfs:label>
+        <obo:GEO_000000795 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00606937</obo:GEO_000000795>
+        <obo:GEO_000000361 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25021</obo:GEO_000000361>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Norfolk County</obo:IAO_0000118>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Norfolk County, MA</obo:IAO_0000111>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000394"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014271"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014272"/>
+        <obo:BFO_0000083 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014277"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014271 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014271">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">land area of region of Norfolk County, MA</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014272 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014272">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">water area of region of Norfolk County, MA</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014273 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014273">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Norfolk County, MA in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014271"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1025927532</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1025927532 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.025927532E9</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014274 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014274">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Norfolk County, MA in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014272"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">124925285</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">124925285 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.24925285E8</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014275 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014275">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Norfolk County, MA in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014271"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">396.113</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">396.113 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">396.113</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014276 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014276">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Norfolk County, MA in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014272"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">48.234</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">48.234 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">48.234</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014277 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014277">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000028"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">spatial region occupied by region of Norfolk County, MA</rdfs:label>
+        <obo:BFO_0000111 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014278"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014278 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014278">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000018"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2015 interior point of spatial region occupied by region of Norfolk County, MA</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014279 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014279">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001620"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">latitude measurement of 2015 interior point of region of Norfolk County, MA</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014278"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">42.171750 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">42.17175</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000790"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014280 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014280">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001621"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">longitude measurement of 2015 interior point of region of Norfolk County, MA</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014278"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-71.181115 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-71.181115</obo:IAO_0000004>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014281 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014281">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Plymouth County, MA</rdfs:label>
+        <obo:GEO_000000795 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00606938</obo:GEO_000000795>
+        <obo:GEO_000000361 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25023</obo:GEO_000000361>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Plymouth County</obo:IAO_0000118>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Plymouth County, MA</obo:IAO_0000111>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000394"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014282"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014283"/>
+        <obo:BFO_0000083 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014288"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014282 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014282">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">land area of region of Plymouth County, MA</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014283 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014283">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">water area of region of Plymouth County, MA</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014284 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014284">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Plymouth County, MA in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014282"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1707122280</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1707122280 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.70712228E9</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014285 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014285">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Plymouth County, MA in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014283"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1124387947</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1124387947 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.124387947E9</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014286 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014286">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Plymouth County, MA in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014282"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">659.124</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">659.124 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">659.124</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014287 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014287">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Plymouth County, MA in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014283"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">434.129</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">434.129 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">434.129</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014288 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014288">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000028"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">spatial region occupied by region of Plymouth County, MA</rdfs:label>
+        <obo:BFO_0000111 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014289"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014289 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014289">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000018"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2015 interior point of spatial region occupied by region of Plymouth County, MA</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014290 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014290">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001620"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">latitude measurement of 2015 interior point of region of Plymouth County, MA</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014289"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">41.987196 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">41.987196</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000790"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014291 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014291">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001621"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">longitude measurement of 2015 interior point of region of Plymouth County, MA</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014289"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-70.741942 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-70.741942</obo:IAO_0000004>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014292 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014292">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Suffolk County, MA</rdfs:label>
+        <obo:GEO_000000795 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00606939</obo:GEO_000000795>
+        <obo:GEO_000000361 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25025</obo:GEO_000000361>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Suffolk County</obo:IAO_0000118>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Suffolk County, MA</obo:IAO_0000111>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000394"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014293"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014294"/>
+        <obo:BFO_0000083 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014299"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014293 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014293">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">land area of region of Suffolk County, MA</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014294 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014294">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">water area of region of Suffolk County, MA</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014295 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014295">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Suffolk County, MA in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014293"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">150881016</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">150881016 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.50881016E8</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014296 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014296">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Suffolk County, MA in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014294"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">160487602</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">160487602 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.60487602E8</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014297 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014297">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Suffolk County, MA in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014293"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">58.255</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">58.255 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">58.255</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014298 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014298">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Suffolk County, MA in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014294"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">61.965</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">61.965 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">61.965</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014299 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014299">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000028"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">spatial region occupied by region of Suffolk County, MA</rdfs:label>
+        <obo:BFO_0000111 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014300"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014300 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014300">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000018"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2015 interior point of spatial region occupied by region of Suffolk County, MA</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014301 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014301">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001620"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">latitude measurement of 2015 interior point of region of Suffolk County, MA</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014300"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">42.331960 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">42.33196</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000790"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014302 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014302">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001621"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">longitude measurement of 2015 interior point of region of Suffolk County, MA</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014300"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-71.020173 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-71.020173</obo:IAO_0000004>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014303 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014303">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Worcester County, MA</rdfs:label>
+        <obo:GEO_000000795 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00606940</obo:GEO_000000795>
+        <obo:GEO_000000361 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25027</obo:GEO_000000361>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Worcester County</obo:IAO_0000118>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Worcester County, MA</obo:IAO_0000111>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000394"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014304"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014305"/>
+        <obo:BFO_0000083 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014310"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014304 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014304">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">land area of region of Worcester County, MA</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014305 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014305">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">water area of region of Worcester County, MA</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014306 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014306">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Worcester County, MA in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014304"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3912698515</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3912698515 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.912698515E9</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014307 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014307">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Worcester County, MA in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014305"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">177395253</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">177395253 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.77395253E8</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014308 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014308">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Worcester County, MA in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014304"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1510.701</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1510.701 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1510.701</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014309 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014309">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Worcester County, MA in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014305"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">68.493</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">68.493 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">68.493</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014310 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014310">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000028"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">spatial region occupied by region of Worcester County, MA</rdfs:label>
+        <obo:BFO_0000111 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014311"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014311 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014311">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000018"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2015 interior point of spatial region occupied by region of Worcester County, MA</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014312 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014312">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001620"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">latitude measurement of 2015 interior point of region of Worcester County, MA</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014311"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">42.311693 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">42.311693</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000790"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000014313 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000014313">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001621"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">longitude measurement of 2015 interior point of region of Worcester County, MA</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000014311"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-71.940282 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-71.940282</obo:IAO_0000004>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/UO_0000080 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/UO_0000080"/>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 3.5.0) http://owlapi.sourceforge.net -->
+

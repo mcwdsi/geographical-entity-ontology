@@ -1,0 +1,2498 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://purl.obolibrary.org/obo/geo/us-vt-county-geography.owl#"
+     xml:base="http://purl.obolibrary.org/obo/geo/us-vt-county-geography.owl"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:obo="http://purl.obolibrary.org/obo/">
+    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/geo/us-vt-county-geography.owl">
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/dev/us-integral-geography.owl"/>
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000361 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/GEO_000000361"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000795 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/GEO_000000795"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000111 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000111"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000118 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000118"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/BFO_0000083 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/BFO_0000083"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/BFO_0000111 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/BFO_0000111"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/BFO_0000137 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/BFO_0000137"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000039 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000039"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000136 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000136"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OBI_0001938 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/OBI_0001938"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/RO_0000053 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/RO_0000053"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000004 -->
+
+    <owl:DatatypeProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000004"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/BFO_0000018 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BFO_0000018"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/BFO_0000028 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BFO_0000028"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000372 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GEO_000000372"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000032 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/IAO_0000032"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OBI_0001620 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OBI_0001620"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OBI_0001621 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OBI_0001621"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OBI_0001931 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OBI_0001931"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/PATO_0001323 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/PATO_0001323"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000480 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000480"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000790 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000790"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000796 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000796"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031637 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031637">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Addison County, VT</rdfs:label>
+        <obo:GEO_000000795 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01461757</obo:GEO_000000795>
+        <obo:GEO_000000361 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">50001</obo:GEO_000000361>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Addison County</obo:IAO_0000118>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Addison County, VT</obo:IAO_0000111>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000480"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031638"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031639"/>
+        <obo:BFO_0000083 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031644"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031638 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031638">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">land area of region of Addison County, VT</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031639 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031639">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">water area of region of Addison County, VT</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031640 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031640">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Addison County, VT in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031638"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1984779894</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1984779894 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.984779894E9</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031641 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031641">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Addison County, VT in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031639"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">107303299</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">107303299 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.07303299E8</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031642 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031642">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Addison County, VT in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031638"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">766.328</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">766.328 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">766.328</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031643 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031643">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Addison County, VT in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031639"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">41.430</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">41.430 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">41.43</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031644 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031644">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000028"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">spatial region occupied by region of Addison County, VT</rdfs:label>
+        <obo:BFO_0000111 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031645"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031645 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031645">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000018"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2015 interior point of spatial region occupied by region of Addison County, VT</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031646 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031646">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001620"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">latitude measurement of 2015 interior point of region of Addison County, VT</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031645"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">44.031248 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">44.031248</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000790"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031647 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031647">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001621"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">longitude measurement of 2015 interior point of region of Addison County, VT</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031645"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-73.141581 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-73.141581</obo:IAO_0000004>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031648 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031648">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Bennington County, VT</rdfs:label>
+        <obo:GEO_000000795 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01461758</obo:GEO_000000795>
+        <obo:GEO_000000361 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">50003</obo:GEO_000000361>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bennington County</obo:IAO_0000118>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Bennington County, VT</obo:IAO_0000111>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000480"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031649"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031650"/>
+        <obo:BFO_0000083 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031655"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031649 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031649">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">land area of region of Bennington County, VT</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031650 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031650">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">water area of region of Bennington County, VT</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031651 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031651">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Bennington County, VT in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031649"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1748198169</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1748198169 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.748198169E9</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031652 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031652">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Bennington County, VT in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031650"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6926826</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6926826 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6926826.0</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031653 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031653">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Bennington County, VT in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031649"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">674.983</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">674.983 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">674.983</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031654 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031654">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Bennington County, VT in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031650"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2.674</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2.674 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.674</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031655 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031655">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000028"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">spatial region occupied by region of Bennington County, VT</rdfs:label>
+        <obo:BFO_0000111 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031656"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031656 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031656">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000018"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2015 interior point of spatial region occupied by region of Bennington County, VT</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031657 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031657">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001620"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">latitude measurement of 2015 interior point of region of Bennington County, VT</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031656"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">43.035325 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">43.035325</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000790"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031658 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031658">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001621"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">longitude measurement of 2015 interior point of region of Bennington County, VT</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031656"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-73.111460 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-73.11146</obo:IAO_0000004>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031659 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031659">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Caledonia County, VT</rdfs:label>
+        <obo:GEO_000000795 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01461759</obo:GEO_000000795>
+        <obo:GEO_000000361 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">50005</obo:GEO_000000361>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Caledonia County</obo:IAO_0000118>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Caledonia County, VT</obo:IAO_0000111>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000480"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031660"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031661"/>
+        <obo:BFO_0000083 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031666"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031660 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031660">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">land area of region of Caledonia County, VT</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031661 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031661">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">water area of region of Caledonia County, VT</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031662 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031662">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Caledonia County, VT in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031660"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1680879242</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1680879242 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.680879242E9</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031663 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031663">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Caledonia County, VT in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031661"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">22456093</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">22456093 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.2456093E7</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031664 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031664">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Caledonia County, VT in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031660"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">648.991</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">648.991 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">648.991</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031665 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031665">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Caledonia County, VT in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031661"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8.670</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8.670 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">8.67</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031666 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031666">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000028"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">spatial region occupied by region of Caledonia County, VT</rdfs:label>
+        <obo:BFO_0000111 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031667"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031667 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031667">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000018"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2015 interior point of spatial region occupied by region of Caledonia County, VT</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031668 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031668">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001620"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">latitude measurement of 2015 interior point of region of Caledonia County, VT</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031667"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">44.468791 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">44.468791</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000790"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031669 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031669">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001621"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">longitude measurement of 2015 interior point of region of Caledonia County, VT</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031667"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-72.112168 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-72.112168</obo:IAO_0000004>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031670 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031670">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Chittenden County, VT</rdfs:label>
+        <obo:GEO_000000795 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01461760</obo:GEO_000000795>
+        <obo:GEO_000000361 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">50007</obo:GEO_000000361>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Chittenden County</obo:IAO_0000118>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Chittenden County, VT</obo:IAO_0000111>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000480"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031671"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031672"/>
+        <obo:BFO_0000083 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031677"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031671 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031671">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">land area of region of Chittenden County, VT</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031672 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031672">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">water area of region of Chittenden County, VT</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031673 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031673">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Chittenden County, VT in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031671"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1389740227</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1389740227 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.389740227E9</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031674 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031674">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Chittenden County, VT in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031672"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">214237435</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">214237435 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.14237435E8</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031675 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031675">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Chittenden County, VT in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031671"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">536.582</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">536.582 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">536.582</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031676 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031676">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Chittenden County, VT in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031672"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">82.718</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">82.718 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">82.718</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031677 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031677">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000028"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">spatial region occupied by region of Chittenden County, VT</rdfs:label>
+        <obo:BFO_0000111 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031678"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031678 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031678">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000018"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2015 interior point of spatial region occupied by region of Chittenden County, VT</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031679 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031679">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001620"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">latitude measurement of 2015 interior point of region of Chittenden County, VT</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031678"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">44.463327 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">44.463327</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000790"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031680 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031680">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001621"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">longitude measurement of 2015 interior point of region of Chittenden County, VT</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031678"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-73.069412 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-73.069412</obo:IAO_0000004>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031681 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031681">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Essex County, VT</rdfs:label>
+        <obo:GEO_000000795 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01461761</obo:GEO_000000795>
+        <obo:GEO_000000361 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">50009</obo:GEO_000000361>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Essex County</obo:IAO_0000118>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Essex County, VT</obo:IAO_0000111>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000480"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031682"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031683"/>
+        <obo:BFO_0000083 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031688"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031682 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031682">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">land area of region of Essex County, VT</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031683 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031683">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">water area of region of Essex County, VT</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031684 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031684">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Essex County, VT in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031682"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1718707340</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1718707340 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.71870734E9</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031685 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031685">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Essex County, VT in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031683"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">30285614</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">30285614 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.0285614E7</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031686 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031686">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Essex County, VT in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031682"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">663.597</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">663.597 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">663.597</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031687 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031687">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Essex County, VT in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031683"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11.693</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11.693 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">11.693</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031688 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031688">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000028"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">spatial region occupied by region of Essex County, VT</rdfs:label>
+        <obo:BFO_0000111 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031689"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031689 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031689">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000018"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2015 interior point of spatial region occupied by region of Essex County, VT</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031690 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031690">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001620"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">latitude measurement of 2015 interior point of region of Essex County, VT</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031689"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">44.724021 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">44.724021</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000790"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031691 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031691">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001621"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">longitude measurement of 2015 interior point of region of Essex County, VT</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031689"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-71.732736 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-71.732736</obo:IAO_0000004>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031692 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031692">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Franklin County, VT</rdfs:label>
+        <obo:GEO_000000795 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01461762</obo:GEO_000000795>
+        <obo:GEO_000000361 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">50011</obo:GEO_000000361>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Franklin County</obo:IAO_0000118>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Franklin County, VT</obo:IAO_0000111>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000480"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031693"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031694"/>
+        <obo:BFO_0000083 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031699"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031693 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031693">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">land area of region of Franklin County, VT</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031694 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031694">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">water area of region of Franklin County, VT</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031695 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031695">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Franklin County, VT in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031693"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1641633750</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1641633750 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.64163375E9</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031696 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031696">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Franklin County, VT in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031694"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">150930318</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">150930318 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.50930318E8</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031697 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031697">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Franklin County, VT in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031693"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">633.838</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">633.838 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">633.838</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031698 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031698">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Franklin County, VT in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031694"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">58.275</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">58.275 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">58.275</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031699 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031699">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000028"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">spatial region occupied by region of Franklin County, VT</rdfs:label>
+        <obo:BFO_0000111 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031700"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031700 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031700">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000018"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2015 interior point of spatial region occupied by region of Franklin County, VT</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031701 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031701">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001620"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">latitude measurement of 2015 interior point of region of Franklin County, VT</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031700"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">44.858964 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">44.858964</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000790"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031702 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031702">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001621"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">longitude measurement of 2015 interior point of region of Franklin County, VT</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031700"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-72.909402 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-72.909402</obo:IAO_0000004>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031703 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031703">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Grand Isle County, VT</rdfs:label>
+        <obo:GEO_000000795 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01461763</obo:GEO_000000795>
+        <obo:GEO_000000361 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">50013</obo:GEO_000000361>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Grand Isle County</obo:IAO_0000118>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Grand Isle County, VT</obo:IAO_0000111>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000480"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031704"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031705"/>
+        <obo:BFO_0000083 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031710"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031704 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031704">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">land area of region of Grand Isle County, VT</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031705 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031705">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">water area of region of Grand Isle County, VT</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031706 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031706">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Grand Isle County, VT in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031704"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">211894597</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">211894597 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.11894597E8</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031707 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031707">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Grand Isle County, VT in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031705"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">292303559</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">292303559 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.92303559E8</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031708 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031708">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Grand Isle County, VT in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031704"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">81.813</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">81.813 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">81.813</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031709 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031709">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Grand Isle County, VT in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031705"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">112.859</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">112.859 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">112.859</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031710 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031710">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000028"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">spatial region occupied by region of Grand Isle County, VT</rdfs:label>
+        <obo:BFO_0000111 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031711"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031711 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031711">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000018"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2015 interior point of spatial region occupied by region of Grand Isle County, VT</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031712 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031712">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001620"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">latitude measurement of 2015 interior point of region of Grand Isle County, VT</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031711"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">44.801787 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">44.801787</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000790"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031713 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031713">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001621"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">longitude measurement of 2015 interior point of region of Grand Isle County, VT</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031711"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-73.300759 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-73.300759</obo:IAO_0000004>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031714 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031714">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Lamoille County, VT</rdfs:label>
+        <obo:GEO_000000795 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01461764</obo:GEO_000000795>
+        <obo:GEO_000000361 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">50015</obo:GEO_000000361>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lamoille County</obo:IAO_0000118>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Lamoille County, VT</obo:IAO_0000111>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000480"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031715"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031716"/>
+        <obo:BFO_0000083 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031721"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031715 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031715">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">land area of region of Lamoille County, VT</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031716 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031716">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">water area of region of Lamoille County, VT</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031717 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031717">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Lamoille County, VT in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031715"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1188473311</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1188473311 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.188473311E9</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031718 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031718">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Lamoille County, VT in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031716"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12658077</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12658077 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.2658077E7</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031719 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031719">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Lamoille County, VT in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031715"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">458.872</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">458.872 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">458.872</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031720 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031720">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Lamoille County, VT in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031716"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4.887</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4.887 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.887</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031721 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031721">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000028"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">spatial region occupied by region of Lamoille County, VT</rdfs:label>
+        <obo:BFO_0000111 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031722"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031722 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031722">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000018"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2015 interior point of spatial region occupied by region of Lamoille County, VT</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031723 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031723">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001620"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">latitude measurement of 2015 interior point of region of Lamoille County, VT</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031722"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">44.603704 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">44.603704</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000790"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031724 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031724">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001621"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">longitude measurement of 2015 interior point of region of Lamoille County, VT</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031722"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-72.638922 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-72.638922</obo:IAO_0000004>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031725 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031725">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Orange County, VT</rdfs:label>
+        <obo:GEO_000000795 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01461765</obo:GEO_000000795>
+        <obo:GEO_000000361 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">50017</obo:GEO_000000361>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Orange County</obo:IAO_0000118>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Orange County, VT</obo:IAO_0000111>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000480"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031726"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031727"/>
+        <obo:BFO_0000083 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031732"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031726 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031726">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">land area of region of Orange County, VT</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031727 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031727">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">water area of region of Orange County, VT</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031728 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031728">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Orange County, VT in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031726"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1779409624</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1779409624 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.779409624E9</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031729 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031729">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Orange County, VT in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031727"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13549371</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13549371 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.3549371E7</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031730 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031730">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Orange County, VT in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031726"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">687.034</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">687.034 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">687.034</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031731 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031731">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Orange County, VT in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031727"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5.231</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5.231 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.231</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031732 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031732">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000028"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">spatial region occupied by region of Orange County, VT</rdfs:label>
+        <obo:BFO_0000111 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031733"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031733 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031733">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000018"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2015 interior point of spatial region occupied by region of Orange County, VT</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031734 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031734">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001620"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">latitude measurement of 2015 interior point of region of Orange County, VT</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031733"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">44.003392 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">44.003392</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000790"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031735 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031735">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001621"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">longitude measurement of 2015 interior point of region of Orange County, VT</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031733"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-72.369687 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-72.369687</obo:IAO_0000004>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031736 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031736">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Orleans County, VT</rdfs:label>
+        <obo:GEO_000000795 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01461766</obo:GEO_000000795>
+        <obo:GEO_000000361 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">50019</obo:GEO_000000361>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Orleans County</obo:IAO_0000118>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Orleans County, VT</obo:IAO_0000111>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000480"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031737"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031738"/>
+        <obo:BFO_0000083 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031743"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031737 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031737">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">land area of region of Orleans County, VT</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031738 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031738">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">water area of region of Orleans County, VT</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031739 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031739">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Orleans County, VT in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031737"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1796376593</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1796376593 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.796376593E9</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031740 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031740">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Orleans County, VT in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031738"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">71442197</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">71442197 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">7.1442197E7</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031741 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031741">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Orleans County, VT in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031737"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">693.585</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">693.585 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">693.585</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031742 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031742">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Orleans County, VT in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031738"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">27.584</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">27.584 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">27.584</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031743 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031743">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000028"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">spatial region occupied by region of Orleans County, VT</rdfs:label>
+        <obo:BFO_0000111 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031744"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031744 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031744">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000018"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2015 interior point of spatial region occupied by region of Orleans County, VT</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031745 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031745">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001620"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">latitude measurement of 2015 interior point of region of Orleans County, VT</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031744"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">44.828442 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">44.828442</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000790"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031746 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031746">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001621"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">longitude measurement of 2015 interior point of region of Orleans County, VT</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031744"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-72.251630 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-72.25163</obo:IAO_0000004>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031747 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031747">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Rutland County, VT</rdfs:label>
+        <obo:GEO_000000795 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01461767</obo:GEO_000000795>
+        <obo:GEO_000000361 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">50021</obo:GEO_000000361>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rutland County</obo:IAO_0000118>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Rutland County, VT</obo:IAO_0000111>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000480"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031748"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031749"/>
+        <obo:BFO_0000083 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031754"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031748 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031748">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">land area of region of Rutland County, VT</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031749 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031749">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">water area of region of Rutland County, VT</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031750 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031750">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Rutland County, VT in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031748"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2408211831</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2408211831 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.408211831E9</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031751 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031751">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Rutland County, VT in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031749"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">38758591</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">38758591 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.8758591E7</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031752 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031752">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Rutland County, VT in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031748"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">929.816</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">929.816 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">929.816</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031753 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031753">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Rutland County, VT in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031749"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">14.965</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">14.965 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">14.965</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031754 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031754">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000028"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">spatial region occupied by region of Rutland County, VT</rdfs:label>
+        <obo:BFO_0000111 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031755"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031755 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031755">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000018"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2015 interior point of spatial region occupied by region of Rutland County, VT</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031756 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031756">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001620"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">latitude measurement of 2015 interior point of region of Rutland County, VT</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031755"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">43.580858 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">43.580858</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000790"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031757 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031757">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001621"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">longitude measurement of 2015 interior point of region of Rutland County, VT</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031755"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-73.038202 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-73.038202</obo:IAO_0000004>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031758 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031758">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Washington County, VT</rdfs:label>
+        <obo:GEO_000000795 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01461768</obo:GEO_000000795>
+        <obo:GEO_000000361 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">50023</obo:GEO_000000361>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Washington County</obo:IAO_0000118>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Washington County, VT</obo:IAO_0000111>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000480"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031759"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031760"/>
+        <obo:BFO_0000083 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031765"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031759 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031759">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">land area of region of Washington County, VT</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031760 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031760">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">water area of region of Washington County, VT</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031761 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031761">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Washington County, VT in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031759"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1779419614</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1779419614 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.779419614E9</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031762 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031762">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Washington County, VT in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031760"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">21187618</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">21187618 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.1187618E7</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031763 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031763">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Washington County, VT in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031759"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">687.038</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">687.038 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">687.038</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031764 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031764">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Washington County, VT in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031760"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8.181</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8.181 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">8.181</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031765 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031765">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000028"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">spatial region occupied by region of Washington County, VT</rdfs:label>
+        <obo:BFO_0000111 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031766"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031766 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031766">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000018"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2015 interior point of spatial region occupied by region of Washington County, VT</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031767 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031767">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001620"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">latitude measurement of 2015 interior point of region of Washington County, VT</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031766"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">44.274988 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">44.274988</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000790"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031768 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031768">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001621"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">longitude measurement of 2015 interior point of region of Washington County, VT</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031766"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-72.609514 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-72.609514</obo:IAO_0000004>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031769 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031769">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Windham County, VT</rdfs:label>
+        <obo:GEO_000000795 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01461769</obo:GEO_000000795>
+        <obo:GEO_000000361 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">50025</obo:GEO_000000361>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Windham County</obo:IAO_0000118>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Windham County, VT</obo:IAO_0000111>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000480"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031770"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031771"/>
+        <obo:BFO_0000083 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031776"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031770 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031770">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">land area of region of Windham County, VT</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031771 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031771">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">water area of region of Windham County, VT</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031772 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031772">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Windham County, VT in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031770"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2033922469</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2033922469 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.033922469E9</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031773 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031773">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Windham County, VT in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031771"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">33064491</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">33064491 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.3064491E7</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031774 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031774">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Windham County, VT in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031770"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">785.302</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">785.302 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">785.302</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031775 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031775">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Windham County, VT in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031771"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12.766</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12.766 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">12.766</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031776 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031776">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000028"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">spatial region occupied by region of Windham County, VT</rdfs:label>
+        <obo:BFO_0000111 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031777"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031777 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031777">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000018"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2015 interior point of spatial region occupied by region of Windham County, VT</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031778 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031778">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001620"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">latitude measurement of 2015 interior point of region of Windham County, VT</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031777"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">42.995335 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">42.995335</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000790"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031779 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031779">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001621"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">longitude measurement of 2015 interior point of region of Windham County, VT</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031777"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-72.721955 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-72.721955</obo:IAO_0000004>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031780 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031780">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Windsor County, VT</rdfs:label>
+        <obo:GEO_000000795 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01461770</obo:GEO_000000795>
+        <obo:GEO_000000361 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">50027</obo:GEO_000000361>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Windsor County</obo:IAO_0000118>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Windsor County, VT</obo:IAO_0000111>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000480"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031781"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031782"/>
+        <obo:BFO_0000083 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031787"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031781 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031781">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">land area of region of Windsor County, VT</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031782 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031782">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">water area of region of Windsor County, VT</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031783 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031783">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Windsor County, VT in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031781"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2510577932</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2510577932 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.510577932E9</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031784 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031784">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Windsor County, VT in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031782"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">19279313</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">19279313 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.9279313E7</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031785 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031785">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Windsor County, VT in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031781"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">969.340</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">969.340 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">969.34</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031786 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031786">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Windsor County, VT in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031782"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7.444</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7.444 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">7.444</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031787 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031787">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000028"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">spatial region occupied by region of Windsor County, VT</rdfs:label>
+        <obo:BFO_0000111 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031788"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031788 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031788">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000018"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2015 interior point of spatial region occupied by region of Windsor County, VT</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031789 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031789">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001620"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">latitude measurement of 2015 interior point of region of Windsor County, VT</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031788"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">43.572685 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">43.572685</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000790"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000031790 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000031790">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001621"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">longitude measurement of 2015 interior point of region of Windsor County, VT</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000031788"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-72.598821 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-72.598821</obo:IAO_0000004>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/UO_0000080 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/UO_0000080"/>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 3.5.0) http://owlapi.sourceforge.net -->
+

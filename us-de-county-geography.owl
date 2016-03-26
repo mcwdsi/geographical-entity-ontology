@@ -1,0 +1,705 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://purl.obolibrary.org/obo/geo/us-de-county-geography.owl#"
+     xml:base="http://purl.obolibrary.org/obo/geo/us-de-county-geography.owl"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:obo="http://purl.obolibrary.org/obo/">
+    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/geo/us-de-county-geography.owl">
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/dev/us-integral-geography.owl"/>
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000361 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/GEO_000000361"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000795 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/GEO_000000795"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000111 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000111"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000118 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000118"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/BFO_0000083 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/BFO_0000083"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/BFO_0000111 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/BFO_0000111"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/BFO_0000137 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/BFO_0000137"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000039 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000039"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000136 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000136"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OBI_0001938 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/OBI_0001938"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/RO_0000053 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/RO_0000053"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000004 -->
+
+    <owl:DatatypeProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000004"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/BFO_0000018 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BFO_0000018"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/BFO_0000028 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BFO_0000028"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000372 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GEO_000000372"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000032 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/IAO_0000032"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OBI_0001620 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OBI_0001620"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OBI_0001621 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OBI_0001621"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OBI_0001931 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OBI_0001931"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/PATO_0001323 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/PATO_0001323"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000413 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000413"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000790 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000790"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000796 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000796"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000004276 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000004276">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Kent County, DE</rdfs:label>
+        <obo:GEO_000000795 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00217271</obo:GEO_000000795>
+        <obo:GEO_000000361 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10001</obo:GEO_000000361>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kent County</obo:IAO_0000118>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Kent County, DE</obo:IAO_0000111>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000413"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000004277"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000004278"/>
+        <obo:BFO_0000083 rdf:resource="http://purl.obolibrary.org/obo/GEO_000004283"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000004277 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000004277">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">land area of region of Kent County, DE</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000004278 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000004278">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">water area of region of Kent County, DE</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000004279 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000004279">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Kent County, DE in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000004277"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1518565081</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1518565081 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.518565081E9</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000004280 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000004280">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Kent County, DE in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000004278"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">549102079</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">549102079 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.49102079E8</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000004281 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000004281">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Kent County, DE in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000004277"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">586.321</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">586.321 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">586.321</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000004282 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000004282">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Kent County, DE in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000004278"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">212.010</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">212.010 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">212.01</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000004283 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000004283">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000028"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">spatial region occupied by region of Kent County, DE</rdfs:label>
+        <obo:BFO_0000111 rdf:resource="http://purl.obolibrary.org/obo/GEO_000004284"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000004284 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000004284">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000018"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2015 interior point of spatial region occupied by region of Kent County, DE</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000004285 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000004285">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001620"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">latitude measurement of 2015 interior point of region of Kent County, DE</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000004284"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">39.097088 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">39.097088</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000790"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000004286 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000004286">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001621"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">longitude measurement of 2015 interior point of region of Kent County, DE</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000004284"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-75.502982 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-75.502982</obo:IAO_0000004>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000004287 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000004287">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of New Castle County, DE</rdfs:label>
+        <obo:GEO_000000795 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00217270</obo:GEO_000000795>
+        <obo:GEO_000000361 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10003</obo:GEO_000000361>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New Castle County</obo:IAO_0000118>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of New Castle County, DE</obo:IAO_0000111>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000413"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000004288"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000004289"/>
+        <obo:BFO_0000083 rdf:resource="http://purl.obolibrary.org/obo/GEO_000004294"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000004288 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000004288">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">land area of region of New Castle County, DE</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000004289 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000004289">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">water area of region of New Castle County, DE</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000004290 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000004290">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of New Castle County, DE in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000004288"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1104074671</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1104074671 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.104074671E9</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000004291 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000004291">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of New Castle County, DE in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000004289"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">175385786</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">175385786 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.75385786E8</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000004292 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000004292">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of New Castle County, DE in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000004288"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">426.286</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">426.286 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">426.286</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000004293 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000004293">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of New Castle County, DE in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000004289"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">67.717</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">67.717 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">67.717</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000004294 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000004294">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000028"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">spatial region occupied by region of New Castle County, DE</rdfs:label>
+        <obo:BFO_0000111 rdf:resource="http://purl.obolibrary.org/obo/GEO_000004295"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000004295 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000004295">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000018"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2015 interior point of spatial region occupied by region of New Castle County, DE</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000004296 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000004296">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001620"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">latitude measurement of 2015 interior point of region of New Castle County, DE</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000004295"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">39.575915 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">39.575915</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000790"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000004297 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000004297">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001621"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">longitude measurement of 2015 interior point of region of New Castle County, DE</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000004295"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-75.644132 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-75.644132</obo:IAO_0000004>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000004298 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000004298">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Sussex County, DE</rdfs:label>
+        <obo:GEO_000000795 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00217269</obo:GEO_000000795>
+        <obo:GEO_000000361 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10005</obo:GEO_000000361>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sussex County</obo:IAO_0000118>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Sussex County, DE</obo:IAO_0000111>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000413"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000004299"/>
+        <obo:RO_0000053 rdf:resource="http://purl.obolibrary.org/obo/GEO_000004300"/>
+        <obo:BFO_0000083 rdf:resource="http://purl.obolibrary.org/obo/GEO_000004305"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000004299 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000004299">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">land area of region of Sussex County, DE</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000004300 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000004300">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PATO_0001323"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">water area of region of Sussex County, DE</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000004301 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000004301">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Sussex County, DE in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000004299"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2424465375</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2424465375 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.424465375E9</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000004302 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000004302">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Sussex County, DE in square meters</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000004300"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">674255133</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">674255133 square meters</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.74255133E8</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/UO_0000080"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000004303 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000004303">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of land area of region of Sussex County, DE in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000004299"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">936.091</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">936.091 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">936.091</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000004304 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000004304">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000032"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">measurement of water area of region of Sussex County, DE in square miles</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000004300"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001931"/>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">260.331</rdfs:label>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">260.331 square miles</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">260.331</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000796"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000004305 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000004305">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000028"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">spatial region occupied by region of Sussex County, DE</rdfs:label>
+        <obo:BFO_0000111 rdf:resource="http://purl.obolibrary.org/obo/GEO_000004306"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000004306 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000004306">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000018"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2015 interior point of spatial region occupied by region of Sussex County, DE</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000004307 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000004307">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001620"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">latitude measurement of 2015 interior point of region of Sussex County, DE</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000004306"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">38.673227 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">38.673227</obo:IAO_0000004>
+                <obo:IAO_0000039 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000790"/>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000004308 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000004308">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001621"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">longitude measurement of 2015 interior point of region of Sussex County, DE</rdfs:label>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000004306"/>
+        <obo:OBI_0001938>
+            <rdf:Description>
+                <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-75.337024 degrees</rdfs:label>
+                <obo:IAO_0000004 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-75.337024</obo:IAO_0000004>
+            </rdf:Description>
+        </obo:OBI_0001938>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/UO_0000080 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/UO_0000080"/>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 3.5.0) http://owlapi.sourceforge.net -->
+
