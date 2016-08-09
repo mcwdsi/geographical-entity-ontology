@@ -270,17 +270,6 @@ For the governmental organizations, see the separate individuals for Jersey and 
     
 
 
-    <!-- http://purl.obolibrary.org/obo/GEO_000000075 -->
-
-    <NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000075">
-        <obo:GEO_000000021 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">170</obo:GEO_000000021>
-        <obo:GEO_000000022 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">COL</obo:GEO_000000022>
-        <obo:GEO_000000023 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CO</obo:GEO_000000023>
-        <rdfs:label xml:lang="en">Colombia</rdfs:label>
-    </NamedIndividual>
-    
-
-
     <!-- http://purl.obolibrary.org/obo/GEO_000000078 -->
 
     <NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000078">
@@ -293,18 +282,6 @@ For the governmental organizations, see the separate individuals for Jersey and 
         <rdfs:label xml:lang="en">Cook Islands</rdfs:label>
     </NamedIndividual>
     
-
-
-    <!-- http://purl.obolibrary.org/obo/GEO_000000079 -->
-
-    <NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000079">
-        <obo:GEO_000000021 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">188</obo:GEO_000000021>
-        <obo:GEO_000000022 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CRI</obo:GEO_000000022>
-        <obo:GEO_000000023 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CR</obo:GEO_000000023>
-        <rdfs:label xml:lang="en">Costa Rica</rdfs:label>
-    </NamedIndividual>
-    
-
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000083 -->
 
@@ -576,50 +553,6 @@ For the governmental organizations, see the separate individuals for Jersey and 
     <NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000182">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000008"/>
         <rdfs:label xml:lang="en">French suis generis Collectivities</rdfs:label>
-    </NamedIndividual>
-    
-
-
-    <!-- http://purl.obolibrary.org/obo/GEO_000000183 -->
-
-    <NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000183">
-        <obo:GEO_000000021 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">554</obo:GEO_000000021>
-        <obo:GEO_000000022 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NZL</obo:GEO_000000022>
-        <obo:GEO_000000023 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NZ</obo:GEO_000000023>
-        <rdfs:label xml:lang="en">New Zealand</rdfs:label>
-    </NamedIndividual>
-    
-
-
-    <!-- http://purl.obolibrary.org/obo/GEO_000000184 -->
-
-    <NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000184">
-        <obo:GEO_000000021 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">558</obo:GEO_000000021>
-        <obo:GEO_000000022 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NIC</obo:GEO_000000022>
-        <obo:GEO_000000023 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NI</obo:GEO_000000023>
-        <rdfs:label xml:lang="en">Nicaragua</rdfs:label>
-    </NamedIndividual>
-    
-
-
-    <!-- http://purl.obolibrary.org/obo/GEO_000000185 -->
-
-    <NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000185">
-        <obo:GEO_000000021 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">562</obo:GEO_000000021>
-        <obo:GEO_000000022 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NER</obo:GEO_000000022>
-        <obo:GEO_000000023 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NE</obo:GEO_000000023>
-        <rdfs:label xml:lang="en">Niger</rdfs:label>
-    </NamedIndividual>
-    
-
-
-    <!-- http://purl.obolibrary.org/obo/GEO_000000186 -->
-
-    <NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000186">
-        <obo:GEO_000000021 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">566</obo:GEO_000000021>
-        <obo:GEO_000000022 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NGA</obo:GEO_000000022>
-        <obo:GEO_000000023 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NG</obo:GEO_000000023>
-        <rdfs:label xml:lang="en">Nigeria</rdfs:label>
     </NamedIndividual>
     
 
