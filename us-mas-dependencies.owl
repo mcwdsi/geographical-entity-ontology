@@ -21,7 +21,7 @@
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
      xmlns:obo="http://purl.obolibrary.org/obo/"
      xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <Ontology rdf:about="&obo;geo/us-mas-dependency.owl">
+    <Ontology rdf:about="&obo;geo/dev/us-mas-dependency.owl">
         <dc:contributor xml:lang="en">Amanda Hicks</dc:contributor>
         <dc:title xml:lang="en">Geographical Entity Ontology - United States major administrative subdivision and dependency instances file</dc:title>
         <dc:contributor xml:lang="en">Katrina M. Donovan</dc:contributor>
@@ -29,7 +29,7 @@
         <dc:title xml:lang="en">This &quot;ontology&quot; is actually an inventory of instances that imports the Geographical Entity Ontology.</dc:title>
         <dc:creator xml:lang="en">William R. Hogan</dc:creator>
         <versionInfo xml:lang="en">production version 2016-03-26</versionInfo>
-        <imports rdf:resource="&obo;geo.owl"/>
+        <imports rdf:resource="&obo;dev/geo.owl"/>
     </Ontology>
     
 

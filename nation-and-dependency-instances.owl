@@ -11,8 +11,8 @@
      xmlns:obo="http://purl.obolibrary.org/obo/"
      xmlns:foaf="http://xmlns.com/foaf/0.1/"
      xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <Ontology rdf:about="http://purl.obolibrary.org/obo/geo/nation-and-dependency-instances.owl">
-        <imports rdf:resource="http://purl.obolibrary.org/obo/geo/nation-instances.owl"/>
+    <Ontology rdf:about="http://purl.obolibrary.org/obo/geo/dev/nation-and-dependency-instances.owl">
+        <imports rdf:resource="http://purl.obolibrary.org/obo/geo/dev/nation-instances.owl"/>
         <dc:contributor xml:lang="en">Mathias Brochhausen</dc:contributor>
         <dc:contributor xml:lang="en">Katrina M. Donovan</dc:contributor>
         <dc:creator xml:lang="en">William R. Hogan</dc:creator>
