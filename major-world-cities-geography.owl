@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://purl.obolibary.org/geo/major-world-cities-geography.owl/"
+     xml:base="http://purl.obolibary.org/geo/major-world-cities-geography.owl/"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:protege="http://protege.stanford.edu/plugins/owl/protege#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:obo="http://purl.obolibrary.org/obo/"
+     xmlns:foaf="http://xmlns.com/foaf/0.1/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <owl:Ontology rdf:about="http://purl.obolibary.org/geo/major-world-cities-geography.owl">
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/dev/us-integral-geography.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl"/>
+        <dc:creator xml:lang="en">William R. Hogan</dc:creator>
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000359 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/GEO_000000359"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Datatypes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.w3.org/2001/XMLSchema#xsd;string -->
+
+    <rdfs:Datatype rdf:about="http://www.w3.org/2001/XMLSchema#xsd;string"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000590 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000590">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:GEO_000000022 rdf:datatype="http://www.w3.org/2001/XMLSchema#xsd;string">AUS</obo:GEO_000000022>
+        <obo:GEO_000000023 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AU</obo:GEO_000000023>
+        <rdfs:comment xml:lang="en">Australia is continent of Australia plus islands.</rdfs:comment>
+        <rdfs:label xml:lang="en">region of Australia</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000003044 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000003044">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000367"/>
+        <obo:GEO_000000361 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">06037</obo:GEO_000000361>
+        <obo:GEO_000000795 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00277283</obo:GEO_000000795>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Los Angeles County, CA</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Los Angeles County</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Los Angeles County, CA</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000025336 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000025336">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000473"/>
+        <obo:GEO_000000361 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">41051</obo:GEO_000000361>
+        <obo:GEO_000000795 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01135861</obo:GEO_000000795>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Multnomah County, OR</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Multnomah County</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Multnomah County, OR</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000033411 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000033411">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000481"/>
+        <obo:GEO_000000361 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">53033</obo:GEO_000000361>
+        <obo:GEO_000000795 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01531933</obo:GEO_000000795>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of King County, WA</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">King County</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of King County, WA</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000035325 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000035325">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000025336"/>
+        <obo:GEO_000000795 xml:lang="en">1136645</obo:GEO_000000795>
+        <obo:IAO_0000111 xml:lang="en">region of Portland, Orgeon, USA</obo:IAO_0000111>
+        <rdfs:label xml:lang="en">region of Portland, OR</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000035326 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000035326">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000033411"/>
+        <obo:GEO_000000795 xml:lang="en">1512650</obo:GEO_000000795>
+        <obo:IAO_0000111 xml:lang="en">region of Seattle, Washington, USA</obo:IAO_0000111>
+        <rdfs:label xml:lang="en">region of Seattle, WA</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000035327 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000035327">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000590"/>
+        <obo:GEO_000000359 xml:lang="en">AU-QLD</obo:GEO_000000359>
+        <obo:IAO_0000111 xml:lang="en">region of Queensland, Australia</obo:IAO_0000111>
+        <rdfs:label xml:lang="en">Queensland</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000035328 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000035328">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000035327"/>
+        <obo:IAO_0000111 xml:lang="en">region of Cairns, Queensland, Australia</obo:IAO_0000111>
+        <rdfs:label xml:lang="en">Cairns</rdfs:label>
+    </owl:NamedIndividual>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.2.8.20170104-2310) https://github.com/owlcs/owlapi -->
+
