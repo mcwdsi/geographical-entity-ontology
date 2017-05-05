@@ -1,0 +1,6 @@
+input=/Users/hoganwr/devel/repos/ontology/geographical-entity-ontology/source_data/MX-admin-units.txt
+countrycode=MX
+owlpurlbase=http://purl.obolibrary.org/obo/geo/mexico-admin-level
+countryiri=http://purl.obolibrary.org/obo/GEO_000000614
+irilookup=/Users/hoganwr/devel/repos/ontology/geographical-entity-ontology/config/iris-for-parsing-geonames.txt
+iriStart=39177
