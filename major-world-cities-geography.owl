@@ -45,8 +45,6 @@
      -->
 
     
-q
-
     <!-- http://www.w3.org/2001/XMLSchema#xsd;string -->
 
     <rdfs:Datatype rdf:about="http://www.w3.org/2001/XMLSchema#xsd;string"/>
