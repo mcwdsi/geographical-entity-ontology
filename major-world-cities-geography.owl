@@ -45,9 +45,9 @@
      -->
 
     
-    <!-- http://www.w3.org/2001/XMLSchema#xsd;string -->
+    <!-- http://www.w3.org/2001/XMLSchema#string -->
 
-    <rdfs:Datatype rdf:about="http://www.w3.org/2001/XMLSchema#xsd;string"/>
+    <rdfs:Datatype rdf:about="http://www.w3.org/2001/XMLSchema#string"/>
     
 
 
@@ -66,7 +66,7 @@
 
     <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000590">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:GEO_000000022 rdf:datatype="http://www.w3.org/2001/XMLSchema#xsd;string">AUS</obo:GEO_000000022>
+        <obo:GEO_000000022 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AUS</obo:GEO_000000022>
         <obo:GEO_000000023 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AU</obo:GEO_000000023>
         <rdfs:comment xml:lang="en">Australia is continent of Australia plus islands.</rdfs:comment>
         <rdfs:label xml:lang="en">region of Australia</rdfs:label>
