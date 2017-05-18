@@ -103,32 +103,6 @@
     </rdf:Description>
     
 
-
-    <!-- 
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Object Properties
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-     -->
-
-    
-
-
-    <!-- http://purl.obolibrary.org/obo/BFO_0000137 -->
-
-    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/BFO_0000137">
-        <owl:inverseOf rdf:resource="http://purl.obolibrary.org/obo/BFO_0000187"/>
-    </rdf:Description>
-    
-
-
-    <!-- http://purl.obolibrary.org/obo/BFO_0000187 -->
-
-    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/BFO_0000187"/>
-    
-
-
     <!-- 
     ///////////////////////////////////////////////////////////////////////////////////////
     //
