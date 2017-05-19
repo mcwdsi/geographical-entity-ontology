@@ -718,6 +718,7 @@
 
     <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000590">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000345"/>
         <obo:GEO_000000022 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AUS</obo:GEO_000000022>
         <obo:GEO_000000023 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AU</obo:GEO_000000023>
         <rdfs:comment xml:lang="en">Australia is continent of Australia plus islands.</rdfs:comment>
