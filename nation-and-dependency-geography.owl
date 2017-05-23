@@ -89,14 +89,6 @@
     
 
 
-    <!-- http://purl.obolibrary.org/obo/GEO_000000513 -->
-
-    <rdf:Description rdf:about="&obo;GEO_000000513">
-        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
-    </rdf:Description>
-    
-
-
     <!-- http://purl.obolibrary.org/obo/GEO_000000730 -->
 
     <owl:NamedIndividual rdf:about="&obo;GEO_000000730">
@@ -117,6 +109,7 @@
         <obo:GEO_000000021 rdf:datatype="&xsd;string">531</obo:GEO_000000021>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">CUW</obo:GEO_000000022>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">CW</obo:GEO_000000023>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
     </owl:NamedIndividual>
     
 
@@ -153,6 +146,7 @@
         <obo:GEO_000000021 rdf:datatype="&xsd;string">474</obo:GEO_000000021>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">MQ</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">MTQ</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
     </owl:NamedIndividual>
     
 
@@ -201,6 +195,7 @@
         <obo:GEO_000000021 rdf:datatype="&xsd;string">652</obo:GEO_000000021>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">BL</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">BLM</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
     </owl:NamedIndividual>
     
 
@@ -213,6 +208,7 @@
         <obo:GEO_000000021 rdf:datatype="&xsd;string">796</obo:GEO_000000021>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">TC</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">TCA</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
     </owl:NamedIndividual>
     
 
@@ -237,6 +233,7 @@
         <obo:GEO_000000021 rdf:datatype="&xsd;string">663</obo:GEO_000000021>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">MAF</obo:GEO_000000022>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">MF</obo:GEO_000000023>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
     </owl:NamedIndividual>
     
 
@@ -249,6 +246,7 @@
         <obo:GEO_000000021 rdf:datatype="&xsd;string">500</obo:GEO_000000021>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">MS</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">MSR</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
     </owl:NamedIndividual>
     
 
@@ -273,6 +271,7 @@
         <obo:GEO_000000021 rdf:datatype="&xsd;string">060</obo:GEO_000000021>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">BM</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">BMU</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
     </owl:NamedIndividual>
     
 
@@ -285,6 +284,7 @@
         <obo:GEO_000000021 rdf:datatype="&xsd;string">092</obo:GEO_000000021>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">VG</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">VGB</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
     </owl:NamedIndividual>
     
 
@@ -321,6 +321,7 @@
         <obo:GEO_000000021 rdf:datatype="&xsd;string">254</obo:GEO_000000021>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">GF</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">GUF</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
     </owl:NamedIndividual>
     
 
@@ -345,6 +346,7 @@
         <obo:GEO_000000021 rdf:datatype="&xsd;string">534</obo:GEO_000000021>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">SX</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">SXM</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
     </owl:NamedIndividual>
     
 
@@ -405,6 +407,7 @@
         <obo:GEO_000000021 rdf:datatype="&xsd;string">136</obo:GEO_000000021>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">CYM</obo:GEO_000000022>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">KY</obo:GEO_000000023>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
     </owl:NamedIndividual>
     
 
@@ -453,6 +456,7 @@
         <obo:GEO_000000021 rdf:datatype="&xsd;string">533</obo:GEO_000000021>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">ABW</obo:GEO_000000022>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">AW</obo:GEO_000000023>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
     </owl:NamedIndividual>
     
 
@@ -477,6 +481,7 @@
         <obo:GEO_000000021 rdf:datatype="&xsd;string">312</obo:GEO_000000021>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">GLP</obo:GEO_000000022>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">GP</obo:GEO_000000023>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
     </owl:NamedIndividual>
     
 
@@ -549,6 +554,7 @@
         <obo:GEO_000000021 rdf:datatype="&xsd;string">660</obo:GEO_000000021>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">AI</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">AIA</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
     </owl:NamedIndividual>
     
 

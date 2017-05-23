@@ -120,6 +120,7 @@
     </rdf:Description>
     
 
+
     <!-- 
     ///////////////////////////////////////////////////////////////////////////////////////
     //
@@ -466,6 +467,7 @@
         <obo:GEO_000000360 rdf:datatype="&xsd;string">72</obo:GEO_000000360>
         <obo:GEO_000000362 rdf:datatype="&xsd;string">PR</obo:GEO_000000362>
         <obo:GEO_000000358 rdf:datatype="&xsd;string">US-72</obo:GEO_000000358>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
     </owl:NamedIndividual>
     
 
@@ -523,6 +525,7 @@
         <obo:GEO_000000362 rdf:datatype="&xsd;string">VI</obo:GEO_000000362>
         <obo:IAO_0000118 xml:lang="en">region of U.S. Virgin Islands</obo:IAO_0000118>
         <obo:IAO_0000118 xml:lang="en">region of United States Virgin Islands</obo:IAO_0000118>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
     </owl:NamedIndividual>
     
 
