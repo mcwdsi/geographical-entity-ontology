@@ -217,7 +217,7 @@
 
     <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000742">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000345"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041672"/>
         <obo:GEO_000000021 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">663</obo:GEO_000000021>
         <obo:GEO_000000022 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MAF</obo:GEO_000000022>
         <obo:GEO_000000023 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MF</obo:GEO_000000023>
@@ -330,7 +330,7 @@
 
     <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000751">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000345"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041672"/>
         <obo:GEO_000000021 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">534</obo:GEO_000000021>
         <obo:GEO_000000022 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SXM</obo:GEO_000000022>
         <obo:GEO_000000023 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SX</obo:GEO_000000023>
@@ -733,6 +733,20 @@
         <obo:IAO_0000111 xml:lang="en">island of Sint Eustatius</obo:IAO_0000111>
         <obo:IAO_0000118 xml:lang="en">Sint Eustatius island</obo:IAO_0000118>
         <rdfs:label xml:lang="en">island of Sint Eustatius</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000041672 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000041672">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000376"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000345"/>
+        <obo:IAO_0000111 xml:lang="en">entire island of Saint Martin</obo:IAO_0000111>
+        <rdfs:comment xml:lang="en">The entire island of Saint Martin has two parts under different jurisdictions.  The northern part is French territory (Collectivité de Saint-Martin) and the southern part is Dutch territory (called Sint Maarten).
+
+This individual represents the ENTIRE ISLAND.  There are two additional individuals representing each part of the island under different jurisdictions.</rdfs:comment>
+        <rdfs:label xml:lang="en">island of Saint Martin</rdfs:label>
     </owl:NamedIndividual>
 </rdf:RDF>
 
