@@ -1,0 +1,627 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://purl.obolibrary.org/obo/geo/dev/us-hrsa-geography.owl/"
+     xml:base="http://purl.obolibrary.org/obo/geo/dev/us-hrsa-geography.owl/"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:protege="http://protege.stanford.edu/plugins/owl/protege#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:obo="http://purl.obolibrary.org/obo/"
+     xmlns:foaf="http://xmlns.com/foaf/0.1/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/geo/dev/us-hrsa-geography.owl">
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/dev/us-integral-geography.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/dev/geo.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/dev/us-basic-geography.owl"/>
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000356 -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GEO_000000356">
+        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041681"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000363 -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GEO_000000363">
+        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041676"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000364 -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GEO_000000364">
+        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041682"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000365 -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GEO_000000365">
+        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041681"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000366 -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GEO_000000366">
+        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041678"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000367 -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GEO_000000367">
+        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041681"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000368 -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GEO_000000368">
+        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041680"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000379 -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GEO_000000379">
+        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041673"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000380 -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GEO_000000380">
+        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041676"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000381 -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GEO_000000381">
+        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041676"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000382 -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GEO_000000382">
+        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041682"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000383 -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GEO_000000383">
+        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041677"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000384 -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GEO_000000384">
+        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041677"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000385 -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GEO_000000385">
+        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041679"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000386 -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GEO_000000386">
+        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041679"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000387 -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GEO_000000387">
+        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041676"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000388 -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GEO_000000388">
+        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041678"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000389 -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GEO_000000389">
+        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041673"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000394 -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GEO_000000394">
+        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041673"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000397 -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GEO_000000397">
+        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041677"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000398 -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GEO_000000398">
+        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041677"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000399 -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GEO_000000399">
+        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041676"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000405 -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GEO_000000405">
+        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041679"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000406 -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GEO_000000406">
+        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041680"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000407 -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GEO_000000407">
+        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041679"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000408 -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GEO_000000408">
+        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041681"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000409 -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GEO_000000409">
+        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041673"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000410 -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GEO_000000410">
+        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041675"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000411 -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GEO_000000411">
+        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041675"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000412 -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GEO_000000412">
+        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041675"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000413 -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GEO_000000413">
+        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041675"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000414 -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GEO_000000414">
+        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041675"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000460 -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GEO_000000460">
+        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041674"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000462 -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GEO_000000462">
+        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041675"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000467 -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GEO_000000467">
+        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041678"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000468 -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GEO_000000468">
+        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041674"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000469 -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GEO_000000469">
+        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041676"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000470 -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GEO_000000470">
+        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041680"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000471 -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GEO_000000471">
+        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041677"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000472 -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GEO_000000472">
+        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041678"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000473 -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GEO_000000473">
+        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041682"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000474 -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GEO_000000474">
+        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041673"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000475 -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GEO_000000475">
+        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041676"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000476 -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GEO_000000476">
+        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041680"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000477 -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GEO_000000477">
+        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041676"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000478 -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GEO_000000478">
+        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041678"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000479 -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GEO_000000479">
+        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041680"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000480 -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GEO_000000480">
+        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041673"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000481 -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GEO_000000481">
+        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041682"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000482 -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GEO_000000482">
+        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041677"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000483 -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GEO_000000483">
+        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041680"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000041673 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000041673">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000377"/>
+        <rdfs:label xml:lang="en">HRSA Region 1</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000041674 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000041674">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000377"/>
+        <rdfs:label xml:lang="en">HRSA Region 2</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000041675 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000041675">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000377"/>
+        <rdfs:label xml:lang="en">HRSA Region 3</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000041676 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000041676">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000377"/>
+        <rdfs:label xml:lang="en">HRSA Region 4</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000041677 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000041677">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000377"/>
+        <rdfs:label xml:lang="en">HRSA Region 5</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000041678 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000041678">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000377"/>
+        <rdfs:label xml:lang="en">HRSA Region 6</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000041679 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000041679">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000377"/>
+        <rdfs:label xml:lang="en">HRSA Region 7</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000041680 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000041680">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000377"/>
+        <rdfs:label xml:lang="en">HRSA Region 8</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000041681 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000041681">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000377"/>
+        <rdfs:label xml:lang="en">HRSA Region 9</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000041682 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000041682">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000377"/>
+        <rdfs:label xml:lang="en">HRSA Region 10</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000041683 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000041683">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000376"/>
+        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041674"/>
+        <obo:GEO_000000362 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PR</obo:GEO_000000362>
+        <rdfs:label xml:lang="en">region of Puerto Rico</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000041684 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000041684">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041674"/>
+        <rdfs:label xml:lang="en">region of Virgian Islands</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000041685 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000041685">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000376"/>
+        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041681"/>
+        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041686"/>
+        <obo:GEO_000000362 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GU</obo:GEO_000000362>
+        <rdfs:label xml:lang="en">Guam</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000041686 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000041686">
+        <rdfs:label xml:lang="en">Mariana Islands</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000041687 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000041687">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000369"/>
+        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041681"/>
+        <obo:GEO_000000362 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AS</obo:GEO_000000362>
+        <rdfs:label xml:lang="en">American Samoa</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000041688 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000041688">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000390"/>
+        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041681"/>
+        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041686"/>
+        <obo:GEO_000000362 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MP</obo:GEO_000000362>
+        <rdfs:label xml:lang="en">Commonwealth of the Northern Mariana Islands</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000041689 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000041689">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000390"/>
+        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041681"/>
+        <rdfs:label xml:lang="en">Federated States of Micronesia</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000041690 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000041690">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000369"/>
+        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041681"/>
+        <rdfs:label xml:lang="en">Republic of the Marshall Islands</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000041691 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000041691">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000369"/>
+        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041681"/>
+        <rdfs:label xml:lang="en">Republic of Palau</rdfs:label>
+    </owl:NamedIndividual>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.2.5.20160517-0735) https://github.com/owlcs/owlapi -->
+
