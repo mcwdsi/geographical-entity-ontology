@@ -14,6 +14,7 @@
     <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/geo/dev/us-hrsa-geography.owl">
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/dev/us-integral-geography.owl"/>
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/dev/geo.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/dev/us-dependency-geography.owl"/>
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/dev/us-basic-geography.owl"/>
     </owl:Ontology>
     
@@ -438,6 +439,38 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/GEO_000000485 -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GEO_000000485">
+        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041681"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000493 -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GEO_000000493">
+        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041681"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000495 -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GEO_000000495">
+        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041681"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000513 -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GEO_000000513">
+        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041674"/>
+    </rdf:Description>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/GEO_000041673 -->
 
     <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000041673">
@@ -528,17 +561,6 @@
     
 
 
-    <!-- http://purl.obolibrary.org/obo/GEO_000041683 -->
-
-    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000041683">
-        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000376"/>
-        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041674"/>
-        <obo:GEO_000000362 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PR</obo:GEO_000000362>
-        <rdfs:label xml:lang="en">region of Puerto Rico</rdfs:label>
-    </owl:NamedIndividual>
-    
-
-
     <!-- http://purl.obolibrary.org/obo/GEO_000041684 -->
 
     <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000041684">
@@ -549,75 +571,10 @@
     
 
 
-    <!-- http://purl.obolibrary.org/obo/GEO_000041685 -->
-
-    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000041685">
-        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000376"/>
-        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041681"/>
-        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041686"/>
-        <obo:GEO_000000362 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GU</obo:GEO_000000362>
-        <rdfs:label xml:lang="en">Guam</rdfs:label>
-    </owl:NamedIndividual>
-    
-
-
     <!-- http://purl.obolibrary.org/obo/GEO_000041686 -->
 
     <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000041686">
         <rdfs:label xml:lang="en">Mariana Islands</rdfs:label>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://purl.obolibrary.org/obo/GEO_000041687 -->
-
-    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000041687">
-        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000369"/>
-        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041681"/>
-        <obo:GEO_000000362 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AS</obo:GEO_000000362>
-        <rdfs:label xml:lang="en">American Samoa</rdfs:label>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://purl.obolibrary.org/obo/GEO_000041688 -->
-
-    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000041688">
-        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000390"/>
-        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041681"/>
-        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041686"/>
-        <obo:GEO_000000362 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MP</obo:GEO_000000362>
-        <rdfs:label xml:lang="en">Commonwealth of the Northern Mariana Islands</rdfs:label>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://purl.obolibrary.org/obo/GEO_000041689 -->
-
-    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000041689">
-        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000390"/>
-        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041681"/>
-        <rdfs:label xml:lang="en">Federated States of Micronesia</rdfs:label>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://purl.obolibrary.org/obo/GEO_000041690 -->
-
-    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000041690">
-        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000369"/>
-        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041681"/>
-        <rdfs:label xml:lang="en">Republic of the Marshall Islands</rdfs:label>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://purl.obolibrary.org/obo/GEO_000041691 -->
-
-    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000041691">
-        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000369"/>
-        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041681"/>
-        <rdfs:label xml:lang="en">Republic of Palau</rdfs:label>
     </owl:NamedIndividual>
 </rdf:RDF>
 
