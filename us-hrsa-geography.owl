@@ -13,6 +13,7 @@
      xmlns:dc="http://purl.org/dc/elements/1.1/">
     <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/geo/dev/us-hrsa-geography.owl">
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/dev/us-integral-geography.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/dev/nation-and-dependency-instances.owl"/>
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/dev/geo.owl"/>
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/dev/us-dependency-geography.owl"/>
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/dev/us-basic-geography.owl"/>
@@ -28,6 +29,30 @@
     ///////////////////////////////////////////////////////////////////////////////////////
      -->
 
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000163 -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GEO_000000163">
+        <obo:BFO_0000075 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041681"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000169 -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GEO_000000169">
+        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041681"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000196 -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GEO_000000196">
+        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041681"/>
+    </rdf:Description>
     
 
 
