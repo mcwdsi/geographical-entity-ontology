@@ -13,10 +13,9 @@
      xmlns:dc="http://purl.org/dc/elements/1.1/">
     <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/geo/dev/us-hrsa-geography.owl">
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/dev/us-integral-geography.owl"/>
-        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/dev/nation-and-dependency-instances.owl"/>
-        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/dev/geo.owl"/>
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/dev/us-dependency-geography.owl"/>
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/dev/us-basic-geography.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/dev/nation-and-dependency-geography.owl"/>
     </owl:Ontology>
     
 
@@ -29,30 +28,6 @@
     ///////////////////////////////////////////////////////////////////////////////////////
      -->
 
-    
-
-
-    <!-- http://purl.obolibrary.org/obo/GEO_000000163 -->
-
-    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GEO_000000163">
-        <obo:BFO_0000075 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041681"/>
-    </rdf:Description>
-    
-
-
-    <!-- http://purl.obolibrary.org/obo/GEO_000000169 -->
-
-    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GEO_000000169">
-        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041681"/>
-    </rdf:Description>
-    
-
-
-    <!-- http://purl.obolibrary.org/obo/GEO_000000196 -->
-
-    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GEO_000000196">
-        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041681"/>
-    </rdf:Description>
     
 
 
@@ -496,10 +471,44 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/GEO_000000518 -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GEO_000000518">
+        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041674"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000612 -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GEO_000000612">
+        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041681"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000616 -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GEO_000000616">
+        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041681"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000661 -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GEO_000000661">
+        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041681"/>
+    </rdf:Description>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/GEO_000041673 -->
 
     <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000041673">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000377"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000345"/>
+        <obo:IAO_0000111 xml:lang="en">United States Health Resources &amp; Services Administration Region 1</obo:IAO_0000111>
         <rdfs:label xml:lang="en">HRSA Region 1</rdfs:label>
     </owl:NamedIndividual>
     
@@ -509,6 +518,8 @@
 
     <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000041674">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000377"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000345"/>
+        <obo:IAO_0000111 xml:lang="en">United States Health Resources &amp; Services Administration Region 2</obo:IAO_0000111>
         <rdfs:label xml:lang="en">HRSA Region 2</rdfs:label>
     </owl:NamedIndividual>
     
@@ -518,6 +529,8 @@
 
     <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000041675">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000377"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000345"/>
+        <obo:IAO_0000111 xml:lang="en">United States Health Resources &amp; Services Administration Region 3</obo:IAO_0000111>
         <rdfs:label xml:lang="en">HRSA Region 3</rdfs:label>
     </owl:NamedIndividual>
     
@@ -527,6 +540,8 @@
 
     <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000041676">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000377"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000345"/>
+        <obo:IAO_0000111 xml:lang="en">United States Health Resources &amp; Services Administration Region 4</obo:IAO_0000111>
         <rdfs:label xml:lang="en">HRSA Region 4</rdfs:label>
     </owl:NamedIndividual>
     
@@ -536,6 +551,8 @@
 
     <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000041677">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000377"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000345"/>
+        <obo:IAO_0000111 xml:lang="en">United States Health Resources &amp; Services Administration Region 5</obo:IAO_0000111>
         <rdfs:label xml:lang="en">HRSA Region 5</rdfs:label>
     </owl:NamedIndividual>
     
@@ -545,6 +562,8 @@
 
     <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000041678">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000377"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000345"/>
+        <obo:IAO_0000111 xml:lang="en">United States Health Resources &amp; Services Administration Region 6</obo:IAO_0000111>
         <rdfs:label xml:lang="en">HRSA Region 6</rdfs:label>
     </owl:NamedIndividual>
     
@@ -554,6 +573,8 @@
 
     <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000041679">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000377"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000345"/>
+        <obo:IAO_0000111 xml:lang="en">United States Health Resources &amp; Services Administration Region 7</obo:IAO_0000111>
         <rdfs:label xml:lang="en">HRSA Region 7</rdfs:label>
     </owl:NamedIndividual>
     
@@ -563,6 +584,8 @@
 
     <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000041680">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000377"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000345"/>
+        <obo:IAO_0000111 xml:lang="en">United States Health Resources &amp; Services Administration Region 8</obo:IAO_0000111>
         <rdfs:label xml:lang="en">HRSA Region 8</rdfs:label>
     </owl:NamedIndividual>
     
@@ -572,6 +595,8 @@
 
     <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000041681">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000377"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000345"/>
+        <obo:IAO_0000111 xml:lang="en">United States Health Resources &amp; Services Administration Region 9</obo:IAO_0000111>
         <rdfs:label xml:lang="en">HRSA Region 9</rdfs:label>
     </owl:NamedIndividual>
     
@@ -581,29 +606,13 @@
 
     <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000041682">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000377"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000345"/>
+        <obo:IAO_0000111 xml:lang="en">United States Health Resources &amp; Services Administration Region 10</obo:IAO_0000111>
         <rdfs:label xml:lang="en">HRSA Region 10</rdfs:label>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://purl.obolibrary.org/obo/GEO_000041684 -->
-
-    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000041684">
-        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041674"/>
-        <rdfs:label xml:lang="en">region of Virgian Islands</rdfs:label>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://purl.obolibrary.org/obo/GEO_000041686 -->
-
-    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000041686">
-        <rdfs:label xml:lang="en">Mariana Islands</rdfs:label>
     </owl:NamedIndividual>
 </rdf:RDF>
 
 
 
-<!-- Generated by the OWL API (version 4.2.5.20160517-0735) https://github.com/owlcs/owlapi -->
+<!-- Generated by the OWL API (version 4.2.8.20170104-2310) https://github.com/owlcs/owlapi -->
 
