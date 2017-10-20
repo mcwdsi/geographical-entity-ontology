@@ -33,7 +33,7 @@
         <dc:title xml:lang="en">This &quot;ontology&quot; is actually an inventory of instances that imports the Geographical Entity Ontology.</dc:title>
         <dc:creator xml:lang="en">William R. Hogan</dc:creator>
         <versionInfo xml:lang="en">production version 2016-03-26</versionInfo>
-        <imports rdf:resource="&obo;dev/geo.owl"/>
+        <imports rdf:resource="&obo;geo/dev/geo.owl"/>
     </Ontology>
     
 
