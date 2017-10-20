@@ -1,26 +1,134 @@
 <?xml version="1.0"?>
+
+
+<!DOCTYPE rdf:RDF [
+    <!ENTITY foaf "http://xmlns.com/foaf/0.1/" >
+    <!ENTITY owl "http://www.w3.org/2002/07/owl#" >
+    <!ENTITY obo "http://purl.obolibrary.org/obo/" >
+    <!ENTITY dc "http://purl.org/dc/elements/1.1/" >
+    <!ENTITY xsd "http://www.w3.org/2001/XMLSchema#" >
+    <!ENTITY rdfs "http://www.w3.org/2000/01/rdf-schema#" >
+    <!ENTITY rdf "http://www.w3.org/1999/02/22-rdf-syntax-ns#" >
+    <!ENTITY oboInOwl "http://www.geneontology.org/formats/oboInOwl#" >
+    <!ENTITY protege "http://protege.stanford.edu/plugins/owl/protege#" >
+]>
+
+
 <rdf:RDF xmlns="http://www.w3.org/2002/07/owl#"
      xml:base="http://www.w3.org/2002/07/owl"
      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:owl="http://www.w3.org/2002/07/owl#"
      xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#"
-     xmlns:xml="http://www.w3.org/XML/1998/namespace"
      xmlns:protege="http://protege.stanford.edu/plugins/owl/protege#"
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
      xmlns:obo="http://purl.obolibrary.org/obo/"
      xmlns:foaf="http://xmlns.com/foaf/0.1/"
      xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <Ontology rdf:about="http://purl.obolibrary.org/obo/geo/dev/nation-and-dependency-instances.owl">
-        <imports rdf:resource="http://purl.obolibrary.org/obo/geo/dev/nation-instances.owl"/>
-        <dc:contributor xml:lang="en">Mathias Brochhausen</dc:contributor>
-        <dc:contributor xml:lang="en">Katrina M. Donovan</dc:contributor>
-        <dc:creator xml:lang="en">William R. Hogan</dc:creator>
+    <Ontology rdf:about="&obo;geo/dev/nation-and-dependency-instances.owl">
         <dc:contributor xml:lang="en">Amanda Hicks</dc:contributor>
-        <versionInfo xml:lang="en">production version 2016-03-266-03-266-03-266-03-266-03-266-03-26</versionInfo>
         <dc:title xml:lang="en">Geographical Entity Ontology - Nation and dependency instances file</dc:title>
+        <dc:contributor xml:lang="en">Katrina M. Donovan</dc:contributor>
+        <dc:contributor xml:lang="en">Mathias Brochhausen</dc:contributor>
         <dc:title xml:lang="en">This &quot;ontology&quot; is actually an inventory of instances that imports the Geographical Entity Ontology.</dc:title>
+        <dc:creator xml:lang="en">William R. Hogan</dc:creator>
+        <versionInfo xml:lang="en">production version 2016-03-266-03-266-03-266-03-266-03-266-03-26</versionInfo>
+        <imports rdf:resource="&obo;geo/dev/nation-instances.owl"/>
     </Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000009 -->
+
+    <AnnotationProperty rdf:about="&obo;GEO_000000009"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000010 -->
+
+    <AnnotationProperty rdf:about="&obo;GEO_000000010"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000011 -->
+
+    <AnnotationProperty rdf:about="&obo;GEO_000000011"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000328 -->
+
+    <AnnotationProperty rdf:about="&obo;GEO_000000328"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000329 -->
+
+    <AnnotationProperty rdf:about="&obo;GEO_000000329"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000115 -->
+
+    <AnnotationProperty rdf:about="&obo;IAO_0000115"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000117 -->
+
+    <AnnotationProperty rdf:about="&obo;IAO_0000117"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000119 -->
+
+    <AnnotationProperty rdf:about="&obo;IAO_0000119"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000006 -->
+
+    <Class rdf:about="&obo;GEO_000000006"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000008 -->
+
+    <Class rdf:about="&obo;GEO_000000008"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000372 -->
+
+    <Class rdf:about="&obo;GEO_000000372"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000390 -->
+
+    <Class rdf:about="&obo;GEO_000000390"/>
     
 
 
@@ -37,8 +145,8 @@
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000015 -->
 
-    <NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000015">
-        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000008"/>
+    <NamedIndividual rdf:about="&obo;GEO_000000015">
+        <rdf:type rdf:resource="&obo;GEO_000000008"/>
         <rdfs:label xml:lang="en">US Territories</rdfs:label>
     </NamedIndividual>
     
@@ -46,8 +154,8 @@
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000016 -->
 
-    <NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000016">
-        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000008"/>
+    <NamedIndividual rdf:about="&obo;GEO_000000016">
+        <rdf:type rdf:resource="&obo;GEO_000000008"/>
         <rdfs:label xml:lang="en">US Incorporated Territories</rdfs:label>
     </NamedIndividual>
     
@@ -55,8 +163,8 @@
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000017 -->
 
-    <NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000017">
-        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000008"/>
+    <NamedIndividual rdf:about="&obo;GEO_000000017">
+        <rdf:type rdf:resource="&obo;GEO_000000008"/>
         <rdfs:label xml:lang="en">US Unincorporated Territories</rdfs:label>
     </NamedIndividual>
     
@@ -64,8 +172,8 @@
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000018 -->
 
-    <NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000018">
-        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000008"/>
+    <NamedIndividual rdf:about="&obo;GEO_000000018">
+        <rdf:type rdf:resource="&obo;GEO_000000008"/>
         <rdfs:label xml:lang="en">US Organized Territories</rdfs:label>
     </NamedIndividual>
     
@@ -73,8 +181,8 @@
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000019 -->
 
-    <NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000019">
-        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000008"/>
+    <NamedIndividual rdf:about="&obo;GEO_000000019">
+        <rdf:type rdf:resource="&obo;GEO_000000008"/>
         <rdfs:label xml:lang="en">US Unorganized Territories</rdfs:label>
     </NamedIndividual>
     
@@ -82,8 +190,8 @@
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000020 -->
 
-    <NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000020">
-        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000008"/>
+    <NamedIndividual rdf:about="&obo;GEO_000000020">
+        <rdf:type rdf:resource="&obo;GEO_000000008"/>
         <rdfs:label xml:lang="en">US Commonwealths</rdfs:label>
     </NamedIndividual>
     
@@ -91,22 +199,22 @@
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000025 -->
 
-    <NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000025">
-        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000006"/>
-        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000026"/>
-        <obo:GEO_000000329 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000103"/>
-        <obo:GEO_000000021 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">248</obo:GEO_000000021>
-        <obo:GEO_000000022 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ALA</obo:GEO_000000022>
-        <obo:GEO_000000023 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AX</obo:GEO_000000023>
+    <NamedIndividual rdf:about="&obo;GEO_000000025">
+        <rdf:type rdf:resource="&obo;GEO_000000006"/>
         <rdfs:label xml:lang="en">Åland Islands</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">248</obo:GEO_000000021>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">ALA</obo:GEO_000000022>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">AX</obo:GEO_000000023>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000026"/>
+        <obo:GEO_000000329 rdf:resource="&obo;GEO_000000103"/>
     </NamedIndividual>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000026 -->
 
-    <NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000026">
-        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000008"/>
+    <NamedIndividual rdf:about="&obo;GEO_000000026">
+        <rdf:type rdf:resource="&obo;GEO_000000008"/>
         <rdfs:label xml:lang="en">Autonomous Territories of Finland</rdfs:label>
     </NamedIndividual>
     
@@ -114,41 +222,41 @@
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000029 -->
 
-    <NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000029">
-        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000006"/>
-        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000015"/>
-        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000017"/>
-        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000019"/>
-        <obo:GEO_000000329 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000264"/>
-        <obo:GEO_000000009 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">60</obo:GEO_000000009>
-        <obo:GEO_000000010 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AS</obo:GEO_000000010>
-        <obo:GEO_000000011 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01802701</obo:GEO_000000011>
-        <obo:GEO_000000021 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">016</obo:GEO_000000021>
-        <obo:GEO_000000022 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ASM</obo:GEO_000000022>
-        <obo:GEO_000000023 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AS</obo:GEO_000000023>
+    <NamedIndividual rdf:about="&obo;GEO_000000029">
+        <rdf:type rdf:resource="&obo;GEO_000000006"/>
         <rdfs:label xml:lang="en">American Samoa</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">016</obo:GEO_000000021>
+        <obo:GEO_000000011 rdf:datatype="&xsd;string">01802701</obo:GEO_000000011>
+        <obo:GEO_000000009 rdf:datatype="&xsd;string">60</obo:GEO_000000009>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">AS</obo:GEO_000000023>
+        <obo:GEO_000000010 rdf:datatype="&xsd;string">AS</obo:GEO_000000010>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">ASM</obo:GEO_000000022>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000015"/>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000017"/>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000019"/>
+        <obo:GEO_000000329 rdf:resource="&obo;GEO_000000264"/>
     </NamedIndividual>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000032 -->
 
-    <NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000032">
-        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000006"/>
-        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000033"/>
-        <obo:GEO_000000329 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000262"/>
-        <obo:GEO_000000021 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">660</obo:GEO_000000021>
-        <obo:GEO_000000022 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AIA</obo:GEO_000000022>
-        <obo:GEO_000000023 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AI</obo:GEO_000000023>
+    <NamedIndividual rdf:about="&obo;GEO_000000032">
+        <rdf:type rdf:resource="&obo;GEO_000000006"/>
         <rdfs:label xml:lang="en">Anguilla</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">660</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">AI</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">AIA</obo:GEO_000000022>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000033"/>
+        <obo:GEO_000000329 rdf:resource="&obo;GEO_000000262"/>
     </NamedIndividual>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000033 -->
 
-    <NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000033">
-        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000008"/>
+    <NamedIndividual rdf:about="&obo;GEO_000000033">
+        <rdf:type rdf:resource="&obo;GEO_000000008"/>
         <rdfs:label xml:lang="en">British Overseas Territories</rdfs:label>
     </NamedIndividual>
     
@@ -156,22 +264,22 @@
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000037 -->
 
-    <NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000037">
-        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000006"/>
-        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000038"/>
-        <obo:GEO_000000329 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000180"/>
-        <obo:GEO_000000021 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">533</obo:GEO_000000021>
-        <obo:GEO_000000022 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ABW</obo:GEO_000000022>
-        <obo:GEO_000000023 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AW</obo:GEO_000000023>
+    <NamedIndividual rdf:about="&obo;GEO_000000037">
+        <rdf:type rdf:resource="&obo;GEO_000000006"/>
         <rdfs:label xml:lang="en">Aruba</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">533</obo:GEO_000000021>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">ABW</obo:GEO_000000022>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">AW</obo:GEO_000000023>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000038"/>
+        <obo:GEO_000000329 rdf:resource="&obo;GEO_000000180"/>
     </NamedIndividual>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000038 -->
 
-    <NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000038">
-        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000008"/>
+    <NamedIndividual rdf:about="&obo;GEO_000000038">
+        <rdf:type rdf:resource="&obo;GEO_000000008"/>
         <rdfs:label xml:lang="en">Countries of the Kingdom of the Netherlands</rdfs:label>
     </NamedIndividual>
     
@@ -179,78 +287,78 @@
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000050 -->
 
-    <NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000050">
-        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000006"/>
-        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000033"/>
-        <obo:GEO_000000329 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000262"/>
-        <obo:GEO_000000021 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">060</obo:GEO_000000021>
-        <obo:GEO_000000022 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BMU</obo:GEO_000000022>
-        <obo:GEO_000000023 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BM</obo:GEO_000000023>
+    <NamedIndividual rdf:about="&obo;GEO_000000050">
+        <rdf:type rdf:resource="&obo;GEO_000000006"/>
         <rdfs:label xml:lang="en">Bermuda</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">060</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">BM</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">BMU</obo:GEO_000000022>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000033"/>
+        <obo:GEO_000000329 rdf:resource="&obo;GEO_000000262"/>
     </NamedIndividual>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000057 -->
 
-    <NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000057">
-        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000006"/>
-        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000033"/>
-        <obo:GEO_000000329 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000262"/>
-        <obo:GEO_000000021 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">092</obo:GEO_000000021>
-        <obo:GEO_000000022 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VGB</obo:GEO_000000022>
-        <obo:GEO_000000023 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VG</obo:GEO_000000023>
+    <NamedIndividual rdf:about="&obo;GEO_000000057">
+        <rdf:type rdf:resource="&obo;GEO_000000006"/>
         <rdfs:label xml:lang="en">British Virgin Islands</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">092</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">VG</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">VGB</obo:GEO_000000022>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000033"/>
+        <obo:GEO_000000329 rdf:resource="&obo;GEO_000000262"/>
     </NamedIndividual>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000066 -->
 
-    <NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000066">
-        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000006"/>
-        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000033"/>
-        <obo:GEO_000000329 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000262"/>
-        <obo:GEO_000000021 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">136</obo:GEO_000000021>
-        <obo:GEO_000000022 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CYM</obo:GEO_000000022>
-        <obo:GEO_000000023 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KY</obo:GEO_000000023>
+    <NamedIndividual rdf:about="&obo;GEO_000000066">
+        <rdf:type rdf:resource="&obo;GEO_000000006"/>
         <rdfs:label xml:lang="en">Cayman Islands</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">136</obo:GEO_000000021>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">CYM</obo:GEO_000000022>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">KY</obo:GEO_000000023>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000033"/>
+        <obo:GEO_000000329 rdf:resource="&obo;GEO_000000262"/>
     </NamedIndividual>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000069 -->
 
-    <NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000069">
-        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000390"/>
+    <NamedIndividual rdf:about="&obo;GEO_000000069">
+        <rdf:type rdf:resource="&obo;GEO_000000390"/>
+        <rdfs:label xml:lang="en">Channel Islands</rdfs:label>
         <rdfs:comment xml:lang="en">The Channel Islands are an aggregate of islands that ultimately are under the sovereignty of the United Kingdom.  In terms of government, the Bailiwick of Guernsey controls all but one island, which is controlled by the Bailiwick of Jersey.
 
 Hence, the islands taken in toto are a geographical region, and not some subtype of governmental organization (or any other type of organization).
 
 For the governmental organizations, see the separate individuals for Jersey and Guernsey.</rdfs:comment>
-        <rdfs:label xml:lang="en">Channel Islands</rdfs:label>
     </NamedIndividual>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000072 -->
 
-    <NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000072">
-        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000006"/>
-        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000073"/>
-        <obo:GEO_000000329 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000071"/>
-        <obo:GEO_000000021 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">344</obo:GEO_000000021>
-        <obo:GEO_000000022 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HKG</obo:GEO_000000022>
-        <obo:GEO_000000023 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HK</obo:GEO_000000023>
+    <NamedIndividual rdf:about="&obo;GEO_000000072">
+        <rdf:type rdf:resource="&obo;GEO_000000006"/>
         <rdfs:label xml:lang="en">China, Hong Kong Special Administrative Region</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">344</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">HK</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">HKG</obo:GEO_000000022>
+        <obo:GEO_000000329 rdf:resource="&obo;GEO_000000071"/>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000073"/>
     </NamedIndividual>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000073 -->
 
-    <NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000073">
-        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000008"/>
+    <NamedIndividual rdf:about="&obo;GEO_000000073">
+        <rdf:type rdf:resource="&obo;GEO_000000008"/>
         <rdfs:label xml:lang="en">Special Administrative Regions of China</rdfs:label>
     </NamedIndividual>
     
@@ -258,63 +366,64 @@ For the governmental organizations, see the separate individuals for Jersey and 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000074 -->
 
-    <NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000074">
-        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000006"/>
-        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000073"/>
-        <obo:GEO_000000329 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000071"/>
-        <obo:GEO_000000021 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">446</obo:GEO_000000021>
-        <obo:GEO_000000022 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MAC</obo:GEO_000000022>
-        <obo:GEO_000000023 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MO</obo:GEO_000000023>
+    <NamedIndividual rdf:about="&obo;GEO_000000074">
+        <rdf:type rdf:resource="&obo;GEO_000000006"/>
         <rdfs:label xml:lang="en">China, Macao Special Administrative Region</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">446</obo:GEO_000000021>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">MAC</obo:GEO_000000022>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">MO</obo:GEO_000000023>
+        <obo:GEO_000000329 rdf:resource="&obo;GEO_000000071"/>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000073"/>
     </NamedIndividual>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000078 -->
 
-    <NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000078">
-        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000006"/>
-        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000251"/>
-        <obo:GEO_000000329 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000183"/>
-        <obo:GEO_000000021 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">184</obo:GEO_000000021>
-        <obo:GEO_000000022 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">COK</obo:GEO_000000022>
-        <obo:GEO_000000023 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CK</obo:GEO_000000023>
+    <NamedIndividual rdf:about="&obo;GEO_000000078">
+        <rdf:type rdf:resource="&obo;GEO_000000006"/>
         <rdfs:label xml:lang="en">Cook Islands</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">184</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">CK</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">COK</obo:GEO_000000022>
+        <obo:GEO_000000329 rdf:resource="&obo;GEO_000000183"/>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000251"/>
     </NamedIndividual>
     
 
+
     <!-- http://purl.obolibrary.org/obo/GEO_000000083 -->
 
-    <NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000083">
-        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000006"/>
-        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000038"/>
-        <obo:GEO_000000329 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000180"/>
-        <obo:GEO_000000021 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">531</obo:GEO_000000021>
-        <obo:GEO_000000022 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CUW</obo:GEO_000000022>
-        <obo:GEO_000000023 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CW</obo:GEO_000000023>
+    <NamedIndividual rdf:about="&obo;GEO_000000083">
+        <rdf:type rdf:resource="&obo;GEO_000000006"/>
         <rdfs:label xml:lang="en">Curaçao</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">531</obo:GEO_000000021>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">CUW</obo:GEO_000000022>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">CW</obo:GEO_000000023>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000038"/>
+        <obo:GEO_000000329 rdf:resource="&obo;GEO_000000180"/>
     </NamedIndividual>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000099 -->
 
-    <NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000099">
-        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000006"/>
-        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000100"/>
-        <obo:GEO_000000329 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000088"/>
-        <obo:GEO_000000021 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">234</obo:GEO_000000021>
-        <obo:GEO_000000022 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FRO</obo:GEO_000000022>
-        <obo:GEO_000000023 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FO</obo:GEO_000000023>
+    <NamedIndividual rdf:about="&obo;GEO_000000099">
+        <rdf:type rdf:resource="&obo;GEO_000000006"/>
         <rdfs:label xml:lang="en">Faeroe Islands</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">234</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">FO</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">FRO</obo:GEO_000000022>
+        <obo:GEO_000000329 rdf:resource="&obo;GEO_000000088"/>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000100"/>
     </NamedIndividual>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000100 -->
 
-    <NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000100">
-        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000008"/>
+    <NamedIndividual rdf:about="&obo;GEO_000000100">
+        <rdf:type rdf:resource="&obo;GEO_000000008"/>
         <rdfs:label xml:lang="en">Constituent Countries of the Kingdom of Denmark</rdfs:label>
     </NamedIndividual>
     
@@ -322,36 +431,36 @@ For the governmental organizations, see the separate individuals for Jersey and 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000101 -->
 
-    <NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000101">
-        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000006"/>
-        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000033"/>
-        <obo:GEO_000000329 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000262"/>
-        <obo:GEO_000000021 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">238</obo:GEO_000000021>
-        <obo:GEO_000000022 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FLK</obo:GEO_000000022>
-        <obo:GEO_000000023 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FK</obo:GEO_000000023>
+    <NamedIndividual rdf:about="&obo;GEO_000000101">
+        <rdf:type rdf:resource="&obo;GEO_000000006"/>
         <rdfs:label xml:lang="en">Falkland Islands (Malvinas)</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">238</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">FK</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">FLK</obo:GEO_000000022>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000033"/>
+        <obo:GEO_000000329 rdf:resource="&obo;GEO_000000262"/>
     </NamedIndividual>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000105 -->
 
-    <NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000105">
-        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000006"/>
-        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000106"/>
-        <obo:GEO_000000329 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000104"/>
-        <obo:GEO_000000021 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">254</obo:GEO_000000021>
-        <obo:GEO_000000022 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GUF</obo:GEO_000000022>
-        <obo:GEO_000000023 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GF</obo:GEO_000000023>
+    <NamedIndividual rdf:about="&obo;GEO_000000105">
+        <rdf:type rdf:resource="&obo;GEO_000000006"/>
         <rdfs:label xml:lang="en">French Guiana</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">254</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">GF</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">GUF</obo:GEO_000000022>
+        <obo:GEO_000000329 rdf:resource="&obo;GEO_000000104"/>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000106"/>
     </NamedIndividual>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000106 -->
 
-    <NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000106">
-        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000008"/>
+    <NamedIndividual rdf:about="&obo;GEO_000000106">
+        <rdf:type rdf:resource="&obo;GEO_000000008"/>
         <rdfs:label xml:lang="en">French Overseas Regions</rdfs:label>
     </NamedIndividual>
     
@@ -359,22 +468,22 @@ For the governmental organizations, see the separate individuals for Jersey and 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000107 -->
 
-    <NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000107">
-        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000006"/>
-        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000108"/>
-        <obo:GEO_000000329 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000104"/>
-        <obo:GEO_000000021 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">258</obo:GEO_000000021>
-        <obo:GEO_000000022 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PYF</obo:GEO_000000022>
-        <obo:GEO_000000023 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PF</obo:GEO_000000023>
+    <NamedIndividual rdf:about="&obo;GEO_000000107">
+        <rdf:type rdf:resource="&obo;GEO_000000006"/>
         <rdfs:label xml:lang="en">French Polynesia</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">258</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">PF</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">PYF</obo:GEO_000000022>
+        <obo:GEO_000000329 rdf:resource="&obo;GEO_000000104"/>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000108"/>
     </NamedIndividual>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000108 -->
 
-    <NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000108">
-        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000008"/>
+    <NamedIndividual rdf:about="&obo;GEO_000000108">
+        <rdf:type rdf:resource="&obo;GEO_000000008"/>
         <rdfs:label xml:lang="en">French Overseas Collectivities</rdfs:label>
     </NamedIndividual>
     
@@ -382,83 +491,83 @@ For the governmental organizations, see the separate individuals for Jersey and 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000114 -->
 
-    <NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000114">
-        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000006"/>
-        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000033"/>
-        <obo:GEO_000000329 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000262"/>
-        <obo:GEO_000000021 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">292</obo:GEO_000000021>
-        <obo:GEO_000000022 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GIB</obo:GEO_000000022>
-        <obo:GEO_000000023 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GI</obo:GEO_000000023>
+    <NamedIndividual rdf:about="&obo;GEO_000000114">
+        <rdf:type rdf:resource="&obo;GEO_000000006"/>
         <rdfs:label xml:lang="en">Gibraltar</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">292</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">GI</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">GIB</obo:GEO_000000022>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000033"/>
+        <obo:GEO_000000329 rdf:resource="&obo;GEO_000000262"/>
     </NamedIndividual>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000116 -->
 
-    <NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000116">
-        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000006"/>
-        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000100"/>
-        <obo:GEO_000000329 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000088"/>
-        <obo:GEO_000000021 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">304</obo:GEO_000000021>
-        <obo:GEO_000000022 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GRL</obo:GEO_000000022>
-        <obo:GEO_000000023 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GL</obo:GEO_000000023>
+    <NamedIndividual rdf:about="&obo;GEO_000000116">
+        <rdf:type rdf:resource="&obo;GEO_000000006"/>
         <rdfs:label xml:lang="en">Greenland</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">304</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">GL</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">GRL</obo:GEO_000000022>
+        <obo:GEO_000000329 rdf:resource="&obo;GEO_000000088"/>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000100"/>
     </NamedIndividual>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000118 -->
 
-    <NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000118">
-        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000006"/>
-        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000106"/>
-        <obo:GEO_000000329 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000104"/>
-        <obo:GEO_000000021 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">312</obo:GEO_000000021>
-        <obo:GEO_000000022 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GLP</obo:GEO_000000022>
-        <obo:GEO_000000023 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GP</obo:GEO_000000023>
+    <NamedIndividual rdf:about="&obo;GEO_000000118">
+        <rdf:type rdf:resource="&obo;GEO_000000006"/>
         <rdfs:label xml:lang="en">Guadeloupe</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">312</obo:GEO_000000021>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">GLP</obo:GEO_000000022>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">GP</obo:GEO_000000023>
+        <obo:GEO_000000329 rdf:resource="&obo;GEO_000000104"/>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000106"/>
     </NamedIndividual>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000119 -->
 
-    <NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000119">
-        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000006"/>
-        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000015"/>
-        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000017"/>
-        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000018"/>
-        <obo:GEO_000000329 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000264"/>
-        <obo:GEO_000000009 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">66</obo:GEO_000000009>
-        <obo:GEO_000000010 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GU</obo:GEO_000000010>
-        <obo:GEO_000000011 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01802705</obo:GEO_000000011>
-        <obo:GEO_000000021 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">316</obo:GEO_000000021>
-        <obo:GEO_000000022 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GUM</obo:GEO_000000022>
-        <obo:GEO_000000023 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GU</obo:GEO_000000023>
+    <NamedIndividual rdf:about="&obo;GEO_000000119">
+        <rdf:type rdf:resource="&obo;GEO_000000006"/>
         <rdfs:label xml:lang="en">Guam</rdfs:label>
+        <obo:GEO_000000011 rdf:datatype="&xsd;string">01802705</obo:GEO_000000011>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">316</obo:GEO_000000021>
+        <obo:GEO_000000009 rdf:datatype="&xsd;string">66</obo:GEO_000000009>
+        <obo:GEO_000000010 rdf:datatype="&xsd;string">GU</obo:GEO_000000010>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">GU</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">GUM</obo:GEO_000000022>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000015"/>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000017"/>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000018"/>
+        <obo:GEO_000000329 rdf:resource="&obo;GEO_000000264"/>
     </NamedIndividual>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000121 -->
 
-    <NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000121">
-        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000006"/>
-        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000122"/>
-        <obo:GEO_000000329 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000262"/>
-        <obo:GEO_000000021 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">831</obo:GEO_000000021>
-        <obo:GEO_000000022 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GGY</obo:GEO_000000022>
-        <obo:GEO_000000023 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GG</obo:GEO_000000023>
+    <NamedIndividual rdf:about="&obo;GEO_000000121">
+        <rdf:type rdf:resource="&obo;GEO_000000006"/>
         <rdfs:label xml:lang="en">Guernsey</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">831</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">GG</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">GGY</obo:GEO_000000022>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000122"/>
+        <obo:GEO_000000329 rdf:resource="&obo;GEO_000000262"/>
     </NamedIndividual>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000122 -->
 
-    <NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000122">
-        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000008"/>
+    <NamedIndividual rdf:about="&obo;GEO_000000122">
+        <rdf:type rdf:resource="&obo;GEO_000000008"/>
         <rdfs:label xml:lang="en">Crown Dependencies</rdfs:label>
     </NamedIndividual>
     
@@ -466,92 +575,92 @@ For the governmental organizations, see the separate individuals for Jersey and 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000136 -->
 
-    <NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000136">
-        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000006"/>
-        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000122"/>
-        <obo:GEO_000000329 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000262"/>
-        <obo:GEO_000000021 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">833</obo:GEO_000000021>
-        <obo:GEO_000000022 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IMN</obo:GEO_000000022>
-        <obo:GEO_000000023 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IM</obo:GEO_000000023>
+    <NamedIndividual rdf:about="&obo;GEO_000000136">
+        <rdf:type rdf:resource="&obo;GEO_000000006"/>
         <rdfs:label xml:lang="en">Isle of Man</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">833</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">IM</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">IMN</obo:GEO_000000022>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000122"/>
+        <obo:GEO_000000329 rdf:resource="&obo;GEO_000000262"/>
     </NamedIndividual>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000141 -->
 
-    <NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000141">
-        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000006"/>
-        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000122"/>
-        <obo:GEO_000000329 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000262"/>
-        <obo:GEO_000000021 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">832</obo:GEO_000000021>
-        <obo:GEO_000000022 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JEY</obo:GEO_000000022>
-        <obo:GEO_000000023 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JE</obo:GEO_000000023>
+    <NamedIndividual rdf:about="&obo;GEO_000000141">
+        <rdf:type rdf:resource="&obo;GEO_000000006"/>
         <rdfs:label xml:lang="en">Jersey</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">832</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">JE</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">JEY</obo:GEO_000000022>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000122"/>
+        <obo:GEO_000000329 rdf:resource="&obo;GEO_000000262"/>
     </NamedIndividual>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000164 -->
 
-    <NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000164">
-        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000006"/>
-        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000106"/>
-        <obo:GEO_000000329 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000104"/>
-        <obo:GEO_000000021 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">474</obo:GEO_000000021>
-        <obo:GEO_000000022 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MTQ</obo:GEO_000000022>
-        <obo:GEO_000000023 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MQ</obo:GEO_000000023>
+    <NamedIndividual rdf:about="&obo;GEO_000000164">
+        <rdf:type rdf:resource="&obo;GEO_000000006"/>
         <rdfs:label xml:lang="en">Martinique</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">474</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">MQ</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">MTQ</obo:GEO_000000022>
+        <obo:GEO_000000329 rdf:resource="&obo;GEO_000000104"/>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000106"/>
     </NamedIndividual>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000167 -->
 
-    <NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000167">
-        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000006"/>
-        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000108"/>
-        <obo:GEO_000000329 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000104"/>
-        <obo:GEO_000000021 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">175</obo:GEO_000000021>
-        <obo:GEO_000000022 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MYT</obo:GEO_000000022>
-        <obo:GEO_000000023 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">YT</obo:GEO_000000023>
+    <NamedIndividual rdf:about="&obo;GEO_000000167">
+        <rdf:type rdf:resource="&obo;GEO_000000006"/>
         <rdfs:label xml:lang="en">Mayotte</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">175</obo:GEO_000000021>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">MYT</obo:GEO_000000022>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">YT</obo:GEO_000000023>
+        <obo:GEO_000000329 rdf:resource="&obo;GEO_000000104"/>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000108"/>
     </NamedIndividual>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000173 -->
 
-    <NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000173">
-        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000006"/>
-        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000033"/>
-        <obo:GEO_000000329 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000262"/>
-        <obo:GEO_000000021 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">500</obo:GEO_000000021>
-        <obo:GEO_000000022 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MSR</obo:GEO_000000022>
-        <obo:GEO_000000023 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MS</obo:GEO_000000023>
+    <NamedIndividual rdf:about="&obo;GEO_000000173">
+        <rdf:type rdf:resource="&obo;GEO_000000006"/>
         <rdfs:label xml:lang="en">Montserrat </rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">500</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">MS</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">MSR</obo:GEO_000000022>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000033"/>
+        <obo:GEO_000000329 rdf:resource="&obo;GEO_000000262"/>
     </NamedIndividual>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000181 -->
 
-    <NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000181">
-        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000006"/>
-        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000182"/>
-        <obo:GEO_000000329 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000104"/>
-        <obo:GEO_000000021 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">540</obo:GEO_000000021>
-        <obo:GEO_000000022 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NCL</obo:GEO_000000022>
-        <obo:GEO_000000023 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NC</obo:GEO_000000023>
+    <NamedIndividual rdf:about="&obo;GEO_000000181">
+        <rdf:type rdf:resource="&obo;GEO_000000006"/>
         <rdfs:label xml:lang="en">New Caledonia</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">540</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">NC</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">NCL</obo:GEO_000000022>
+        <obo:GEO_000000329 rdf:resource="&obo;GEO_000000104"/>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000182"/>
     </NamedIndividual>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000182 -->
 
-    <NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000182">
-        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000008"/>
+    <NamedIndividual rdf:about="&obo;GEO_000000182">
+        <rdf:type rdf:resource="&obo;GEO_000000008"/>
         <rdfs:label xml:lang="en">French suis generis Collectivities</rdfs:label>
     </NamedIndividual>
     
@@ -559,36 +668,36 @@ For the governmental organizations, see the separate individuals for Jersey and 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000187 -->
 
-    <NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000187">
-        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000006"/>
-        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000251"/>
-        <obo:GEO_000000329 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000183"/>
-        <obo:GEO_000000021 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">570</obo:GEO_000000021>
-        <obo:GEO_000000022 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NIU</obo:GEO_000000022>
-        <obo:GEO_000000023 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NU</obo:GEO_000000023>
+    <NamedIndividual rdf:about="&obo;GEO_000000187">
+        <rdf:type rdf:resource="&obo;GEO_000000006"/>
         <rdfs:label xml:lang="en">Niue</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">570</obo:GEO_000000021>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">NIU</obo:GEO_000000022>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">NU</obo:GEO_000000023>
+        <obo:GEO_000000329 rdf:resource="&obo;GEO_000000183"/>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000251"/>
     </NamedIndividual>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000188 -->
 
-    <NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000188">
-        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000006"/>
-        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000189"/>
-        <obo:GEO_000000329 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000039"/>
-        <obo:GEO_000000021 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">574</obo:GEO_000000021>
-        <obo:GEO_000000022 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NFK</obo:GEO_000000022>
-        <obo:GEO_000000023 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NF</obo:GEO_000000023>
+    <NamedIndividual rdf:about="&obo;GEO_000000188">
+        <rdf:type rdf:resource="&obo;GEO_000000006"/>
         <rdfs:label xml:lang="en">Norfolk Island</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">574</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">NF</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">NFK</obo:GEO_000000022>
+        <obo:GEO_000000329 rdf:resource="&obo;GEO_000000039"/>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000189"/>
     </NamedIndividual>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000189 -->
 
-    <NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000189">
-        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000008"/>
+    <NamedIndividual rdf:about="&obo;GEO_000000189">
+        <rdf:type rdf:resource="&obo;GEO_000000008"/>
         <rdfs:label xml:lang="en">Self-governing Territories of Australia</rdfs:label>
     </NamedIndividual>
     
@@ -596,41 +705,41 @@ For the governmental organizations, see the separate individuals for Jersey and 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000190 -->
 
-    <NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000190">
-        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000006"/>
-        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000015"/>
-        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000017"/>
-        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000018"/>
-        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000020"/>
-        <obo:GEO_000000329 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000264"/>
-        <obo:GEO_000000009 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">69</obo:GEO_000000009>
-        <obo:GEO_000000010 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MP</obo:GEO_000000010>
-        <obo:GEO_000000011 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01779809</obo:GEO_000000011>
-        <obo:GEO_000000021 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">580</obo:GEO_000000021>
-        <obo:GEO_000000022 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MNP</obo:GEO_000000022>
-        <obo:GEO_000000023 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MP</obo:GEO_000000023>
+    <NamedIndividual rdf:about="&obo;GEO_000000190">
+        <rdf:type rdf:resource="&obo;GEO_000000006"/>
         <rdfs:label xml:lang="en">Northern Mariana Islands</rdfs:label>
+        <obo:GEO_000000011 rdf:datatype="&xsd;string">01779809</obo:GEO_000000011>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">580</obo:GEO_000000021>
+        <obo:GEO_000000009 rdf:datatype="&xsd;string">69</obo:GEO_000000009>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">MNP</obo:GEO_000000022>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">MP</obo:GEO_000000023>
+        <obo:GEO_000000010 rdf:datatype="&xsd;string">MP</obo:GEO_000000010>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000015"/>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000017"/>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000018"/>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000020"/>
+        <obo:GEO_000000329 rdf:resource="&obo;GEO_000000264"/>
     </NamedIndividual>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000192 -->
 
-    <NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000192">
-        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000006"/>
-        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000193"/>
-        <obo:GEO_000000021 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">275</obo:GEO_000000021>
-        <obo:GEO_000000022 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PSE</obo:GEO_000000022>
-        <obo:GEO_000000023 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PS</obo:GEO_000000023>
+    <NamedIndividual rdf:about="&obo;GEO_000000192">
+        <rdf:type rdf:resource="&obo;GEO_000000006"/>
         <rdfs:label xml:lang="en">Occupied Palestinian Territory</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">275</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">PS</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">PSE</obo:GEO_000000022>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000193"/>
     </NamedIndividual>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000193 -->
 
-    <NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000193">
-        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000008"/>
+    <NamedIndividual rdf:about="&obo;GEO_000000193">
+        <rdf:type rdf:resource="&obo;GEO_000000008"/>
         <rdfs:label xml:lang="en">Israeli-occupied Territories</rdfs:label>
     </NamedIndividual>
     
@@ -638,140 +747,140 @@ For the governmental organizations, see the separate individuals for Jersey and 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000202 -->
 
-    <NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000202">
-        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000006"/>
-        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000033"/>
-        <obo:GEO_000000329 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000262"/>
-        <obo:GEO_000000021 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">612</obo:GEO_000000021>
-        <obo:GEO_000000022 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PCN</obo:GEO_000000022>
-        <obo:GEO_000000023 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PN</obo:GEO_000000023>
+    <NamedIndividual rdf:about="&obo;GEO_000000202">
+        <rdf:type rdf:resource="&obo;GEO_000000006"/>
         <rdfs:label xml:lang="en">Pitcairn</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">612</obo:GEO_000000021>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">PCN</obo:GEO_000000022>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">PN</obo:GEO_000000023>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000033"/>
+        <obo:GEO_000000329 rdf:resource="&obo;GEO_000000262"/>
     </NamedIndividual>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000205 -->
 
-    <NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000205">
-        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000006"/>
-        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000015"/>
-        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000017"/>
-        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000018"/>
-        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000020"/>
-        <obo:GEO_000000329 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000264"/>
-        <obo:GEO_000000009 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">72</obo:GEO_000000009>
-        <obo:GEO_000000010 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PR</obo:GEO_000000010>
-        <obo:GEO_000000011 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01779808</obo:GEO_000000011>
-        <obo:GEO_000000021 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">630</obo:GEO_000000021>
-        <obo:GEO_000000022 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRI</obo:GEO_000000022>
-        <obo:GEO_000000023 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PR</obo:GEO_000000023>
+    <NamedIndividual rdf:about="&obo;GEO_000000205">
+        <rdf:type rdf:resource="&obo;GEO_000000006"/>
         <rdfs:label xml:lang="en">Puerto Rico</rdfs:label>
+        <obo:GEO_000000011 rdf:datatype="&xsd;string">01779808</obo:GEO_000000011>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">630</obo:GEO_000000021>
+        <obo:GEO_000000009 rdf:datatype="&xsd;string">72</obo:GEO_000000009>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">PR</obo:GEO_000000023>
+        <obo:GEO_000000010 rdf:datatype="&xsd;string">PR</obo:GEO_000000010>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">PRI</obo:GEO_000000022>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000015"/>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000017"/>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000018"/>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000020"/>
+        <obo:GEO_000000329 rdf:resource="&obo;GEO_000000264"/>
     </NamedIndividual>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000209 -->
 
-    <NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000209">
-        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000006"/>
-        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000106"/>
-        <obo:GEO_000000329 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000104"/>
-        <obo:GEO_000000021 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">638</obo:GEO_000000021>
-        <obo:GEO_000000022 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">REU</obo:GEO_000000022>
-        <obo:GEO_000000023 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RE</obo:GEO_000000023>
+    <NamedIndividual rdf:about="&obo;GEO_000000209">
+        <rdf:type rdf:resource="&obo;GEO_000000006"/>
         <rdfs:label xml:lang="en">Réunion</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">638</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">RE</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">REU</obo:GEO_000000022>
+        <obo:GEO_000000329 rdf:resource="&obo;GEO_000000104"/>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000106"/>
     </NamedIndividual>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000213 -->
 
-    <NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000213">
-        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000006"/>
-        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000108"/>
-        <obo:GEO_000000329 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000104"/>
-        <obo:GEO_000000021 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">652</obo:GEO_000000021>
-        <obo:GEO_000000022 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BLM</obo:GEO_000000022>
-        <obo:GEO_000000023 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BL</obo:GEO_000000023>
+    <NamedIndividual rdf:about="&obo;GEO_000000213">
+        <rdf:type rdf:resource="&obo;GEO_000000006"/>
         <rdfs:label xml:lang="en">Saint-Barthélemy</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">652</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">BL</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">BLM</obo:GEO_000000022>
+        <obo:GEO_000000329 rdf:resource="&obo;GEO_000000104"/>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000108"/>
     </NamedIndividual>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000214 -->
 
-    <NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000214">
-        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000006"/>
-        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000033"/>
-        <obo:GEO_000000329 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000262"/>
-        <obo:GEO_000000021 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">654</obo:GEO_000000021>
-        <obo:GEO_000000022 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SHN</obo:GEO_000000022>
-        <obo:GEO_000000023 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SH</obo:GEO_000000023>
+    <NamedIndividual rdf:about="&obo;GEO_000000214">
+        <rdf:type rdf:resource="&obo;GEO_000000006"/>
         <rdfs:label xml:lang="en">Saint Helena</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">654</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">SH</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">SHN</obo:GEO_000000022>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000033"/>
+        <obo:GEO_000000329 rdf:resource="&obo;GEO_000000262"/>
     </NamedIndividual>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000217 -->
 
-    <NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000217">
-        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000006"/>
-        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000108"/>
-        <obo:GEO_000000329 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000104"/>
-        <obo:GEO_000000021 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">663</obo:GEO_000000021>
-        <obo:GEO_000000022 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MAF</obo:GEO_000000022>
-        <obo:GEO_000000023 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MF</obo:GEO_000000023>
+    <NamedIndividual rdf:about="&obo;GEO_000000217">
+        <rdf:type rdf:resource="&obo;GEO_000000006"/>
         <rdfs:label xml:lang="en">Saint-Martin (French part)</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">663</obo:GEO_000000021>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">MAF</obo:GEO_000000022>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">MF</obo:GEO_000000023>
+        <obo:GEO_000000329 rdf:resource="&obo;GEO_000000104"/>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000108"/>
     </NamedIndividual>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000218 -->
 
-    <NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000218">
-        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000006"/>
-        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000108"/>
-        <obo:GEO_000000329 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000104"/>
-        <obo:GEO_000000021 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">666</obo:GEO_000000021>
-        <obo:GEO_000000022 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SPM</obo:GEO_000000022>
-        <obo:GEO_000000023 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PM</obo:GEO_000000023>
+    <NamedIndividual rdf:about="&obo;GEO_000000218">
+        <rdf:type rdf:resource="&obo;GEO_000000006"/>
         <rdfs:label xml:lang="en">Saint Pierre and Miquelon</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">666</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">PM</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">SPM</obo:GEO_000000022>
+        <obo:GEO_000000329 rdf:resource="&obo;GEO_000000104"/>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000108"/>
     </NamedIndividual>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000229 -->
 
-    <NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000229">
-        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000006"/>
-        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000038"/>
-        <obo:GEO_000000329 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000180"/>
-        <obo:GEO_000000021 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">534</obo:GEO_000000021>
-        <obo:GEO_000000022 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SXM</obo:GEO_000000022>
-        <obo:GEO_000000023 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SX</obo:GEO_000000023>
+    <NamedIndividual rdf:about="&obo;GEO_000000229">
+        <rdf:type rdf:resource="&obo;GEO_000000006"/>
         <rdfs:label xml:lang="en">Sint Maarten (Dutch part)</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">534</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">SX</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">SXM</obo:GEO_000000022>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000038"/>
+        <obo:GEO_000000329 rdf:resource="&obo;GEO_000000180"/>
     </NamedIndividual>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000239 -->
 
-    <NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000239">
-        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000006"/>
-        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000240"/>
-        <obo:GEO_000000329 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000191"/>
-        <obo:GEO_000000021 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">744</obo:GEO_000000021>
-        <obo:GEO_000000022 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SJM</obo:GEO_000000022>
-        <obo:GEO_000000023 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SJ</obo:GEO_000000023>
+    <NamedIndividual rdf:about="&obo;GEO_000000239">
+        <rdf:type rdf:resource="&obo;GEO_000000006"/>
         <rdfs:label xml:lang="en">Svalbard and Jan Mayen Islands</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">744</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">SJ</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">SJM</obo:GEO_000000022>
+        <obo:GEO_000000329 rdf:resource="&obo;GEO_000000191"/>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000240"/>
     </NamedIndividual>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000240 -->
 
-    <NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000240">
-        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000008"/>
+    <NamedIndividual rdf:about="&obo;GEO_000000240">
+        <rdf:type rdf:resource="&obo;GEO_000000008"/>
         <rdfs:label xml:lang="en">Territories of Norway</rdfs:label>
     </NamedIndividual>
     
@@ -779,22 +888,22 @@ For the governmental organizations, see the separate individuals for Jersey and 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000250 -->
 
-    <NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000250">
-        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000006"/>
-        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000251"/>
-        <obo:GEO_000000329 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000183"/>
-        <obo:GEO_000000021 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">772</obo:GEO_000000021>
-        <obo:GEO_000000022 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">TKL</obo:GEO_000000022>
-        <obo:GEO_000000023 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">TK</obo:GEO_000000023>
+    <NamedIndividual rdf:about="&obo;GEO_000000250">
+        <rdf:type rdf:resource="&obo;GEO_000000006"/>
         <rdfs:label xml:lang="en">Tokelau</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">772</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">TK</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">TKL</obo:GEO_000000022>
+        <obo:GEO_000000329 rdf:resource="&obo;GEO_000000183"/>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000251"/>
     </NamedIndividual>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000251 -->
 
-    <NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000251">
-        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000008"/>
+    <NamedIndividual rdf:about="&obo;GEO_000000251">
+        <rdf:type rdf:resource="&obo;GEO_000000008"/>
         <rdfs:label xml:lang="en">Dependent Territories of New Zealand</rdfs:label>
     </NamedIndividual>
     
@@ -802,83 +911,92 @@ For the governmental organizations, see the separate individuals for Jersey and 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000257 -->
 
-    <NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000257">
-        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000006"/>
-        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000033"/>
-        <obo:GEO_000000329 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000262"/>
-        <obo:GEO_000000021 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">796</obo:GEO_000000021>
-        <obo:GEO_000000022 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">TCA</obo:GEO_000000022>
-        <obo:GEO_000000023 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">TC</obo:GEO_000000023>
+    <NamedIndividual rdf:about="&obo;GEO_000000257">
+        <rdf:type rdf:resource="&obo;GEO_000000006"/>
         <rdfs:label xml:lang="en">Turks and Caicos Islands</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">796</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">TC</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">TCA</obo:GEO_000000022>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000033"/>
+        <obo:GEO_000000329 rdf:resource="&obo;GEO_000000262"/>
     </NamedIndividual>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000265 -->
 
-    <NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000265">
-        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000006"/>
-        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000015"/>
-        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000017"/>
-        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000018"/>
-        <obo:GEO_000000329 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000264"/>
-        <obo:GEO_000000009 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">78</obo:GEO_000000009>
-        <obo:GEO_000000010 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VI</obo:GEO_000000010>
-        <obo:GEO_000000011 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01802710</obo:GEO_000000011>
-        <obo:GEO_000000021 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">850</obo:GEO_000000021>
-        <obo:GEO_000000022 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VIR</obo:GEO_000000022>
-        <obo:GEO_000000023 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VI</obo:GEO_000000023>
+    <NamedIndividual rdf:about="&obo;GEO_000000265">
+        <rdf:type rdf:resource="&obo;GEO_000000006"/>
         <rdfs:label xml:lang="en">U.S. Virgin Islands</rdfs:label>
         <rdfs:label xml:lang="en">United States Virgin Islands</rdfs:label>
+        <obo:GEO_000000011 rdf:datatype="&xsd;string">01802710</obo:GEO_000000011>
+        <obo:GEO_000000009 rdf:datatype="&xsd;string">78</obo:GEO_000000009>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">850</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">VI</obo:GEO_000000023>
+        <obo:GEO_000000010 rdf:datatype="&xsd;string">VI</obo:GEO_000000010>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">VIR</obo:GEO_000000022>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000015"/>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000017"/>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000018"/>
+        <obo:GEO_000000329 rdf:resource="&obo;GEO_000000264"/>
     </NamedIndividual>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000271 -->
 
-    <NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000271">
-        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000006"/>
-        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000108"/>
-        <obo:GEO_000000329 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000104"/>
-        <obo:GEO_000000021 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">876</obo:GEO_000000021>
-        <obo:GEO_000000022 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">WLF</obo:GEO_000000022>
-        <obo:GEO_000000023 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">WF</obo:GEO_000000023>
+    <NamedIndividual rdf:about="&obo;GEO_000000271">
+        <rdf:type rdf:resource="&obo;GEO_000000006"/>
         <rdfs:label xml:lang="en">Wallis and Futuna Islands</rdfs:label>
+        <obo:GEO_000000021 rdf:datatype="&xsd;string">876</obo:GEO_000000021>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">WF</obo:GEO_000000023>
+        <obo:GEO_000000022 rdf:datatype="&xsd;string">WLF</obo:GEO_000000022>
+        <obo:GEO_000000329 rdf:resource="&obo;GEO_000000104"/>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000108"/>
     </NamedIndividual>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000272 -->
 
-    <NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000272">
-        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:GEO_000000023 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">732</obo:GEO_000000023>
-        <obo:GEO_000000023 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">EH</obo:GEO_000000023>
-        <obo:GEO_000000023 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ESH</obo:GEO_000000023>
+    <NamedIndividual rdf:about="&obo;GEO_000000272">
+        <rdf:type rdf:resource="&obo;GEO_000000372"/>
+        <rdfs:label xml:lang="en">Western Sahara</rdfs:label>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">732</obo:GEO_000000023>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">EH</obo:GEO_000000023>
+        <obo:GEO_000000023 rdf:datatype="&xsd;string">ESH</obo:GEO_000000023>
         <rdfs:comment xml:lang="en">It belongs under geographical region and not dependency because sovereignty over the entire area is not maintained by any single country, and few sovereign states recognize claims of sovereignity that are backed up by real control.</rdfs:comment>
         <rdfs:comment xml:lang="en">Western Sahara is a geographical region in west Africa that is disputed by Morrocco and Sahrawi Arab Democratic Republic (SADR).  The UN lists it as a non-self-governing territory.  Morroco controls over 2/3 the territory and over 90% of the population.</rdfs:comment>
-        <rdfs:label xml:lang="en">Western Sahara</rdfs:label>
     </NamedIndividual>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000327 -->
 
-    <NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000327">
-        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000390"/>
-        <obo:GEO_000000328 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000015"/>
-        <obo:GEO_000000009 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">74</obo:GEO_000000009>
-        <obo:GEO_000000010 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">UM</obo:GEO_000000010>
-        <obo:GEO_000000011 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01878752</obo:GEO_000000011>
-        <obo:IAO_0000115>An aggregate of islands that are part of the territory of the United States of America, grouped together by the International Standards Organization for statistical purposes.  It has as members eight United States insular areas in the Pacific Ocean: Baker Island, Howland Island, Jarvis Island, Johnston Atoll, Kingman Reef, Midway Islands, Palmyra Atoll, and Wake Island; and one US insular area in the Caribbean Sea: Navassa Island.</obo:IAO_0000115>
+    <NamedIndividual rdf:about="&obo;GEO_000000327">
+        <rdf:type rdf:resource="&obo;GEO_000000390"/>
+        <rdfs:label xml:lang="en">U.S. Minor Outlying Islands</rdfs:label>
+        <obo:GEO_000000011 rdf:datatype="&xsd;string">01878752</obo:GEO_000000011>
+        <obo:GEO_000000009 rdf:datatype="&xsd;string">74</obo:GEO_000000009>
+        <obo:GEO_000000010 rdf:datatype="&xsd;string">UM</obo:GEO_000000010>
+        <rdfs:comment>Despite having a unique two-digit state code and two-letter state abbreviation, this entity really just represents several, unihabited islands that are possessions of the United States and thus make up part of the United States geographical region.  They do not have any government with the exception of Palmyra Atoll.</rdfs:comment>
         <obo:IAO_0000117>William R. Hogan</obo:IAO_0000117>
         <obo:IAO_0000119>Adapted from Wikipedia.org</obo:IAO_0000119>
-        <rdfs:comment>Despite having a unique two-digit state code and two-letter state abbreviation, this entity really just represents several, unihabited islands that are possessions of the United States and thus make up part of the United States geographical region.  They do not have any government with the exception of Palmyra Atoll.</rdfs:comment>
-        <rdfs:label xml:lang="en">U.S. Minor Outlying Islands</rdfs:label>
+        <obo:IAO_0000115>An aggregate of islands that are part of the territory of the United States of America, grouped together by the International Standards Organization for statistical purposes.  It has as members eight United States insular areas in the Pacific Ocean: Baker Island, Howland Island, Jarvis Island, Johnston Atoll, Kingman Reef, Midway Islands, Palmyra Atoll, and Wake Island; and one US insular area in the Caribbean Sea: Navassa Island.</obo:IAO_0000115>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000015"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000041731 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000041731">
+        <rdf:type rdf:resource="&obo;GEO_000000006"/>
+        <rdfs:label xml:lang="en">Zanzibar</rdfs:label>
     </NamedIndividual>
 </rdf:RDF>
 
 
 
-<!-- Generated by the OWL API (version 4.1.3.20151118-2017) https://github.com/owlcs/owlapi -->
+<!-- Generated by the OWL API (version 3.5.1) http://owlapi.sourceforge.net -->
 

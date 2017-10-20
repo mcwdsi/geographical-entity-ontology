@@ -1279,7 +1279,7 @@
 
     <owl:NamedIndividual rdf:about="&obo;GEO_000000635">
         <rdf:type rdf:resource="&obo;GEO_000000372"/>
-        <rdfs:label xml:lang="en">region of Montenegro </rdfs:label>
+        <rdfs:label xml:lang="en">region of Montenegro</rdfs:label>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">ME</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">MNE</obo:GEO_000000022>
         <obo:BFO_0000137 rdf:resource="&obo;GEO_000000342"/>
