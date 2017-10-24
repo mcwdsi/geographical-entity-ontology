@@ -1289,6 +1289,319 @@ This individual represents the ENTIRE ISLAND.  There are two additional individu
         <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
         <obo:GEO_000000328 rdf:resource="&obo;GEO_000041684"/>
     </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000041732 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000041732">
+        <rdf:type rdf:resource="&obo;GEO_000000390"/>
+        <rdfs:label xml:lang="en">region of Cocos (Keeling) Islands</rdfs:label>
+        <obo:GEO_000000021 xml:lang="en">166</obo:GEO_000000021>
+        <obo:GEO_000000023 xml:lang="en">CC</obo:GEO_000000023>
+        <obo:GEO_000000022 xml:lang="en">CCK</obo:GEO_000000022>
+        <obo:IAO_0000118 xml:lang="en">Cocos Islands</obo:IAO_0000118>
+        <obo:IAO_0000118 xml:lang="en">Keeling Islands</obo:IAO_0000118>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000590"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000041733 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000041733">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">region of Cocos Island</rdfs:label>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000664"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000041734 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000041734">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">region of Easter Island</rdfs:label>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000000658"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000041735 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000041735">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">North Keeling Island</rdfs:label>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000041732"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000041736 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000041736">
+        <rdf:type rdf:resource="&obo;GEO_000000390"/>
+        <rdfs:label xml:lang="en">South Keeling Islands</rdfs:label>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000041732"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000041737 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000041737">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">Horsburgh Island</rdfs:label>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000041736"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000041738 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000041738">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">Direction Island</rdfs:label>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000041736"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000041739 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000041739">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">Workhouse Island</rdfs:label>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000041736"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000041740 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000041740">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">Prison Island</rdfs:label>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000041736"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000041741 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000041741">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">Home Island</rdfs:label>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000041736"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000041742 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000041742">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">Scaevola Islet</rdfs:label>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000041736"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000041743 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000041743">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">Canui Island</rdfs:label>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000041736"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000041744 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000041744">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">Ampang Minor</rdfs:label>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000041736"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000041745 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000041745">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">Goldwater Island</rdfs:label>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000041736"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000041746 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000041746">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">Thorn Island</rdfs:label>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000041736"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000041747 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000041747">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">Gooseberry Island</rdfs:label>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000041736"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000041748 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000041748">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">Misery Island</rdfs:label>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000041736"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000041749 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000041749">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">Goat Island</rdfs:label>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000041736"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000041750 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000041750">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">Middle Mission Isle</rdfs:label>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000041736"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000041751 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000041751">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">South Goat Island</rdfs:label>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000041736"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000041752 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000041752">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">South Island</rdfs:label>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000041736"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000041753 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000041753">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">North Goat Island</rdfs:label>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000041736"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000041754 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000041754">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">East Cay</rdfs:label>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000041736"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000041755 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000041755">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">Burial Island</rdfs:label>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000041736"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000041756 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000041756">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">West Cay</rdfs:label>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000041736"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000041757 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000041757">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">Keelingham Horn Island</rdfs:label>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000041736"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000041758 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000041758">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">West Island</rdfs:label>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000041736"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000041759 -->
+
+    <owl:NamedIndividual rdf:about="&obo;GEO_000041759">
+        <rdf:type rdf:resource="&obo;GEO_000000376"/>
+        <rdfs:label xml:lang="en">Turtle Island</rdfs:label>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
+        <obo:GEO_000000328 rdf:resource="&obo;GEO_000041736"/>
+    </owl:NamedIndividual>
 </rdf:RDF>
 
 

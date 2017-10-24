@@ -41,65 +41,6 @@
     <!-- 
     ///////////////////////////////////////////////////////////////////////////////////////
     //
-    // Annotation properties
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-     -->
-
-    
-
-
-    <!-- http://purl.obolibrary.org/obo/GEO_000000009 -->
-
-    <AnnotationProperty rdf:about="&obo;GEO_000000009"/>
-    
-
-
-    <!-- http://purl.obolibrary.org/obo/GEO_000000010 -->
-
-    <AnnotationProperty rdf:about="&obo;GEO_000000010"/>
-    
-
-
-    <!-- http://purl.obolibrary.org/obo/GEO_000000011 -->
-
-    <AnnotationProperty rdf:about="&obo;GEO_000000011"/>
-    
-
-
-    <!-- http://purl.obolibrary.org/obo/GEO_000000328 -->
-
-    <AnnotationProperty rdf:about="&obo;GEO_000000328"/>
-    
-
-
-    <!-- http://purl.obolibrary.org/obo/GEO_000000329 -->
-
-    <AnnotationProperty rdf:about="&obo;GEO_000000329"/>
-    
-
-
-    <!-- http://purl.obolibrary.org/obo/IAO_0000115 -->
-
-    <AnnotationProperty rdf:about="&obo;IAO_0000115"/>
-    
-
-
-    <!-- http://purl.obolibrary.org/obo/IAO_0000117 -->
-
-    <AnnotationProperty rdf:about="&obo;IAO_0000117"/>
-    
-
-
-    <!-- http://purl.obolibrary.org/obo/IAO_0000119 -->
-
-    <AnnotationProperty rdf:about="&obo;IAO_0000119"/>
-    
-
-
-    <!-- 
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
     // Classes
     //
     ///////////////////////////////////////////////////////////////////////////////////////
@@ -993,6 +934,32 @@ For the governmental organizations, see the separate individuals for Jersey and 
     <NamedIndividual rdf:about="&obo;GEO_000041731">
         <rdf:type rdf:resource="&obo;GEO_000000006"/>
         <rdfs:label xml:lang="en">Zanzibar</rdfs:label>
+        <obo:GEO_000000329 rdf:resource="&obo;GEO_000000263"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000041761 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000041761">
+        <rdf:type rdf:resource="&obo;GEO_000000006"/>
+        <rdfs:label xml:lang="en">Cocos (Keeling) Islands</rdfs:label>
+        <obo:GEO_000000021 xml:lang="en">166</obo:GEO_000000021>
+        <obo:GEO_000000023 xml:lang="en">CC</obo:GEO_000000023>
+        <obo:GEO_000000022 xml:lang="en">CCK</obo:GEO_000000022>
+        <obo:IAO_0000118 xml:lang="en">Cocos Islands</obo:IAO_0000118>
+        <obo:IAO_0000118 xml:lang="en">Keeling Islands</obo:IAO_0000118>
+        <obo:GEO_000000329 rdf:resource="&obo;GEO_000000039"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000041762 -->
+
+    <NamedIndividual rdf:about="&obo;GEO_000041762">
+        <rdf:type rdf:resource="&obo;GEO_000000006"/>
+        <rdfs:label xml:lang="en">Easter Island</rdfs:label>
+        <obo:GEO_000000329 rdf:resource="&obo;GEO_000000070"/>
     </NamedIndividual>
 </rdf:RDF>
 
