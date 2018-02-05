@@ -1,32 +1,80 @@
 <?xml version="1.0"?>
-
-
-<!DOCTYPE rdf:RDF [
-    <!ENTITY owl "http://www.w3.org/2002/07/owl#" >
-    <!ENTITY dc "http://purl.org/dc/elements/1.1/" >
-    <!ENTITY xsd "http://www.w3.org/2001/XMLSchema#" >
-    <!ENTITY rdfs "http://www.w3.org/2000/01/rdf-schema#" >
-    <!ENTITY rdf "http://www.w3.org/1999/02/22-rdf-syntax-ns#" >
-]>
-
-
-<rdf:RDF xmlns="http://purl.obolibrary.org/obo/geo/geo-all.owl#"
-     xml:base="http://purl.obolibrary.org/obo/geo/geo-all.owl"
+<rdf:RDF xmlns="http://purl.obolibrary.org/obo/geo/geo-all.owl/"
+     xml:base="http://purl.obolibrary.org/obo/geo/geo-all.owl/"
      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:protege="http://protege.stanford.edu/plugins/owl/protege#"
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:obo="http://purl.obolibrary.org/obo/"
+     xmlns:foaf="http://xmlns.com/foaf/0.1/"
      xmlns:dc="http://purl.org/dc/elements/1.1/">
     <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/geo/geo-all.owl">
-        <rdfs:comment xml:lang="en">Geographical Entity Ontology - all instances file</rdfs:comment>
-        <dc:creator xml:lang="en">William R Hogan</dc:creator>
-	<dc:creator xml:lang="en">production version 2016-03-26</dc:creator>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/dev/nation-geography.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/dev/nation-and-dependency-geography.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/dev/us-hrsa-geography.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/mexico-admin-level-1.owl"/>
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/nation-and-dependency-instances.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/tanzania-admin-level-1.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/us-ak-county-geography.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/us-al-county-geography.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/us-all-geography.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/us-ar-county-geography.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/us-az-county-geography.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/us-ca-county-geography.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/us-co-county-geography.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/us-ct-county-geography.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/us-dc-county-geography.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/us-de-county-geography.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/us-fl-county-geography.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/us-ga-county-geography.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/us-hi-county-geography.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/us-ia-county-geography.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/us-id-county-geography.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/us-il-county-geography.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/us-in-county-geography.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/us-ks-county-geography.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/us-ky-county-geography.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/us-ma-county-geography.owl"/>
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/us-mas-dependencies.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/us-md-county-geography.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/us-me-county-geography.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/us-mi-county-geography.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/us-mn-county-geography.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/us-mo-county-geography.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/us-ms-county-geography.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/us-mt-county-geography.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/us-nc-county-geography.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/us-nd-county-geography.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/us-ne-county-geography.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/us-nh-county-geography.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/us-nj-county-geography.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/us-nm-county-geography.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/us-nv-county-geography.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/us-oh-county-geography.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/us-ok-county-geography.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/us-or-county-geography.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/us-pa-county-geography.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/us-ri-county-geography.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/us-sc-county-geography.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/us-tn-county-geography.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/us-tx-county-geography.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/us-ut-county-geography.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/us-va-county-geography.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/us-vt-county-geography.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/us-wa-county-geography.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/us-wi-county-geography.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/us-wv-county-geography.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/us-wy-county-geography.owl"/>
+        <dc:creator xml:lang="en">production version 2016-03-26</dc:creator>
+        <dc:creator xml:lang="en">William R Hogan</dc:creator>
+        <rdfs:comment xml:lang="en">Geographical Entity Ontology - all instances file</rdfs:comment>
     </owl:Ontology>
 </rdf:RDF>
 
 
 
-<!-- Generated by the OWL API (version 3.4.2) http://owlapi.sourceforge.net -->
+<!-- Generated by the OWL API (version 4.2.5.20160517-0735) https://github.com/owlcs/owlapi -->
 
