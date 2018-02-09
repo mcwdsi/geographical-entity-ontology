@@ -13,8 +13,8 @@
      xmlns:dc="http://purl.org/dc/elements/1.1/">
     <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/geo/geo-all.owl">
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/us-or-county-geography.owl"/>
-        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/us-md-county-geography.owl"/>
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/us-oh-county-geography.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/us-md-county-geography.owl"/>
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/us-mn-county-geography.owl"/>
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/dev/us-integral-geography.owl"/>
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/us-ak-county-geography.owl"/>
@@ -25,9 +25,9 @@
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/us-al-county-geography.owl"/>
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/us-az-county-geography.owl"/>
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/us-ut-county-geography.owl"/>
-        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/us-mt-county-geography.owl"/>
-        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/us-il-county-geography.owl"/>
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/us-mas-dependencies.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/us-il-county-geography.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/us-mt-county-geography.owl"/>
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/us-ky-county-geography.owl"/>
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/us-de-county-geography.owl"/>
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/us-nc-county-geography.owl"/>
@@ -43,6 +43,7 @@
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/dev/us-hrsa-geography.owl"/>
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/us-nj-county-geography.owl"/>
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/us-sd-county-geography.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/us-la-county-geography.owl"/>
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/us-me-county-geography.owl"/>
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/us-ar-county-geography.owl"/>
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/us-ks-county-geography.owl"/>
@@ -57,7 +58,6 @@
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/us-in-county-geography.owl"/>
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/us-all-geography.owl"/>
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/us-ok-county-geography.owl"/>
-        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/us-la-county-geography.owl"/>
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/us-ma-county-geography.owl"/>
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/us-wa-county-geography.owl"/>
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/us-ne-county-geography.owl"/>
@@ -77,9 +77,9 @@
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/us-wy-county-geography.owl"/>
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/mexico-admin-level-2.owl"/>
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/us-ri-county-geography.owl"/>
-        <dc:creator xml:lang="en">production version 2018-02-05</dc:creator>
-        <dc:creator xml:lang="en">William R Hogan</dc:creator>
+        <rdfs:comment xml:lang="en">production version 2018-02-05</rdfs:comment>
         <dc:contributor xml:lang="en">Amanda Hicks</dc:contributor>
+        <dc:creator xml:lang="en">William R Hogan</dc:creator>
         <rdfs:comment xml:lang="en">Geographical Entity Ontology - all instances file</rdfs:comment>
     </owl:Ontology>
 </rdf:RDF>
