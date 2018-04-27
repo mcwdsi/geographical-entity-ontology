@@ -110,6 +110,7 @@
         <rdfs:label xml:lang="en">region of Timor-Leste</rdfs:label>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">TL</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">TLS</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
     </owl:NamedIndividual>
     
 
@@ -343,6 +344,7 @@
         <rdfs:label xml:lang="en">region of Tuvalu</rdfs:label>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">TUV</obo:GEO_000000022>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">TV</obo:GEO_000000023>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
     </owl:NamedIndividual>
     
 
@@ -390,6 +392,7 @@
         <rdfs:label xml:lang="en">region of Iceland</rdfs:label>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">IS</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">ISL</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
     </owl:NamedIndividual>
     
 
@@ -414,6 +417,7 @@
         <obo:GEO_000000023 rdf:datatype="&xsd;string">TR</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">TUR</obo:GEO_000000022>
         <rdfs:comment xml:lang="en">Turkey spans Europe and Asia (source: CIA Factbook)</rdfs:comment>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
     </owl:NamedIndividual>
     
 
@@ -449,6 +453,7 @@
         <rdfs:label xml:lang="en">region of Indonesia</rdfs:label>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">ID</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">IDN</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
     </owl:NamedIndividual>
     
 
@@ -484,6 +489,7 @@
         <rdfs:label xml:lang="en">region of Tonga</rdfs:label>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">TO</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">TON</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
     </owl:NamedIndividual>
     
 
@@ -567,6 +573,7 @@
         <rdfs:label xml:lang="en">region of Vanuatu</rdfs:label>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">VU</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">VUT</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
     </owl:NamedIndividual>
     
 
@@ -602,6 +609,7 @@
         <rdfs:label xml:lang="en">region of United Kingdom of Great Britain and Northern Ireland</rdfs:label>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">GB</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">GBR</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
     </owl:NamedIndividual>
     
 
@@ -661,6 +669,7 @@
         <rdfs:label xml:lang="en">region of Kiribati</rdfs:label>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">KI</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">KIR</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
     </owl:NamedIndividual>
     
 
@@ -789,6 +798,7 @@
         <rdfs:label xml:lang="en">region of Madagascar</rdfs:label>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">MDG</obo:GEO_000000022>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">MG</obo:GEO_000000023>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
     </owl:NamedIndividual>
     
 
@@ -1008,6 +1018,7 @@
         <rdfs:label xml:lang="en">region of Micronesia (Federated States of)</rdfs:label>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">FM</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">FSM</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
     </owl:NamedIndividual>
     
 
@@ -1055,6 +1066,7 @@
         <rdfs:label xml:lang="en">region of Marshall Islands</rdfs:label>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">MH</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">MHL</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
     </owl:NamedIndividual>
     
 
@@ -1067,6 +1079,7 @@
         <obo:GEO_000000023 rdf:datatype="&xsd;string">AZ</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">AZE</obo:GEO_000000022>
         <rdfs:comment xml:lang="en">spans Europe and Asia (source: CIA Factbook)</rdfs:comment>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
     </owl:NamedIndividual>
     
 
@@ -1114,6 +1127,7 @@
         <rdfs:label xml:lang="en">region of Maldives</rdfs:label>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">MDV</obo:GEO_000000022>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">MV</obo:GEO_000000023>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
     </owl:NamedIndividual>
     
 
@@ -1149,6 +1163,7 @@
         <rdfs:label xml:lang="en">region of Mauritius</rdfs:label>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">MU</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">MUS</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
     </owl:NamedIndividual>
     
 
@@ -1306,6 +1321,7 @@
         <rdfs:label xml:lang="en">region of Nauru</rdfs:label>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">NR</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">NRU</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
     </owl:NamedIndividual>
     
 
@@ -1477,6 +1493,7 @@
         <rdfs:label xml:lang="en">region of New Zealand</rdfs:label>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">NZ</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">NZL</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
     </owl:NamedIndividual>
     
 
@@ -1601,6 +1618,7 @@
         <rdfs:label xml:lang="en">region of Palau</rdfs:label>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">PLW</obo:GEO_000000022>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">PW</obo:GEO_000000023>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
     </owl:NamedIndividual>
     
 
@@ -1672,6 +1690,7 @@
         <rdfs:label xml:lang="en">region of Papua New Guinea</rdfs:label>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">PG</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">PNG</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
     </owl:NamedIndividual>
     
 
@@ -1683,6 +1702,7 @@
         <rdfs:label xml:lang="en">region of Comoros</rdfs:label>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">COM</obo:GEO_000000022>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">KM</obo:GEO_000000023>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
     </owl:NamedIndividual>
     
 
@@ -1768,6 +1788,7 @@
         <rdfs:label xml:lang="en">region of Cyprus</rdfs:label>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">CY</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">CYP</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
     </owl:NamedIndividual>
     
 
@@ -1816,6 +1837,7 @@
         <obo:GEO_000000023 rdf:datatype="&xsd;string">EG</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">EGY</obo:GEO_000000022>
         <rdfs:comment xml:lang="en">spans Africa and Asia (source: CIA Factbook)</rdfs:comment>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000679"/>
     </owl:NamedIndividual>
     
 
@@ -1947,6 +1969,7 @@
         <rdfs:label xml:lang="en">region of Philippines</rdfs:label>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">PH</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">PHL</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
     </owl:NamedIndividual>
     
 
@@ -2055,6 +2078,7 @@
         <obo:GEO_000000023 rdf:datatype="&xsd;string">RU</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">RUS</obo:GEO_000000022>
         <rdfs:comment xml:lang="en">Russia spans Europe and Asia (source: CIA Factbook)</rdfs:comment>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
     </owl:NamedIndividual>
     
 
@@ -2078,6 +2102,7 @@
         <rdfs:label xml:lang="en">region of Seychelles</rdfs:label>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">SC</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">SYC</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
     </owl:NamedIndividual>
     
 
@@ -2139,6 +2164,7 @@
         <rdfs:label xml:lang="en">region of Fiji</rdfs:label>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">FJ</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">FJI</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
     </owl:NamedIndividual>
     
 
@@ -2174,6 +2200,7 @@
         <rdfs:label xml:lang="en">region of Singapore</rdfs:label>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">SG</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">SGP</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
     </owl:NamedIndividual>
     
 
@@ -2261,6 +2288,7 @@
         <rdfs:label xml:lang="en">region of Sri Lanka</rdfs:label>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">LK</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">LKA</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
     </owl:NamedIndividual>
     
 
@@ -2360,6 +2388,7 @@
         <obo:GEO_000000023 rdf:datatype="&xsd;string">GE</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">GEO</obo:GEO_000000022>
         <rdfs:comment xml:lang="en">spans Europe and Asia</rdfs:comment>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
     </owl:NamedIndividual>
     
 
@@ -2371,6 +2400,7 @@
         <rdfs:label xml:lang="en">region of Solomon Islands</rdfs:label>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">SB</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">SLB</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
     </owl:NamedIndividual>
     
 
@@ -2460,6 +2490,7 @@
         <obo:GEO_000000021 rdf:datatype="&xsd;string">158</obo:GEO_000000021>
         <obo:GEO_000000023 rdf:datatype="&xsd;string">TW</obo:GEO_000000023>
         <obo:GEO_000000022 rdf:datatype="&xsd;string">TWN</obo:GEO_000000022>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
     </owl:NamedIndividual>
     
 
