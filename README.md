@@ -2,6 +2,9 @@ An ontology of geographical entities implemented in Web Ontology Language 2 (OWL
 
 The issue tracker for this project is located [here](https://ontology.atlassian.net/browse/GEO).
 
+
+FILE DIRECTORY
+
 basic-geography.owl - This OWL file is an inventory of instances that are geographical (material) entities (not organizations). 
 
 geo-all.owl - Geographical Entity Ontology - all instances file 
