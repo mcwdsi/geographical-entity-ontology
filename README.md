@@ -11,7 +11,7 @@ geo-all.owl - Geographical Entity Ontology - all instances file
 
 geo.owl - This contains classes for geographical entities that are not location/organization specific and unit of measurement instances 
 
-nation-and-dependency-geography.owl - 
+nation-and-dependency-geography.owl - Geographical regions associated with the geo-political entities that are nations and dependencies.
 
 nation-and-dependency-instances.owl - This file is actually an inventory of instances of nations and dependencies and imports the Geographical Entity Ontology. 
 
@@ -21,10 +21,10 @@ nation-instances.owl - This file an inventory of instances of nations that impor
 
 us-##-county-geography.owl - These files contain instances of counties in respective US states. 
 
-us-all-geography.owl - 
+us-all-geography.owl - Imports us-integral-geography.owl, us-dependency-geography.owl, nation-geography.owl
 
 us-basic-geography.owl - This OWL file contains instances of the major geographical regions of the U.S., but not down to the state level. For states and dependencies, see us-integral-geography.owl and us-dependency-geography.owl. 
 
 us-dependency-geography.owl - This file contains instances of US dependencies and their relations, especially to regions of island aggregates. 
 
-us-integral-geography.owl -
+us-integral-geography.owl - States and D.C. geographical region
