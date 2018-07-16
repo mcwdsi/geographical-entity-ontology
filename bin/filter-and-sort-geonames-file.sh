@@ -4,6 +4,6 @@
 
 # first command line argument is input file
 
-awk '/\tA\tADM[0-9]/' $1 | sort -t$'\t' -k7,8 > "$1-admin-units.txt"
+awk '/\tA\tADM[0-9]\t/' $1 | sort -t$'\t' -k7,8 > "$1-admin-units.txt"
 
 

@@ -1,0 +1,6 @@
+input=/Users/hoganwr/devel/repos/ontology/geographical-entity-ontology/source_data/CA-admin-units.txt
+countrycode=CA
+owlpurlbase=http://purl.obolibrary.org/obo/geo/canada-admin-level
+countryiri=http://purl.obolibrary.org/obo/GEO_000000646
+irilookup=/Users/hoganwr/devel/repos/ontology/geographical-entity-ontology/config/iris-for-parsing-geonames.txt
+iriStart=41772
