@@ -1,0 +1,287 @@
+148942	Vwawa	Vwawa	Vawa,Vwawa	-9.11667	32.93333	P	PPL	TZ		9	1206	1206182		40145		1563	Africa/Dar_es_Salaam	7/26/16
+148987	Vikindu	Vikindu	Vikindu	-7.00667	39.29849	P	PPL	TZ		2	604	604033		23307		86	Africa/Dar_es_Salaam	7/26/16
+149027	Uyovu	Uyovu		-3.28333	31.52583	P	PPL	TZ		28	2504	2504051		60849		1235	Africa/Dar_es_Salaam	7/26/16
+149039	Uwelini	Uwelini		-5.4	39.68333	P	PPL	TZ		20	5502	5502261		2472		49	Africa/Dar_es_Salaam	7/26/16
+149050	Uvinza	Uvinza	Kimalapamba,Rutschugiposten,Urvinsa,Uvinza,Uwinsa	-5.10361	30.39111	P	PPL	TZ		5	1605	1605103		24650		996	Africa/Dar_es_Salaam	7/26/16
+149070	Utete	Utete	Utete	-7.98598	38.75795	P	PPL	TZ		2	605	605043		11888		31	Africa/Dar_es_Salaam	7/26/16
+149114	Usoke	Usoke		-5.16667	32.35	P	PPL	TZ		17	1404	1404091		7295		1161	Africa/Dar_es_Salaam	7/26/16
+149129	Ushirombo	Ushirombo	Ushirombo	-3.49194	31.96389	P	PPL	TZ		28	2504	2504091		95052		1186	Africa/Dar_es_Salaam	7/26/16
+149132	Usevia	Usevia	Usevia,Usevya	-7.1	31.23333	P	PPL	TZ		29	2303	2303153		17742		928	Africa/Dar_es_Salaam	7/26/16
+149151	Usagara	Usagara		-2.68333	33	P	PPL	TZ		12	1907	1907033		15514		1294	Africa/Dar_es_Salaam	7/26/16
+149155	Usa River	Usa River	Usa,Usa River	-3.36667	36.85	P	PPL	TZ		26	202	202103		18726		1197	Africa/Dar_es_Salaam	7/26/16
+149172	Urambo	Urambo		-5.06667	32.05	P	PPL	TZ		17	1404	1404023		23724		1104	Africa/Dar_es_Salaam	7/26/16
+149239	Ulenje	Ulenje	Ulenje,Ulenji	-8.93333	33.68333	P	PPL	TZ		9	1202	1202021		12219		1929	Africa/Dar_es_Salaam	7/26/16
+149402	Tunduma	Tunduma	Tunduma	-9.3	32.76667	P	PPL	TZ		9	1210	1210012		36556		1698	Africa/Dar_es_Salaam	7/26/16
+149418	Tumbi	Tumbi		-5.06667	32.73333	P	PPL	TZ		17	1406	1406251		32900		1168	Africa/Dar_es_Salaam	7/26/16
+149437	Tukuyu	Tukuyu	Neu-Langenberg,Neu-Langenburg,New Langenberg,Ntukuju,Tukuyu	-9.25	33.65	P	PPL	TZ		9	1204	1204352		28398		1431	Africa/Dar_es_Salaam	7/26/16
+149512	Tinde	Tinde		-3.88333	33.2	P	PPL	TZ		15	1703	1703063		22082		1154	Africa/Dar_es_Salaam	7/26/16
+149581	Tarime	Tarime		-1.35	34.36667	P	PPL	TZ		8	2001	2001162		33094		1398	Africa/Dar_es_Salaam	7/26/16
+149768	Soni	Soni		-4.85	38.36667	P	PPL	TZ		18	401	401053		12402		1191	Africa/Dar_es_Salaam	7/26/16
+149775	Songwa	Songwa		-3.51667	33.51667	P	PPL	TZ		15	1702	1702033		23618		1149	Africa/Dar_es_Salaam	7/26/16
+149792	Somanda	Somanda		-3.36667	33.95	P	PPL	TZ		31	2404	2404093		33932		1208	Africa/Dar_es_Salaam	7/26/16
+149812	Sokoni	Sokoni		-6.43333	39.55	P	PPL	TZ		21	5202	5202031		25821		24	Africa/Dar_es_Salaam	7/26/16
+149854	Sirari	Sirari	Sirari	-1.25367	34.47596	P	PPL	TZ		8	2001	2001033		24317		1679	Africa/Dar_es_Salaam	7/26/16
+149929	Sikonge	Sikonge	Sikonge	-5.63333	32.76667	P	PPL	TZ		17	1405	1405141		27113		1177	Africa/Dar_es_Salaam	7/26/16
+150037	Shelui	Shelui	Shelui	-4.36667	34.2	P	PPL	TZ		16	1301	1301053		24817		1091	Africa/Dar_es_Salaam	7/26/16
+150099	Sepuka	Sepuka	Sepuka,Sipuka	-4.75	34.53333	P	PPL	TZ		16	1305	1305251		25657		1484	Africa/Dar_es_Salaam	7/26/16
+150276	Same	Same	Same,Ssame,Zame	-4.06667	37.73333	P	PPL	TZ		6	303	303012		17455		867	Africa/Dar_es_Salaam	7/26/16
+150436	Rulenge	Rulenge		-2.7175	30.6325	P	PPL	TZ		19	1805	1805033		22069		1422	Africa/Dar_es_Salaam	7/26/16
+150453	Rujewa	Rujewa	Rujewa,Rujewo	-8.7	34.38333	P	PPL	TZ		9	1207	1207192		29228		1078	Africa/Dar_es_Salaam	7/26/16
+150634	Puma	Puma	Puma	-5	34.73333	P	PPL	TZ		16	1305	1305021		17092		1588	Africa/Dar_es_Salaam	7/26/16
+150689	Poli	Poli	Poli	-3.33333	36.8	P	PPL	TZ		26	202	202161		9568		1644	Africa/Dar_es_Salaam	7/26/16
+150793	Pangani	Pangani	Pangani	-5.42526	38.97473	P	PPL	TZ		18	405	405022		8343		9	Africa/Dar_es_Salaam	7/26/16
+150885	Old Shinyanga	Old Shinyanga		-3.55	33.4	P	PPL	TZ		15	1701	1701173		23747		1177	Africa/Dar_es_Salaam	7/26/16
+150930	Nzega	Nzega		-4.21667	33.18333	P	PPL	TZ		17	1401	1401102		26584		1241	Africa/Dar_es_Salaam	7/26/16
+151062	Nyanguge	Nyanguge		-2.55	33.2	P	PPL	TZ		12	1902	1902053		10746		1177	Africa/Dar_es_Salaam	7/26/16
+151108	Nyamuswa	Nyamuswa		-1.9	34.01667	P	PPL	TZ		8	2004	2004013		16507		1386	Africa/Dar_es_Salaam	7/26/16
+151211	Nyalikungu	Nyalikungu	Nyalikungu,Nyarikungu	-3.18333	33.78333	P	PPL	TZ		31	2404	2404263		24648		1354	Africa/Dar_es_Salaam	7/26/16
+151262	Nyakahanga	Nyakahanga		-1.60333	31.14139	P	PPL	TZ		19	1801	1801203		14611		1662	Africa/Dar_es_Salaam	7/26/16
+151266	Nyakabindi	Nyakabindi		-2.63333	33.98333	P	PPL	TZ		31	2401	2401173		18428		1295	Africa/Dar_es_Salaam	7/26/16
+151363	Nsunga	Nsunga		-1.14389	31.39472	P	PPL	TZ		19	1807	1807021		20049		1202	Africa/Dar_es_Salaam	7/26/16
+151373	Nshamba	Nshamba		-1.79833	31.55111	P	PPL	TZ		19	1803	1803343		19815		1540	Africa/Dar_es_Salaam	7/26/16
+151424	Nkove	Nkove		-7.95	30.85	P	PPL	TZ		24	1503	1503101		5389		813	Africa/Dar_es_Salaam	7/26/16
+151445	Nkoaranga	Nkoaranga	Nkoaranga	-3.33333	36.8	P	PPL	TZ		26	202	202161		14738		1644	Africa/Dar_es_Salaam	7/26/16
+151567	Nguruka	Nguruka		-5.10917	31.04194	P	PPL	TZ		5	1605	1605133		39135		1081	Africa/Dar_es_Salaam	7/26/16
+151599	Ngudu	Ngudu	Ngudu	-2.96667	33.33333	P	PPL	TZ		12	1904	1904252		22658		1246	Africa/Dar_es_Salaam	7/26/16
+151610	Ngorongoro	Ngorongoro	Ngorongoro	-3.23973	35.48747	P	PPL	TZ		26	205	205103		10836		2377	Africa/Dar_es_Salaam	7/26/16
+151678	Ngerengere	Ngerengere	Ngerengere	-6.75	38.11667	P	PPL	TZ		10	502	502121		17181		196	Africa/Dar_es_Salaam	7/26/16
+151711	Ngara	Ngara	Ngara	-2.51222	30.65583	P	PPL	TZ		19	1805	1805163		16890		1814	Africa/Dar_es_Salaam	7/26/16
+151720	Nganane	Nganane		-6.4	39.55	P	PPL	TZ		21	5202	5202041		1929		31	Africa/Dar_es_Salaam	7/26/16
+151775	Ndungu	Ndungu		-4.36667	38.05	P	PPL	TZ		6	303	303143		14545		535	Africa/Dar_es_Salaam	7/26/16
+151872	Ndago	Ndago	Ndago	-4.6	34.35	P	PPL	TZ		16	1301	1301143		13012		1443	Africa/Dar_es_Salaam	7/26/16
+151920	Nansio	Nansio	Nansio	-2.13333	33.05	P	PPL	TZ		8				6437		1134	Africa/Dar_es_Salaam	1/17/12
+151929	Nangwa	Nangwa		-4.46667	35.45	P	PPL	TZ		27	2102	2102151		18595		1837	Africa/Dar_es_Salaam	7/26/16
+151986	Namanyere	Namanyere		-7.51667	31.05	P	PPL	TZ		24	1503	1503162		28218		1531	Africa/Dar_es_Salaam	7/26/16
+151988	Namanga	Namanga	Namanga	-2.55116	36.78377	P	PPL	TZ		26	207	207113		12048		1311	Africa/Dar_es_Salaam	7/26/16
+152009	Nakatunguru	Nakatunguru		-2.11667	33.06667	P	PPL	TZ		8				6064		1151	Africa/Dar_es_Salaam	3/6/11
+152042	Naberera	Naberera		-4.2	36.93333	P	PPL	TZ		27	2104	2104023		13499		1430	Africa/Dar_es_Salaam	7/26/16
+152169	Mwembe	Mwembe	Mwemba,Mwembe	-4.15	37.85	P	PPL	TZ		6	303	303083		9032		1009	Africa/Dar_es_Salaam	7/26/16
+152183	Mwaya	Mwaya	Muaja,Mvaya,Mwaya	-9.55	33.95	P	PPL	TZ		9	1203	1203041		7558		479	Africa/Dar_es_Salaam	7/26/16
+152265	Mwanga	Mwanga		-4.8	38.2	P	PPL	TZ		18	402	402153		12846		414	Africa/Dar_es_Salaam	7/26/16
+152376	Mwadui	Mwadui	MWN,Mwadui	-3.55	33.6	P	PPL	TZ		15	1702	1702063		23296		1215	Africa/Dar_es_Salaam	7/26/16
+152403	Mvomero	Mvomero		-6.25	38.66667	P	PPL	TZ		2	601	601041		31324		34	Africa/Dar_es_Salaam	7/26/16
+152497	Muriti	Muriti		-1.98333	32.91667	P	PPL	TZ		8				20254		1141	Africa/Dar_es_Salaam	3/6/11
+152546	Mungaa	Mungaa	Mungaa	-4.96667	34.88333	P	PPL	TZ		16	1305	1305033		16715		1608	Africa/Dar_es_Salaam	7/26/16
+152570	Muleba	Muleba		-1.83972	31.65444	P	PPL	TZ		19	1803	1803123		11555		1270	Africa/Dar_es_Salaam	7/26/16
+152632	Muheza	Muheza	Mubeza,Muheza	-5.16667	38.78333	P	PPL	TZ		18	403	403092		17000		183	Africa/Dar_es_Salaam	7/26/16
+152663	Mugumu	Mugumu		-1.85	34.7	P	PPL	TZ		8	2002	2002081		18431		1551	Africa/Dar_es_Salaam	7/26/16
+152689	Mugango	Mugango	Mgango,Mugango	-1.68333	33.7	P	PPL	TZ		8	2003	2003143		10550		1134	Africa/Dar_es_Salaam	7/26/16
+152718	Mtwango	Mtwango	Mtwango	-9.01667	34.8	P	PPL	TZ		30	2204	2204013		19040		1767	Africa/Dar_es_Salaam	7/26/16
+152743	Mto wa Mbu	Mto wa Mbu	Mto wa Mbu	-3.35	35.85	P	PPL	TZ		26	201	201151		17754		985	Africa/Dar_es_Salaam	7/26/16
+152781	Mtinko	Mtinko	Mtinko	-4.55	34.85	P	PPL	TZ		16	1302	1302191		26725		1583	Africa/Dar_es_Salaam	7/26/16
+152793	Mtimbira	Mtimbira		-8.78333	36.35	P	PPL	TZ		10	504	504223		11122		302	Africa/Dar_es_Salaam	7/26/16
+152877	Mtambile	Mtambile	Mtambile,Mtambili,Mwembeduka	-5.38333	39.7	P	PPL	TZ		20	5502	5502133		6797		23	Africa/Dar_es_Salaam	7/26/16
+152933	Msowero	Msowero		-6.53333	37.2	P	PPL	TZ		10	501	501083		17861		462	Africa/Dar_es_Salaam	7/26/16
+153046	Msanga	Msanga		-6.05	36.03333	P	PPL	TZ		3	104	104061		5527		1012	Africa/Dar_es_Salaam	7/26/16
+153094	Mpwapwa	Mpwapwa	Mpapua,Mpapwa,Mpwapwa	-6.35	36.48333	P	PPL	TZ		3	102	102183		19806		998	Africa/Dar_es_Salaam	7/26/16
+153247	Monduli	Monduli		-3.3	36.45	P	PPL	TZ		26	201	201052		5694		1534	Africa/Dar_es_Salaam	7/26/16
+153352	Mlowo	Mlowo	Mlowo	-9	32.98333	P	PPL	TZ		9	1206	1206121		18737		1591	Africa/Dar_es_Salaam	7/26/16
+153384	Mlimba	Mlimba	Mlimba	-8.8	35.81667	P	PPL	TZ		10	503	503163		34970		306	Africa/Dar_es_Salaam	7/26/16
+153408	Mlangali	Mlangali	Mlangali	-9.78333	34.51667	P	PPL	TZ		30	2205	2205053		15168		1739	Africa/Dar_es_Salaam	7/26/16
+153412	Mlandizi	Mlandizi		-6.7	38.73333	P	PPL	TZ		2	602	602073		29394		26	Africa/Dar_es_Salaam	7/26/16
+153423	Mlalo	Mlalo		-4.93333	38.93333	P	PPL	TZ		18	408	408081		15576		133	Africa/Dar_es_Salaam	7/26/16
+153482	Mkuranga	Mkuranga	Mkuranga,Mkwanga	-7.11799	39.20782	P	PPL	TZ		2	604	604013		28037		125	Africa/Dar_es_Salaam	7/26/16
+153709	Mwandiga	Mwandiga	Mandyga,Miwandica,Mwandiga	-4.83	29.65806	P	PPL	TZ		5	1603	1603113		16822		871	Africa/Dar_es_Salaam	7/26/16
+153759	Misungwi	Misungwi	Isungwi,Missungwi,Misungwi	-2.85	33.08333	P	PPL	TZ		12	1907	1907093		35530		1178	Africa/Dar_es_Salaam	7/26/16
+153772	Misasi	Misasi		-3	33.08333	P	PPL	TZ		12	1907	1907103		14170		1151	Africa/Dar_es_Salaam	7/26/16
+153871	Mikumi	Mikumi	Mikumi	-7.40409	36.98309	P	PPL	TZ		10	501	501193		16780		517	Africa/Dar_es_Salaam	7/26/16
+153955	Micheweni	Micheweni		-4.96667	39.83333	P	PPL	TZ		13	5402	5402131		9838		0	Africa/Dar_es_Salaam	7/26/16
+154002	Mhango	Mhango		-3.28333	32.85	P	PPL	TZ		15	1703	1703221		21553		1217	Africa/Dar_es_Salaam	7/26/16
+154097	Mgandu	Mgandu	Mgandu	-5.95	34.13333	P	PPL	TZ		16	1303	1303171		23718		1486	Africa/Dar_es_Salaam	7/26/16
+154309	Mbumi	Mbumi	Mbumi,Mbuni	-7.90577	39.21047	P	PPL	TZ		2	605	605141		4305		10	Africa/Dar_es_Salaam	7/26/16
+154313	Mbulu	Mbulu	Burru,Iraku,Mbulu,Mburu,Umbulu	-3.85	35.53333	P	PPL	TZ		27	2103	2103272		13430		1815	Africa/Dar_es_Salaam	7/26/16
+154321	Mbuguni	Mbuguni	Mbuguni	-3.56667	36.95	P	PPL	TZ		26	202	202083		16442		921	Africa/Dar_es_Salaam	7/26/16
+154470	Mazinde	Mazinde	Mazinde	-4.8	38.21667	P	PPL	TZ		18	402	402153		20534		485	Africa/Dar_es_Salaam	7/26/16
+154566	Matui	Matui		-4.8	38.25	P	PPL	TZ		18	401	401012		20241		908	Africa/Dar_es_Salaam	7/26/16
+154576	Matonga	Matonga	Matonga,Matongo	-2.38333	34.08333	P	PPL	TZ		31	2401	2401201		11828		1281	Africa/Dar_es_Salaam	7/26/16
+154635	Matamba	Matamba		-8.98333	33.96667	P	PPL	TZ		30	2203	2203221		10642		2088	Africa/Dar_es_Salaam	7/26/16
+154638	Matai	Matai		-8.3	31.51667	P	PPL	TZ		24	1501	1501043		24070		1706	Africa/Dar_es_Salaam	7/26/16
+154648	Maswa	Maswa		-2.68333	33.98333	P	PPL	TZ		31	2401	2401173		22025		1310	Africa/Dar_es_Salaam	7/26/16
+154654	Masumbwe	Masumbwe		-3.63333	32.18333	P	PPL	TZ		28	2503	2503123		34780		1191	Africa/Dar_es_Salaam	7/26/16
+154666	Masoko	Masoko	Bujesi,Masoko	-9.33333	33.75	P	PPL	TZ		9	1204	1204161		12720		887	Africa/Dar_es_Salaam	7/26/16
+154780	Maramba	Maramba		-5.05	38.61667	P	PPL	TZ		18	403	403221		26531		959	Africa/Dar_es_Salaam	7/26/16
+154915	Maneromango	Maneromango	Maneromango	-7.1988	38.78478	P	PPL	TZ		2	603	603063		9402		383	Africa/Dar_es_Salaam	7/26/16
+154995	Malya	Malya	Malaya,Malya	-2.98333	33.51667	P	PPL	TZ		12	1904	1904123		12627		1245	Africa/Dar_es_Salaam	7/26/16
+155016	Malinyi	Malinyi		-8.93333	36.13333	P	PPL	TZ		10	504	504193		27041		295	Africa/Dar_es_Salaam	7/26/16
+155052	Malangali	Malangali		-8.56667	34.85	P	PPL	TZ		4	1102	1102103		7112		1388	Africa/Dar_es_Salaam	7/26/16
+155056	Malampaka	Malampaka		-3.13333	33.53333	P	PPL	TZ		31	2404	2404233		16916		1250	Africa/Dar_es_Salaam	7/26/16
+155076	Makuyuni	Makuyuni		-4.73333	38.1	P	PPL	TZ		18	402	402161		15516		479	Africa/Dar_es_Salaam	7/26/16
+155093	Makungu	Makungu	Makungu,Makuugu	-8.73333	35.28333	P	PPL	TZ		4	1102	1102023		10291		1251	Africa/Dar_es_Salaam	7/26/16
+155101	Makumbako	Makumbako	Makambako,Makumbako	-8.85	34.83333	P	PPL	TZ		30	2206	2206022		53003		1651	Africa/Dar_es_Salaam	7/26/16
+155187	Makanya	Makanya	Makania,Makanya	-4.36667	37.83333	P	PPL	TZ		6	303	303233		9505		681	Africa/Dar_es_Salaam	7/26/16
+155244	Majengo	Majengo		-5.15	38.98333	P	PPL	TZ		18	404	404173		9874		95	Africa/Dar_es_Salaam	7/26/16
+155263	Mahonda	Mahonda		-6.45	39.46667	P	PPL	TZ		21	5202	5202091		5569		5	Africa/Dar_es_Salaam	7/26/16
+155274	Mahenge	Mahenge	Mahange,Mahenge	-8.68333	36.71667	P	PPL	TZ		10	504	504053		7768		1039	Africa/Dar_es_Salaam	7/26/16
+155285	Mahanje	Mahanje		-9.93333	35.33333	P	PPL	TZ		14	1002	1002133		15009		991	Africa/Dar_es_Salaam	7/26/16
+155307	Kihangara	Kihangara	Kihangara,Magu Kahangara	-2.58333	33.35	P	PPL	TZ		12	1902	1902081		19082		1186	Africa/Dar_es_Salaam	7/26/16
+155310	Magugu	Magugu	Magagu,Magugu	-4.01667	35.76667	P	PPL	TZ		27	2101	2101183		26131		1013	Africa/Dar_es_Salaam	7/26/16
+155322	Magomeni	Magomeni		-5.23333	38.11667	P	PPL	TZ		18	406	406111		8944		560	Africa/Dar_es_Salaam	7/26/16
+155334	Magole	Magole		-6.37697	37.37373	P	PPL	TZ		10	501	501073		18753		433	Africa/Dar_es_Salaam	7/26/16
+155405	Mafinga	Mafinga		-7.25	35.06667	P	PPL	TZ		4	1101	1101131		34958		1018	Africa/Dar_es_Salaam	7/26/16
+155514	Mabamba	Mabamba		-3.59833	30.50194	P	PPL	TZ		5	1601	1601103		14140		1297	Africa/Dar_es_Salaam	7/26/16
+155515	Mabama	Mabama		-5.13333	32.53333	P	PPL	TZ		17	1403	1403063		15320		1142	Africa/Dar_es_Salaam	7/26/16
+155569	Lushoto	Lushoto	Lushoto,Wilhelmstal	-4.78333	38.28333	P	PPL	TZ		18	401	401012		24197		1498	Africa/Dar_es_Salaam	8/28/17
+155584	Lupiro	Lupiro		-8.38333	36.66667	P	PPL	TZ		10	504	504023		11430		299	Africa/Dar_es_Salaam	7/26/16
+155743	Lugoba	Lugoba		-6.45	38.33333	P	PPL	TZ		2	601	601133		16902		250	Africa/Dar_es_Salaam	7/26/16
+155921	Liwale	Liwale	Livale,Liwale	-9.76667	37.93333	P	PPL	TZ		7	804	804183		19296		495	Africa/Dar_es_Salaam	7/26/16
+156025	Lembeni	Lembeni	Lembeni	-3.78333	37.61667	P	PPL	TZ		6	302	302083		16008		979	Africa/Dar_es_Salaam	10/7/16
+156080	Lalago	Lalago		-3.45	33.95	P	PPL	TZ		31	2404	2404093		22551		1176	Africa/Dar_es_Salaam	7/26/16
+156098	Laela	Laela		-8.56667	32.05	P	PPL	TZ		24	1502	1502151		19185		1564	Africa/Dar_es_Salaam	7/26/16
+156111	Kyela	Kyela	Kyela	-9.58333	33.85	P	PPL	TZ		9	1203	1203202		30684		498	Africa/Dar_es_Salaam	7/26/16
+156124	Kyaka	Kyaka	Kyaka	-1.25222	31.42028	P	PPL	TZ		19	1807	1807173		13810		1160	Africa/Dar_es_Salaam	7/26/16
+156312	Kwakoa	Kwakoa		-3.76667	37.71667	P	PPL	TZ		6	302	302071		7514		775	Africa/Dar_es_Salaam	7/26/16
+156493	Kongwa	Kongwa	Kongwa	-6.2	36.41667	P	PPL	TZ		3	103	103013		11840		1023	Africa/Dar_es_Salaam	7/26/16
+156510	Kondoa	Kondoa	Kondoa,Kondoa Irangi	-4.9	35.78333	P	PPL	TZ		3	101	101142		23518		1378	Africa/Dar_es_Salaam	7/26/16
+156513	Konde	Konde		-4.95	39.75	P	PPL	TZ		13	5402	5402083		9530		22	Africa/Dar_es_Salaam	7/26/16
+156588	Koani Ndogo	Koani Ndogo		-6.13333	39.28333	P	PPL	TZ		21	5201	5201093		2311		44	Africa/Dar_es_Salaam	7/26/16
+156627	Kiwira	Kiwira	Kiwira	-9.17307	33.54152	P	PPL	TZ		9	1204	1204293		21342		1360	Africa/Dar_es_Salaam	7/26/16
+156636	Kiwengwa	Kiwengwa	Kivengva,Kiwembwa,Kiwengwo,ÐšÐ¸Ð²ÐµÐ½Ð³Ð²Ð°	-5.98957	39.3768	P	PPL	TZ	TZ	22	5102	5102191		2429		17	Africa/Dar_es_Salaam	7/26/16
+156918	Kisiwani	Kisiwani	Kisiwani,Kiswani	-4.13333	37.95	P	PPL	TZ		6	303	303043		7126		677	Africa/Dar_es_Salaam	7/26/16
+156963	Kishapu	Kishapu		-3.61667	33.86667	P	PPL	TZ		15	1702	1702083		16371		1169	Africa/Dar_es_Salaam	7/26/16
+156974	Kisesa	Kisesa	Kisesa	-3.08333	34.15	P	PPL	TZ		31	2403	2403061		29804		1351	Africa/Dar_es_Salaam	7/4/18
+156996	Kisarawe	Kisarawe	Kisarawe,Kiserawe	-6.9	39.06667	P	PPL	TZ		2	603	603013		12507		221	Africa/Dar_es_Salaam	7/26/16
+157014	Kisanga	Kisanga	Kisanga	-7.43622	37.70337	P	PPL	TZ		10	502	502071		10978		150	Africa/Dar_es_Salaam	7/26/16
+157045	Kirya	Kirya		-3.91667	37.48333	P	PPL	TZ		27				3998		659	Africa/Dar_es_Salaam	3/6/11
+157107	Kirando	Kirando		-7.41667	30.6	P	PPL	TZ		24	1503	1503141		33111		773	Africa/Dar_es_Salaam	7/26/16
+157198	Kiomboi	Kiomboi	Kiomboi	-4.26667	34.36667	P	PPL	TZ		16	1301	1301103		23519		1545	Africa/Dar_es_Salaam	7/26/16
+157247	Kintinku	Kintinku	Kintinku	-5.88333	35.23333	P	PPL	TZ		16	1303	1303063		7906		848	Africa/Dar_es_Salaam	7/26/16
+157268	Kingori	Kingori	Kingori	-3.28333	36.98333	P	PPL	TZ		26	202	202033		22839		1165	Africa/Dar_es_Salaam	7/26/16
+157366	Kimamba	Kimamba		-6.78333	37.13333	P	PPL	TZ		10	501	501122		11235		441	Africa/Dar_es_Salaam	7/26/16
+157403	Kilosa	Kilosa	Kilosa,Kilossa	-6.83333	36.98333	P	PPL	TZ		10	501	501162		91889		495	Africa/Dar_es_Salaam	7/26/16
+157429	Kilindoni	Kilindoni	Kilindoni	-7.91446	39.66204	P	PPL	TZ		2	606	606043		12409		33	Africa/Dar_es_Salaam	7/26/16
+157448	Kilimatinde	Kilimatinde	Kilimatinde	-5.85	34.95	P	PPL	TZ		16	1303	1303023		5975		1085	Africa/Dar_es_Salaam	7/26/16
+157632	Kijini	Kijini		-5.85	39.31667	P	PPL	TZ		22	5101	5101181		3720		38	Africa/Dar_es_Salaam	7/26/16
+157653	Kihurio	Kihurio		-4.46667	38.06667	P	PPL	TZ		6	303	303153		8377		531	Africa/Dar_es_Salaam	7/26/16
+157826	Kidodi	Kidodi	Kidodi	-7.60361	37.00438	P	PPL	TZ		10	501	501213		35953		301	Africa/Dar_es_Salaam	7/26/16
+157863	Kidatu	Kidatu	Kidatu	-7.69916	36.95722	P	PPL	TZ		10	503	503013		37542		303	Africa/Dar_es_Salaam	7/26/16
+157960	Kibondo	Kibondo		-3.58639	30.72028	P	PPL	TZ		5	1601	1601033		28666		1505	Africa/Dar_es_Salaam	7/26/16
+157977	Kibiti	Kibiti	Kibiti	-7.72178	38.93749	P	PPL	TZ		2	605	605083		30163		173	Africa/Dar_es_Salaam	7/26/16
+158006	Kibaya	Kibaya		-5.3	36.56667	P	PPL	TZ		27	2105	2105153		5028		1579	Africa/Dar_es_Salaam	7/26/16
+158016	Kibara	Kibara	Kibara,Kibarra	-2.15	33.45	P	PPL	TZ		8	2004	2004133		17211		1149	Africa/Dar_es_Salaam	7/26/16
+158024	Kibakwe	Kibakwe	Kibakwe	-6.71667	36.36667	P	PPL	TZ		3	102	102053		19526		1133	Africa/Dar_es_Salaam	7/26/16
+158151	Katumba	Katumba	Kabumba,Katumba,ÐšÐ°Ñ‚ÑƒÐ¼Ð±Ð°	-9.23333	33.61667	P	PPL	TZ		9	1204	1204322		108558		1387	Africa/Dar_es_Salaam	7/26/16
+158160	Katoro	Katoro		-3.02028	31.89583	P	PPL	TZ		28	2505	2505191		49691		1297	Africa/Dar_es_Salaam	7/26/16
+158161	Katoro	Katoro		-1.39972	31.50028	P	PPL	TZ		19	1802	1802263		11925		1169	Africa/Dar_es_Salaam	7/26/16
+158178	Katesh	Katesh	Ghatesh,Katesh	-4.52483	35.3849	P	PPL	TZ		27	2102	2102212		4943		1724	Africa/Dar_es_Salaam	7/26/16
+158179	Katerero	Katerero		-1.4	31.73333	P	PPL	TZ		19	1802	1802081		18430		1164	Africa/Dar_es_Salaam	7/26/16
+158214	Kasulu	Kasulu	Kassulo,Kasulo,Kasulu,ÐšÐ°ÑÑƒÐ»Ñƒ	-4.57667	30.1025	P	PPL	TZ		5	1608	1608082		37349		1310	Africa/Dar_es_Salaam	7/26/16
+158289	Kasamwa	Kasamwa		-2.85	32.43333	P	PPL	TZ		28	2501	2501133		27681		1199	Africa/Dar_es_Salaam	7/26/16
+158321	Karema	Karema	Karema	-6.82052	30.43887	P	PPL	TZ		29	2302	2302083		12630		777	Africa/Dar_es_Salaam	7/26/16
+158324	Kiratu	Kiratu	Karatu,Kiratu	-3.33333	35.66667	P	PPL	TZ		26	204	204013		19803		1541	Africa/Dar_es_Salaam	4/23/18
+158422	Kandete	Kandete	Kandete	-9.15	33.8	P	PPL	TZ		9	1204	1204051		10318		1578	Africa/Dar_es_Salaam	7/26/16
+158492	Kamachumu	Kamachumu		-1.61861	31.62	P	PPL	TZ		19	1803	1803413		15701		1496	Africa/Dar_es_Salaam	7/26/16
+158514	Kaliua	Kaliua	Kaliua	-5.06056	31.79361	P	PPL	TZ		17	1407	1407031		12362		1087	Africa/Dar_es_Salaam	7/26/16
+158563	Kakonko	Kakonko		-3.28278	30.96417	P	PPL	TZ		5	1607	1607053		24688		1245	Africa/Dar_es_Salaam	7/26/16
+158597	Kahama	Kahama	KBH,Kahama	-3.83333	32.6	P	PPL	TZ		15	1705	1705132		36014		1249	Africa/Dar_es_Salaam	6/17/17
+158684	Kabanga	Kabanga	Kabanga	-2.63861	30.46778	P	PPL	TZ		19	1805	1805093		19421		1608	Africa/Dar_es_Salaam	7/4/18
+158825	Izazi	Izazi	Isasi,Izazi,Zasi	-7.2	35.73333	P	PPL	TZ		4	1101	1101191		18010		727	Africa/Dar_es_Salaam	7/26/16
+158876	Itumba	Itumba		-9.4	33.18333	P	PPL	TZ		9	1205	1205013		13438		1372	Africa/Dar_es_Salaam	7/26/16
+158904	Itigi	Itigi	Itigi	-5.7	34.48333	P	PPL	TZ		16	1303	1303183		19711		1300	Africa/Dar_es_Salaam	7/26/16
+158974	Issenye	Issenye	Isenye,Issenye	-2	34.33333	P	PPL	TZ		8	2002	2002123		7778		1258	Africa/Dar_es_Salaam	7/26/16
+159045	Isaka	Isaka	Isaka,Ð˜ÑÐ°ÐºÐ°	-3.9	32.93333	P	PPL	TZ		15	1704	1704163		21094		1201	Africa/Dar_es_Salaam	7/26/16
+159107	Ipinda	Ipinda	Ipande,Ipinda	-9.48333	33.9	P	PPL	TZ		9	1203	1203143		17775		490	Africa/Dar_es_Salaam	7/26/16
+159134	Inyonga	Inyonga	Inyonga,Nyonga	-6.71667	32.06667	P	PPL	TZ		29	2303	2303053		11790		1177	Africa/Dar_es_Salaam	7/26/16
+159179	Ilula	Ilula	Ilula	-7.6766	36.03658	P	PPL	TZ		4	1104	1104183		29193		1374	Africa/Dar_es_Salaam	7/26/16
+159186	Ilongero	Ilongero	Ilongero,Irongero	-4.66667	34.86667	P	PPL	TZ		16	1302	1302163		17342		1609	Africa/Dar_es_Salaam	7/26/16
+159218	Ilembula	Ilembula	Ilembula	-8.9	34.58333	P	PPL	TZ		30	2202	2202043		18870		1425	Africa/Dar_es_Salaam	7/26/16
+159219	Ilembo	Ilembo		-9.25	33.38333	P	PPL	TZ		9	1202	1202061		2607		1954	Africa/Dar_es_Salaam	7/26/16
+159242	Ikwiriri	Ikwiriri	Ikwiriri	-7.95618	38.97164	P	PPL	TZ		2	605	605023		13071		30	Africa/Dar_es_Salaam	7/26/16
+159267	Ikungi	Ikungi	Ikungi	-5.13333	34.76667	P	PPL	TZ		16	1305	1305143		19692		1525	Africa/Dar_es_Salaam	7/26/16
+159380	Igurusi	Igurusi	Igurunzi,Igurusi	-8.85	33.85	P	PPL	TZ		9				24895		1258	Africa/Dar_es_Salaam	1/17/12
+159382	Igurubi	Igurubi		-4	33.7	P	PPL	TZ		17	1402	1402103		10083		1087	Africa/Dar_es_Salaam	7/26/16
+159386	Igunga	Igunga		-4.28333	33.88333	P	PPL	TZ		17	1402	1402013		35644		1090	Africa/Dar_es_Salaam	7/26/16
+159398	Igugunu	Igugunu	Iguguno,Igugunu	-4.56667	34.63333	P	PPL	TZ		16	1306	1306113		22810		1376	Africa/Dar_es_Salaam	7/26/16
+159492	Ifakara	Ifakara	Ifakara	-8.13333	36.68333	P	PPL	TZ		10	503	503073		49528		259	Africa/Dar_es_Salaam	7/26/16
+159647	Hedaru	Hedaru		-4.5	37.9	P	PPL	TZ		6	303	303243		20231		640	Africa/Dar_es_Salaam	7/26/16
+159909	Geiro	Geiro	Gairo,Geiro	-6.15	36.86667	P	PPL	TZ		10	507	507051		37909		1284	Africa/Dar_es_Salaam	7/26/16
+159936	Gamba	Gamba		-5.9	39.3	P	PPL	TZ		22	5101	5101203		3644		41	Africa/Dar_es_Salaam	7/26/16
+159951	Galappo	Galappo	Galapo,Galappo,Gwanzave	-4.26667	35.85	P	PPL	TZ		27	2101	2101053		18528		1379	Africa/Dar_es_Salaam	7/26/16
+160073	Endasak	Endasak		-4.41667	35.51667	P	PPL	TZ		27	2102	2102133		14576		1600	Africa/Dar_es_Salaam	7/26/16
+160141	Dunda	Dunda		-8.11667	34.25	P	PPL	TZ		9	1207	1207141		14080		1124	Africa/Dar_es_Salaam	7/26/16
+160172	Dongobesh	Dongobesh	Dongabesh,Dongobesh	-4.06667	35.38333	P	PPL	TZ		27	2103	2103103		18864		1985	Africa/Dar_es_Salaam	7/26/16
+160266	Dareda	Dareda	Dareda,Ndareda	-4.21667	35.55	P	PPL	TZ		27	2101	2101123		19876		1618	Africa/Dar_es_Salaam	7/26/16
+160464	Chimala	Chimala		-8.85637	34.02393	P	PPL	TZ		9	1207	1207063		24817		1143	Africa/Dar_es_Salaam	7/26/16
+160552	Chato	Chato	Chato,Shato	-2.63778	31.76694	P	PPL	TZ		28	2505	2505093		27776		1150	Africa/Dar_es_Salaam	7/26/16
+160592	Chanika	Chanika		-5.41667	38.01667	P	PPL	TZ		18	410	410102		30905		673	Africa/Dar_es_Salaam	7/26/16
+160660	Chalinze	Chalinze		-6.63784	38.35396	P	PPL	TZ		2	601	601123		34335		212	Africa/Dar_es_Salaam	7/26/16
+160670	Chala	Chala		-7.58333	31.26667	P	PPL	TZ		24	1503	1503043		22624		1765	Africa/Dar_es_Salaam	7/26/16
+160798	Butiama	Butiama	Buliama,Butiama	-1.76667	33.96667	P	PPL	TZ		8	2007	2007083		16376		1500	Africa/Dar_es_Salaam	7/26/16
+160833	Buseresere	Buseresere		-3.02361	31.87472	P	PPL	TZ		28	2505	2505191		52870		1247	Africa/Dar_es_Salaam	7/26/16
+160877	Bungu	Bungu	Bungu	-7.63369	39.05818	P	PPL	TZ		2	605	605093		27873		163	Africa/Dar_es_Salaam	7/26/16
+160892	Bunda	Bunda		-2.05	33.86667	P	PPL	TZ		8	2004	2004243		50944		1174	Africa/Dar_es_Salaam	7/26/16
+160950	Bukonyo	Bukonyo		-1.95	32.93333	P	PPL	TZ		8				4051		1146	Africa/Dar_es_Salaam	3/6/11
+160971	Bukene	Bukene		-4.23333	32.88333	P	PPL	TZ		17	1401	1401303		7444		1200	Africa/Dar_es_Salaam	7/26/16
+161022	Bugene	Bugene		-1.59111	31.14028	P	PPL	TZ		19	1801	1801073		10609		1639	Africa/Dar_es_Salaam	7/26/16
+161023	Bugarama	Bugarama		-2.87056	30.52806	P	PPL	TZ		19	1805	1805071		32494		1493	Africa/Dar_es_Salaam	7/26/16
+161154	Biharamulo	Biharamulo	Biaramulo,Biharamulo,Usuwi	-2.63194	31.30889	P	PPL	TZ		19	1804	1804033		34038		1479	Africa/Dar_es_Salaam	7/26/16
+161197	Basotu	Basotu		-4.36667	35.08333	P	PPL	TZ		27	2102	2102073		20937		1609	Africa/Dar_es_Salaam	7/26/16
+161204	Bashanet	Bashanet	Bashanet,Endalaghanet,Endalaghranid	-4.23333	35.41667	P	PPL	TZ		27	2101	2101151		19087		2044	Africa/Dar_es_Salaam	7/26/16
+161290	Bagamoyo	Bagamoyo	Bagamojo,Bagamoyo,ba jia mo yue,bagamoyo,bajamwyw,Ð‘Ð°Ð³Ð°Ð¼Ð¾Ð¹Ð¾,Ø¨Ø§Ø¬Ø§Ù…ÙˆÙŠÙˆ,ãƒã‚¬ãƒ¢ãƒ¨,å·´åŠ èŽ«ç´„,ë°”ê°€ëª¨ìš”	-6.44222	38.90422	P	PPL	TZ		2	601	601062		82426		13	Africa/Dar_es_Salaam	7/26/16
+877384	Tingi	Tingi		-11.3	35.03333	P	PPL	TZ		14	1006	1006021		16315		1203	Africa/Dar_es_Salaam	7/26/16
+877391	Tandahimba	Tandahimba		-10.75	39.63333	P	PPL	TZ		11	904	904013		17041		284	Africa/Dar_es_Salaam	7/26/16
+877433	Ruangwa	Ruangwa		-10.06667	38.93333	P	PPL	TZ		7	805	805163		11095		348	Africa/Dar_es_Salaam	7/26/16
+877471	Nyangao	Nyangao		-10.33333	39.28333	P	PPL	TZ		7	802	802123		16343		182	Africa/Dar_es_Salaam	7/26/16
+877532	Newala Kisimani	Newala Kisimani		-10.95	39.28333	P	PPL	TZ		11	902	902213		38099		687	Africa/Dar_es_Salaam	7/26/16
+877581	Nanyamba	Nanyamba		-10.68333	39.83333	P	PPL	TZ		11	901	901271		19555		243	Africa/Dar_es_Salaam	7/26/16
+877588	Nanhyanga	Nanhyanga	Nanhyanga,Nanyanga,Nyakahanga	-10.8	39.55	P	PPL	TZ		11	904	904133		13519		338	Africa/Dar_es_Salaam	7/26/16
+877597	Nangomba	Nangomba		-10.9	38.5	P	PPL	TZ		11	906	906021		23028		293	Africa/Dar_es_Salaam	7/26/16
+877605	Nanganga	Nanganga		-10.38333	39.15	P	PPL	TZ		11				17468		214	Africa/Dar_es_Salaam	3/6/11
+877631	Namikupa	Namikupa		-10.83333	39.6	P	PPL	TZ		11	904	904261		11733		276	Africa/Dar_es_Salaam	7/26/16
+877670	Namalenga	Namalenga		-10.95	39.1	P	PPL	TZ		11	903	903183		11204		280	Africa/Dar_es_Salaam	7/26/16
+877702	Nachingwea	Nachingwea	NCH,Nachingwa,Nachingwea	-10.3725	38.76251	P	PPL	TZ		7	803	803012		18058		427	Africa/Dar_es_Salaam	7/26/16
+877784	Mtama	Mtama	Mtama	-10.3	39.36667	P	PPL	TZ		7	802	802113		11928		136	Africa/Dar_es_Salaam	7/26/16
+877925	Mingoyo	Mingoyo		-10.10526	39.61859	P	PPL	TZ		7	806	806142		10480		43	Africa/Dar_es_Salaam	7/26/16
+877998	Mbinga	Mbinga	Mbinga	-10.93333	35.01667	P	PPL	TZ		14	1003	1003063		25192		1357	Africa/Dar_es_Salaam	7/26/16
+878006	Mbekenyera	Mbekenyera		-10	38.98333	P	PPL	TZ		7	805	805023		11794		339	Africa/Dar_es_Salaam	7/26/16
+878023	Mbamba Bay	Mbamba Bay	Mbamba,Mbamba Bay,Mbampa	-11.28333	34.76667	P	PPL	TZ		14				8997		476	Africa/Dar_es_Salaam	1/17/12
+878041	Matiri	Matiri		-10.75	34.9	P	PPL	TZ		14	1003	1003181		18830		1324	Africa/Dar_es_Salaam	7/26/16
+878054	Masuguru	Masuguru	Masaguru,Masuguru	-11.36667	38.41667	P	PPL	TZ		11	906	906121		7946		172	Africa/Dar_es_Salaam	7/26/16
+878058	Masasi	Masasi	Masasi,Massassi,XMI,ÐœÐ°ÑÐ°ÑÐ¸	-10.71667	38.8	P	PPL	TZ		11	907	907102		36032		449	Africa/Dar_es_Salaam	7/26/16
+878073	Maposeni	Maposeni		-10.58333	35.4	P	PPL	TZ		14	1002	1002111		19472		978	Africa/Dar_es_Salaam	7/26/16
+878087	Manda	Manda	Bongo,Ilela,Manda,Vamanda,Wiedhafen,Wiedhaven	-10.46667	34.58333	P	PPL	TZ		30				8393		476	Africa/Dar_es_Salaam	4/3/13
+878121	Mahuta	Mahuta		-10.86667	39.45	P	PPL	TZ		11	904	904283		13548		478	Africa/Dar_es_Salaam	7/26/16
+878141	Madimba	Madimba		-10.4	40.33333	P	PPL	TZ		11	901	901013		12507		22	Africa/Dar_es_Salaam	7/26/16
+878184	Lulindi	Lulindi		-10.81667	39.13333	P	PPL	TZ		11	903	903121		7807		441	Africa/Dar_es_Salaam	7/26/16
+878195	Lukuledi	Lukuledi		-10.56667	38.8	P	PPL	TZ		11	903	903053		29699		339	Africa/Dar_es_Salaam	7/26/16
+878223	Luchingu	Luchingu		-10.9	39.33333	P	PPL	TZ		11	902	902061		25145		607	Africa/Dar_es_Salaam	7/26/16
+878242	Liuli	Liuli	Liuli	-11.08333	34.63333	P	PPL	TZ		14				13119		476	Africa/Dar_es_Salaam	4/3/13
+878362	Kitangari	Kitangari		-10.65	39.33333	P	PPL	TZ		11	902	902123		10956		468	Africa/Dar_es_Salaam	7/26/16
+878367	Kitama	Kitama		-10.71667	39.73333	P	PPL	TZ		11	901	901081		16232		264	Africa/Dar_es_Salaam	7/26/16
+878400	Kigonsera	Kigonsera	Kigonsera	-10.8	35.05	P	PPL	TZ		14	1003	1003033		22155		1327	Africa/Dar_es_Salaam	7/26/16
+878455	Chiungutwa	Chiungutwa		-10.88333	38.98333	P	PPL	TZ		11	903	903143		12764		268	Africa/Dar_es_Salaam	7/26/16
+6640202	Merelani	Merelani	Meralani,Merelani,Merelani Hills,Simanjiro district,Tanzanite Mine and Deposit	-3.56182	36.97895	P	PPL	TZ		26				50000		916	Africa/Dar_es_Salaam	2/3/08
+7284275	Nungwi	Nungwi	Nungvi,ÐÑƒÐ½Ð³Ð²Ð¸	-5.72651	39.2987	P	PPL	TZ		22	5101	5101162		8000		8	Africa/Dar_es_Salaam	7/26/16
+9063978	Kisasa	Kisasa		-6.17526	35.79266	P	PPL	TZ		3	105	105131		10000		1117	Africa/Dar_es_Salaam	7/26/16
+148730	Zanzibar	Zanzibar	Gorad Zanzibar,Ilu Zanzibar,Poli tis Zanzivaris,Sansibar,Sansibar-Stadt,Unguja,ZNZ,Zanjibar,Zanzibar,Zanzibar City,Zanzibar by,Zanzibaras,Zanzibaro,ZanzibÃ¡r,ZanzÃ­bar,janjibaleusiti,mdynt znjbar,sang gei ba er shi,zanjibarushiti,zanzibari,zngbar,znzybr syty,ÃŒlÃº Zanzibar,Î ÏŒÎ»Î· Ï„Î·Ï‚ Î–Î±Î½Î¶Î¹Î²Î¬ÏÎ·Ï‚,Ð“Ð¾Ñ€Ð°Ð´ Ð—Ð°Ð½Ð·Ñ–Ð±Ð°Ñ€,Ð—Ð°Ð½Ð·Ð¸Ð±Ð°Ñ€,Ð—Ð°Ð½Ð·Ñ–Ð±Ð°Ñ€,×–× ×–×™×‘×¨ ×¡×™×˜×™,Ø²Ù†Ø¬Ø¨Ø§Ø± Ø´ÛØ±,Ø²Ù†Ú¯Ø¨Ø§Ø±,Ù…Ø¯ÙŠÙ†Ø© Ø²Ù†Ø¬Ø¨Ø§Ø±,áƒ–áƒáƒœáƒ–áƒ˜áƒ‘áƒáƒ áƒ˜,ã‚¶ãƒ³ã‚¸ãƒãƒ«ã‚·ãƒ†ã‚£,æ¡‘ç»™å·´å°”å¸‚,ìž”ì§€ë°”ë¥´ì‹œí‹°	-6.16394	39.19793	P	PPLA	TZ		25	5302	5302272		403658		14	Africa/Dar_es_Salaam	7/26/16
+148842	Wete	Wete	Veto,Wete,Weti,Ð’ÐµÑ‚Ð¾	-5.05589	39.72938	P	PPLA	TZ		13	5401	5401162		26450		53	Africa/Dar_es_Salaam	7/26/16
+149606	Tanga	Tanga	Gorad Tanga,Longa,TGT,Tan'nka,Tanga,tan ga,tang-ga,tanga,tanga  tanzanya,tnja,Î¤Î¬Î½Î³ÎºÎ±,Ð“Ð¾Ñ€Ð°Ð´ Ð¢Ð°Ð½Ð³Ð°,Ð¢Ð°Ð½Ð³Ð°,×˜×× ×’×”,ØªØ§Ù†Ú¯Ø§ØŒ ØªØ§Ù†Ø²Ø§Ù†ÛŒØ§,ØªØ§Ù†Ú¯Ø§ØŒ ØªÙ†Ø²Ø§Ù†ÛŒÛ,ØªÙ†Ø¬Ø§,ã‚¿ãƒ³ã‚¬,å¦å™¶,íƒ•ê°€	-5.06893	39.09875	P	PPLA	TZ		18	404	404012		224876		22	Africa/Dar_es_Salaam	7/26/16
+149658	Tabora	Tabora	TBO,Tabora,Tampora,ta bo la,tabola,tabora,tabwra,Î¤Î±Î¼Ï€ÏŒÏÎ±,Ð¢Ð°Ð±Ð¾Ñ€Ð°,ØªØ§Ø¨ÙˆØ±Ø§,ã‚¿ãƒœãƒ©,å¡”æ³¢æ‹‰,íƒ€ë³´ë¼	-5.01622	32.82663	P	PPLA	TZ		17	1406	1406082		145292		1191	Africa/Dar_es_Salaam	7/26/16
+149703	Sumbawanga	Sumbawanga	SUT,Sumbauanga,Sumbavanga,Sumbawanga,Zumbawanga,Zumbayanga,song ba wan jia,sumbawang-ga,sunbawanga,swmbawanga,Ð¡ÑƒÐ¼Ð±Ð°Ð²Ð°Ð½Ð³Ð°,Ð¡ÑƒÐ¼Ð±Ð°ÑƒÐ°Ð½Ð³Ð°,Ø³ÙˆÙ…Ø¨Ø§ÙˆØ§Ù†Ú¯Ø§,ã‚¹ãƒ³ãƒãƒ¯ãƒ³ã‚¬,æ¾å·´è¬åŠ ,ìˆ¨ë°”ì™•ê°€	-7.96667	31.61667	P	PPLA	TZ		24	1504	1504022		89161		1833	Africa/Dar_es_Salaam	7/26/16
+149879	Singida	Singida		-4.81629	34.74358	P	PPLA	TZ		16	1304	1304022		62432		1508	Africa/Dar_es_Salaam	7/26/16
+150006	Shinyanga	Shinyanga	SHY,Schinjanga,Shin'janga,Shinjanga,Shinyanga,Sinjanga,shinyanga,shynyanga,siniang-ga,xin yan jia,Å injanga,Ð¨Ð¸Ð½ÑŒÑÐ½Ð³Ð°,Ð¨Ð¸Ð½ÑÐ½Ð³Ð°,Ø´ÛŒÙ†ÛŒØ§Ù†Ú¯Ø§,ã‚·ãƒ‹ãƒ£ãƒ³ã‚¬,æ¬£å»¶åŠ ,ì‹œë‹ˆì•™ê°€	-3.66393	33.42118	P	PPLA	TZ		15	1701	1701052		107362		1133	Africa/Dar_es_Salaam	7/26/16
+151479	Njombe	Njombe	JOM,Njobe,Njombe	-9.34917	34.77167	P	PPLA	TZ		30	2201	2201012		46724		1676	Africa/Dar_es_Salaam	5/9/18
+152224	Mwanza	Mwanza	Gorad Mvanza,MWZ,Muansa,Muanza,Muvanzo,Mvanza,Mwamza,Mwansa,Mwanza,meuwanja,mu wan zha,muwanza,mvanza,mwanza,Ð“Ð¾Ñ€Ð°Ð´ ÐœÐ²Ð°Ð½Ð·Ð°,ÐœÐ²Ð°Ð½Ð·Ð°,ÐœÑƒÐ°Ð½Ð·Ð°,Ù…ÙˆØ§Ù†Ø²Ø§,áƒ›áƒ•áƒáƒœáƒ–áƒ,ãƒ ãƒ¯ãƒ³ã‚¶,å§†ä¸‡æ‰Ž,ë¯€ì™„ìž	-2.51667	32.9	P	PPLA	TZ		12	1903	1903042		436801		1144	Africa/Dar_es_Salaam	7/26/16
+152451	Musoma	Musoma	MUZ,Mazama,Misoma,Musoma,Musome,Muzoma,maswma,mu suo ma,musoma,mwswma,ÐœÑƒÑÐ¾Ð¼Ð°,Ù…Ø§Ø³ÙˆÙ…Ø§,Ù…ÙˆØ³ÙˆÙ…Ø§,ãƒ ã‚½ãƒž,ç©†ç´¢é¦¬,ë¬´ì†Œë§ˆ	-1.5	33.8	P	PPLA	TZ		8	2005	2005092		121119		1148	Africa/Dar_es_Salaam	7/26/16
+153176	Mpanda	Mpanda	Mpanda	-6.34379	31.06951	P	PPLA	TZ		29	2301	2301052		73338		1100	Africa/Dar_es_Salaam	7/26/16
+153209	Moshi	Moshi	Moschi,Moshi,Mosi,Mosis,MoÅ¡is,QSI,mo xi,moshi,mosi,mwshy,mwsy,ÎœÏŒÏƒÎ¹,ÐœÐ¾ÑˆÐ¸,×ž×•×©×™,Ù…ÙˆØ´ÛŒ,Ù…ÙˆØ´ÛŒØŒ ØªÙ†Ø²Ø§Ù†ÛŒÛ,ãƒ¢ã‚·,èŽ«å¸Œ,ëª¨ì‹œ	-3.35	37.33333	P	PPLA	TZ		6	306	306082		156959		854	Africa/Dar_es_Salaam	7/26/16
+153220	Morogoro	Morogoro	Gorad Maragora,Mkoa wa Morogoro,Morogoras,Morogoro,Moronkoro,Mrogoro,Murogoro,mo luo ge luo,mologolo,morogoro,mwrwghwrw,mwrwgwrw,ÎœÎ¿ÏÎ¿Î³ÎºÏŒÏÎ¿,Ð“Ð¾Ñ€Ð°Ð´ ÐœÐ°Ñ€Ð°Ð³Ð¾Ñ€Ð°,ÐœÐ¾Ñ€Ð¾Ð³Ð¾Ñ€Ð¾,Ù…ÙˆØ±ÙˆØºÙˆØ±Ùˆ,Ù…ÙˆØ±ÙˆÚ¯ÙˆØ±Ùˆ,ãƒ¢ãƒ­ã‚´ãƒ­,èŽ«ç½—æˆˆç½—,ëª¨ë¡œê³ ë¡œ	-6.82102	37.66122	P	PPLA	TZ		10	505	505042		250902		504	Africa/Dar_es_Salaam	7/26/16
+153585	Mkokotoni	Mkokotoni	Mkokotoni	-5.87506	39.25523	P	PPLA	TZ		22	5101	5101013		2572		5	Africa/Dar_es_Salaam	7/26/16
+154380	Mbeya	Mbeya	MBI,Mbee,Mbeja,Mbeya,ambya,mbya,meubeya,mu bei ya,mubeya,ÐœÐ±ÐµÐµ,ÐœÐ±ÐµÑ,Ø§Ù…Ø¨ÛŒØ§,Ù…Ø¨ÙŠØ§,Ù…Ø¨ÛŒØ§,ãƒ ãƒ™ãƒ¤,å§†è²äºž,ë¯€ë² ì•¼	-8.9	33.45	P	PPLA	TZ		9	1208	1208222		291649		1697	Africa/Dar_es_Salaam	7/26/16
+156589	Koani	Koani	Koani	-6.13333	39.28333	P	PPLA	TZ		21	5201	5201093		2211		44	Africa/Dar_es_Salaam	7/26/16
+157738	Kigoma	Kigoma	Gorad Kigoma,Kigoma,Kigoma-Ujiji,Kigome,Kigomo,TKQ,ji ge ma,kigoma,kyghwma,kygwma,qygwmh,Ð“Ð¾Ñ€Ð°Ð´ ÐšÑ–Ð³Ð¾Ð¼Ð°,ÐšÐ¸Ð³Ð¾Ð¼Ð°,ÐšÐ¸Ð³Ð¾Ð¼Ðµ,×§×™×’×•×ž×”,ÙƒÙŠØºÙˆÙ…Ø§,Ú©ÛŒÚ¯ÙˆÙ…Ø§,ã‚­ã‚´ãƒž,åŸºæˆˆé¦¬,í‚¤ê³ ë§ˆ	-4.87694	29.62667	P	PPLA	TZ		5	1604	1604162		164268		769	Africa/Dar_es_Salaam	7/26/16
+158027	Kibaha	Kibaha	Kibaha	-6.76667	38.91667	P	PPLA	TZ		2	607	607052		23651		154	Africa/Dar_es_Salaam	7/26/16
+159071	Iringa	Iringa	IRI,Irin'nka,Iringa,ayrynga,ayryngha,iling-ga,iringa,yi lin jia,Î™ÏÎ¯Î½Î³ÎºÎ±,Ð˜Ñ€Ð¸Ð½Ð³Ð°,Ø¥ÙŠØ±ÙŠÙ†ØºØ§,Ø§ÛŒØ±ÛŒÙ†Ú¯Ø§,ã‚¤ãƒªãƒ³ã‚¬,ä¼Šæž—åŠ ,ì´ë§ê°€	-7.76667	35.7	P	PPLA	TZ		4	1103	1103032		111820		1625	Africa/Dar_es_Salaam	7/26/16
+159908	Geita	Geita	GIT,Geita	-2.8725	32.2325	P	PPLA	TZ		28	2501	2501341		40000		1416	Africa/Dar_es_Salaam	5/9/18
+160263	Dar es Salaam	Dar es Salaam	DAR,Dar Es Salaam,Dar Es Salam,Dar es Salaam,Dar es Salam,Dar es Salamas,Dar es Salams,Dar es SalÃ¡m,Dar es-Salaam,Dar es-Salam,Dar É™s Salam,Dar-ehs-Salam,Dar-ehs-Salam shaary,Dar-es-Salaam,Dar-es-Salam,Darasalam,Daresalama,Daresalamo,Daressalaam,Daressalam,Daruesselam,DarÃ¼sselam,DÃ¡rasalÃ¡m,DÄr es SalÄm,DÄresalÄma,Gorad Dar-ehs-Salam,Ntar es Salam,Ntontoma,da lei si sa la mu,daleueseusallam,dar alslam,dar-es-salami,dar-xes-salam,dara asa salama,dara esa salama,daralslam,daruesusaramu,san lan gang,tarus'salam,ÎÏ„Î±Ï ÎµÏ‚ Î£Î±Î»Î¬Î¼,ÎÏ„Î¿Î½Ï„ÏŒÎ¼Î±,Ð“Ð¾Ñ€Ð°Ð´ Ð”Ð°Ñ€-ÑÑ-Ð¡Ð°Ð»Ð°Ð¼,Ð”Ð°Ñ€ ÐµÑ Ð¡Ð°Ð»Ð°Ð¼,Ð”Ð°Ñ€ ÐµÑ-Ð¡Ð°Ð»Ð°Ð°Ð¼,Ð”Ð°Ñ€-ÐµÑ-Ð¡Ð°Ð»Ð°Ð¼,Ð”Ð°Ñ€-ÑÑ-Ð¡Ð°Ð»Ð°Ð¼,Ð”Ð°Ñ€-ÑÑ-Ð¡Ð°Ð»Ð°Ð¼ ÑˆÐ°Ð°Ñ€Ñ‹,×“××¨ ×-×¡×œ××,×“××¨ ×¢×¡ ×¡××œ×××,Ø¯Ø§Ø± Ø§Ù„Ø³Ù„Ø§Ù…,Ø¯Ø§Ø±Ø§Ù„Ø³Ù„Ø§Ù…,Ø¯Ø§Ø±ÛØ³Ø³Ø§Ù„Ø§Ù…,à¤¦à¤¾à¤° à¤…à¤¸ à¤¸à¤²à¤¾à¤®,à¤¦à¤¾à¤° à¤à¤¸ à¤¸à¤²à¤¾à¤®,à¨¦à¨¾à¨° à¨…à¨¸ à¨¸à¨²à¨¾à¨®,à®¤à®¾à®°à¯à®¸à¯à®¸à®²à®¾à®®à¯,à¸”à¸²à¸£à¹Œ-à¹€à¸­à¸ª-à¸‹à¸²à¸¥à¸²à¸¡,à½à¼‹à½¢à½ºà¼‹à½¦à½²à¼‹à½¦à¼‹à½£à½˜à¼,á€’á€«á€¡á€€á€ºá€…á€º á€†á€šá€ºá€œá€”á€ºá€¸á€™á€¼á€­á€¯á€·,áƒ“áƒáƒ -áƒ”áƒ¡-áƒ¡áƒáƒšáƒáƒ›áƒ˜,ãƒ€ãƒ«ã‚¨ã‚¹ã‚µãƒ©ãƒ¼ãƒ ,ä¸‰è˜­æ¸¯,è¾¾ç´¯æ–¯è¨æ‹‰å§†,ë‹¤ë¥´ì—ìŠ¤ì‚´ëžŒ	-6.82349	39.26951	P	PPLA	TZ		23	702	702132		2698652		24	Africa/Dar_es_Salaam	7/26/16
+160677	Chake Chake	Chake Chake	Chake Chake,Chaki Chaki,PMA	-5.24586	39.76659	P	PPLA	TZ		20	5501	5501262		21686		19	Africa/Dar_es_Salaam	7/26/16
+160961	Bukoba	Bukoba	BKZ,Bukoba,Bukobo,Gorad Bukoba,bu ke ba,bukoba,bwkwba,Ð‘ÑƒÐºÐ¾Ð±Ð°,Ð“Ð¾Ñ€Ð°Ð´ Ð‘ÑƒÐºÐ¾Ð±Ð°,Ø¨ÙˆÙƒÙˆØ¨Ø§,Ø¨ÙˆÚ©ÙˆØ¨Ø§,ãƒ–ã‚³ãƒ,å¸ƒç§‘å·´,ë¶€ì½”ë°”	-1.33167	31.81222	P	PPLA	TZ		19	1806	1806072		70628		1149	Africa/Dar_es_Salaam	7/26/16
+161312	Babati	Babati	Babati,Babati Mjini,Babatis,ba ba di,babati,babaty,bbty,Ð‘Ð°Ð±Ð°Ñ‚Ð¸,Ð‘Ð°Ð±Ð°Ñ‚Ñ–,×‘×‘×˜×™,Ø¨Ø§Ø¨Ø§ØªÛŒ,ãƒãƒãƒ†ã‚£,å·´å·´è’‚,ë°”ë°”í‹°	-4.21667	35.75	P	PPLA	TZ		27	2106	2106012		34291		1351	Africa/Dar_es_Salaam	7/26/16
+161325	Arusha	Arusha	ARK,Aruscha,Arusha,Aruso,AruÅo,a lu sha,arusha,arwsha,ÐÑ€ÑƒÑˆÐ°,Ø¢Ø±ÙˆØ´Ø§,ã‚¢ãƒ«ãƒ¼ã‚·ãƒ£,é˜¿é²æ²™	-3.36667	36.68333	P	PPLA	TZ		26	203	203152		341136		1415	Africa/Dar_es_Salaam	7/26/16
+877401	Songea	Songea	SGX,Songea,Songeja,Ssongea,sangy,song gai a,song-gea,songea,swngya,Ð¡Ð¾Ð½Ð³ÐµÐ°,Ð¡Ð¾Ð½Ð³ÐµÑ,Ø³Ø§Ù†Ú¯ÛŒ,Ø³ÙˆÙ†Ú¯ÛŒØ§,ã‚½ãƒ³ã‚²ã‚¢,æ¾è“‹é˜¿,ì†¡ê²Œì•„	-10.68333	35.65	P	PPLA	TZ		14	1004	1004022		126449		1113	Africa/Dar_es_Salaam	7/26/16
+877747	Mtwara	Mtwara	MYW,Mikindani,Mtvara,Mtwara,amtwara,meuteuwala,mtwara,mutowara,ÐœÑ‚Ð²Ð°Ñ€Ð°,Ø§Ù…ØªÙˆØ§Ø±Ø§,Ù…ØªÙˆØ§Ø±Ø§,ãƒ ãƒˆãƒ¯ãƒ©,ë¯€íŠ¸ì™€ë¼	-10.26667	40.18333	P	PPLA	TZ		11	905	905052		96602		21	Africa/Dar_es_Salaam	7/26/16
+878281	Lindi	Lindi	LDI,Linda,Lindi,Lindis,Linti,lin di,lindi,lyndy,rindi,Î›Î¯Î½Ï„Î¹,Ð›Ð¸Ð½Ð´Ð°,Ð›Ð¸Ð½Ð´Ð¸,Ù„ÙŠÙ†Ø¯ÙŠ,Ù„ÛŒÙ†Ø¯ÛŒ,ãƒªãƒ³ãƒ‡ã‚£,æž—è¿ª,ë¦°ë””	-9.99709	39.71649	P	PPLA	TZ		7	806	806022		41912		12	Africa/Dar_es_Salaam	7/26/16
+155848	Longido	Longido	Longido	-2.73319	36.69773	P	PPLA2	TZ		26	207	207132		9403		1348	Africa/Dar_es_Salaam	7/26/16
+9399202	Mvomero	Mvomero		-6.30122	37.44398	P	PPLA2	TZ		10	506	506013		0		418	Africa/Dar_es_Salaam	7/26/16
+161218	Bariadi	Bariadi	Bariadi,Bariati	-2.8	33.98333	P	PPLA3	TZ		31	2401	2401233		33865		1282	Africa/Dar_es_Salaam	7/26/16
+160196	Dodoma	Dodoma	DOD,Dodom,Dodoma,Dodomao,DÃ³dÃ³ma,Gorad Dadoma,Idodoma,Ntontoma,do do ma,dodoma,du du ma,duo duo ma,dwdwma,dwdwmh,totoma,ÎÏ„Î¿Î½Ï„ÏŒÎ¼Î±,Ð“Ð¾Ñ€Ð°Ð´ Ð”Ð°Ð´Ð¾Ð¼Ð°,Ð”Ð¾Ð´Ð¾Ð¼Ð°,Ô´Õ¸Õ¤Õ¸Õ´Õ¡,×“××“××ž×,×“×•×“×•×ž×”,Ø¯ÙˆØ¯ÙˆÙ…Ø§,Ø¯Û†Ø¯Û†Ù…Ø§,ÚˆÙˆÚˆÙˆÙ…Ø§,à¤¡à¥‹à¤¡à¥‹à¤®à¤¾,à¤¦à¥‹à¤¦à¥‹à¤®à¤¾,à¨¦à©‹à¨¦à©‹à¨®à¨¾,à®Ÿà¯Šà®Ÿà¯‹à®®à®¾,à¹‚à¸”à¹‚à¸”à¸¡à¸²,áƒ“áƒáƒ“áƒáƒ›áƒ,á‹¶á‹¶áˆ›,ãƒ‰ãƒ‰ãƒž,å¤šå¤šé©¬,æœç¯¤ç‘ª,ë„ë„ë§ˆ	-6.17221	35.73947	P	PPLC	TZ		3	105	105272		180541		1125	Africa/Dar_es_Salaam	7/26/16
+155321	Magomeni	Magomeni		-6.8	39.25	P	PPLX	TZ		23	701	701032		19086		21	Africa/Dar_es_Salaam	7/26/16
