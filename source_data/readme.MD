@@ -37,4 +37,4 @@ There is also a shell script that does this in the github bin subdirectory.
 1.	GeoNamesAdminLevelProcessing.java
 2.	Code is in dtm-json-to-owl
 3.	Java GeoNamesAdminLevelProcessing Path to config file
-More detailed instructions to follow.
+4. ./runGeoNamesAdminUnitProcessing.sh PATH
