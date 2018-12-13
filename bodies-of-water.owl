@@ -20,6 +20,25 @@
     <!-- 
     ///////////////////////////////////////////////////////////////////////////////////////
     //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055477 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055477">
+        <rdfs:label xml:lang="en">IHC identifier</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
     // Object Properties
     //
     ///////////////////////////////////////////////////////////////////////////////////////
@@ -30,9 +49,108 @@
 
     <!-- http://purl.obolibrary.org/obo/RO_0002150 -->
 
-    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/RO_0002150">
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/RO_0002150">
         <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
-    </rdf:Description>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055554 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055554">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GEO_000000373"/>
+        <obo:IAO_0000115 xml:lang="en">a body of water that fills a well-marked indentation whose penetration is in such proportion to the width of its mouth as to contain land locked waters and constitute more than a mere curvature of the coast</obo:IAO_0000115>
+        <obo:IAO_0000117 xml:lang="en">Amanda Hicks</obo:IAO_0000117>
+        <obo:IAO_0000119 xml:lang="en">http://hd.iho.int/en/index.php/bay</obo:IAO_0000119>
+        <rdfs:label xml:lang="en">bay</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055556 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055556">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GEO_000000373"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000137"/>
+                <owl:someValuesFrom>
+                    <owl:Class>
+                        <owl:unionOf rdf:parseType="Collection">
+                            <rdf:Description rdf:about="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055473"/>
+                            <rdf:Description rdf:about="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055474"/>
+                        </owl:unionOf>
+                    </owl:Class>
+                </owl:someValuesFrom>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000115 xml:lang="en">a body of water that is a proper continuant part at all times of a sea or ocean and that fills an indentation extending into the land, usually larger than a bay</obo:IAO_0000115>
+        <obo:IAO_0000117 xml:lang="en">Amanda Hicks</obo:IAO_0000117>
+        <obo:IAO_0000119 xml:lang="en">http://hd.iho.int/en/index.php/gulf</obo:IAO_0000119>
+        <rdfs:label xml:lang="en">gulf</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055557 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055557">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GEO_000000373"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000137"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/GEO_000000373"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000117 xml:lang="en">Amanda Hicks</obo:IAO_0000117>
+        <obo:IAO_0000119 xml:lang="en">A body of water that is the deepest part of a stream, bay or strait through which the main current flows and that is deep enough for navigation through an area otherwise not navigable</obo:IAO_0000119>
+        <obo:IAO_0000119 xml:lang="en">http://hd.iho.int/en/index.php/channel</obo:IAO_0000119>
+        <rdfs:label xml:lang="en">channel</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055558 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055558">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055557"/>
+        <obo:IAO_0000117>Amanda Hicks</obo:IAO_0000117>
+        <obo:IAO_0000118 xml:lang="en">hole</obo:IAO_0000118>
+        <obo:IAO_0000118 xml:lang="en">pass</obo:IAO_0000118>
+        <obo:IAO_0000119>A narrow navigable channel, especially one through reefs or islands</obo:IAO_0000119>
+        <obo:IAO_0000119>http://hd.iho.int/en/index.php/passage</obo:IAO_0000119>
+        <rdfs:label xml:lang="en">passage</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055559 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055559">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055558"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/RO_0002150"/>
+                <owl:minQualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">2</owl:minQualifiedCardinality>
+                <owl:onClass rdf:resource="http://purl.obolibrary.org/obo/GEO_000000373"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000115 xml:lang="en">a passage connecting two larger bodies of water</obo:IAO_0000115>
+        <obo:IAO_0000117>Amanda Hicks</obo:IAO_0000117>
+        <obo:IAO_0000119 xml:lang="en">http://hd.iho.int/en/index.php/strait</obo:IAO_0000119>
+        <rdfs:label xml:lang="en">strait</rdfs:label>
+    </owl:Class>
     
 
 
@@ -88,11 +206,19 @@
     <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055468">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055474"/>
         <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055466"/>
-        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055466"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055466"/>
         <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055483"/>
         <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055484"/>
         <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055470"/>
-        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000342"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000550"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000578"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000613"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000645"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000659"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000677"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000702"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000722"/>
+        <GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</GEO_000055477>
         <oboInOwl:hasDbXref>MeSH: D009659</oboInOwl:hasDbXref>
         <rdfs:label xml:lang="en">North Sea</rdfs:label>
     </owl:NamedIndividual>
@@ -229,7 +355,9 @@
         <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055468"/>
         <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055485"/>
         <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055486"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000560"/>
         <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000659"/>
+        <GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6</GEO_000055477>
         <rdfs:label xml:lang="en">Norwegian Sea</rdfs:label>
     </owl:NamedIndividual>
     
@@ -238,8 +366,11 @@
     <!-- http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055484 -->
 
     <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055484">
-        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000373"/>
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055557"/>
         <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055468"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000578"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000702"/>
+        <GEO_000055477 xml:lang="en">21</GEO_000055477>
         <rdfs:label xml:lang="en">English Channel</rdfs:label>
     </owl:NamedIndividual>
     
@@ -249,6 +380,9 @@
 
     <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055485">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055474"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000659"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000677"/>
+        <GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5</GEO_000055477>
         <rdfs:label xml:lang="en">Greenland Sea</rdfs:label>
     </owl:NamedIndividual>
     
@@ -260,6 +394,8 @@
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055474"/>
         <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055483"/>
         <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055471"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000659"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000699"/>
         <obo:IAO_0000118 xml:lang="en">Barentsz Sea</obo:IAO_0000118>
         <rdfs:label xml:lang="en">Barents Sea</rdfs:label>
     </owl:NamedIndividual>
@@ -277,6 +413,11 @@
         <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055474"/>
         <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055475"/>
         <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055476"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000347"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000659"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000677"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000699"/>
+        <GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">17</GEO_000055477>
         <rdfs:label xml:lang="en">Arctic Ocean</rdfs:label>
     </owl:NamedIndividual>
     
@@ -295,6 +436,7 @@
         <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000699"/>
         <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000704"/>
         <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000722"/>
+        <GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</GEO_000055477>
         <rdfs:label xml:lang="en">Baltic Sea</rdfs:label>
     </owl:NamedIndividual>
     
@@ -303,8 +445,11 @@
     <!-- http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055466 -->
 
     <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055466">
-        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000373"/>
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055556"/>
         <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055489"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000550"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000704"/>
+        <GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1a</GEO_000055477>
         <rdfs:label xml:lang="en">Gulf of Bothnia</rdfs:label>
     </owl:NamedIndividual>
     
@@ -313,8 +458,12 @@
     <!-- http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055467 -->
 
     <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055467">
-        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000373"/>
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055556"/>
         <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055489"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000683"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000699"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000704"/>
+        <GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1b</GEO_000055477>
         <rdfs:label xml:lang="en">Gulf of Finland</rdfs:label>
     </owl:NamedIndividual>
     
@@ -323,8 +472,10 @@
     <!-- http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055468 -->
 
     <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055468">
-        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000373"/>
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055556"/>
         <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055489"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000570"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000683"/>
         <rdfs:label xml:lang="en">Gulf of Riga</rdfs:label>
     </owl:NamedIndividual>
     
@@ -335,6 +486,9 @@
     <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055469">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000373"/>
         <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055489"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000550"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000677"/>
+        <GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</GEO_000055477>
         <rdfs:label xml:lang="en">Kattegat, Sound and Belts</rdfs:label>
     </owl:NamedIndividual>
     
@@ -343,8 +497,11 @@
     <!-- http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055470 -->
 
     <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055470">
-        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000373"/>
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055559"/>
         <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055469"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000550"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000659"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000677"/>
         <rdfs:label xml:lang="en">Skagerrak</rdfs:label>
     </owl:NamedIndividual>
     
@@ -354,6 +511,8 @@
 
     <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055471">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055474"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000699"/>
+        <GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8</GEO_000055477>
         <rdfs:label xml:lang="en">White Sea</rdfs:label>
     </owl:NamedIndividual>
     
@@ -364,6 +523,7 @@
     <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055472">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055474"/>
         <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055486"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000699"/>
         <rdfs:label xml:lang="en">Kara Sea</rdfs:label>
     </owl:NamedIndividual>
     
@@ -374,6 +534,9 @@
     <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055473">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055474"/>
         <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055472"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000699"/>
+        <obo:IAO_0000118 xml:lang="en">Nordenskjoeld Sea</obo:IAO_0000118>
+        <GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10</GEO_000055477>
         <rdfs:label xml:lang="en">Laptev Sea</rdfs:label>
     </owl:NamedIndividual>
     
@@ -384,6 +547,8 @@
     <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055474">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055474"/>
         <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055473"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000347"/>
+        <GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11</GEO_000055477>
         <rdfs:label xml:lang="en">East Siberian Sea</rdfs:label>
     </owl:NamedIndividual>
     
@@ -394,7 +559,10 @@
     <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055475">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055474"/>
         <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055474"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000347"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000699"/>
         <obo:IAO_0000118 xml:lang="en">Chuckchi Sea</obo:IAO_0000118>
+        <GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12</GEO_000055477>
         <rdfs:label xml:lang="en">Chukchi Sea</rdfs:label>
     </owl:NamedIndividual>
     
@@ -404,6 +572,9 @@
 
     <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055476">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055474"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000347"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000646"/>
+        <GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13</GEO_000055477>
         <rdfs:label xml:lang="en">Beaufort Sea</rdfs:label>
     </owl:NamedIndividual>
     
@@ -412,7 +583,11 @@
     <!-- http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055478 -->
 
     <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055478">
-        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000373"/>
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055554"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055560"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000646"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000677"/>
+        <GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">14a</GEO_000055477>
         <rdfs:label xml:lang="en">Baffin Bay</rdfs:label>
     </owl:NamedIndividual>
     
@@ -421,9 +596,13 @@
     <!-- http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055479 -->
 
     <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055479">
-        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000373"/>
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055559"/>
         <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055478"/>
         <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055480"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055560"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000646"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000677"/>
+        <GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">15</GEO_000055477>
         <rdfs:label xml:lang="en">Davis Strait</rdfs:label>
     </owl:NamedIndividual>
     
@@ -432,7 +611,11 @@
     <!-- http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055480 -->
 
     <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055480">
-        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000373"/>
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055559"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055481"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055561"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000646"/>
+        <GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16a</GEO_000055477>
         <rdfs:label xml:lang="en">Hudson Strait</rdfs:label>
     </owl:NamedIndividual>
     
@@ -444,6 +627,9 @@
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055474"/>
         <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055479"/>
         <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055482"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000646"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000677"/>
+        <GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">15a</GEO_000055477>
         <rdfs:label xml:lang="en">Labrador Sea</rdfs:label>
     </owl:NamedIndividual>
     
@@ -471,16 +657,9 @@
 
     <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055484">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055474"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000347"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000677"/>
         <rdfs:label xml:lang="en">Lincoln Sea</rdfs:label>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055485 -->
-
-    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055485">
-        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000373"/>
-        <rdfs:label xml:lang="en">Scottish Seas</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -488,9 +667,11 @@
     <!-- http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055486 -->
 
     <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055486">
-        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055474"/>
-        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055485"/>
-        <rdfs:label xml:lang="en">Irish Sea</rdfs:label>
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000373"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055555"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000578"/>
+        <GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">19</GEO_000055477>
+        <rdfs:label xml:lang="en">Irish Sea and Saint George&apos;s Channel</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -498,7 +679,9 @@
     <!-- http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055487 -->
 
     <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055487">
-        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000373"/>
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055557"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000578"/>
+        <GEO_000055477 xml:lang="en">20</GEO_000055477>
         <rdfs:label xml:lang="en">Bristol Channel</rdfs:label>
     </owl:NamedIndividual>
     
@@ -507,7 +690,11 @@
     <!-- http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055488 -->
 
     <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055488">
-        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000373"/>
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055554"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055555"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000702"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000717"/>
+        <GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</GEO_000055477>
         <rdfs:label xml:lang="en">Bay of Biscay</rdfs:label>
     </owl:NamedIndividual>
     
@@ -527,15 +714,19 @@
         <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055485"/>
         <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055479"/>
         <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055482"/>
-        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055485"/>
         <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055486"/>
         <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055487"/>
         <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055488"/>
         <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055490"/>
         <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055491"/>
         <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055492"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055562"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000578"/>
         <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000638"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000646"/>
         <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000670"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000677"/>
+        <GEO_000055477 xml:lang="en">23</GEO_000055477>
         <rdfs:label xml:lang="en">North Atlantic Ocean</rdfs:label>
     </owl:NamedIndividual>
     
@@ -765,7 +956,7 @@
     <!-- http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055510 -->
 
     <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055510">
-        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000373"/>
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055556"/>
         <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055481"/>
         <rdfs:label xml:lang="en">Gulf of Aden</rdfs:label>
     </owl:NamedIndividual>
@@ -1289,9 +1480,84 @@
         <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000557"/>
         <rdfs:label xml:lang="en">Celtic Sea</rdfs:label>
     </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055560 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055560">
+        <rdf:type>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GEO_000000377"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000111"/>
+                        <owl:allValuesFrom>
+                            <owl:Class>
+                                <owl:intersectionOf rdf:parseType="Collection">
+                                    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GEO_000000373"/>
+                                    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055558"/>
+                                    <owl:Restriction>
+                                        <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/RO_0002150"/>
+                                        <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055558"/>
+                                    </owl:Restriction>
+                                </owl:intersectionOf>
+                            </owl:Class>
+                        </owl:allValuesFrom>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdf:type>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055488"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055476"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055478"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055480"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055561"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000646"/>
+        <GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">14</GEO_000055477>
+        <rdfs:label xml:lang="en">Northwestern Passages</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055561 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055561">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055554"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000646"/>
+        <rdfs:label xml:lang="en">Hudson Bay</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055562 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/GEO_000055562">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000373"/>
+        <rdf:type>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GEO_000000377"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000111"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/GEO_000000373"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000111"/>
+                        <owl:allValuesFrom rdf:resource="http://purl.obolibrary.org/obo/GEO_000000373"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdf:type>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000557"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000578"/>
+        <obo:IAO_0000118 xml:lang="en">Scottish Seas</obo:IAO_0000118>
+        <GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18</GEO_000055477>
+        <rdfs:label xml:lang="en">Inner Seas off the West Coast of Scotland</rdfs:label>
+    </owl:NamedIndividual>
 </rdf:RDF>
 
 
 
-<!-- Generated by the OWL API (version 4.2.8.20170104-2310) https://github.com/owlcs/owlapi -->
+<!-- Generated by the OWL API (version 4.2.5.20160517-0735) https://github.com/owlcs/owlapi -->
 
