@@ -7,6 +7,8 @@ FILE DIRECTORY
 
 basic-geography.owl - This OWL file is an inventory of instances that are geographical (material) entities (not organizations). 
 
+bodies-of-water.owl - This OWL file contains classes and individuals for world oceans and seas along with mereotopological relations.
+
 geo-all.owl - Geographical Entity Ontology - all instances file 
 
 geo.owl - This contains classes for geographical entities that are not location/organization specific and unit of measurement instances 
