@@ -14,6 +14,8 @@
     <owl:Ontology rdf:about="http://purl.obolibrary.org/geo/major-world-cities-geography.owl">
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/dev/us-integral-geography.owl"/>
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/nation-and-dependency-geography.owl"/>
+        <dc:contributor>Amanda Hicks</dc:contributor>
         <dc:creator xml:lang="en">William R. Hogan</dc:creator>
     </owl:Ontology>
     
@@ -36,6 +38,12 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/GEO_000000795 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/GEO_000000795"/>
+    
+
+
     <!-- 
     ///////////////////////////////////////////////////////////////////////////////////////
     //
@@ -45,6 +53,8 @@
      -->
 
     
+
+
     <!-- http://www.w3.org/2001/XMLSchema#string -->
 
     <rdfs:Datatype rdf:about="http://www.w3.org/2001/XMLSchema#string"/>
@@ -158,7 +168,167 @@
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
         <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000035327"/>
         <obo:IAO_0000111 xml:lang="en">region of Cairns, Queensland, Australia</obo:IAO_0000111>
-        <rdfs:label xml:lang="en">Cairns</rdfs:label>
+        <rdfs:label xml:lang="en">region of Cairns</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055600 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055600">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000657"/>
+        <rdfs:label xml:lang="en">region of Beijing</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055601 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055601">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000722"/>
+        <rdfs:label xml:lang="en">region of Berlin</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055602 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055602">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000578"/>
+        <rdfs:label xml:lang="en">region of London</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055603 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055603">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000699"/>
+        <rdfs:label xml:lang="en">region of Moscow</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055604 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055604">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000702"/>
+        <rdfs:label xml:lang="en">&apos;region of Paris&apos;</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055605 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055605">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000553"/>
+        <rdfs:label xml:lang="en">region of Rome</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055606 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055606">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000692"/>
+        <rdfs:label xml:lang="en">region of Seoul</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055607 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055607">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000412"/>
+        <rdfs:label xml:lang="en">region of Baltimore, MD</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055608 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055608">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000394"/>
+        <rdfs:label xml:lang="en">region of Boston, MA</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055609 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055609">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000383"/>
+        <rdfs:label xml:lang="en">region of Chicago, IL</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055610 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055610">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000579"/>
+        <rdfs:label xml:lang="en">region of Tokyo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055611 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055611">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000367"/>
+        <rdfs:label xml:lang="en">region of Los Angeles, CA</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055612 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055612">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000388"/>
+        <rdfs:label xml:lang="en">region of New Orleans, LA</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055613 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055613">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055613"/>
+        <rdfs:label xml:lang="en">region of New York City, NY</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055614 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055614">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000462"/>
+        <rdfs:label xml:lang="en">region of Philadelphia, PA</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055615 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055615">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000367"/>
+        <rdfs:label xml:lang="en">region of San Francisco, CA</rdfs:label>
     </owl:NamedIndividual>
 </rdf:RDF>
 
