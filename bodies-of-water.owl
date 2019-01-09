@@ -13,6 +13,9 @@
      xmlns:dc="http://purl.org/dc/elements/1.1/">
     <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl">
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/dev/nation-geography.owl"/>
+        <rdfs:comment xml:lang="en">This is an extension of the Geograpic Entities Ontology Nation Geography that models bodies of water. This version uses the International Hydrographic Organization&apos;s standards for Limits of Oceans and Seas 3rd Edition (1953) for names, bondaries, and topographical relations.</rdfs:comment>
+        <dc:title xml:lang="en">Geographic Entities Ontology - Bodies of Water</dc:title>
+        <dc:creator>Amanda Hicks</dc:creator>
     </owl:Ontology>
     
 
@@ -433,6 +436,7 @@
 
     <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055489">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000373"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055466"/>
         <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055479"/>
         <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055482"/>
         <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055486"/>
@@ -449,7 +453,6 @@
         <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055483"/>
         <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055484"/>
         <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055485"/>
-        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055466"/>
         <obo:GEO_000055477 xml:lang="en">23</obo:GEO_000055477>
         <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000578"/>
         <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000638"/>
@@ -465,11 +468,11 @@
 
     <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055490">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000373"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055466"/>
         <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055489"/>
         <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055492"/>
         <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055506"/>
         <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055507"/>
-        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055466"/>
         <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">32</obo:GEO_000055477>
         <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000344"/>
         <rdfs:label xml:lang="en">South Atlantic Ocean</rdfs:label>
@@ -519,8 +522,8 @@
 
     <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055494">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000373"/>
-        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055493"/>
         <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055471"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055493"/>
         <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">28B</obo:GEO_000055477>
         <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000548"/>
         <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000562"/>
@@ -533,8 +536,8 @@
 
     <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055495">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000055559"/>
-        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055466"/>
         <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055471"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055466"/>
         <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">28a</obo:GEO_000055477>
         <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000632"/>
         <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000717"/>
@@ -547,8 +550,8 @@
 
     <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055496">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055474"/>
-        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055495"/>
         <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055471"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055495"/>
         <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">28b</obo:GEO_000055477>
         <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000632"/>
         <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000717"/>
@@ -612,8 +615,8 @@
 
     <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055501">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055474"/>
-        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055500"/>
         <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055471"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055500"/>
         <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">28g</obo:GEO_000055477>
         <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000553"/>
         <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000571"/>
@@ -630,8 +633,8 @@
 
     <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055502">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055474"/>
-        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055503"/>
         <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055471"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055503"/>
         <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">28h</obo:GEO_000055477>
         <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000562"/>
         <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000715"/>
@@ -1127,6 +1130,7 @@
 
     <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055544">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000373"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055472"/>
         <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055539"/>
         <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055541"/>
         <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055542"/>
@@ -1134,7 +1138,6 @@
         <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055546"/>
         <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055547"/>
         <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055548"/>
-        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055472"/>
         <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">57</obo:GEO_000055477>
         <rdfs:label xml:lang="en">North Pacific Ocean</rdfs:label>
     </owl:NamedIndividual>
@@ -1145,13 +1148,13 @@
 
     <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055545">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000373"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055472"/>
         <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055506"/>
         <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055544"/>
         <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055549"/>
         <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055550"/>
         <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055551"/>
         <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055552"/>
-        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055472"/>
         <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">61</obo:GEO_000055477>
         <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000344"/>
         <rdfs:label xml:lang="en">South Pacific Ocean</rdfs:label>
@@ -1379,11 +1382,11 @@
 
     <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055468">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055474"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055466"/>
         <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055470"/>
         <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055466"/>
         <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055483"/>
         <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055484"/>
-        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055466"/>
         <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</obo:GEO_000055477>
         <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000550"/>
         <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000578"/>
@@ -1421,11 +1424,11 @@
 
     <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055470">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055473"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055479"/>
         <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055511"/>
         <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055512"/>
         <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055514"/>
         <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055516"/>
-        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055479"/>
         <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">45</obo:GEO_000055477>
         <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000340"/>
         <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000341"/>
@@ -1441,9 +1444,9 @@
 
     <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055471">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055474"/>
-        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055466"/>
         <obo:BFO_0000111 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055493"/>
         <obo:BFO_0000111 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055494"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055466"/>
         <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000340"/>
         <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000341"/>
         <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000342"/>
