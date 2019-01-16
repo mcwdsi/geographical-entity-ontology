@@ -1,0 +1,6 @@
+input=/Users/mattdiller/devel/ontology/geographical-entity-ontology/source_data/CN-admin-units.txt
+countrycode=CN
+owlpurlbase=http://purl.obolibrary.org/obo/geo/china-admin-level
+countryiri=http://purl.obolibrary.org/obo/GEO_000000657
+irilookup=/Users/mattdiller/devel/ontology/geographical-entity-ontology/config/iris-for-parsing-geonames.txt
+iriStart=55572
