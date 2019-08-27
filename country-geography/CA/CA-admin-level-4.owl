@@ -44,12 +44,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043649 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043649 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043649">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043649">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043581"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043581"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11791606</obo:GEO_000035330>
         <obo:GEO_000035334 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LS</obo:GEO_000035334>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of LaSalle</obo:IAO_0000111>
@@ -58,12 +58,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043650 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043650 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043650">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043650">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043581"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043581"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11791607</obo:GEO_000035330>
         <obo:GEO_000035334 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LN</obo:GEO_000035334>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Saint-Léonard</obo:IAO_0000111>
@@ -72,12 +72,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043651 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043651 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043651">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043651">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043581"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043581"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11791608</obo:GEO_000035330>
         <obo:GEO_000035334 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AJ</obo:GEO_000035334>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Anjou</obo:IAO_0000111>
@@ -86,12 +86,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043652 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043652 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043652">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043652">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043581"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043581"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11791609</obo:GEO_000035330>
         <obo:GEO_000035334 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VD</obo:GEO_000035334>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Verdun</obo:IAO_0000111>
@@ -100,12 +100,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043653 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043653 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043653">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043653">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043581"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043581"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5882726</obo:GEO_000035330>
         <obo:GEO_000035334 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AC</obo:GEO_000035334>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Ahuntsic-Cartierville</obo:IAO_0000111>
@@ -114,12 +114,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043654 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043654 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043654">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043654">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043581"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043581"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5928430</obo:GEO_000035330>
         <obo:GEO_000035334 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CN</obo:GEO_000035334>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Côte-des-Neiges-Notre-Dame-de-Grâce</obo:IAO_0000111>
@@ -128,12 +128,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043655 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043655 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043655">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043655">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043581"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043581"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6024449</obo:GEO_000035330>
         <obo:GEO_000035334 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LC</obo:GEO_000035334>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Lachine</obo:IAO_0000111>
@@ -142,12 +142,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043656 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043656 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043656">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043656">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043581"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043581"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6052594</obo:GEO_000035330>
         <obo:GEO_000035334 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PM</obo:GEO_000035334>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Le Plateau-Mont-Royal</obo:IAO_0000111>
@@ -156,12 +156,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043657 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043657 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043657">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043657">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043581"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043581"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6053102</obo:GEO_000035330>
         <obo:GEO_000035334 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SO</obo:GEO_000035334>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Le Sud-Ouest</obo:IAO_0000111>
@@ -170,12 +170,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043658 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043658 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043658">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043658">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043581"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043581"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6053852</obo:GEO_000035330>
         <obo:GEO_000035334 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS</obo:GEO_000035334>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of L&apos;Île-Bizard-Sainte-Geneviève</obo:IAO_0000111>
@@ -184,12 +184,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043659 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043659 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043659">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043659">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043581"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043581"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6072211</obo:GEO_000035330>
         <obo:GEO_000035334 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MH</obo:GEO_000035334>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Mercier-Hochelaga-Maisonneuve</obo:IAO_0000111>
@@ -198,12 +198,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043660 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043660 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043660">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043660">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043581"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043581"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6077264</obo:GEO_000035330>
         <obo:GEO_000035334 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MN</obo:GEO_000035334>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Montréal-Nord</obo:IAO_0000111>
@@ -212,12 +212,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043661 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043661 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043661">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043661">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043581"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043581"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6095438</obo:GEO_000035330>
         <obo:GEO_000035334 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OM</obo:GEO_000035334>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Outremont</obo:IAO_0000111>
@@ -226,12 +226,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043662 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043662 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043662">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043662">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043581"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043581"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6104320</obo:GEO_000035330>
         <obo:GEO_000035334 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PR</obo:GEO_000035334>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Pierrefonds-Roxboro</obo:IAO_0000111>
@@ -240,12 +240,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043663 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043663 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043663">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043663">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043581"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043581"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6123696</obo:GEO_000035330>
         <obo:GEO_000035334 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RP</obo:GEO_000035334>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Rivière-des-Prairies-Pointe-aux-Trembles</obo:IAO_0000111>
@@ -254,12 +254,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043664 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043664 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043664">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043664">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043581"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043581"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6127689</obo:GEO_000035330>
         <obo:GEO_000035334 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RO</obo:GEO_000035334>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Rosemont-La Petite-Patrie</obo:IAO_0000111>
@@ -268,12 +268,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043665 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043665 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043665">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043665">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043581"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043581"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6138608</obo:GEO_000035330>
         <obo:GEO_000035334 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LR</obo:GEO_000035334>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Saint-Laurent</obo:IAO_0000111>
@@ -282,12 +282,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043666 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043666 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043666">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043666">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043581"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043581"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6174337</obo:GEO_000035330>
         <obo:GEO_000035334 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VM</obo:GEO_000035334>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Ville-Marie</obo:IAO_0000111>
@@ -296,12 +296,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043667 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043667 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043667">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043667">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043581"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043581"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6174349</obo:GEO_000035330>
         <obo:GEO_000035334 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VS</obo:GEO_000035334>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Villeray-Saint-Michel-Parc-Extension</obo:IAO_0000111>
