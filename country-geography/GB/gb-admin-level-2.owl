@@ -7,8 +7,8 @@
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
      xmlns:obo="http://purl.obolibrary.org/obo/">
-    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/geo/great_britian-admin-level-2.owl">
-        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/great_britian-admin-level-1.owl"/>
+    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/geo/gb-admin-level-two.owl">
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/dev/gb-admin-level-one.owl"/>
     </owl:Ontology>
     
 
@@ -44,12 +44,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043681 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043681 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043681">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043681">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2633351</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Q5</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of City of York</obo:IAO_0000111>
@@ -61,12 +61,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043682 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043682 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043682">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043682">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043677"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043677"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2633484</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Z4</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Wrexham</obo:IAO_0000111>
@@ -100,12 +100,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043683 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043683 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043683">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043683">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2633560</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Q4</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Worcestershire</obo:IAO_0000111>
@@ -119,12 +119,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043684 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043684 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043684">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043684">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2633840</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">P9</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Royal Borough of Windsor and Maidenhead</obo:IAO_0000111>
@@ -135,12 +135,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043685 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043685 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043685">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043685">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2633868</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">P8</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Wiltshire</obo:IAO_0000111>
@@ -153,12 +153,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043686 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043686 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043686">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043686">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2634258</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">P6</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of West Sussex</obo:IAO_0000111>
@@ -170,12 +170,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043687 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043687 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043687">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043687">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043678"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043678"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2634354</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">W9</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of West Lothian</obo:IAO_0000111>
@@ -222,12 +222,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043688 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043688 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043688">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043688">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043678"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043678"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2634428</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">W8</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Eilean Siar</obo:IAO_0000111>
@@ -242,12 +242,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043689 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043689 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043689">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043689">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2634723</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">P3</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Warwickshire</obo:IAO_0000111>
@@ -260,12 +260,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043690 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043690 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043690">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043690">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043677"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043677"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2635028</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Z3</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Vale of Glamorgan</obo:IAO_0000111>
@@ -278,12 +278,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043691 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043691 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043691">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043691">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2635885</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">O3</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Borough of Thurrock</obo:IAO_0000111>
@@ -294,12 +294,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043692 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043692 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043692">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043692">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2636512</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">N7</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Surrey</obo:IAO_0000111>
@@ -311,12 +311,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043693 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043693 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043693">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043693">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2636561</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">N5</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Suffolk</obo:IAO_0000111>
@@ -334,12 +334,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043694 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043694 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043694">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043694">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043678"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043678"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2636909</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">W6</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Stirling</obo:IAO_0000111>
@@ -353,12 +353,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043695 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043695 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043695">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043695">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2637141</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">M9</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Staffordshire</obo:IAO_0000111>
@@ -372,12 +372,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043696 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043696 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043696">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043696">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2637532</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">M3</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Somerset</obo:IAO_0000111>
@@ -397,12 +397,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043697 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043697 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043697">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043697">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043678"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043678"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2638010</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">W3</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Shetland Islands</obo:IAO_0000111>
@@ -451,12 +451,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043698 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043698 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043698">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043698">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2638384</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Z9</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Isles of Scilly</obo:IAO_0000111>
@@ -494,12 +494,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043699 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043699 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043699">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043699">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2638655</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">L6</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Shropshire</obo:IAO_0000111>
@@ -512,12 +512,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043700 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043700 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043700">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043700">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2638918</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">L4</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of District of Rutland</obo:IAO_0000111>
@@ -529,12 +529,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043701 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043701 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043701">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043701">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043678"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043678"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2639494</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">W2</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Renfrewshire</obo:IAO_0000111>
@@ -575,12 +575,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043702 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043702 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043702">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043702">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043677"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043677"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2639944</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Y8</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Sir Powys</obo:IAO_0000111>
@@ -592,12 +592,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043703 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043703 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043703">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043703">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043677"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043677"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2640500</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Y7</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Pembrokeshire</obo:IAO_0000111>
@@ -626,12 +626,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043704 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043704 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043704">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043704">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2640726</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">K2</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Oxfordshire</obo:IAO_0000111>
@@ -644,12 +644,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043705 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043705 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043705">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043705">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043678"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043678"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2640923</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">V9</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Orkney Islands</obo:IAO_0000111>
@@ -699,12 +699,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043706 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043706 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043706">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043706">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2641169</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">J9</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Nottinghamshire</obo:IAO_0000111>
@@ -719,12 +719,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043707 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043707 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043707">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043707">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2641209</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">J7</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of North Yorkshire</obo:IAO_0000111>
@@ -736,12 +736,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043708 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043708 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043708">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043708">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2641235</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">J6</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Northumberland</obo:IAO_0000111>
@@ -760,12 +760,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043709 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043709 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043709">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043709">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2641238</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">J5</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Borough of North Tyneside</obo:IAO_0000111>
@@ -777,12 +777,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043710 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043710 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043710">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043710">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2641429</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">J1</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Northamptonshire</obo:IAO_0000111>
@@ -796,12 +796,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043711 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043711 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043711">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043711">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2641455</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">I9</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Norfolk</obo:IAO_0000111>
@@ -813,12 +813,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043712 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043712 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043712">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043712">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043678"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043678"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2642240</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">V6</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Moray</obo:IAO_0000111>
@@ -852,12 +852,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043713 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043713 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043713">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043713">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043678"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043678"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2642559</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">V5</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Midlothian</obo:IAO_0000111>
@@ -899,12 +899,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043714 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043714 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043714">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043714">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2644486</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">H7</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Lincolnshire</obo:IAO_0000111>
@@ -952,12 +952,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043715 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043715 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043715">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043715">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2644667</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">H5</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Leicestershire</obo:IAO_0000111>
@@ -1006,12 +1006,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043716 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043716 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043716">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043716">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2644974</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">H2</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Lancashire</obo:IAO_0000111>
@@ -1025,12 +1025,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043717 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043717 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043717">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043717">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2646007</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">G2</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Isle of Wight</obo:IAO_0000111>
@@ -1043,12 +1043,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043718 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043718 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043718">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043718">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043678"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043678"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2646127</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">V4</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Inverclyde</obo:IAO_0000111>
@@ -1077,12 +1077,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043719 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043719 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043719">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043719">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043678"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043678"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2646944</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">V3</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Highland</obo:IAO_0000111>
@@ -1124,12 +1124,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043720 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043720 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043720">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043720">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2647043</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">F8</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Hertfordshire</obo:IAO_0000111>
@@ -1182,12 +1182,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043721 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043721 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043721">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043721">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2647071</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">F7</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Herefordshire</obo:IAO_0000111>
@@ -1200,12 +1200,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043722 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043722 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043722">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043722">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2647554</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">F2</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Hampshire</obo:IAO_0000111>
@@ -1227,12 +1227,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043723 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043723 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043723">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043723">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2647601</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">E9</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Borough of Halton</obo:IAO_0000111>
@@ -1243,12 +1243,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043724 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043724 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043724">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043724">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043677"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043677"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2647716</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Y2</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Gwynedd</obo:IAO_0000111>
@@ -1260,12 +1260,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043725 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043725 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043725">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043725">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2648110</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GLA</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Greater London</obo:IAO_0000111>
@@ -1277,12 +1277,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043726 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043726 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043726">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043726">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2648402</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">E6</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Gloucestershire</obo:IAO_0000111>
@@ -1330,12 +1330,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043727 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043727 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043727">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043727">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2648772</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">E5</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Gateshead</obo:IAO_0000111>
@@ -1352,12 +1352,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043728 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043728 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043728">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043728">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043677"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043677"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2649298</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Y1</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of County of Flintshire</obo:IAO_0000111>
@@ -1370,12 +1370,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043729 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043729 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043729">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043729">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043678"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043678"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2649469</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">V1</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Fife</obo:IAO_0000111>
@@ -1408,12 +1408,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043730 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043730 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043730">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043730">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2649889</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">E4</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Essex</obo:IAO_0000111>
@@ -1425,12 +1425,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043731 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043731 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043731">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043731">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2650328</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">E2</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of East Sussex</obo:IAO_0000111>
@@ -1442,12 +1442,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043732 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043732 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043732">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043732">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2650345</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">E1</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of East Riding of Yorkshire</obo:IAO_0000111>
@@ -1494,12 +1494,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043733 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043733 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043733">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043733">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043678"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043678"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2650386</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">U6</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of East Lothian</obo:IAO_0000111>
@@ -1546,12 +1546,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043734 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043734 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043734">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043734">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2650629</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">D8</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of County Durham</obo:IAO_0000111>
@@ -1562,12 +1562,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043735 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043735 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043735">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043735">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043678"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043678"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2650797</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">U2</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Dumfries and Galloway</obo:IAO_0000111>
@@ -1581,12 +1581,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043736 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043736 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043736">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043736">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2651079</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">D6</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Dorset</obo:IAO_0000111>
@@ -1624,12 +1624,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043737 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043737 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043737">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043737">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2651292</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">D4</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Devon</obo:IAO_0000111>
@@ -1642,12 +1642,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043738 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043738 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043738">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043738">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2651346</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">D3</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Derbyshire</obo:IAO_0000111>
@@ -1700,12 +1700,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043739 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043739 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043739">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043739">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043677"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043677"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2651385</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">X9</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Denbighshire</obo:IAO_0000111>
@@ -1735,12 +1735,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043740 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043740 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043740">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043740">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2651712</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C9</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Cumbria</obo:IAO_0000111>
@@ -1784,12 +1784,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043741 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043741 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043741">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043741">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2652355</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C6</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Cornwall</obo:IAO_0000111>
@@ -1806,12 +1806,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043742 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043742 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043742">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043742">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043678"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043678"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2652975</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">U1</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Clackmannanshire</obo:IAO_0000111>
@@ -1848,12 +1848,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043743 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043743 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043743">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043743">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043677"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043677"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2653753</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">X7</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Carmarthenshire</obo:IAO_0000111>
@@ -1882,12 +1882,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043744 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043744 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043744">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043744">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043677"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043677"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2653814</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">X6</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of County of Ceredigion</obo:IAO_0000111>
@@ -1903,12 +1903,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043745 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043745 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043745">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043745">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2653940</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C3</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Cambridgeshire</obo:IAO_0000111>
@@ -1951,12 +1951,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043746 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043746 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043746">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043746">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2654408</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B9</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Buckinghamshire</obo:IAO_0000111>
@@ -1970,12 +1970,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043747 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043747 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043747">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043747">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043678"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043678"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2655192</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">T9</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of The Scottish Borders</obo:IAO_0000111>
@@ -1989,12 +1989,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043748 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043748 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043748">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043748">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043678"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043678"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2657306</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">T7</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Angus</obo:IAO_0000111>
@@ -2029,12 +2029,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043749 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043749 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043749">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043749">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043677"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043677"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2657311</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">X1</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Anglesey</obo:IAO_0000111>
@@ -2054,12 +2054,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043750 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043750 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043750">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043750">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043678"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043678"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2657830</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">T6</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Aberdeenshire</obo:IAO_0000111>
@@ -2097,12 +2097,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043751 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043751 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043751">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043751">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333122</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A3</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Barnsley</obo:IAO_0000111>
@@ -2113,12 +2113,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043752 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043752 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043752">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043752">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333123</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A4</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Bath and North East Somerset</obo:IAO_0000111>
@@ -2141,12 +2141,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043753 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043753 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043753">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043753">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333125</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A7</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of City and Borough of Birmingham</obo:IAO_0000111>
@@ -2157,12 +2157,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043754 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043754 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043754">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043754">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333126</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A8</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Blackburn with Darwen</obo:IAO_0000111>
@@ -2182,12 +2182,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043755 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043755 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043755">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043755">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333127</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A9</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Blackpool</obo:IAO_0000111>
@@ -2231,12 +2231,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043756 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043756 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043756">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043756">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333128</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B1</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Borough of Bolton</obo:IAO_0000111>
@@ -2247,12 +2247,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043757 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043757 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043757">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043757">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333129</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B2</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Bournemouth</obo:IAO_0000111>
@@ -2287,12 +2287,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043758 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043758 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043758">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043758">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333130</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B3</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Bracknell Forest</obo:IAO_0000111>
@@ -2314,12 +2314,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043759 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043759 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043759">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043759">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333131</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B4</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Bradford</obo:IAO_0000111>
@@ -2330,12 +2330,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043760 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043760 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043760">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043760">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333133</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B6</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Brighton and Hove</obo:IAO_0000111>
@@ -2346,12 +2346,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043761 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043761 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043761">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043761">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333134</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B7</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Bristol</obo:IAO_0000111>
@@ -2408,12 +2408,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043762 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043762 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043762">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043762">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333136</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C1</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Borough of Bury</obo:IAO_0000111>
@@ -2424,12 +2424,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043763 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043763 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043763">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043763">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333137</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C2</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Calderdale</obo:IAO_0000111>
@@ -2443,12 +2443,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043764 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043764 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043764">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043764">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333139</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C7</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Coventry</obo:IAO_0000111>
@@ -2459,12 +2459,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043765 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043765 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043765">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043765">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333141</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">D1</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Darlington</obo:IAO_0000111>
@@ -2475,12 +2475,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043766 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043766 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043766">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043766">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333142</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">D2</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Derby</obo:IAO_0000111>
@@ -2535,12 +2535,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043767 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043767 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043767">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043767">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333143</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">D5</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Doncaster</obo:IAO_0000111>
@@ -2551,12 +2551,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043768 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043768 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043768">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043768">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333144</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">D7</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Dudley</obo:IAO_0000111>
@@ -2567,12 +2567,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043769 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043769 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043769">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043769">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333152</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">F5</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Hartlepool</obo:IAO_0000111>
@@ -2583,12 +2583,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043770 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043770 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043770">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043770">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333158</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">G5</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Kent</obo:IAO_0000111>
@@ -2632,12 +2632,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043771 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043771 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043771">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043771">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333159</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">G6</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of City of Kingston upon Hull</obo:IAO_0000111>
@@ -2649,12 +2649,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043772 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043772 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043772">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043772">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333161</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">G8</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Kirklees</obo:IAO_0000111>
@@ -2671,12 +2671,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043773 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043773 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043773">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043773">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333162</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">G9</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Knowsley</obo:IAO_0000111>
@@ -2693,12 +2693,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043774 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043774 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043774">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043774">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333164</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">H3</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of City and Borough of Leeds</obo:IAO_0000111>
@@ -2709,12 +2709,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043775 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043775 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043775">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043775">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333165</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">H4</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of City of Leicester</obo:IAO_0000111>
@@ -2725,12 +2725,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043776 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043776 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043776">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043776">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333167</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">H8</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Liverpool</obo:IAO_0000111>
@@ -2796,12 +2796,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043777 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043777 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043777">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043777">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333168</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">I1</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Luton</obo:IAO_0000111>
@@ -2812,12 +2812,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043778 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043778 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043778">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043778">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333169</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">I2</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Manchester</obo:IAO_0000111>
@@ -2890,12 +2890,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043779 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043779 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043779">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043779">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333170</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">I3</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Medway</obo:IAO_0000111>
@@ -2916,12 +2916,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043780 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043780 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043780">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043780">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333172</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">I5</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Middlesbrough</obo:IAO_0000111>
@@ -2932,12 +2932,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043781 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043781 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043781">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043781">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333173</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">I6</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Milton Keynes</obo:IAO_0000111>
@@ -2948,12 +2948,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043782 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043782 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043782">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043782">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333174</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">I7</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Newcastle upon Tyne</obo:IAO_0000111>
@@ -3013,12 +3013,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043783 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043783 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043783">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043783">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333175</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">J2</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of North East Lincolnshire</obo:IAO_0000111>
@@ -3041,12 +3041,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043784 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043784 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043784">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043784">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333176</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">J3</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of North Lincolnshire</obo:IAO_0000111>
@@ -3069,12 +3069,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043785 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043785 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043785">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043785">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333177</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">J4</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of North Somerset</obo:IAO_0000111>
@@ -3091,12 +3091,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043786 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043786 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043786">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043786">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333178</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">J8</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Nottingham</obo:IAO_0000111>
@@ -3150,12 +3150,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043787 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043787 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043787">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043787">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333179</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">K1</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Borough of Oldham</obo:IAO_0000111>
@@ -3166,12 +3166,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043788 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043788 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043788">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043788">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333180</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">K3</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Peterborough</obo:IAO_0000111>
@@ -3203,12 +3203,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043789 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043789 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043789">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043789">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333181</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">K4</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Plymouth</obo:IAO_0000111>
@@ -3219,12 +3219,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043790 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043790 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043790">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043790">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333182</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">K5</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Poole</obo:IAO_0000111>
@@ -3235,12 +3235,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043791 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043791 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043791">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043791">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333183</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">K6</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Portsmouth</obo:IAO_0000111>
@@ -3288,12 +3288,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043792 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043792 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043792">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043792">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333184</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">K7</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Reading</obo:IAO_0000111>
@@ -3304,12 +3304,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043793 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043793 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043793">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043793">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333186</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">K9</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Redcar and Cleveland</obo:IAO_0000111>
@@ -3329,12 +3329,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043794 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043794 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043794">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043794">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333188</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">L2</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Borough of Rochdale</obo:IAO_0000111>
@@ -3345,12 +3345,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043795 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043795 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043795">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043795">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333189</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">L3</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Rotherham</obo:IAO_0000111>
@@ -3361,12 +3361,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043796 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043796 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043796">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043796">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333190</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">L5</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of City and Borough of Salford</obo:IAO_0000111>
@@ -3377,12 +3377,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043797 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043797 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043797">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043797">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333191</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">L7</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Sandwell</obo:IAO_0000111>
@@ -3399,12 +3399,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043798 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043798 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043798">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043798">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333192</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">L8</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Sefton</obo:IAO_0000111>
@@ -3420,12 +3420,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043799 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043799 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043799">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043799">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333193</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">L9</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Sheffield</obo:IAO_0000111>
@@ -3436,12 +3436,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043800 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043800 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043800">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043800">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333194</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">M1</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Slough</obo:IAO_0000111>
@@ -3468,12 +3468,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043801 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043801 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043801">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043801">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333195</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">M2</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Solihull</obo:IAO_0000111>
@@ -3484,12 +3484,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043802 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043802 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043802">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043802">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333196</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">M4</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Southampton</obo:IAO_0000111>
@@ -3536,12 +3536,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043803 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043803 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043803">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043803">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333197</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">M5</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Southend-on-Sea</obo:IAO_0000111>
@@ -3552,12 +3552,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043804 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043804 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043804">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043804">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333198</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">M6</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of South Gloucestershire</obo:IAO_0000111>
@@ -3578,12 +3578,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043805 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043805 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043805">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043805">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333199</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">M7</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of South Tyneside</obo:IAO_0000111>
@@ -3598,12 +3598,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043806 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043806 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043806">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043806">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333201</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">N1</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of St. Helens</obo:IAO_0000111>
@@ -3614,12 +3614,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043807 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043807 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043807">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043807">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333202</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">N2</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Borough of Stockport</obo:IAO_0000111>
@@ -3630,12 +3630,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043808 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043808 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043808">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043808">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333203</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">N3</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Stockton-on-Tees</obo:IAO_0000111>
@@ -3646,12 +3646,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043809 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043809 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043809">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043809">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333204</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">N4</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Stoke-on-Trent</obo:IAO_0000111>
@@ -3662,12 +3662,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043810 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043810 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043810">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043810">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333205</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">N6</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Sunderland</obo:IAO_0000111>
@@ -3678,12 +3678,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043811 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043811 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043811">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043811">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333207</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">N9</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Borough of Swindon</obo:IAO_0000111>
@@ -3694,12 +3694,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043812 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043812 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043812">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043812">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333208</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">O1</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Borough of Tameside</obo:IAO_0000111>
@@ -3710,12 +3710,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043813 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043813 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043813">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043813">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333209</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">O2</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Telford and Wrekin</obo:IAO_0000111>
@@ -3734,12 +3734,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043814 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043814 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043814">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043814">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333210</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">O4</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Borough of Torbay</obo:IAO_0000111>
@@ -3750,12 +3750,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043815 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043815 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043815">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043815">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333211</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">O6</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Trafford</obo:IAO_0000111>
@@ -3779,12 +3779,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043816 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043816 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043816">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043816">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333212</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">O7</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of City and Borough of Wakefield</obo:IAO_0000111>
@@ -3795,12 +3795,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043817 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043817 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043817">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043817">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333213</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">O8</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Walsall</obo:IAO_0000111>
@@ -3811,12 +3811,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043818 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043818 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043818">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043818">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333216</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">P2</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Warrington</obo:IAO_0000111>
@@ -3827,12 +3827,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043819 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043819 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043819">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043819">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333217</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">P4</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of West Berkshire</obo:IAO_0000111>
@@ -3855,12 +3855,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043820 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043820 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043820">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043820">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333219</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">P7</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Borough of Wigan</obo:IAO_0000111>
@@ -3871,12 +3871,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043821 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043821 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043821">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043821">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333220</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Q1</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Metropolitan Borough of Wirral</obo:IAO_0000111>
@@ -3887,12 +3887,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043822 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043822 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043822">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043822">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333221</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Q2</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Wokingham</obo:IAO_0000111>
@@ -3903,12 +3903,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043823 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043823 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043823">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043823">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333222</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Q3</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Wolverhampton</obo:IAO_0000111>
@@ -3955,12 +3955,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043824 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043824 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043824">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043824">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043679"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043679"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333223</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">N09000003</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of City of Belfast</obo:IAO_0000111>
@@ -3971,12 +3971,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043825 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043825 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043825">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043825">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043678"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043678"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333224</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">T5</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Aberdeen City</obo:IAO_0000111>
@@ -3987,12 +3987,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043826 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043826 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043826">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043826">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043678"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043678"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333225</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">U3</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Dundee City</obo:IAO_0000111>
@@ -4003,12 +4003,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043827 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043827 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043827">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043827">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043678"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043678"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333226</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">U4</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of East Ayrshire</obo:IAO_0000111>
@@ -4019,12 +4019,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043828 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043828 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043828">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043828">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043678"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043678"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333227</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">U5</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of East Dunbartonshire</obo:IAO_0000111>
@@ -4067,12 +4067,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043829 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043829 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043829">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043829">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043678"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043678"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333228</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">U7</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of East Renfrewshire</obo:IAO_0000111>
@@ -4113,12 +4113,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043830 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043830 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043830">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043830">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043678"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043678"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333229</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">U8</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Edinburgh</obo:IAO_0000111>
@@ -4132,12 +4132,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043831 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043831 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043831">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043831">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043678"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043678"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333230</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">U9</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Falkirk</obo:IAO_0000111>
@@ -4148,12 +4148,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043832 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043832 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043832">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043832">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043678"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043678"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333231</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">V2</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Glasgow City</obo:IAO_0000111>
@@ -4164,12 +4164,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043833 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043833 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043833">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043833">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043678"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043678"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333232</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">V7</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of North Ayrshire</obo:IAO_0000111>
@@ -4213,12 +4213,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043834 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043834 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043834">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043834">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043678"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043678"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333233</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">V8</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of North Lanarkshire</obo:IAO_0000111>
@@ -4259,12 +4259,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043835 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043835 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043835">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043835">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043678"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043678"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333234</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">W1</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Perth and Kinross</obo:IAO_0000111>
@@ -4275,12 +4275,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043836 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043836 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043836">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043836">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043678"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043678"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333235</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">W4</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of South Ayrshire</obo:IAO_0000111>
@@ -4324,12 +4324,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043837 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043837 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043837">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043837">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043678"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043678"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333236</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">W5</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of South Lanarkshire</obo:IAO_0000111>
@@ -4371,12 +4371,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043838 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043838 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043838">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043838">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043678"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043678"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333237</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">W7</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of West Dunbartonshire</obo:IAO_0000111>
@@ -4421,12 +4421,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043839 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043839 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043839">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043839">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043677"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043677"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333238</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">X2</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Blaenau Gwent</obo:IAO_0000111>
@@ -4454,12 +4454,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043840 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043840 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043840">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043840">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043677"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043677"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333239</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">X3</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Bridgend county borough</obo:IAO_0000111>
@@ -4472,12 +4472,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043841 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043841 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043841">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043841">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043677"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043677"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333240</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">X4</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Caerphilly County Borough</obo:IAO_0000111>
@@ -4489,12 +4489,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043842 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043842 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043842">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043842">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043677"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043677"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333241</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">X5</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Cardiff</obo:IAO_0000111>
@@ -4507,12 +4507,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043843 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043843 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043843">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043843">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043677"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043677"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333242</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">X8</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Conwy</obo:IAO_0000111>
@@ -4543,12 +4543,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043844 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043844 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043844">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043844">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043677"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043677"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333243</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Y3</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Merthyr Tydfil County Borough</obo:IAO_0000111>
@@ -4560,12 +4560,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043845 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043845 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043845">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043845">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043677"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043677"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333244</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Y4</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Monmouthshire</obo:IAO_0000111>
@@ -4594,12 +4594,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043846 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043846 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043846">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043846">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043677"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043677"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333245</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Y5</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Neath Port Talbot</obo:IAO_0000111>
@@ -4626,12 +4626,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043847 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043847 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043847">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043847">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043677"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043677"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333246</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Y6</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Newport</obo:IAO_0000111>
@@ -4646,12 +4646,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043848 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043848 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043848">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043848">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043677"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043677"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333247</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Y9</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Rhondda Cynon Taf</obo:IAO_0000111>
@@ -4664,12 +4664,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043849 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043849 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043849">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043849">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043677"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043677"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333248</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Z1</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of City and County of Swansea</obo:IAO_0000111>
@@ -4683,12 +4683,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043850 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043850 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043850">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043850">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043677"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043677"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3333249</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Z2</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Torfaen County Borough</obo:IAO_0000111>
@@ -4701,12 +4701,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043851 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043851 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043851">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043851">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043678"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043678"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6457407</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">T8</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Argyll and Bute</obo:IAO_0000111>
@@ -4716,12 +4716,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043852 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043852 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043852">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043852">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7290534</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Z5</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Bedford</obo:IAO_0000111>
@@ -4747,12 +4747,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043853 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043853 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043853">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043853">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7290535</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Z6</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Central Bedfordshire</obo:IAO_0000111>
@@ -4768,12 +4768,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043854 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043854 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043854">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043854">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7290536</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Z7</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Cheshire East</obo:IAO_0000111>
@@ -4791,12 +4791,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043855 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043855 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043855">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043855">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043680"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043680"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7290537</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Z8</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Cheshire West and Chester</obo:IAO_0000111>
@@ -4811,12 +4811,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043856 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043856 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043856">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043856">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043679"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043679"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11353068</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">N09000009</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Mid Ulster</obo:IAO_0000111>
@@ -4825,12 +4825,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043857 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043857 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043857">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043857">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043679"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043679"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11353069</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">N09000001</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Antrim and Newtownabbey</obo:IAO_0000111>
@@ -4839,12 +4839,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043858 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043858 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043858">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043858">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043679"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043679"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11353070</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">N09000004</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Causeway Coast and Glens</obo:IAO_0000111>
@@ -4853,12 +4853,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043859 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043859 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043859">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043859">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043679"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043679"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11353071</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">N09000006</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Fermanagh and Omagh</obo:IAO_0000111>
@@ -4869,12 +4869,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043860 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043860 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043860">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043860">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043679"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043679"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11353072</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">N09000007</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Lisburn and Castlereagh</obo:IAO_0000111>
@@ -4883,12 +4883,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043861 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043861 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043861">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043861">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043679"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043679"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11353073</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">N09000005</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Derry City and Strabane</obo:IAO_0000111>
@@ -4897,12 +4897,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043862 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043862 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043862">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043862">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043679"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043679"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11353074</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">N09000011</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Ards and North Down</obo:IAO_0000111>
@@ -4911,12 +4911,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043863 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043863 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043863">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043863">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043679"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043679"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11353076</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">N09000002</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Armagh City Banbridge and Craigavon</obo:IAO_0000111>
@@ -4925,12 +4925,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043864 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043864 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043864">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043864">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043679"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043679"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11353077</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">N09000010</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Newry Mourne and Down</obo:IAO_0000111>
@@ -4939,12 +4939,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043865 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043865 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043865">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043865">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000043679"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000043679"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11353078</obo:GEO_000035330>
         <obo:GEO_000035332 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">N09000008</obo:GEO_000035332>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Mid and East Antrim</obo:IAO_0000111>

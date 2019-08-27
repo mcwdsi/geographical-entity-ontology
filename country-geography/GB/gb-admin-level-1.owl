@@ -7,7 +7,7 @@
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
      xmlns:obo="http://purl.obolibrary.org/obo/">
-    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/geo/great_britian-admin-level-1.owl">
+    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/geo/gb-admin-level-one.owl">
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/dev/nation-geography.owl"/>
     </owl:Ontology>
     
@@ -110,10 +110,10 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043677 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043677 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043677">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043677">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
         <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000578"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2634895</obo:GEO_000035330>
@@ -137,10 +137,10 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043678 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043678 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043678">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043678">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
         <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000578"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2638360</obo:GEO_000035330>
@@ -172,10 +172,10 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043679 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043679 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043679">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043679">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
         <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000578"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2641364</obo:GEO_000035330>
@@ -197,10 +197,10 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000043680 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000043680 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000043680">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000043680">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
         <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000578"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6269131</obo:GEO_000035330>
