@@ -7,8 +7,8 @@
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
      xmlns:obo="http://purl.obolibrary.org/obo/">
-    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/geo/china-admin-level-2.owl">
-        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/china-admin-level-1.owl"/>
+    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/geo/cn-admin-level-two.owl">
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/dev/cn-admin-level-one.owl"/>
     </owl:Ontology>
     
 
