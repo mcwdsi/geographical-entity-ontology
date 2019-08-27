@@ -7,7 +7,7 @@
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
      xmlns:obo="http://purl.obolibrary.org/obo/">
-    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/geo/dev/mx-admin-level-three.owl">
+    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/geo/mx-admin-level-three.owl">
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/dev/mx-admin-level-two.owl"/>
     </owl:Ontology>
     
@@ -44,12 +44,12 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000041666 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000041666 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000041666">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000041666">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
-        <obo:BFO_0000137 rdf:resource="http://www.pitt.edu/obc/GEO_000041615"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000041615"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7778822</obo:GEO_000035330>
         <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7778822</obo:GEO_000035333>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Isla Espiritu Santo</obo:IAO_0000111>

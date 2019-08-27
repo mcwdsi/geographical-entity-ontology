@@ -7,7 +7,7 @@
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
      xmlns:obo="http://purl.obolibrary.org/obo/">
-    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/geo/dev/mx-admin-level-one.owl">
+    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/geo/mx-admin-level-one.owl">
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/dev/nation-geography.owl"/>
     </owl:Ontology>
     
@@ -110,10 +110,10 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000039177 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000039177 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000039177">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000039177">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
         <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000614"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3514211</obo:GEO_000035330>
@@ -142,10 +142,10 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000039178 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000039178 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000039178">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000039178">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
         <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000614"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3514780</obo:GEO_000035330>
@@ -163,10 +163,10 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000039179 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000039179 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000039179">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000039179">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
         <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000614"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3515359</obo:GEO_000035330>
@@ -189,10 +189,10 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000039180 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000039180 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000039180">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000039180">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
         <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000614"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3516391</obo:GEO_000035330>
@@ -212,10 +212,10 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000039181 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000039181 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000039181">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000039181">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
         <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000614"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3516458</obo:GEO_000035330>
@@ -236,10 +236,10 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000039182 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000039182 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000039182">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000039182">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
         <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000614"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3520887</obo:GEO_000035330>
@@ -261,10 +261,10 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000039183 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000039183 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000039183">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000039183">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
         <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000614"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3520914</obo:GEO_000035330>
@@ -300,10 +300,10 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000039184 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000039184 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000039184">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000039184">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
         <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000614"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3521082</obo:GEO_000035330>
@@ -325,10 +325,10 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000039185 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000039185 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000039185">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000039185">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
         <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000614"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3522509</obo:GEO_000035330>
@@ -352,10 +352,10 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000039186 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000039186 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000039186">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000039186">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
         <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000614"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3522542</obo:GEO_000035330>
@@ -378,10 +378,10 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000039187 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000039187 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000039187">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000039187">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
         <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000614"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3522961</obo:GEO_000035330>
@@ -401,10 +401,10 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000039188 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000039188 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000039188">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000039188">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
         <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000614"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3523272</obo:GEO_000035330>
@@ -429,10 +429,10 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000039189 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000039189 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000039189">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000039189">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
         <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000614"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3527115</obo:GEO_000035330>
@@ -456,10 +456,10 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000039190 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000039190 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000039190">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000039190">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
         <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000614"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3527213</obo:GEO_000035330>
@@ -480,10 +480,10 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000039191 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000039191 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000039191">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000039191">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
         <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000614"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3527646</obo:GEO_000035330>
@@ -502,10 +502,10 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000039192 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000039192 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000039192">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000039192">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
         <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000614"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3531011</obo:GEO_000035330>
@@ -533,10 +533,10 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000039193 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000039193 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000039193">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000039193">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
         <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000614"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3531730</obo:GEO_000035330>
@@ -563,10 +563,10 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000039194 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000039194 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000039194">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000039194">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
         <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000614"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3979840</obo:GEO_000035330>
@@ -587,10 +587,10 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000039195 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000039195 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000039195">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000039195">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
         <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000614"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3982846</obo:GEO_000035330>
@@ -611,10 +611,10 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000039196 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000039196 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000039196">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000039196">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
         <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000614"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3983035</obo:GEO_000035330>
@@ -632,10 +632,10 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000039197 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000039197 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000039197">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000039197">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
         <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000614"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3985605</obo:GEO_000035330>
@@ -658,10 +658,10 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000039198 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000039198 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000039198">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000039198">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
         <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000614"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3995012</obo:GEO_000035330>
@@ -681,10 +681,10 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000039199 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000039199 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000039199">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000039199">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
         <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000614"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3995955</obo:GEO_000035330>
@@ -708,10 +708,10 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000039200 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000039200 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000039200">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000039200">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
         <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000614"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4004156</obo:GEO_000035330>
@@ -729,10 +729,10 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000039201 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000039201 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000039201">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000039201">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
         <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000614"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4005267</obo:GEO_000035330>
@@ -755,10 +755,10 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000039202 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000039202 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000039202">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000039202">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
         <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000614"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4011741</obo:GEO_000035330>
@@ -781,10 +781,10 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000039203 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000039203 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000039203">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000039203">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
         <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000614"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4013513</obo:GEO_000035330>
@@ -806,10 +806,10 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000039204 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000039204 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000039204">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000039204">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
         <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000614"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4013674</obo:GEO_000035330>
@@ -833,10 +833,10 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000039205 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000039205 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000039205">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000039205">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
         <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000614"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4014336</obo:GEO_000035330>
@@ -864,10 +864,10 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000039206 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000039206 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000039206">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000039206">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
         <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000614"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4017698</obo:GEO_000035330>
@@ -899,10 +899,10 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000039207 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000039207 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000039207">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000039207">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
         <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000614"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4017700</obo:GEO_000035330>
@@ -921,10 +921,10 @@
     
 
 
-    <!-- http://www.pitt.edu/obc/GEO_000039208 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000039208 -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/GEO_000039208">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000039208">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
         <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000614"/>
         <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4019231</obo:GEO_000035330>
