@@ -2,6 +2,7 @@
 <rdf:RDF xmlns="http://purl.obolibrary.org/obo/geo/major-world-cities-geography.owl/"
      xml:base="http://purl.obolibrary.org/obo/geo/major-world-cities-geography.owl/"
      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:terms="http://purl.org/dc/terms/"
      xmlns:owl="http://www.w3.org/2002/07/owl#"
      xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#"
      xmlns:xml="http://www.w3.org/XML/1998/namespace"
@@ -31,6 +32,18 @@
 
     
 
+
+    <!-- http://purl.obolibrary.org/obo/BFO_0000137 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/BFO_0000137"/>
+    
+    <!-- http://purl.obolibrary.org/obo/RO_0000053 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/RO_0000053"/>
+
+    <!-- http://purl.obolibrary.org/obo/BFO_0000083 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/BFO_0000083"/>
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000359 -->
 
@@ -108,6 +121,21 @@
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Multnomah County, OR</obo:IAO_0000111>
         <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Multnomah County</obo:IAO_0000118>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Multnomah County, OR</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000026005 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000026005">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Philadelphia County, PA</rdfs:label>
+        <rdfs:label xml:lang="en">region of Philadelphia, PA</rdfs:label>
+        <obo:GEO_000000795 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01209187</obo:GEO_000000795>
+        <obo:GEO_000000361 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">42101</obo:GEO_000000361>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Philadelphia County</obo:IAO_0000118>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Philadelphia County, PA</obo:IAO_0000111>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000462"/>
     </owl:NamedIndividual>
     
 
@@ -318,7 +346,9 @@
     <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055614">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
         <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000462"/>
-        <rdfs:label xml:lang="en">region of Philadelphia, PA</rdfs:label>
+        <rdfs:comment>Philadelphia city and Philadelphia county are essentially merged but for certain their geographical regions are now co-extensive. Therefore this IRI is a duplicate created in error.  DO NOT USE.</rdfs:comment>
+        <rdfs:label xml:lang="en">obsolete (was: region of Philadelphia, PA)</rdfs:label>
+        <owl:deprecated rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</owl:deprecated>
     </owl:NamedIndividual>
     
 
