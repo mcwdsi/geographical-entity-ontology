@@ -1,0 +1,244 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://purl.obolibrary.org/obo/geo/gn-admin-level-one.owl#"
+     xml:base="http://purl.obolibrary.org/obo/geo/gn-admin-level-one.owl"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:obo="http://purl.obolibrary.org/obo/">
+    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/geo/gn-admin-level-one.owl">
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/dev/nation-geography.owl"/>
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000035330 -->
+
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/GEO_000035330"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000035331 -->
+
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/GEO_000035331"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000111 -->
+
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000111"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000118 -->
+
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000118"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/BFO_0000137 -->
+
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/BFO_0000137"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000372 -->
+
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GEO_000000372"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000547 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000547"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000067970 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000067970">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000547"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2422464</obo:GEO_000035330>
+        <obo:GEO_000035331 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">04</obo:GEO_000035331>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Conakry Region</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Conakry</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Conakry I</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Conakry II</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Region Administrative de Conakry</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Région Administrative de Conakry</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Conakry Region</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000067971 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000067971">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000547"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8335085</obo:GEO_000035330>
+        <obo:GEO_000035331 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B</obo:GEO_000035331>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Boke Region</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Boke</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Boké</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Boke Region</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000067972 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000067972">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000547"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8335086</obo:GEO_000035330>
+        <obo:GEO_000035331 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">F</obo:GEO_000035331>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Faranah Region</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Faranah</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Faranah Region</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000067973 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000067973">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000547"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8335087</obo:GEO_000035330>
+        <obo:GEO_000035331 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">K</obo:GEO_000035331>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Kankan Region</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kankan</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Kankan Region</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000067974 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000067974">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000547"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8335088</obo:GEO_000035330>
+        <obo:GEO_000035331 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">D</obo:GEO_000035331>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Kindia Region</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kindia</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Kindia Region</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000067975 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000067975">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000547"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8335089</obo:GEO_000035330>
+        <obo:GEO_000035331 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">L</obo:GEO_000035331>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Labé Region</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Labe</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Labe Region</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Labe Region</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000067976 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000067976">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000547"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8335090</obo:GEO_000035330>
+        <obo:GEO_000035331 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">M</obo:GEO_000035331>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Mamou Region</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mamou</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mamou Region</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Mamou Region</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000067977 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000067977">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000547"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8335091</obo:GEO_000035330>
+        <obo:GEO_000035331 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">N</obo:GEO_000035331>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Nzerekore Region</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nzerekore</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nzérékoré</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Nzerekore Region</rdfs:label>
+    </owl:NamedIndividual>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 5.0.5.20170104-0800) https://github.com/owlcs/owlapi/ -->
+
+
