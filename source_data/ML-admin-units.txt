@@ -1,0 +1,111 @@
+12070575	Taoudénit Region	Taoudenit Region	Taoudeni,Taoudenit,Taoudenit Region,Taoudenni,Taoudéni,Taoudénit,Taoudénit Region	22.66651	-3.98524	A	ADM1	ML		12070575				0		295	Africa/Bamako	2019-08-01
+12070577	Ménaka Region	Menaka Region	Menaka,Menaka Region,Ménaka,Ménaka Region	15.91531	2.40203	A	ADM1	ML		12070577				0		303	Africa/Bamako	2019-08-01
+2449066	Tombouctou Region	Tombouctou Region	Region VI,Region de Tombouctou,Région de Tombouctou,Sixth Region,Tombouctou,Tombouctou Region,mntqt tmbktw,tmbktw,تمبكتو,منطقة تمبكتو	19.7	-3.6	A	ADM1	ML		08				681691		277	Africa/Bamako	2019-03-09
+2451184	Sikasso Region	Sikasso Region	Region III,Region de Sikasso,Région de Sikasso,Sikasso,Sikasso Region,Third Region	11.3	-6.2	A	ADM1	ML		06				2625919		345	Africa/Bamako	2013-10-16
+2451477	Ségou Region	Segou Region	Fourth Region,Region IV,Region de Segou,Région de Ségou,Segou,Segou Region,Ségou,Ségou Region	13.6	-5.9	A	ADM1	ML		05				2336255		280	Africa/Bamako	2013-11-02
+2453347	Mopti Region	Mopti Region	Fifth Region,Mopti,Mopti Region,Region V,Region de Mopti,Région de Mopti	14.7	-3.4	A	ADM1	ML		04				2037330		540	Africa/Bamako	2013-10-16
+2454532	Koulikoro Region	Koulikoro Region	Koulikoro,Koulikoro Region,Region II,Region de Koulikoro,Région de Koulikoro,Second Region	13.8	-7.5	A	ADM1	ML		07				2418305		347	Africa/Bamako	2013-11-02
+2455517	Kayes Region	Kayes Region	First Region,Kayes,Kayes Region,Region I,Region de Kayes,Région de Kayes	13.9	-10.1	A	ADM1	ML		03				1996812		168	Africa/Bamako	2013-11-02
+2457161	Gao Region	Gao Region	Gao,Gao Region,Region VII,Region de Gao,Région de Gao,Seventh Region	16.6	1.6	A	ADM1	ML		09				544120		371	Africa/Bamako	2013-10-16
+2460594	Bamako Region	Bamako Region	Bamako,District de Bamako	12.65	-8	A	ADM1	ML		01				971351		338	Africa/Bamako	2012-06-25
+2597449	Kidal Region	Kidal Region	Kidal,Kidal Region,Region de Kidal,Région de Kidal,kydal,mntqt kydal,كيدال,منطقة كيدال	19.4	1.2	A	ADM1	ML		10				67638		529	Africa/Bamako	2019-03-09
+11996137	Bamako Cercle	Bamako Cercle	Bamako	12.63582	-8.01237	A	ADM2	ML		01	11996137			0		327	Africa/Bamako	2019-01-09
+12077135	Cercle de Tombouctou	Cercle de Tombouctou	Cercle de Tombouctou,Tombouctou	21.06748	-3.18317	A	ADM2	ML		08	12077135			0		316	Africa/Bamako	2019-09-06
+7670549	Douentza Cercle	Douentza Cercle	Douentza	15.06947	-2.40875	A	ADM2	ML		04	7670549			247794		345	Africa/Bamako	2015-05-25
+7670552	Gourma-Rharous Cercle	Gourma-Rharous Cercle	Gourma-Rharous	16.07979	-1.76981	A	ADM2	ML		08	7670552			111386		314	Africa/Bamako	2019-01-10
+7670553	Gao Cercle	Gao Cercle	Gao	16.72237	0.43984	A	ADM2	ML		09	7670553			239853		279	Africa/Bamako	2019-01-09
+7670554	Koutiala Cercle	Koutiala Cercle	Koutiala	12.35311	-5.5839	A	ADM2	ML		06	7670554			575253		407	Africa/Bamako	2019-01-09
+7701199	Kati Cercle	Kati Cercle	Kati	12.5629	-8.19929	A	ADM2	ML		07	7701199			0		534	Africa/Bamako	2018-05-28
+7701200	Dioila	Dioila	Dioila	12.33043	-6.79164	A	ADM2	ML		07	7701200			0		319	Africa/Bamako	2019-01-09
+7701201	Baroueli	Baroueli	Baroueli,Baroueli Cercle,Barouéli Cercle	13.07489	-6.57171	A	ADM2	ML		05	7701201			203550		300	Africa/Bamako	2019-01-09
+7701202	Segou	Segou	Segou	13.65956	-6.15029	A	ADM2	ML		05	7701202			0		287	Africa/Bamako	2019-01-09
+7701465	Kidal	Kidal	Kidal,dayrt kydal,kydal,دائرة كيدال,كيدال	18.44389	1.3354	A	ADM2	ML		10	7701465			0		502	Africa/Bamako	2019-03-09
+7701470	Tombouctou	Tombouctou	Tombouctou,dayrt tmbktw,tmbktw,تمبكتو,دائرة تمبكتو	19.14857	-3.0855	A	ADM2	ML		08	7701470			0		277	Africa/Bamako	2019-08-13
+7701473	Dire	Dire	Dire,Dire Cercle,Diré Cercle	16.28017	-3.31302	A	ADM2	ML		08	7701473			111324		265	Africa/Bamako	2019-01-10
+7701481	Kayes Cercle	Kayes Cercle	Kayes	14.53349	-11.5459	A	ADM2	ML		03	7701481			0		48	Africa/Bamako	2012-06-11
+7701484	Mopti Cercle	Mopti Cercle	Mopti	14.77995	-4.09297	A	ADM2	ML		04	7701484			0		265	Africa/Bamako	2012-05-31
+7701493	Bankass Cercle	Bankass Cercle	Bankass	13.65966	-3.60347	A	ADM2	ML		04	7701493			0		271	Africa/Bamako	2012-05-31
+7701494	Koro Cercle	Koro Cercle	Koro	14.384	-2.853	A	ADM2	ML		04	7701494			0		265	Africa/Bamako	2012-05-31
+7701496	Bla	Bla	Bla,Bla Cercle	12.92374	-5.76784	A	ADM2	ML		05	7701496			283663		292	Africa/Bamako	2019-01-10
+7701500	Tominian	Tominian	Tominian,Tominian Cercle	13.28175	-4.37718	A	ADM2	ML		05	7701500			0		319	Africa/Bamako	2019-01-09
+7701501	Kita Cercle	Kita Cercle	Kita	13.28205	-9.39713	A	ADM2	ML		03	7701501			0		364	Africa/Bamako	2012-06-08
+7701502	Bougouni Cercle	Bougouni Cercle	Bougouni	11.27243	-7.3474	A	ADM2	ML		06	7701502			0		363	Africa/Bamako	2012-06-08
+7701503	Koulikoro	Koulikoro	Koulikoro	13.2257	-7.30327	A	ADM2	ML		07	7701503			0		302	Africa/Bamako	2019-01-09
+7729902	Sikasso Cercle	Sikasso Cercle	Sikasso	11.52179	-5.94014	A	ADM2	ML		06	7729902			0		406	Africa/Bamako	2012-06-08
+8261489	Diema Cercle	Diema Cercle	Diema	14.583	-9.25	A	ADM2	ML		03	8261489			0		281	Africa/Bamako	2019-01-09
+8261491	Kolokani Cercle	Kolokani Cercle	Kolokani	13.75	-8.167	A	ADM2	ML		07	8261491			0		347	Africa/Bamako	2019-01-09
+8261492	Banamba Cercle	Banamba Cercle	Banamba	13.75	-7.333	A	ADM2	ML		07	8261492			0		363	Africa/Bamako	2019-01-09
+8261493	Nara Cercle	Nara Cercle	Nara	15.16846	-7.29015	A	ADM2	ML		07	8261493			0		266	Africa/Bamako	2019-01-09
+8261494	Nioro Cercle	Nioro Cercle	Nioro	14.7	-10.3	A	ADM2	ML		03	8261494			0		280	Africa/Bamako	2019-01-09
+8299587	Youwarou Cercle	Youwarou Cercle	Youwarou	15.373	-4.488	A	ADM2	ML		04	8299587			0		266	Africa/Bamako	2012-05-31
+8299588	Niafunke Cercle	Niafunke Cercle	Niafunke	15.889	-3.821	A	ADM2	ML		08	8299588			0		261	Africa/Bamako	2019-01-10
+8299589	Tenenkou Cercle	Tenenkou Cercle	Tenenkou	14.659	-4.908	A	ADM2	ML		04	8299589			0		270	Africa/Bamako	2015-05-25
+8299590	Djenne Cercle	Djenne Cercle	Djenne	13.916	-4.595	A	ADM2	ML		04	8299590			0		271	Africa/Bamako	2012-05-31
+8299591	Bandiagara Cercle	Bandiagara Cercle	Bandiagara	14.484	-3.581	A	ADM2	ML		04	8299591			0		446	Africa/Bamako	2018-08-30
+8299787	Kenieba Cercle	Kenieba Cercle	Kenieba	12.66667	-11	A	ADM2	ML		03	8299787			0		223	Africa/Bamako	2019-01-09
+8334585	Bafoulabe Cercle	Bafoulabe Cercle	Bafoulabe	13.66667	-10.66667	A	ADM2	ML		03	8334585			0		335	Africa/Bamako	2012-06-08
+8334591	Kolondieba Cercle	Kolondieba Cercle	Kolondieba	10.942	-6.69	A	ADM2	ML		06	8334591			0		361	Africa/Bamako	2012-06-08
+8631403	Cercle de Yélimané	Cercle de Yelimane	Cercle de Yelimane,Cercle de Yélimané,Circondario di Yelimane,Circondario di Yélimané,Yelimane,Yelimane Cercle,Yelimanen piiri,Yélimané,Yélimané Cercle,Yélimanén piiri,i~erimane quan,ye li ma nei sheng,یے لمنے کرکلے,イェリマネ圏,耶利馬內省	15.10774	-10.54491	A	ADM2	ML		03	8631403			0		97	Africa/Bamako	2019-01-09
+8631413	Cercle de Kangaba	Cercle de Kangaba	Cercle de Kangaba,Kangaba	11.96521	-8.60127	A	ADM2	ML		07	8631413			0		424	Africa/Bamako	2013-11-14
+8631446	Cercle de Yanfolila	Cercle de Yanfolila	Cercle de Yanfolila,Circondario di Yanfolila,Yanfolila,Yanfolila Cercle,Yanfolilan piiri,yanforira quan,yang fu li la sheng,ینفوللا کرکلے,ヤンフォリラ圏,揚福利拉省	11.00742	-8.0365	A	ADM2	ML		06	8631446			0		388	Africa/Bamako	2013-11-14
+8631512	Cercle de Kadiolo	Cercle de Kadiolo	Cercle de Kadiolo,Kadiolo	10.63256	-5.85837	A	ADM2	ML		06	8631512			0		338	Africa/Bamako	2013-11-14
+8631513	Cercle de Yorosso	Cercle de Yorosso	Cercle de Yorosso,Yorosso	12.34502	-4.78168	A	ADM2	ML		06	8631513			0		420	Africa/Bamako	2013-11-14
+8631514	Cercle de Niono	Cercle de Niono	Cercle de Niono,Circondario di Niono,Eparchia Niono,Niono,Niono Cercle,Nionon piiri,ni ao nuo sheng,niono quan,Επαρχία Νιονό,ニオノ圏,尼奧諾省	14.86664	-6.0268	A	ADM2	ML		05	8631514			0		274	Africa/Bamako	2013-11-14
+8631515	Cercle de Macina	Cercle de Macina	Cercle de Macina,Macina	13.99142	-5.42901	A	ADM2	ML		05	8631515			0		281	Africa/Bamako	2013-11-14
+8631516	Cercle de San	Cercle de San	Cercle de San,San	13.17895	-5.01617	A	ADM2	ML		05	8631516			334911		306	Africa/Bamako	2015-05-25
+8631536	Cercle de Goundam	Cercle de Goundam	Cercle de Goundam,Goundam,Goundam Cercle	18.60035	-4.99306	A	ADM2	ML		08	8631536			150150		304	Africa/Bamako	2015-05-25
+8631537	Cercle de Bourem	Cercle de Bourem	Bourem,Cercle de Bourem	17.71192	-0.34284	A	ADM2	ML		09	8631537			115958		331	Africa/Bamako	2015-05-25
+8631538	Ansongo Cercle	Ansongo Cercle	Ansango,Ansongo,Ansongo Cercle,Cercle d'Ansango,Cercle d’Ansango	15.7369	0.78008	A	ADM2	ML		09	8631538			0		279	Africa/Bamako	2019-01-09
+8631539	Cercle de Ménaka	Cercle de Menaka	Cercle de Menaka,Cercle de Ménaka,Menaka,Ménaka	16.66166	2.70226	A	ADM2	ML		12070577	8631539			0		358	Africa/Bamako	2019-08-01
+8631540	Ti-n-Essako	Ti-n-Essako	Cercle de Ti-n-Essako,Cercle de Tin-Essako,Ti-n-Essako,Tin-Essako	18.45834	3.10519	A	ADM2	ML		10	8631540			0		443	Africa/Bamako	2013-11-14
+8631541	Cercle d’Abeïbara	Cercle d'Abeibara	Abeibara,Abeïbara,Cercle d'Abeibara,Cercle d’Abeïbara	19.48878	2.20025	A	ADM2	ML		10	8631541			10286		676	Africa/Bamako	2019-01-09
+8631542	Cercle de Tessalit	Cercle de Tessalit	Cercle de Tessalit,Tessalit	20.09648	0.0667	A	ADM2	ML		10	8631542			0		433	Africa/Bamako	2013-11-14
+10339044	Kewa	Kewa		14.22222	-4.49333	A	ADM3	ML		04	8299590	10339044		0		275	Africa/Bamako	2016-05-25
+10378560	Niamana	Niamana		14.47361	-7.46944	A	ADM3	ML		01		10378560		0		316	Africa/Bamako	2015-07-21
+10942908	Toridaga-Ko	Toridaga-Ko		14.42444	-5.92806	A	ADM3	ML		05	8631514	10942908		0		282	Africa/Bamako	2016-05-25
+10942909	Duguwolowula	Duguwolowula		13.60528	-7.33861	A	ADM3	ML		01	8261492	10942909		0		372	Africa/Bamako	2016-05-25
+10942937	Diganibougou	Diganibougou		13.49861	-6.31528	A	ADM3	ML		05	7701202	10942937		0		292	Africa/Bamako	2016-05-25
+10942943	Yeredon Saniona	Yeredon Saniona		14.33083	-5.94639	A	ADM3	ML		05		10942943		0		284	Africa/Bamako	2016-05-25
+10942944	Boidie	Boidie		13.21333	-6.94139	A	ADM3	ML		05		10942944		0		307	Africa/Bamako	2016-05-25
+11002353	Dinangourou	Dinangourou		14.45194	-2.24194	A	ADM3	ML		04	7701494	11002353		0		274	Africa/Bamako	2016-05-25
+11002356	Kaniogo	Kaniogo		11.98917	-8.60972	A	ADM3	ML		07	8631413	11002356		0		379	Africa/Bamako	2016-05-25
+11002367	Sony Aliber	Sony Aliber		16.50694	-0.07444	A	ADM3	ML		09	7670553	11002367		0		251	Africa/Bamako	2016-05-25
+11002410	Khouloum	Khouloum		14.45	-11.37083	A	ADM3	ML		03	7701481	11002410		0		38	Africa/Bamako	2016-05-25
+11002412	Dah	Dah		13.16	-4.91111	A	ADM3	ML		05	8631516	11002412		0		281	Africa/Bamako	2016-05-25
+11185651	Baguineda-Camp	Baguineda-Camp		12.585	-7.65163	A	ADM3	ML		01		11185651		0		359	Africa/Bamako	2016-06-23
+11204654	Commune de Madiga Sacko	Commune de Madiga Sacko		14.362	-9.306	A	ADM3	ML		03		11204654		0		294	Africa/Bamako	2016-07-21
+11204930	Socoura	Socoura		14.54722	-4.08944	A	ADM3	ML		04		11204930		0		273	Africa/Bamako	2016-07-25
+11204933	Kala Siguida	Kala Siguida		14.2375	-6.02	A	ADM3	ML		05		11204933		0		283	Africa/Bamako	2016-07-25
+11205036	Diondiori	Diondiori		14.61667	-4.76667	A	ADM3	ML		04		11205036		0		270	Africa/Bamako	2016-07-26
+11205149	Toguéré Coumbé	Toguere Coumbe		14.91806	-4.59333	A	ADM3	ML		04	8299589	11205149		0		271	Africa/Bamako	2016-09-14
+11205211	N'Goa	N'Goa		13.24028	-5.14722	A	ADM3	ML		05		11205211		0		285	Africa/Bamako	2016-07-28
+11205226	Boussin	Boussin		13.50688	-5.93619	A	ADM3	ML		05		11205226		0		282	Africa/Bamako	2016-07-28
+11205498	Commune de Pimperna	Commune de Pimperna		11.43056	-5.75417	A	ADM3	ML		06		11205498		0		377	Africa/Bamako	2016-08-01
+11205504	Diédougou	Diedougou		12.48139	-6.40889	A	ADM3	ML		01		11205504		0		305	Africa/Bamako	2016-08-01
+11205545	Commune de Samé	Commune de Same	Same-Diomgoma,Samé-Diomgoma	14.48333	-11.56667	A	ADM3	ML		03		11205545		0		41	Africa/Bamako	2016-08-02
+11205578	Boudofo	Boudofo		13.0833	-9.51667	A	ADM3	ML		03		11205578		0		562	Africa/Bamako	2016-08-02
+11205717	Wassoulou-Ballé	Wassoulou-Balle		11.17861	-8.15556	A	ADM3	ML		06		11205717		0		370	Africa/Bamako	2016-08-04
+11205721	Pignari Bana	Pignari Bana		14.49972	-3.94639	A	ADM3	ML		04		11205721		0		286	Africa/Bamako	2016-08-04
+11205737	Toubacoro	Toubacoro		13.88333	-7.18333	A	ADM3	ML		01		11205737		0		298	Africa/Bamako	2016-08-04
+11205742	Gouendo	Gouendo		12.82917	-6.49639	A	ADM3	ML		05		11205742		0		311	Africa/Bamako	2016-08-04
+11237557	Commune of Ségou	Commune of Segou		13.45	-6.26667	A	ADM3	ML		05		11237557		0		292	Africa/Bamako	2016-08-05
+11237757	Farakou Massa	Farakou Massa		13.66111	-5.87222	A	ADM3	ML		05		11237757		0		285	Africa/Bamako	2016-08-11
+11257149	Mahou	Mahou		12.13333	-4.62917	A	ADM3	ML		06		11257149		0		343	Africa/Bamako	2016-09-16
+11351261	Koussan	Koussan		10.49904	-7.95333	A	ADM3	ML		06		11351261		0		418	Africa/Bamako	2016-11-24
+11398143	N'Dodjiga	N'Dodjiga		15.62433	-4.04835	A	ADM3	ML		04		11398143		0		268	Africa/Bamako	2016-12-31
+11398147	Dougoutene II	Dougoutene II		13.93417	-2.99722	A	ADM3	ML		04		11398147		0		266	Africa/Bamako	2016-12-31
+11427917	Gouanan	Gouanan		10.9125	-8	A	ADM3	ML		06		11427917		0		397	Africa/Bamako	2017-01-28
+11428876	Soboundou	Soboundou		15.9333	-3.98806	A	ADM3	ML		04		11428876		0		265	Africa/Bamako	2017-01-31
+11429077	Lobougoula	Lobougoula		11.04306	-5.98194	A	ADM3	ML		06		11429077		0		343	Africa/Bamako	2017-02-02
+11467815	Bellen	Bellen		14.11389	-6.72778	A	ADM3	ML		05	11467815	11467815		0		288	Africa/Bamako	2017-02-16
+11497847	Dougoutene I	Dougoutene I		13.93661	-3.22632	A	ADM3	ML		04		11497847		0		263	Africa/Bamako	2017-04-09
+7701193	Commune 3	Commune 3		12.65427	-8.01531	A	ADM3	ML		01	7701193	7701193		0		351	Africa/Bamako	2019-01-09
+7701194	Commune 1	Commune 1		12.66581	-7.94455	A	ADM3	ML		01	7701194	7701194		0		334	Africa/Bamako	2019-01-09
+7701195	Commune 2	Commune 2		12.6485	-7.97782	A	ADM3	ML		01	7701195	7701195		0		326	Africa/Bamako	2019-01-09
+7701196	Commune 4	Commune 4		12.61174	-8.04391	A	ADM3	ML		01	7701196	7701196		0		327	Africa/Bamako	2019-01-09
+7701197	Commune 5	Commune 5		12.58297	-8.00235	A	ADM3	ML		01	7701197	7701197		0		369	Africa/Bamako	2019-01-09
+7701198	Commune 6	Commune 6		12.57491	-7.94262	A	ADM3	ML		01	7701198	7701198		0		362	Africa/Bamako	2019-01-09
+8288553	Oula Department	Oula Department		14.4145	-2.2321	A	ADM3	ML		04		8288553		0		282	Africa/Bamako	2016-05-25
+9072698	Kalabancoro	Kalabancoro		12.57222	-8.02889	A	ADM3	ML		01	7701199	9072698		0		330	Africa/Bamako	2016-05-25
+11205641	N'Goa	N'Goa		13.24028	-5.14722	A	ADM4	ML		05			11205641	0		285	Africa/Bamako	2016-08-03
+11238060	Beguene	Beguene		12.85264	-5.82293	A	ADM4	ML		06			11238060	0		320	Africa/Bamako	2016-08-17
