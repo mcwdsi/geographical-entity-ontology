@@ -1,0 +1,6 @@
+input=~/devel/repos/ontology/geographical-entity-ontology/source_data/SL-admin-units.txt
+countrycode=SL
+owlpurlbase=http://purl.obolibrary.org/obo/geo/sl-admin-level
+countryiri=http://purl.obolibrary.org/obo/GEO_000000710
+irilookup=~/devel/repos/ontology/geographical-entity-ontology/config/iris-for-parsing-geonames.txt
+iriStart=68510
