@@ -14,8 +14,8 @@
 ]>
 
 
-<rdf:RDF xmlns="&obo;geo/dev/nation-geography.owl/"
-     xml:base="&obo;geo/dev/nation-geography.owl/"
+<rdf:RDF xmlns="&obo;geo/nation-geography.owl/"
+     xml:base="&obo;geo/nation-geography.owl/"
      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:owl="http://www.w3.org/2002/07/owl#"
      xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#"
@@ -25,7 +25,7 @@
      xmlns:obo="http://purl.obolibrary.org/obo/"
      xmlns:foaf="http://xmlns.com/foaf/0.1/"
      xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <owl:Ontology rdf:about="&obo;geo/dev/nation-geography.owl">
+    <owl:Ontology rdf:about="&obo;geo/nation-geography.owl">
         <rdfs:comment xml:lang="en">This OWL file contains one individual for each sovereign state that represents the entirety of the geographical region over which the state is sovereign.  For major administrative subdivisions, see other OWL files.</rdfs:comment>
         <dc:creator xml:lang="en">William R. Hogan</dc:creator>
         <owl:imports rdf:resource="&obo;geo/dev/us-basic-geography.owl"/>

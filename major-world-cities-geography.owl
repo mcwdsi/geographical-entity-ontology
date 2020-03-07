@@ -13,8 +13,8 @@
      xmlns:foaf="http://xmlns.com/foaf/0.1/"
      xmlns:dc="http://purl.org/dc/elements/1.1/">
     <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/geo/major-world-cities-geography.owl">
-        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/dev/us-integral-geography.owl"/>
-        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/us-integral-geography.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/basic-geography.owl"/>
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/nation-and-dependency-geography.owl"/>
         <dc:contributor>Amanda Hicks</dc:contributor>
         <dc:creator xml:lang="en">William R. Hogan</dc:creator>
