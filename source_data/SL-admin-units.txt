@@ -1,0 +1,201 @@
+11919533	North West Province	North West Province	North West,North West Province	9.12379	-12.70098	A	ADM1	SL		05				1162065		76	Africa/Freetown	2019-07-28
+2403068	Western Area	Western Area	Western Area,Zone de l'Ouest	8.33333	-13.11667	A	ADM1	SL		04				1447271		352	Africa/Freetown	2016-05-15
+2403745	Southern Province	Southern Province	Central Province,Province du Sud,South West Province,South Western Province,Southern,Southern Province	7.8	-12	A	ADM1	SL		03				1377067		64	Africa/Freetown	2016-05-15
+2404798	Northern Province	Northern Province	Northern,Northern Province,Province du Nord	9.15	-11.53333	A	ADM1	SL		02				1718240		458	Africa/Freetown	2018-05-08
+2409543	Eastern Province	Eastern Province	Austprovinsen,Eastern,Eastern Province,Ostprovinsen,Province de l'Est,South East Province,South Eastern Province,Østprovinsen	8.25	-11	A	ADM1	SL		01				1187532		200	Africa/Freetown	2016-05-15
+11876019	Karene District	Karene District		9.66393	-12.22183	A	ADM2	SL		05	11876019			0		152	Africa/Freetown	2019-01-18
+11876020	Falaba District	Falaba District		9.62602	-11.13418	A	ADM2	SL		02	11876020			0		460	Africa/Freetown	2018-06-02
+2403287	Tonkolili District	Tonkolili District	Tonkolili,Tonkolili District	8.61885	-11.84173	A	ADM2	SL		02	2403287			350353		112	Africa/Freetown	2018-06-02
+2404399	Pujehun District	Pujehun District	Pujehun,Pujehun District	7.31855	-11.5792	A	ADM2	SL		03	2404399			240682		43	Africa/Freetown	2014-11-05
+2404431	Port Loko District	Port Loko District	Port Loko,Port Loko District	8.72386	-12.75904	A	ADM2	SL		05	2404431			460230		50	Africa/Freetown	2019-01-18
+2405008	Moyamba District	Moyamba District	Moyamba,Moyamba District	8.0629	-12.44401	A	ADM2	SL		03	2405008			258909		188	Africa/Freetown	2014-11-05
+2407469	Kono District	Kono District	Kono,Kono District	8.70687	-10.93368	A	ADM2	SL		01	2407469			337954		435	Africa/Freetown	2014-11-05
+2407650	Koinadugu District	Koinadugu District	Koinadugu,Koinadugu District	9.50991	-11.34601	A	ADM2	SL		02	2407650			236269		516	Africa/Freetown	2014-11-05
+2407781	Kenema District	Kenema District	Kenema,Kenema District	7.95171	-11.19004	A	ADM2	SL		01	2407781			493928		600	Africa/Freetown	2014-11-05
+2408083	Kambia District	Kambia District	Kambia,Kambia District	9.18251	-12.81309	A	ADM2	SL		05	2408083			281141		37	Africa/Freetown	2019-01-18
+2408249	Kailahun District	Kailahun District	Kailahun,Kailahun District	8.10768	-10.75146	A	ADM2	SL		01	2408249			363767		199	Africa/Freetown	2014-11-05
+2409913	Bonthe District	Bonthe District	Bonthe,Bonthe District	7.51622	-12.33591	A	ADM2	SL		03	2409913			131580		4	Africa/Freetown	2014-11-05
+2409983	Bombali District	Bombali District	Bombali,Bombali District	9.28444	-12.16449	A	ADM2	SL		02	2409983			409254		233	Africa/Freetown	2014-11-05
+2410021	Bo District	Bo District	Bo,Bo District	7.98877	-11.6734	A	ADM2	SL		03	2410021			482884		87	Africa/Freetown	2014-11-05
+9179949	Western Area Urban	Western Area Urban	Western Area Urban	8.45358	-13.26617	A	ADM2	SL		04	9179949			0		30	Africa/Freetown	2019-01-10
+9179950	Western Area Rural	Western Area Rural	Distretto rurale dellArea Occidentale,Distrik Pedesaan Wilayah Barat,Dystrykt Wiejski Obszaru Zachodniego,Dytiki Agrotiki Eparchia,Frijtaun - selski rajon,West Area Rural,Western Area Rural,Western Area Rural District,xi bu qu jiao qu,Δυτική Αγροτική Επαρχία,Фрийтаун - селски район,西部區郊區	8.32319	-13.09485	A	ADM2	SL		04	9179950			0		43	Africa/Freetown	2019-01-10
+9180277	Kowa	Kowa		8.03894	-11.94494	A	ADM3	SL		03		9180277		0		46	Africa/Freetown	2014-07-09
+9180279	Fakunya	Fakunya		8.24761	-12.27231	A	ADM3	SL		03		9180279		0		82	Africa/Freetown	2014-07-09
+9180284	Koya	Koya		8.46171	-12.8104	A	ADM3	SL		02		9180284		0		13	Africa/Freetown	2018-02-22
+9180292	Tinkatupa Maka Safroko	Tinkatupa Maka Safroko	T.M. Safroko,TMS	8.83685	-12.58498	A	ADM3	SL		02		9180292		0		72	Africa/Freetown	2014-07-09
+9180294	Koya	Koya		7.57859	-11.29145	A	ADM3	SL		01		9180294		0		164	Africa/Freetown	2014-07-09
+9180304	Makari Gbanti	Makari Gbanti		8.86422	-12.16534	A	ADM3	SL		02		9180304		0		55	Africa/Freetown	2016-07-10
+9180307	Bombali Shebora	Bombali Shebora		8.78735	-12.05984	A	ADM3	SL		02		9180307		0		90	Africa/Freetown	2016-07-10
+9180311	Malal Mara	Malal Mara		8.66583	-12.24888	A	ADM3	SL		02		9180311		0		69	Africa/Freetown	2014-07-09
+9180314	Gbo	Gbo		8.06427	-11.83518	A	ADM3	SL		03		9180314		0		95	Africa/Freetown	2014-07-09
+9180318	Kakua	Kakua		7.97792	-11.66396	A	ADM3	SL		03		9180318		0		98	Africa/Freetown	2014-07-09
+9180321	Kori	Kori		8.2027	-12.07255	A	ADM3	SL		03		9180321		0		58	Africa/Freetown	2014-07-09
+9180323	Yoni	Yoni		8.42887	-12.25839	A	ADM3	SL		02		9180323		0		68	Africa/Freetown	2014-07-09
+9180324	Masimera	Masimera		8.56875	-12.53454	A	ADM3	SL		02		9180324		0		52	Africa/Freetown	2014-07-09
+9180327	Maforki	Maforki		8.72906	-12.7296	A	ADM3	SL		02		9180327		0		33	Africa/Freetown	2014-07-09
+9180331	Freetown	Freetown		8.45774	-13.23714	A	ADM3	SL		04		9180331		0		341	Africa/Freetown	2014-07-09
+9180333	Lei	Lei		8.81707	-10.6757	A	ADM3	SL		01		9180333		0		495	Africa/Freetown	2014-07-09
+9180341	Gaura	Gaura		7.67677	-11.03049	A	ADM3	SL		01		9180341		0		334	Africa/Freetown	2014-07-09
+9180344	Niawa	Niawa		7.73311	-11.36567	A	ADM3	SL		01		9180344		0		118	Africa/Freetown	2014-07-09
+9180345	Dama	Dama		7.73968	-11.14703	A	ADM3	SL		01		9180345		0		151	Africa/Freetown	2014-07-09
+9180346	Kandu Leppiam	Kandu Leppiam		8.01392	-11.25309	A	ADM3	SL		01		9180346		0		167	Africa/Freetown	2014-07-09
+9180349	Kholifa Rowalla	Kholifa Rowalla		8.67352	-11.94404	A	ADM3	SL		02		9180349		0		77	Africa/Freetown	2014-07-09
+9180351	Tunkia	Tunkia		7.48728	-11.14188	A	ADM3	SL		01		9180351		0		204	Africa/Freetown	2014-07-09
+9180352	Nongowa	Nongowa		7.90338	-11.16301	A	ADM3	SL		01		9180352		0		166	Africa/Freetown	2014-07-09
+9180358	Lower Bambara	Lower Bambara		8.22414	-11.03301	A	ADM3	SL		01		9180358		0		223	Africa/Freetown	2014-07-09
+9180359	Wando	Wando		8.29842	-11.33522	A	ADM3	SL		01		9180359		0		161	Africa/Freetown	2014-07-09
+9180360	Nimiyama	Nimiyama		8.5565	-11.24754	A	ADM3	SL		01		9180360		0		297	Africa/Freetown	2014-07-09
+9180361	Nimikoro	Nimikoro		8.58036	-11.09537	A	ADM3	SL		01		9180361		0		411	Africa/Freetown	2014-07-09
+9180363	Small Bo	Small Bo		7.85651	-11.32867	A	ADM3	SL		01		9180363		0		131	Africa/Freetown	2014-07-09
+9180364	Fiama	Fiama		8.60937	-10.83336	A	ADM3	SL		01		9180364		0		465	Africa/Freetown	2014-07-09
+9180366	Gorama Kono	Gorama Kono		8.38727	-11.0879	A	ADM3	SL		01		9180366		0		408	Africa/Freetown	2014-07-09
+9180367	Sandor	Sandor		8.87099	-11.04574	A	ADM3	SL		01		9180367		0		398	Africa/Freetown	2014-07-09
+9180369	Soa	Soa		8.58094	-10.68612	A	ADM3	SL		01		9180369		0		373	Africa/Freetown	2014-07-09
+9180370	Gbane	Gbane		8.46902	-10.85457	A	ADM3	SL		01		9180370		0		301	Africa/Freetown	2014-07-09
+9180371	Yawei	Yawei		8.32947	-10.84135	A	ADM3	SL		01		9180371		0		296	Africa/Freetown	2014-07-09
+9180373	Buya Romende	Buya Romende		8.83737	-12.40962	A	ADM3	SL		02		9180373		0		61	Africa/Freetown	2014-07-09
+9180374	Malema	Malema		7.75383	-10.78535	A	ADM3	SL		01		9180374		0		340	Africa/Freetown	2014-07-09
+9180375	Peje Bongre	Peje Bongre	Peje Bongre Chiefdom	8.15641	-10.76719	A	ADM3	SL		01		9180375		0		201	Africa/Freetown	2016-07-10
+9180377	Jawei	Jawei	Jawei Chiefdom	7.8973	-10.87602	A	ADM3	SL		01		9180377		0		186	Africa/Freetown	2016-07-10
+9180378	Debia	Debia		8.95423	-12.52529	A	ADM3	SL		02		9180378		0		67	Africa/Freetown	2014-07-09
+9180379	Luawa	Luawa		8.22841	-10.54781	A	ADM3	SL		01		9180379		0		281	Africa/Freetown	2014-07-09
+9180380	Mandu	Mandu		7.98273	-10.73327	A	ADM3	SL		01		9180380		0		206	Africa/Freetown	2014-07-09
+9180381	Peje West	Peje West		8.19262	-10.81585	A	ADM3	SL		01		9180381		0		230	Africa/Freetown	2014-07-09
+9180382	Kissi Teng	Kissi Teng	Kissi Teng Chiefdom	8.39105	-10.3283	A	ADM3	SL		01		9180382		0		416	Africa/Freetown	2016-07-10
+9180384	Kissi Kama	Kissi Kama		8.39714	-10.40759	A	ADM3	SL		01		9180384		0		419	Africa/Freetown	2014-07-09
+9180387	Bum	Bum	Bum Chiefdom	7.39682	-11.95124	A	ADM3	SL		03		9180387		0		20	Africa/Freetown	2016-07-10
+9180388	Kpanda Kemo	Kpanda Kemo		7.56771	-12.01424	A	ADM3	SL		03		9180388		0		53	Africa/Freetown	2014-07-09
+9180390	Sowa	Sowa		7.52353	-11.64047	A	ADM3	SL		03		9180390		0		57	Africa/Freetown	2014-07-09
+9180391	Gallines Perri	Gallines Perri		7.28815	-11.56035	A	ADM3	SL		03		9180391		0		39	Africa/Freetown	2014-07-09
+9180393	Sengbe	Sengbe	Sengbe Chiefdom	9.57511	-11.27989	A	ADM3	SL		02		9180393		0		473	Africa/Freetown	2016-07-10
+9180395	Diang	Diang	Diang Chiefdom	9.32195	-11.57843	A	ADM3	SL		02		9180395		0		322	Africa/Freetown	2016-07-10
+9180396	Tikonko	Tikonko		7.81658	-11.76879	A	ADM3	SL		03		9180396		0		74	Africa/Freetown	2014-07-09
+9180397	Komboya	Komboya		8.24613	-11.49214	A	ADM3	SL		03		9180397		0		338	Africa/Freetown	2014-07-09
+9180398	Kasunko	Kasunko	Kasunko Chiefdom	9.48492	-11.80785	A	ADM3	SL		02		9180398		0		383	Africa/Freetown	2016-07-10
+9180400	Nieni	Nieni	Nieni Chiefdom	9.11882	-11.2748	A	ADM3	SL		02		9180400		0		376	Africa/Freetown	2016-07-10
+9180402	Folasaba	Folasaba		9.73554	-11.54061	A	ADM3	SL		02		9180402		0		421	Africa/Freetown	2014-07-09
+9180405	Dembelia Sinkunia	Dembelia Sinkunia	Dembelia Sikunia Chiefdom	9.93423	-11.48951	A	ADM3	SL		02		9180405		0		363	Africa/Freetown	2016-07-10
+9180407	Wara-Wara Bafodea	Wara-Wara Bafodea		9.7892	-11.77731	A	ADM3	SL		02		9180407		0		368	Africa/Freetown	2014-07-09
+9180408	Kissi Tongi	Kissi Tongi	Kissi Tongi Chiefdom	8.22858	-10.35352	A	ADM3	SL		01		9180408		0		415	Africa/Freetown	2016-07-10
+9180409	Konike Sanda	Konike Sanda		8.65916	-11.46824	A	ADM3	SL		02		9180409		0		386	Africa/Freetown	2014-07-09
+9180410	Penguia	Penguia		8.3315	-10.74002	A	ADM3	SL		01		9180410		0		322	Africa/Freetown	2014-07-09
+9180411	Magbema	Magbema	Magbema Chiefdom	9.04903	-12.88352	A	ADM3	SL		02		9180411		0		59	Africa/Freetown	2016-07-10
+9180413	Tambakha	Tambakha		9.75615	-12.13967	A	ADM3	SL		02		9180413		0		108	Africa/Freetown	2016-07-10
+9180414	Konike Barina	Konike Barina		8.57812	-11.63631	A	ADM3	SL		02		9180414		0		415	Africa/Freetown	2014-07-09
+9180415	Sanda Loko	Sanda Loko	Sanda Loko Chiefdom	9.41885	-12.1067	A	ADM3	SL		02		9180415		0		112	Africa/Freetown	2016-07-10
+9180416	Samu	Samu	Samu Chiefdom	8.99538	-13.10016	A	ADM3	SL		02		9180416		0		4	Africa/Freetown	2016-07-10
+9180417	Mambolo	Mambolo		8.88594	-13.00138	A	ADM3	SL		02		9180417		0		10	Africa/Freetown	2014-07-09
+9180418	Kafe Simiria	Kafe Simiria		8.83945	-11.72651	A	ADM3	SL		02		9180418		0		224	Africa/Freetown	2014-07-09
+9180419	Tane	Tane		8.65117	-11.80232	A	ADM3	SL		02		9180419		0		116	Africa/Freetown	2014-07-09
+9180421	Gbinle Dixing	Gbinle Dixing	Gbinle Dixing Chiefdom	9.15761	-12.94281	A	ADM3	SL		02		9180421		0		48	Africa/Freetown	2016-07-10
+9180422	Mongo	Mongo	Mongo Chiefdom	9.49356	-10.97877	A	ADM3	SL		02		9180422		0		517	Africa/Freetown	2016-07-10
+9180423	Masungbala	Masungbala		9.12279	-12.72566	A	ADM3	SL		02		9180423		0		64	Africa/Freetown	2016-07-10
+9180424	Tankoro	Tankoro		8.5612	-10.95797	A	ADM3	SL		01		9180424		0		409	Africa/Freetown	2014-07-10
+9180425	Sella Limba	Sella Limba	Sella Limba Chiefdom	9.50127	-12.22271	A	ADM3	SL		02		9180425		0		117	Africa/Freetown	2016-07-10
+9180426	Tonko Limba	Tonko Limba	Tonko Limba Chiefdom	9.32488	-12.5463	A	ADM3	SL		02		9180426		0		58	Africa/Freetown	2016-07-10
+9180427	Kalansongoia	Kalansongoia		9.06576	-11.71985	A	ADM3	SL		02		9180427		0		343	Africa/Freetown	2014-07-09
+9180428	Briama	Briama		9.39145	-12.67363	A	ADM3	SL		02		9180428		0		77	Africa/Freetown	2014-07-09
+9180429	Makpele	Makpele	Makpele Chiefdom	7.27653	-11.30709	A	ADM3	SL		03		9180429		0		78	Africa/Freetown	2016-07-11
+9180430	Kaffu Bullom	Kaffu Bullom	Kaffu Bullom Chiefdom	8.65213	-13.18221	A	ADM3	SL		02		9180430		0		13	Africa/Freetown	2016-07-10
+9180431	Gbanti Kamaranka	Gbanti Kamaranka		9.2847	-12.27778	A	ADM3	SL		02		9180431		0		71	Africa/Freetown	2016-07-10
+9180432	Soro Gbema	Soro Gbema	Soro Gbema Chiefdom	7.0607	-11.44814	A	ADM3	SL		03		9180432		0		31	Africa/Freetown	2016-07-11
+9180434	Loko Massama	Loko Massama		8.76101	-13.032	A	ADM3	SL		02		9180434		0		17	Africa/Freetown	2014-07-09
+9180435	Neya	Neya		9.08759	-10.84755	A	ADM3	SL		02		9180435		0		510	Africa/Freetown	2014-07-09
+9180436	Marampa	Marampa		8.64126	-12.4201	A	ADM3	SL		02		9180436		0		63	Africa/Freetown	2014-07-09
+9180437	Bureh Kaseh	Bureh Kaseh		8.94804	-12.05984	A	ADM3	SL		02		9180437		0		76	Africa/Freetown	2014-07-09
+9180438	Wara-Wara Yagala	Wara-Wara Yagala		9.5498	-11.59771	A	ADM3	SL		02		9180438		0		502	Africa/Freetown	2014-07-09
+9180449	Sanda Magbolontor	Sanda Magbolontor		9.13698	-12.54585	A	ADM3	SL		02		9180449		0		55	Africa/Freetown	2014-07-09
+9180456	Gorama Mende	Gorama Mende		8.44037	-11.39434	A	ADM3	SL		01		9180456		0		339	Africa/Freetown	2014-07-09
+9180458	Malegohun	Malegohun		8.1522	-10.92511	A	ADM3	SL		01		9180458		0		191	Africa/Freetown	2014-07-09
+9180460	Simbaru	Simbaru		8.15733	-11.30659	A	ADM3	SL		01		9180460		0		150	Africa/Freetown	2014-07-09
+9180463	Dodo	Dodo		8.18009	-11.18281	A	ADM3	SL		01		9180463		0		386	Africa/Freetown	2014-07-09
+9180466	Nomo	Nomo		7.55846	-10.92606	A	ADM3	SL		01		9180466		0		308	Africa/Freetown	2014-07-09
+9180468	Langurama	Langurama		7.63157	-11.43769	A	ADM3	SL		01		9180468		0		100	Africa/Freetown	2014-07-09
+9190915	Kagboro	Kagboro		7.92484	-12.74886	A	ADM3	SL		03		9190915		0		11	Africa/Freetown	2014-07-10
+9191977	Gbense	Gbense		8.70303	-10.91499	A	ADM3	SL		01		9191977		0		405	Africa/Freetown	2014-07-10
+9192010	Kamara	Kamara		8.71347	-11.02105	A	ADM3	SL		01		9192010		0		356	Africa/Freetown	2014-07-10
+9192119	Toli	Toli		8.96921	-10.6443	A	ADM3	SL		01		9192119		0		561	Africa/Freetown	2014-07-10
+9192337	Mafindor	Mafindor		8.68741	-10.51951	A	ADM3	SL		01		9192337		0		333	Africa/Freetown	2014-07-10
+9192407	Gbane Kandor	Gbane Kandor		8.6405	-10.56747	A	ADM3	SL		01		9192407		0		295	Africa/Freetown	2014-07-10
+9192661	Follosaba Dembelia	Follosaba Dembelia		9.78856	-11.54915	A	ADM3	SL		02		9192661		0		396	Africa/Freetown	2014-07-10
+9813767	Njaluahun Chiefdom	Njaluahun Chiefdom	Jalahun,Njaluahun,Njaluahun Chiefdom,Njaluwahun	8.0158	-10.91747	A	ADM3	SL		01		9813767		0		189	Africa/Freetown	2014-11-07
+9813768	Jawie	Jawie	Jawie,Jawie Chiefdom	7.89225	-10.89122	A	ADM3	SL		01		9813768		0		177	Africa/Freetown	2014-11-07
+9813769	Upper Bambara Chiefdom	Upper Bambara Chiefdom	Upper Bambara,Upper Bambara Chiefdom	8.09842	-10.68042	A	ADM3	SL		01		9813769		0		209	Africa/Freetown	2014-11-07
+9813770	Dea	Dea	Dea,Dea Chiefdom,Dia	7.95402	-10.64799	A	ADM3	SL		01		9813770		0		205	Africa/Freetown	2014-11-07
+9813970	Wandor Chiefdom	Wandor Chiefdom	Falla Wandor,Wandor,Wandor Chiefdom	8.31925	-11.36763	A	ADM3	SL		01		9813970		0		322	Africa/Freetown	2014-11-07
+9813971	Kandu Leppiama Chiefdom	Kandu Leppiama Chiefdom	Kando Leppeama,Kandu Lekpeama,Kandu Leppiama,Kandu Leppiama Chiefdom	8.0351	-11.29042	A	ADM3	SL		01		9813971		0		159	Africa/Freetown	2014-11-07
+9813972	Langrama Chiefdom	Langrama Chiefdom	Langorama,Langrama,Langrama Chiefdom	7.66756	-11.47728	A	ADM3	SL		01		9813972		0		107	Africa/Freetown	2014-11-07
+9813979	Paki Masabong Chiefdom	Paki Masabong Chiefdom	Paki Masabong,Paki Masabong Chiefdom,Paki Massabong Chiefdom	8.81153	-11.94454	A	ADM3	SL		02		9813979		0		98	Africa/Freetown	2016-07-10
+9813980	Libeisaygahun Chiefdom	Libeisaygahun Chiefdom	Leibasgayahun,Libeisaygahun,Libeisaygahun Chiefdom	9.01148	-12.44028	A	ADM3	SL		02		9813980		0		66	Africa/Freetown	2016-07-10
+9813981	Sanda Tendaren Chiefdom	Sanda Tendaren Chiefdom	Sanda Tendaran,Sanda Tendaren,Sanda Tendaren Chiefdom,Sandra Tendaren	9.16186	-12.3213	A	ADM3	SL		02		9813981		0		56	Africa/Freetown	2016-07-10
+9813982	Magbaimba Ndorhahun Chiefdom	Magbaimba Ndorhahun Chiefdom	Magbaiamba Ndowahun Chiefdom,Magbaiamba Ngowahua,Magbaimba Ndorhahun,Magbaimba Ndorhahun Chiefdom,Magbemba Gowahun	9.30562	-12.06021	A	ADM3	SL		02		9813982		0		116	Africa/Freetown	2016-07-10
+9813983	Gbendembu Ngowahun Chiefdom	Gbendembu Ngowahun Chiefdom	Gbendembu Ngowahun,Gbendembu Ngowahun Chiefdom	9.05775	-12.1858	A	ADM3	SL		02		9813983		0		69	Africa/Freetown	2016-07-10
+9813984	Safroko Limba Chiefdom	Safroko Limba Chiefdom	Safroko Limba,Safroko Limba Chiefdom	8.98009	-11.92801	A	ADM3	SL		02		9813984		0		103	Africa/Freetown	2016-07-10
+9813985	Biriwa Chiefdom	Biriwa Chiefdom	Biriwa,Biriwa Chiefdom	9.27257	-11.91644	A	ADM3	SL		02		9813985		0		315	Africa/Freetown	2014-11-07
+9813995	Bramaia Chiefdom	Bramaia Chiefdom	Bramaia,Bramaia Chiefdom,Bramala	9.39899	-12.67245	A	ADM3	SL		02		9813995		0		71	Africa/Freetown	2016-07-10
+9813996	Wara Wara Bafodia Chiefdom	Wara Wara Bafodia Chiefdom	Wara Wara Bafodia,Wara Wara Bafodia Chiefdom	9.78319	-11.79086	A	ADM3	SL		02		9813996		0		393	Africa/Freetown	2016-07-10
+9813997	Sulima Chiefdom	Sulima Chiefdom	Sulima,Sulima Chiefdom	9.81789	-11.25545	A	ADM3	SL		02		9813997		0		435	Africa/Freetown	2016-07-10
+9813998	Bureh Kasseh Makonteh Chiefdom	Bureh Kasseh Makonteh Chiefdom	BKM,Bureh,Bureh Kasseh Makonteh,Bureh Kasseh Makonteh Chiefdom	8.94208	-12.78317	A	ADM3	SL		02		9813998		0		47	Africa/Freetown	2014-11-07
+9813999	Dibia Chiefdom	Dibia Chiefdom	Dibia,Dibia Chiefdom	8.94373	-12.61296	A	ADM3	SL		02		9813999		0		52	Africa/Freetown	2014-11-07
+9814000	Kholifa Mabang Chiefdom	Kholifa Mabang Chiefdom	Kholifa Mabang,Kholifa Mabang Chiefdom	8.54879	-12.17258	A	ADM3	SL		02		9814000		0		62	Africa/Freetown	2014-11-07
+9814001	Gbonkolenken Chiefdom	Gbonkolenken Chiefdom	Gbonkolenken,Gbonkolenken Chiefdom	8.47608	-11.89331	A	ADM3	SL		02		9814001		0		75	Africa/Freetown	2014-11-07
+9814002	Sambaia Bendugu Chiefdom	Sambaia Bendugu Chiefdom	Sambaia Bendugu,Sambaia Bendugu Chiefdom,Sambaya	9.01314	-11.56116	A	ADM3	SL		02		9814002		0		463	Africa/Freetown	2014-11-07
+9814003	Kalansogoia Chiefdom	Kalansogoia Chiefdom	Kalansogia,Kalansogoia,Kalansogoia Chiefdom	9.10567	-11.7545	A	ADM3	SL		02		9814003		0		409	Africa/Freetown	2014-11-07
+9814004	Badjia Chiefdom	Badjia Chiefdom	Badjia,Badjia Chiefdom	8.09188	-11.42153	A	ADM3	SL		03		9814004		0		243	Africa/Freetown	2014-11-07
+9814005	Bagbe Chiefdom	Bagbe Chiefdom	Bagbe,Bagbe Chiefdom,Bagbwe	8.08362	-11.54381	A	ADM3	SL		03		9814005		0		123	Africa/Freetown	2014-11-07
+9814006	Bagbo Chiefdom	Bagbo Chiefdom	Bagbo,Bagbo Chiefdom	7.60275	-11.85613	A	ADM3	SL		03		9814006		0		57	Africa/Freetown	2014-11-07
+9814007	Baoma Chiefdom	Baoma Chiefdom	Baoma,Baoma Chiefdom,Boama	7.93985	-11.47936	A	ADM3	SL		03		9814007		0		129	Africa/Freetown	2014-11-07
+9814008	Bumpe Ngawo Chiefdom	Bumpe Ngawo Chiefdom	Bumpe Ngao,Bumpe Ngawo,Bumpe Ngawo Chiefdom,Bumpeh	7.85558	-12.0065	A	ADM3	SL		03		9814008		0		57	Africa/Freetown	2014-11-07
+9814009	Jaiama Bongor Chiefdom	Jaiama Bongor Chiefdom	Jaiama Bongor,Jaiama Bongor Chiefdom,Jiama-Bongor	7.77295	-11.62644	A	ADM3	SL		03		9814009		0		96	Africa/Freetown	2014-11-07
+9814010	Lugbu Chiefdom	Lugbu Chiefdom	Lugbu,Lugbu Chiefdom	7.69198	-11.89248	A	ADM3	SL		03		9814010		0		42	Africa/Freetown	2014-11-07
+9814011	Niawa Lenga Chiefdom	Niawa Lenga Chiefdom	Niawa Lenga,Niawa Lenga Chiefdom	8.14476	-11.62478	A	ADM3	SL		03		9814011		0		153	Africa/Freetown	2014-11-07
+9814012	Selenga Chiefdom	Selenga Chiefdom	Selenga,Selenga Chiefdom,Sielenga	8.11832	-11.73219	A	ADM3	SL		03		9814012		0		102	Africa/Freetown	2014-11-07
+9814013	Valunia Chiefdom	Valunia Chiefdom	Valunia,Valunia Chiefdom	8.31166	-11.68592	A	ADM3	SL		03		9814013		0		130	Africa/Freetown	2014-11-07
+9814014	Wonde Chiefdom	Wonde Chiefdom	Wonde,Wonde Chiefdom,Wunde	7.70025	-11.55042	A	ADM3	SL		03		9814014		0		145	Africa/Freetown	2014-11-07
+9814015	Yawbeko Chiefdom	Yawbeko Chiefdom	Yawbeko,Yawbeko Chiefdom	7.43916	-12.13457	A	ADM3	SL		03		9814015		0		5	Africa/Freetown	2014-11-07
+9814016	Jong Chiefdom	Jong Chiefdom	Jong,Jong Chiefdom	7.59449	-12.21719	A	ADM3	SL		03		9814016		0		9	Africa/Freetown	2014-11-07
+9814017	Bendu-Cha Chiefdom	Bendu-Cha Chiefdom	Bendu-Cha,Bendu-Cha Chiefdom,Benducha	7.48212	-12.39153	A	ADM3	SL		03		9814017		0		12	Africa/Freetown	2014-11-07
+9814018	Nongoba Bullom Chiefdom	Nongoba Bullom Chiefdom	Nongoba Bullom,Nongoba Bullom Chiefdom	7.37801	-12.24776	A	ADM3	SL		03		9814018		0		2	Africa/Freetown	2014-11-07
+9814019	Sittia Chiefdom	Sittia Chiefdom	Sittia,Sittia Chiefdom	7.56392	-12.63362	A	ADM3	SL		03		9814019		0		7	Africa/Freetown	2014-11-07
+9814020	Kwamebai Krim Chiefdom	Kwamebai Krim Chiefdom	Kwamabai Krim,Kwamebai Krim,Kwamebai Krim Chiefdom	7.27804	-11.99411	A	ADM3	SL		03		9814020		0		12	Africa/Freetown	2014-11-07
+9814021	Imperi Chiefdom	Imperi Chiefdom	Imperi,Imperi Chiefdom,Imperri	7.66389	-12.4064	A	ADM3	SL		03		9814021		0		24	Africa/Freetown	2014-11-07
+9814022	Dema Chiefdom	Dema Chiefdom	Dema,Dema Chiefdom	7.57507	-12.94552	A	ADM3	SL		03		9814022		0		6	Africa/Freetown	2014-11-07
+9814023	Sogbini Chiefdom	Sogbini Chiefdom	Sogbeni,Sogbini,Sogbini Chiefdom	7.53706	-12.09491	A	ADM3	SL		03		9814023		0		16	Africa/Freetown	2014-11-07
+9814024	Pejeh Chiefdom	Pejeh Chiefdom	Futa Peje,Pejeh,Pejeh Chiefdom	7.55109	-11.5428	A	ADM3	SL		03		9814024		0		77	Africa/Freetown	2014-11-07
+9814025	Barri Chiefdom	Barri Chiefdom	Barri,Barri Chiefdom	7.46208	-11.42685	A	ADM3	SL		03		9814025		0		78	Africa/Freetown	2014-11-07
+9814026	Gallinasperi Chiefdom	Gallinasperi Chiefdom	Gallinas Peri,Gallinasperi,Gallinasperi Chiefdom,Galliness Perri	7.29929	-11.56154	A	ADM3	SL		03		9814026		0		51	Africa/Freetown	2014-11-07
+9814027	Kpaka Chiefdom	Kpaka Chiefdom	Kpaka,Kpaka Chiefdom,Kpata	7.16929	-11.62947	A	ADM3	SL		03		9814027		0		30	Africa/Freetown	2016-07-10
+9814028	Panga Krim Chiefdom	Panga Krim Chiefdom	Panga Krim,Panga Krim Chiefdom	7.32271	-11.76767	A	ADM3	SL		03		9814028		0		43	Africa/Freetown	2016-07-11
+9814029	Panga-Kabonde Chiefdom	Panga-Kabonde Chiefdom	Kpanga-Kabonde,Panga-Kabonde,Panga-Kabonde Chiefdom	7.42109	-11.76181	A	ADM3	SL		03		9814029		0		33	Africa/Freetown	2014-11-07
+9814030	Yakemo-Kpukumu Krim Chiefdom	Yakemo-Kpukumu Krim Chiefdom	Yakemo-Kpukumu Krim,Yakemo-Kpukumu Krim Chiefdom,Yakemu Kpukumu,Yatema-Kputumu Krim	7.22082	-11.78992	A	ADM3	SL		03		9814030		0		22	Africa/Freetown	2014-11-07
+9814031	Malen Chiefdom	Malen Chiefdom	Malen,Malen Chiefdom	7.51361	-11.80631	A	ADM3	SL		03		9814031		0		49	Africa/Freetown	2016-07-11
+9814032	Mano Sakrim Chiefdom	Mano Sakrim Chiefdom	Mano Sakrim,Mano Sakrim Chiefdom,Mano Satrim,Mono Sakrim	7.14235	-11.78055	A	ADM3	SL		03		9814032		0		2	Africa/Freetown	2016-07-11
+9814033	Bumpeh Chiefdom	Bumpeh Chiefdom	Bumpe,Bumpeh,Bumpeh Chiefdom	8.13316	-12.72568	A	ADM3	SL		03		9814033		0		17	Africa/Freetown	2016-07-11
+9814034	Ribbi Chiefdom	Ribbi Chiefdom	Ribbi,Ribbi Chiefdom,Rissi	8.28893	-12.81586	A	ADM3	SL		03		9814034		0		14	Africa/Freetown	2014-11-07
+9814035	Kongbora Chiefdom	Kongbora Chiefdom	Kangbara,Kongbora,Kongbora Chiefdom	8.18001	-12.55586	A	ADM3	SL		03		9814035		0		40	Africa/Freetown	2016-07-11
+9814036	Kaiyamba Chiefdom	Kaiyamba Chiefdom	Kaiyamba,Kaiyamba Chiefdom	8.11911	-12.39541	A	ADM3	SL		03		9814036		0		60	Africa/Freetown	2014-11-07
+9814037	Bagruwa Chiefdom	Bagruwa Chiefdom	Bagrawa,Bagruwa,Bagruwa Chiefdom	7.92001	-12.50784	A	ADM3	SL		03		9814037		0		15	Africa/Freetown	2014-11-07
+9814038	Timdale Chiefdom	Timdale Chiefdom	Timdale,Timdale Chiefdom,Timdel,Timdele	7.7865	-12.67181	A	ADM3	SL		03		9814038		0		21	Africa/Freetown	2014-11-07
+9814039	Dasse Chiefdom	Dasse Chiefdom	Dassa,Dasse,Dasse Chiefdom	8.02541	-12.16001	A	ADM3	SL		03		9814039		0		58	Africa/Freetown	2014-11-07
+9814040	Kamajei Chiefdom	Kamajei Chiefdom	Kamajei,Kamajei Chiefdom,Kamajel	8.24794	-11.89649	A	ADM3	SL		03		9814040		0		72	Africa/Freetown	2014-11-07
+9814041	Lower Banta Chiefdom	Lower Banta Chiefdom	Banta Gbangabatoke,Banta Gbangbalate,Banta Gbangbatoke,Lower Banta,Lower Banta Chiefdom	7.86028	-12.26424	A	ADM3	SL		03		9814041		0		47	Africa/Freetown	2014-11-07
+9814042	Upper Banta Chiefdom	Upper Banta Chiefdom	Banta Matele,Banta Mokele,Upper Banta,Upper Banta Chiefdom	7.73496	-12.18226	A	ADM3	SL		03		9814042		0		26	Africa/Freetown	2014-11-07
+9815398	York Rural Ward	York Rural Ward	York Rural,York Rural Ward	8.31863	-13.17526	A	ADM3	SL		04		9815398		0		135	Africa/Freetown	2016-07-11
+9815453	Mountain Rural Ward	Mountain Rural Ward	Mountain,Mountain Rural,Mountain Rural Ward	8.43686	-13.21266	A	ADM3	SL		04		9815453		0		345	Africa/Freetown	2014-11-07
+9815454	Waterloo Rural Ward	Waterloo Rural Ward	Waterloo,Waterloo Rural,Waterloo Rural Ward	8.35537	-13.11314	A	ADM3	SL		04		9815454		0		268	Africa/Freetown	2016-07-11
+9815455	Koya Rural Ward	Koya Rural Ward	Koya,Koya Rural,Koya Rural Ward	8.3173	-12.98757	A	ADM3	SL		04		9815455		0		7	Africa/Freetown	2014-11-07
+9815456	West Three Ward	West Three Ward	West Three,West Three Ward	8.46675	-13.26961	A	ADM3	SL		04		9815456		0		73	Africa/Freetown	2014-11-07
+9815457	West Two Ward	West Two Ward	West Two,West Two Ward	8.46759	-13.24306	A	ADM3	SL		04		9815457		0		153	Africa/Freetown	2014-11-07
+9815458	West One Ward	West One Ward	West One,West One Ward	8.48295	-13.24706	A	ADM3	SL		04		9815458		0		22	Africa/Freetown	2014-11-07
+9816226	Central Two Ward	Central Two Ward	Central Two,Central Two Ward	8.48545	-13.23846	A	ADM3	SL		04		9816226		0		27	Africa/Freetown	2014-11-07
+9816228	Central One Ward	Central One Ward	Central One,Central One Ward	8.47936	-13.23162	A	ADM3	SL		04		9816228		0		84	Africa/Freetown	2014-11-07
+9816230	East Two Ward	East Two Ward	East Two,East Two Ward	8.4812	-13.21867	A	ADM3	SL		04		9816230		0		110	Africa/Freetown	2014-11-07
+9816233	East One Ward	East One Ward	East One,East One Ward	8.48821	-13.21325	A	ADM3	SL		04		9816233		0		24	Africa/Freetown	2014-11-07
+9816234	East Three Ward	East Three Ward	East Three,East Three Ward	8.44613	-13.17417	A	ADM3	SL		04		9816234		0		71	Africa/Freetown	2014-11-07
+9816361	Bo Town	Bo Town		7.95765	-11.73628	A	ADM3	SL		03		9816361		0		92	Africa/Freetown	2014-11-07
+9816365	Makeni Town	Makeni Town	Makeni Town	8.87404	-12.04717	A	ADM3	SL		02		9816365		0		89	Africa/Freetown	2016-07-11
+9816368	Bonthe Town	Bonthe Town	Bonthe Town,Bonthe Urban	7.53161	-12.51901	A	ADM3	SL		03		9816368		0		3	Africa/Freetown	2014-11-07
+9816370	Kenema Town	Kenema Town		7.87554	-11.18809	A	ADM3	SL		01		9816370		0		174	Africa/Freetown	2014-11-07
+9816372	Koidu Town	Koidu Town		8.64442	-10.98121	A	ADM3	SL		01		9816372		0		384	Africa/Freetown	2014-11-07
+11205135	Njai Town	Njai Town		7.97637	-11.733	A	ADM4	SL		03			11205135	0		98	Africa/Freetown	2016-07-27
+11238176	Nikibu	Nikibu		7.9591	-11.7534	A	ADM4	SL		03			11238176	0		87	Africa/Freetown	2016-08-20

@@ -1,0 +1,2770 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://purl.obolibrary.org/obo/geo/sl-admin-level-three.owl#"
+     xml:base="http://purl.obolibrary.org/obo/geo/sl-admin-level-three.owl"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:obo="http://purl.obolibrary.org/obo/">
+    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/geo/sl-admin-level-three.owl">
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/sl-admin-level-two.owl"/>
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000035333 -->
+
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/GEO_000035333"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068531 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068531">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068512"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180277</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180277</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Kowa</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Kowa</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068532 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068532">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068512"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180279</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180279</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Fakunya</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Fakunya</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068533 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068533">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068513"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180284</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180284</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Koya</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Koya</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068534 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068534">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068513"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180292</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180292</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Tinkatupa Maka Safroko</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">T.M. Safroko</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">TMS</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Tinkatupa Maka Safroko</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068535 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068535">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068514"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180294</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180294</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Koya</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Koya</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068536 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068536">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068513"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180304</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180304</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Makari Gbanti</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Makari Gbanti</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068537 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068537">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068513"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180307</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180307</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Bombali Shebora</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Bombali Shebora</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068538 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068538">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068513"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180311</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180311</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Malal Mara</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Malal Mara</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068539 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068539">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068512"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180314</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180314</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Gbo</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Gbo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068540 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068540">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068512"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180318</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180318</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Kakua</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Kakua</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068541 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068541">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068512"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180321</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180321</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Kori</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Kori</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068542 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068542">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068513"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180323</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180323</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Yoni</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Yoni</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068543 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068543">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068513"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180324</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180324</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Masimera</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Masimera</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068544 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068544">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068513"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180327</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180327</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Maforki</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Maforki</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068545 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068545">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068511"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180331</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180331</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Freetown</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Freetown</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068546 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068546">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068514"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180333</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180333</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Lei</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Lei</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068547 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068547">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068514"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180341</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180341</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Gaura</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Gaura</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068548 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068548">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068514"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180344</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180344</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Niawa</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Niawa</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068549 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068549">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068514"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180345</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180345</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Dama</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Dama</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068550 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068550">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068514"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180346</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180346</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Kandu Leppiam</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Kandu Leppiam</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068551 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068551">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068513"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180349</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180349</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Kholifa Rowalla</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Kholifa Rowalla</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068552 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068552">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068514"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180351</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180351</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Tunkia</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Tunkia</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068553 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068553">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068514"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180352</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180352</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Nongowa</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Nongowa</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068554 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068554">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068514"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180358</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180358</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Lower Bambara</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Lower Bambara</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068555 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068555">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068514"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180359</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180359</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Wando</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Wando</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068556 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068556">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068514"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180360</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180360</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Nimiyama</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Nimiyama</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068557 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068557">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068514"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180361</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180361</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Nimikoro</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Nimikoro</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068558 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068558">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068514"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180363</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180363</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Small Bo</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Small Bo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068559 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068559">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068514"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180364</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180364</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Fiama</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Fiama</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068560 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068560">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068514"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180366</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180366</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Gorama Kono</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Gorama Kono</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068561 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068561">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068514"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180367</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180367</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Sandor</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Sandor</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068562 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068562">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068514"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180369</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180369</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Soa</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Soa</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068563 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068563">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068514"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180370</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180370</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Gbane</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Gbane</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068564 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068564">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068514"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180371</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180371</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Yawei</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Yawei</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068565 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068565">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068513"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180373</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180373</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Buya Romende</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Buya Romende</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068566 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068566">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068514"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180374</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180374</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Malema</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Malema</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068567 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068567">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068514"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180375</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180375</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Peje Bongre</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Peje Bongre Chiefdom</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Peje Bongre</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068568 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068568">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068514"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180377</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180377</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Jawei</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jawei Chiefdom</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Jawei</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068569 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068569">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068513"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180378</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180378</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Debia</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Debia</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068570 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068570">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068514"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180379</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180379</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Luawa</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Luawa</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068571 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068571">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068514"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180380</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180380</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Mandu</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Mandu</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068572 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068572">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068514"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180381</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180381</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Peje West</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Peje West</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068573 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068573">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068514"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180382</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180382</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Kissi Teng</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kissi Teng Chiefdom</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Kissi Teng</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068574 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068574">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068514"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180384</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180384</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Kissi Kama</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Kissi Kama</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068575 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068575">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068512"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180387</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180387</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Bum</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bum Chiefdom</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Bum</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068576 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068576">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068512"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180388</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180388</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Kpanda Kemo</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Kpanda Kemo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068577 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068577">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068512"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180390</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180390</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Sowa</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Sowa</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068578 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068578">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068512"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180391</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180391</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Gallines Perri</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Gallines Perri</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068579 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068579">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068513"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180393</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180393</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Sengbe</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sengbe Chiefdom</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Sengbe</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068580 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068580">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068513"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180395</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180395</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Diang</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Diang Chiefdom</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Diang</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068581 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068581">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068512"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180396</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180396</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Tikonko</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Tikonko</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068582 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068582">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068512"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180397</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180397</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Komboya</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Komboya</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068583 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068583">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068513"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180398</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180398</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Kasunko</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kasunko Chiefdom</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Kasunko</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068584 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068584">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068513"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180400</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180400</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Nieni</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nieni Chiefdom</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Nieni</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068585 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068585">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068513"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180402</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180402</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Folasaba</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Folasaba</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068586 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068586">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068513"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180405</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180405</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Dembelia Sinkunia</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dembelia Sikunia Chiefdom</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Dembelia Sinkunia</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068587 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068587">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068513"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180407</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180407</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Wara-Wara Bafodea</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Wara-Wara Bafodea</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068588 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068588">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068514"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180408</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180408</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Kissi Tongi</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kissi Tongi Chiefdom</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Kissi Tongi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068589 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068589">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068513"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180409</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180409</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Konike Sanda</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Konike Sanda</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068590 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068590">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068514"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180410</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180410</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Penguia</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Penguia</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068591 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068591">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068513"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180411</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180411</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Magbema</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Magbema Chiefdom</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Magbema</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068592 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068592">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068513"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180413</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180413</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Tambakha</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Tambakha</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068593 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068593">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068513"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180414</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180414</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Konike Barina</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Konike Barina</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068594 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068594">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068513"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180415</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180415</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Sanda Loko</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sanda Loko Chiefdom</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Sanda Loko</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068595 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068595">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068513"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180416</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180416</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Samu</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Samu Chiefdom</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Samu</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068596 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068596">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068513"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180417</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180417</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Mambolo</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Mambolo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068597 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068597">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068513"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180418</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180418</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Kafe Simiria</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Kafe Simiria</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068598 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068598">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068513"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180419</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180419</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Tane</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Tane</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068599 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068599">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068513"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180421</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180421</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Gbinle Dixing</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gbinle Dixing Chiefdom</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Gbinle Dixing</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068600 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068600">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068513"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180422</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180422</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Mongo</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mongo Chiefdom</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Mongo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068601 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068601">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068513"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180423</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180423</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Masungbala</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Masungbala</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068602 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068602">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068514"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180424</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180424</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Tankoro</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Tankoro</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068603 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068603">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068513"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180425</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180425</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Sella Limba</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sella Limba Chiefdom</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Sella Limba</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068604 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068604">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068513"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180426</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180426</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Tonko Limba</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tonko Limba Chiefdom</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Tonko Limba</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068605 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068605">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068513"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180427</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180427</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Kalansongoia</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Kalansongoia</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068606 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068606">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068513"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180428</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180428</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Briama</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Briama</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068607 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068607">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068512"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180429</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180429</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Makpele</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Makpele Chiefdom</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Makpele</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068608 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068608">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068513"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180430</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180430</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Kaffu Bullom</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kaffu Bullom Chiefdom</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Kaffu Bullom</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068609 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068609">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068513"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180431</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180431</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Gbanti Kamaranka</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Gbanti Kamaranka</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068610 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068610">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068512"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180432</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180432</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Soro Gbema</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Soro Gbema Chiefdom</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Soro Gbema</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068611 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068611">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068513"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180434</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180434</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Loko Massama</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Loko Massama</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068612 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068612">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068513"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180435</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180435</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Neya</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Neya</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068613 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068613">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068513"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180436</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180436</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Marampa</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Marampa</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068614 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068614">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068513"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180437</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180437</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Bureh Kaseh</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Bureh Kaseh</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068615 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068615">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068513"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180438</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180438</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Wara-Wara Yagala</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Wara-Wara Yagala</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068616 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068616">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068513"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180449</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180449</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Sanda Magbolontor</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Sanda Magbolontor</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068617 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068617">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068514"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180456</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180456</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Gorama Mende</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Gorama Mende</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068618 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068618">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068514"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180458</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180458</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Malegohun</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Malegohun</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068619 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068619">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068514"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180460</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180460</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Simbaru</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Simbaru</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068620 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068620">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068514"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180463</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180463</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Dodo</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Dodo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068621 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068621">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068514"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180466</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180466</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Nomo</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Nomo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068622 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068622">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068514"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180468</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9180468</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Langurama</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Langurama</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068623 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068623">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068512"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9190915</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9190915</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Kagboro</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Kagboro</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068624 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068624">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068514"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9191977</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9191977</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Gbense</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Gbense</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068625 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068625">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068514"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9192010</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9192010</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Kamara</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Kamara</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068626 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068626">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068514"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9192119</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9192119</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Toli</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Toli</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068627 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068627">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068514"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9192337</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9192337</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Mafindor</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Mafindor</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068628 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068628">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068514"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9192407</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9192407</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Gbane Kandor</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Gbane Kandor</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068629 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068629">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068513"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9192661</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9192661</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Follosaba Dembelia</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Follosaba Dembelia</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068630 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068630">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068514"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9813767</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9813767</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Njaluahun Chiefdom</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jalahun</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Njaluahun</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Njaluahun Chiefdom</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Njaluwahun</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Njaluahun Chiefdom</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068631 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068631">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068514"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9813768</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9813768</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Jawie</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jawie</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jawie Chiefdom</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Jawie</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068632 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068632">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068514"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9813769</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9813769</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Upper Bambara Chiefdom</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Upper Bambara</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Upper Bambara Chiefdom</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Upper Bambara Chiefdom</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068633 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068633">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068514"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9813770</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9813770</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Dea</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dea</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dea Chiefdom</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dia</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Dea</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068634 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068634">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068514"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9813970</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9813970</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Wandor Chiefdom</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Falla Wandor</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wandor</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wandor Chiefdom</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Wandor Chiefdom</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068635 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068635">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068514"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9813971</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9813971</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Kandu Leppiama Chiefdom</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kando Leppeama</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kandu Lekpeama</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kandu Leppiama</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kandu Leppiama Chiefdom</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Kandu Leppiama Chiefdom</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068636 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068636">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068514"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9813972</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9813972</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Langrama Chiefdom</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Langorama</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Langrama</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Langrama Chiefdom</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Langrama Chiefdom</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068637 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068637">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068513"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9813979</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9813979</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Paki Masabong Chiefdom</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paki Masabong</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paki Masabong Chiefdom</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paki Massabong Chiefdom</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Paki Masabong Chiefdom</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068638 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068638">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068513"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9813980</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9813980</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Libeisaygahun Chiefdom</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Leibasgayahun</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Libeisaygahun</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Libeisaygahun Chiefdom</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Libeisaygahun Chiefdom</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068639 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068639">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068513"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9813981</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9813981</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Sanda Tendaren Chiefdom</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sanda Tendaran</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sanda Tendaren</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sanda Tendaren Chiefdom</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sandra Tendaren</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Sanda Tendaren Chiefdom</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068640 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068640">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068513"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9813982</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9813982</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Magbaimba Ndorhahun Chiefdom</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Magbaiamba Ndowahun Chiefdom</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Magbaiamba Ngowahua</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Magbaimba Ndorhahun</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Magbaimba Ndorhahun Chiefdom</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Magbemba Gowahun</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Magbaimba Ndorhahun Chiefdom</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068641 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068641">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068513"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9813983</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9813983</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Gbendembu Ngowahun Chiefdom</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gbendembu Ngowahun</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gbendembu Ngowahun Chiefdom</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Gbendembu Ngowahun Chiefdom</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068642 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068642">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068513"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9813984</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9813984</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Safroko Limba Chiefdom</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Safroko Limba</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Safroko Limba Chiefdom</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Safroko Limba Chiefdom</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068643 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068643">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068513"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9813985</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9813985</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Biriwa Chiefdom</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biriwa</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biriwa Chiefdom</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Biriwa Chiefdom</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068644 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068644">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068513"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9813995</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9813995</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Bramaia Chiefdom</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bramaia</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bramaia Chiefdom</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bramala</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Bramaia Chiefdom</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068645 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068645">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068513"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9813996</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9813996</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Wara Wara Bafodia Chiefdom</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wara Wara Bafodia</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wara Wara Bafodia Chiefdom</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Wara Wara Bafodia Chiefdom</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068646 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068646">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068513"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9813997</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9813997</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Sulima Chiefdom</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sulima</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sulima Chiefdom</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Sulima Chiefdom</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068647 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068647">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068513"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9813998</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9813998</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Bureh Kasseh Makonteh Chiefdom</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BKM</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bureh</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bureh Kasseh Makonteh</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bureh Kasseh Makonteh Chiefdom</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Bureh Kasseh Makonteh Chiefdom</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068648 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068648">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068513"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9813999</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9813999</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Dibia Chiefdom</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dibia</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dibia Chiefdom</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Dibia Chiefdom</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068649 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068649">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068513"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9814000</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9814000</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Kholifa Mabang Chiefdom</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kholifa Mabang</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kholifa Mabang Chiefdom</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Kholifa Mabang Chiefdom</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068650 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068650">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068513"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9814001</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9814001</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Gbonkolenken Chiefdom</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gbonkolenken</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gbonkolenken Chiefdom</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Gbonkolenken Chiefdom</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068651 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068651">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068513"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9814002</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9814002</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Sambaia Bendugu Chiefdom</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sambaia Bendugu</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sambaia Bendugu Chiefdom</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sambaya</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Sambaia Bendugu Chiefdom</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068652 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068652">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068513"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9814003</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9814003</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Kalansogoia Chiefdom</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kalansogia</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kalansogoia</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kalansogoia Chiefdom</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Kalansogoia Chiefdom</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068653 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068653">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068512"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9814004</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9814004</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Badjia Chiefdom</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Badjia</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Badjia Chiefdom</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Badjia Chiefdom</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068654 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068654">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068512"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9814005</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9814005</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Bagbe Chiefdom</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bagbe</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bagbe Chiefdom</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bagbwe</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Bagbe Chiefdom</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068655 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068655">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068512"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9814006</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9814006</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Bagbo Chiefdom</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bagbo</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bagbo Chiefdom</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Bagbo Chiefdom</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068656 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068656">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068512"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9814007</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9814007</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Baoma Chiefdom</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Baoma</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Baoma Chiefdom</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Boama</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Baoma Chiefdom</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068657 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068657">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068512"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9814008</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9814008</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Bumpe Ngawo Chiefdom</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bumpe Ngao</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bumpe Ngawo</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bumpe Ngawo Chiefdom</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bumpeh</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Bumpe Ngawo Chiefdom</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068658 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068658">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068512"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9814009</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9814009</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Jaiama Bongor Chiefdom</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jaiama Bongor</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jaiama Bongor Chiefdom</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jiama-Bongor</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Jaiama Bongor Chiefdom</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068659 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068659">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068512"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9814010</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9814010</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Lugbu Chiefdom</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lugbu</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lugbu Chiefdom</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Lugbu Chiefdom</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068660 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068660">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068512"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9814011</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9814011</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Niawa Lenga Chiefdom</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Niawa Lenga</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Niawa Lenga Chiefdom</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Niawa Lenga Chiefdom</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068661 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068661">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068512"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9814012</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9814012</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Selenga Chiefdom</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Selenga</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Selenga Chiefdom</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sielenga</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Selenga Chiefdom</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068662 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068662">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068512"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9814013</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9814013</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Valunia Chiefdom</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Valunia</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Valunia Chiefdom</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Valunia Chiefdom</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068663 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068663">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068512"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9814014</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9814014</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Wonde Chiefdom</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wonde</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wonde Chiefdom</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wunde</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Wonde Chiefdom</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068664 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068664">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068512"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9814015</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9814015</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Yawbeko Chiefdom</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yawbeko</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yawbeko Chiefdom</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Yawbeko Chiefdom</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068665 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068665">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068512"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9814016</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9814016</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Jong Chiefdom</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jong</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jong Chiefdom</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Jong Chiefdom</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068666 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068666">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068512"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9814017</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9814017</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Bendu-Cha Chiefdom</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bendu-Cha</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bendu-Cha Chiefdom</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Benducha</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Bendu-Cha Chiefdom</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068667 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068667">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068512"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9814018</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9814018</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Nongoba Bullom Chiefdom</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nongoba Bullom</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nongoba Bullom Chiefdom</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Nongoba Bullom Chiefdom</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068668 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068668">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068512"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9814019</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9814019</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Sittia Chiefdom</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sittia</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sittia Chiefdom</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Sittia Chiefdom</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068669 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068669">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068512"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9814020</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9814020</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Kwamebai Krim Chiefdom</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kwamabai Krim</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kwamebai Krim</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kwamebai Krim Chiefdom</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Kwamebai Krim Chiefdom</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068670 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068670">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068512"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9814021</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9814021</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Imperi Chiefdom</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Imperi</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Imperi Chiefdom</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Imperri</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Imperi Chiefdom</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068671 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068671">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068512"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9814022</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9814022</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Dema Chiefdom</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dema</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dema Chiefdom</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Dema Chiefdom</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068672 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068672">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068512"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9814023</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9814023</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Sogbini Chiefdom</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sogbeni</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sogbini</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sogbini Chiefdom</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Sogbini Chiefdom</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068673 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068673">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068512"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9814024</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9814024</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Pejeh Chiefdom</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Futa Peje</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pejeh</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pejeh Chiefdom</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Pejeh Chiefdom</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068674 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068674">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068512"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9814025</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9814025</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Barri Chiefdom</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Barri</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Barri Chiefdom</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Barri Chiefdom</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068675 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068675">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068512"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9814026</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9814026</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Gallinasperi Chiefdom</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gallinas Peri</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gallinasperi</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gallinasperi Chiefdom</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Galliness Perri</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Gallinasperi Chiefdom</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068676 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068676">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068512"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9814027</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9814027</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Kpaka Chiefdom</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kpaka</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kpaka Chiefdom</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kpata</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Kpaka Chiefdom</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068677 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068677">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068512"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9814028</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9814028</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Panga Krim Chiefdom</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Panga Krim</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Panga Krim Chiefdom</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Panga Krim Chiefdom</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068678 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068678">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068512"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9814029</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9814029</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Panga-Kabonde Chiefdom</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kpanga-Kabonde</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Panga-Kabonde</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Panga-Kabonde Chiefdom</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Panga-Kabonde Chiefdom</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068679 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068679">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068512"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9814030</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9814030</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Yakemo-Kpukumu Krim Chiefdom</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yakemo-Kpukumu Krim</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yakemo-Kpukumu Krim Chiefdom</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yakemu Kpukumu</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yatema-Kputumu Krim</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Yakemo-Kpukumu Krim Chiefdom</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068680 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068680">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068512"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9814031</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9814031</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Malen Chiefdom</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Malen</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Malen Chiefdom</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Malen Chiefdom</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068681 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068681">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068512"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9814032</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9814032</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Mano Sakrim Chiefdom</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mano Sakrim</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mano Sakrim Chiefdom</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mano Satrim</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mono Sakrim</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Mano Sakrim Chiefdom</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068682 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068682">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068512"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9814033</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9814033</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Bumpeh Chiefdom</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bumpe</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bumpeh</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bumpeh Chiefdom</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Bumpeh Chiefdom</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068683 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068683">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068512"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9814034</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9814034</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Ribbi Chiefdom</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ribbi</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ribbi Chiefdom</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rissi</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Ribbi Chiefdom</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068684 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068684">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068512"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9814035</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9814035</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Kongbora Chiefdom</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kangbara</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kongbora</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kongbora Chiefdom</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Kongbora Chiefdom</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068685 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068685">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068512"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9814036</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9814036</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Kaiyamba Chiefdom</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kaiyamba</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kaiyamba Chiefdom</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Kaiyamba Chiefdom</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068686 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068686">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068512"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9814037</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9814037</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Bagruwa Chiefdom</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bagrawa</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bagruwa</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bagruwa Chiefdom</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Bagruwa Chiefdom</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068687 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068687">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068512"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9814038</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9814038</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Timdale Chiefdom</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Timdale</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Timdale Chiefdom</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Timdel</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Timdele</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Timdale Chiefdom</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068688 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068688">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068512"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9814039</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9814039</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Dasse Chiefdom</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dassa</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dasse</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dasse Chiefdom</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Dasse Chiefdom</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068689 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068689">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068512"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9814040</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9814040</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Kamajei Chiefdom</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kamajei</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kamajei Chiefdom</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kamajel</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Kamajei Chiefdom</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068690 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068690">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068512"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9814041</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9814041</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Lower Banta Chiefdom</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Banta Gbangabatoke</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Banta Gbangbalate</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Banta Gbangbatoke</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lower Banta</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lower Banta Chiefdom</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Lower Banta Chiefdom</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068691 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068691">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068512"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9814042</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9814042</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Upper Banta Chiefdom</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Banta Matele</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Banta Mokele</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Upper Banta</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Upper Banta Chiefdom</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Upper Banta Chiefdom</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068692 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068692">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068511"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9815398</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9815398</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of York Rural Ward</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">York Rural</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">York Rural Ward</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of York Rural Ward</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068693 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068693">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068511"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9815453</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9815453</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Mountain Rural Ward</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mountain</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mountain Rural</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mountain Rural Ward</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Mountain Rural Ward</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068694 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068694">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068511"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9815454</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9815454</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Waterloo Rural Ward</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Waterloo</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Waterloo Rural</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Waterloo Rural Ward</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Waterloo Rural Ward</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068695 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068695">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068511"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9815455</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9815455</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Koya Rural Ward</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Koya</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Koya Rural</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Koya Rural Ward</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Koya Rural Ward</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068696 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068696">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068511"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9815456</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9815456</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of West Three Ward</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">West Three</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">West Three Ward</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of West Three Ward</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068697 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068697">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068511"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9815457</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9815457</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of West Two Ward</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">West Two</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">West Two Ward</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of West Two Ward</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068698 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068698">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068511"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9815458</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9815458</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of West One Ward</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">West One</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">West One Ward</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of West One Ward</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068699 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068699">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068511"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9816226</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9816226</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Central Two Ward</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Central Two</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Central Two Ward</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Central Two Ward</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068700 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068700">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068511"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9816228</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9816228</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Central One Ward</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Central One</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Central One Ward</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Central One Ward</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068701 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068701">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068511"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9816230</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9816230</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of East Two Ward</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">East Two</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">East Two Ward</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of East Two Ward</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068702 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068702">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068511"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9816233</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9816233</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of East One Ward</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">East One</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">East One Ward</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of East One Ward</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068703 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068703">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068511"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9816234</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9816234</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of East Three Ward</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">East Three</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">East Three Ward</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of East Three Ward</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068704 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068704">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068512"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9816361</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9816361</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Bo Town</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Bo Town</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068705 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068705">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068513"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9816365</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9816365</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Makeni Town</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Makeni Town</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Makeni Town</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068706 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068706">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068512"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9816368</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9816368</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Bonthe Town</obo:IAO_0000111>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bonthe Town</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bonthe Urban</obo:IAO_0000118>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Bonthe Town</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068707 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068707">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068514"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9816370</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9816370</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Kenema Town</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Kenema Town</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068708 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068708">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068514"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9816372</obo:GEO_000035330>
+        <obo:GEO_000035333 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9816372</obo:GEO_000035333>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Koidu Town</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Koidu Town</rdfs:label>
+    </owl:NamedIndividual>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 5.0.5.20170104-0800) https://github.com/owlcs/owlapi/ -->
+
+

@@ -1,0 +1,176 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://purl.obolibrary.org/obo/geo/sn-admin-level-four.owl#"
+     xml:base="http://purl.obolibrary.org/obo/geo/sn-admin-level-four.owl"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:obo="http://purl.obolibrary.org/obo/">
+    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/geo/sn-admin-level-four.owl">
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/sn-admin-level-three.owl"/>
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000035334 -->
+
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/GEO_000035334"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068384 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068384">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068330"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10401823</obo:GEO_000035330>
+        <obo:GEO_000035334 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10401823</obo:GEO_000035334>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Mermoz-Sacré-Coeur</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Mermoz-Sacre-Coeur</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068385 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068385">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068330"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10401825</obo:GEO_000035330>
+        <obo:GEO_000035334 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10401825</obo:GEO_000035334>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Ngor</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Ngor</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068386 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068386">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068330"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10401827</obo:GEO_000035330>
+        <obo:GEO_000035334 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10401827</obo:GEO_000035334>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Diamaguène Sicap Mbao</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Diamaguene Sicap Mbao</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068387 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068387">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068320"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10401947</obo:GEO_000035330>
+        <obo:GEO_000035334 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10401947</obo:GEO_000035334>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Coubalan</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Coubalan</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068388 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068388">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068330"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10626729</obo:GEO_000035330>
+        <obo:GEO_000035334 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10626729</obo:GEO_000035334>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Hann Bel-Air</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Hann Bel-Air</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068389 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068389">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068320"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11205307</obo:GEO_000035330>
+        <obo:GEO_000035334 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11205307</obo:GEO_000035334>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Nyassia</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Nyassia</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068390 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068390">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068330"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11205570</obo:GEO_000035330>
+        <obo:GEO_000035334 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11205570</obo:GEO_000035334>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Grand Yoff</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Grand Yoff</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068391 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068391">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068327"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11205623</obo:GEO_000035330>
+        <obo:GEO_000035334 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11205623</obo:GEO_000035334>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Paoskoto Commune</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Paoskoto Commune</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000068392 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000068392">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000068330"/>
+        <obo:GEO_000035330 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11256889</obo:GEO_000035330>
+        <obo:GEO_000035334 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11256889</obo:GEO_000035334>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Biscuiterie</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">region of Biscuiterie</rdfs:label>
+    </owl:NamedIndividual>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 5.0.5.20170104-0800) https://github.com/owlcs/owlapi/ -->
+
+

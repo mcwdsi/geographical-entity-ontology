@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
-<rdf:RDF xmlns="http://purl.obolibrary.org/obo/geo/us-geography.owl#"
-     xml:base="http://purl.obolibrary.org/obo/geo/us-geography.owl"
+<rdf:RDF xmlns="http://purl.obolibrary.org/obo/geo/dev/us-geography.owl#"
+     xml:base="http://purl.obolibrary.org/obo/geo/dev/us-geography.owl"
      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:owl="http://www.w3.org/2002/07/owl#"
      xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#"
@@ -11,8 +11,8 @@
      xmlns:obo="http://purl.obolibrary.org/obo/"
      xmlns:foaf="http://xmlns.com/foaf/0.1/"
      xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/geo/us-basic-geography.owl">
-        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/basic-geography.owl"/>
+    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/geo/dev/us-basic-geography.owl">
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl"/>
         <rdfs:comment xml:lang="en">This OWL file contains individuals for the major geographical regions of the U.S., but not down to the state level even.  For states and dependencies, see us-integral-geography.owl and us-dependency-geography.owl.</rdfs:comment>
         <dc:creator xml:lang="en">WIlliam R. Hogan</dc:creator>
     </owl:Ontology>
@@ -102,32 +102,6 @@
         <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
     </rdf:Description>
     
-
-
-    <!-- 
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Object Properties
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-     -->
-
-    
-
-
-    <!-- http://purl.obolibrary.org/obo/BFO_0000137 -->
-
-    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/BFO_0000137">
-        <owl:inverseOf rdf:resource="http://purl.obolibrary.org/obo/BFO_0000187"/>
-    </rdf:Description>
-    
-
-
-    <!-- http://purl.obolibrary.org/obo/BFO_0000187 -->
-
-    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/BFO_0000187"/>
-    
-
 
     <!-- 
     ///////////////////////////////////////////////////////////////////////////////////////

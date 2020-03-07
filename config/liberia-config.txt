@@ -1,0 +1,6 @@
+input=~/devel/repos/ontology/geographical-entity-ontology/source_data/LR-admin-units.txt
+countrycode=LR
+owlpurlbase=http://purl.obolibrary.org/obo/geo/lr-admin-level
+countryiri=http://purl.obolibrary.org/obo/GEO_000000596
+irilookup=~/devel/repos/ontology/geographical-entity-ontology/config/iris-for-parsing-geonames.txt
+iriStart=68715

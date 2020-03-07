@@ -1,0 +1,345 @@
+2422464	Conakry Region	Conakry Region	Conakry,Conakry I,Conakry II,Region Administrative de Conakry,Région Administrative de Conakry	9.60703	-13.597	A	ADM1	GN		04				1660973		27	Africa/Conakry	2016-06-18
+8335085	Boke Region	Boke Region	Boke,Boké	11.2625	-14.32992	A	ADM1	GN		B				1083147		67	Africa/Conakry	2016-06-24
+8335086	Faranah Region	Faranah Region	Faranah	10.3375	-10.69583	A	ADM1	GN		F				941554		429	Africa/Conakry	2016-06-18
+8335087	Kankan Region	Kankan Region	Kankan	10.4	-9.25	A	ADM1	GN		K				1972537		384	Africa/Conakry	2016-06-18
+8335088	Kindia Region	Kindia Region	Kindia	10.08667	-13.21333	A	ADM1	GN		D				1561374		94	Africa/Conakry	2016-06-18
+8335089	Labé Region	Labe Region	Labe,Labe Region	11.61	-12.08667	A	ADM1	GN		L				994458		726	Africa/Conakry	2016-06-18
+8335090	Mamou Region	Mamou Region	Mamou,Mamou Region	10.69444	-12.29444	A	ADM1	GN		M				731188		989	Africa/Conakry	2016-06-18
+8335091	Nzerekore Region	Nzerekore Region	Nzerekore,Nzérékoré	8.20833	-9.06944	A	ADM1	GN		N				1578030		534	Africa/Conakry	2016-06-18
+2414077	Yomou	Yomou	Prefecture de Yomou,Préfecture de Yomou,Region Administrative de Yomou,Région Administrative de Yomou,Yomou	7.5	-9.16667	A	ADM2	GN		N	29			114371		424	Africa/Conakry	2019-01-08
+2414544	Tougue Prefecture	Tougue Prefecture	Prefecture de Tougue,Préfecture de Tougué,Region Administrative de Tougue,Région Administrative de Tougué,Tougue,Tougué	11.46667	-11.6	A	ADM2	GN		L	28			124280		787	Africa/Conakry	2019-01-08
+2414925	Telimele Prefecture	Telimele Prefecture	Prefecture de Telimele,Préfecture de Télimélé,Region Administrative de Telimele,Région Administrative de Télimélé,Telimele,Télimélé	10.91667	-13.33333	A	ADM2	GN		D	27			284409		408	Africa/Conakry	2019-01-08
+2415702	Siguiri Prefecture	Siguiri Prefecture	Prefecture de Siguiri,Préfecture de Siguiri,Region Administrative de Siguiri,Région Administrative de Siguiri,Siguiri	11.66667	-9.5	A	ADM2	GN		K	39			687002		343	Africa/Conakry	2019-01-08
+2416440	Pita	Pita	Pita,Prefecture de Pita,Préfecture de Pita,Region Administrative de Pita,Région Administrative de Pita	10.83333	-12.58333	A	ADM2	GN		M	25			278530		336	Africa/Conakry	2019-01-08
+2416968	Nzerekore Prefecture	Nzerekore Prefecture	Nzerekore,Nzérékoré,Prefecture de Nzerekore,Préfecture de Nzérékoré,Region Administrative de Nzerekore,Région Administrative de Nzérékoré	7.945	-8.783	A	ADM2	GN		N	38			396949		479	Africa/Conakry	2019-01-08
+2417831	Mamou Prefecture	Mamou Prefecture	Mamou,Prefecture de Mamou,Préfecture de Mamou,Region Administrative de Mamou,Région Administrative de Mamou	10.459	-11.815	A	ADM2	GN		M	23			318981		736	Africa/Conakry	2019-01-08
+2417885	Mali Prefecture	Mali Prefecture	Mali,Prefecture de Mali,Préfecture de Mali,Region Administrative du Mali,Région Administrative du Mali	12.08333	-12.08333	A	ADM2	GN		L	22			288001		424	Africa/Conakry	2019-01-08
+2417987	Macenta	Macenta	Macenta,Macenta Prefecture,Masenta,Prefecture de Macenta,Prefettura di Macenta,Préfecture de Macenta,Region Administrative de Macenta,Région Administrative de Macenta,ma sang ta sheng,makynta pryfykchwr,Μασεντά,ماکینتا پریفیکچور,馬桑塔省	8.5	-9.41667	A	ADM2	GN		N	21			278456		563	Africa/Conakry	2019-01-08
+2418360	Labe Prefecture	Labe Prefecture	Labe,Labé,Prefecture de Labe,Préfecture de Labé,Region Administrative de Labe,Région Administrative de Labé	11.366	-12.3	A	ADM2	GN		L	34			318938		1003	Africa/Conakry	2019-01-08
+2418435	Kouroussa	Kouroussa	Kouroussa,Kouroussa Prefecture,Prefecture de Kouroussa,Prefettura di Kouroussa,Préfecture de Kouroussa,Region Administrative de Kouroussa,Région Administrative de Kouroussa,ku lu sa sheng,kwrwsa pryfykchwr,Κουρουσσά,کؤرؤسا پریفیکچور,庫魯薩省	10.66667	-9.91667	A	ADM2	GN		K	19			268630		375	Africa/Conakry	2019-01-08
+2418595	Koundara Prefecture	Koundara Prefecture	Koundara,Prefecture de Koundara,Préfecture de Koundara,Region Administrative de Koundara,Région Administrative de Koundara	12.41667	-13.16667	A	ADM2	GN		B	18			129974		79	Africa/Conakry	2019-01-08
+2419470	Kissidougou	Kissidougou	Kissidougou,Prefecture de Kissidougou,Préfecture de Kissidougou,Region Administrative de Kissidougou,Région Administrative de Kissidougou	9.25	-9.91667	A	ADM2	GN		F	17			283778		515	Africa/Conakry	2019-01-08
+2419531	Kindia	Kindia	Kindia,Prefecture de Kindia,Préfecture de Kindia,Region Administrative de Kindia,Région Administrative de Kindia	10.08333	-12.8	A	ADM2	GN		D	16			439614		398	Africa/Conakry	2019-01-08
+2419618	Kerouane Prefecture	Kerouane Prefecture	Kerouane,Kérouané,Prefecture de Kerouane,Préfecture de Kérouané,Region Administrative de Kerouane,Région Administrative de Kérouané	9.16667	-9.08333	A	ADM2	GN		K	15			207547		557	Africa/Conakry	2019-01-08
+2419991	Kankan Prefecture	Kankan Prefecture	Kankan,Prefecture de Kankan,Préfecture de Kankan,Region Administrative de Kankan,Région Administrative de Kankan	10.271	-9.178	A	ADM2	GN		K	32			473359		421	Africa/Conakry	2019-01-08
+2420561	Préfecture de Guékédou	Prefecture de Guekedou	Gueckedou,Guekedou,Guéckédou,Guékédou,Prefecture de Guekedou,Préfecture de Guékédou,Region Administrative de Gueckedou,Region Administrative de Guekedou,Région Administrative de Guéckédou,Région Administrative de Guékédou	8.66667	-10.25	A	ADM2	GN		N	13			290611		436	Africa/Conakry	2019-01-08
+2420825	Gaoual Prefecture	Gaoual Prefecture	Gaoual,Prefecture de Gaoual,Préfecture de Gaoual,Region Administrative de Gaoual,Région Administrative de Gaoual	11.75	-13.2	A	ADM2	GN		B	12			193612		79	Africa/Conakry	2019-01-08
+2420883	Fria	Fria	Fria,Prefecture de Fria,Préfecture de Fria,Region Administrative de Fria,Région Administrative de Fria	10.41667	-13.58333	A	ADM2	GN		B	11			96700		194	Africa/Conakry	2019-01-08
+2420983	Préfecture de Forécariah	Prefecture de Forecariah	Forecariah,Forécariah,Prefecture de Forecariah,Préfecture de Forécariah,Region Administrative de Forecariah,Région Administrative de Forécariah	9.43333	-13.1	A	ADM2	GN		D	10			242942		6	Africa/Conakry	2019-01-08
+2421272	Faranah Prefecture	Faranah Prefecture	Faranah,Faranah Region,Prefecture de Faranah,Préfecture de Faranah,Region Administrative de Faranah,Région Administrative de Faranah	10	-10.83333	A	ADM2	GN		F	09			280170		472	Africa/Conakry	2019-01-08
+2421533	Préfecture de Dubréka	Prefecture de Dubreka	Dubreka,Dubréka,Prefecture de Dubreka,Préfecture de Dubréka,Region Administrative de Dubreka,Région Administrative de Dubréka	10.25	-13.41667	A	ADM2	GN	GN	D	31			330548		59	Africa/Conakry	2019-01-08
+2421902	Dinguiraye Prefecture	Dinguiraye Prefecture	Dinguiraye,Prefecture de Dinguiraye,Préfecture de Dinguiraye,Region Administrative de Dinguiraye,Région Administrative de Dinguiraye	11.545	-10.675	A	ADM2	GN		F	07			196469		425	Africa/Conakry	2019-01-08
+2422377	Dalaba	Dalaba	Dalaba,Prefecture de Dalaba,Préfecture de Dalaba,Region Administrative de Dalaba,Région Administrative de Dalaba	10.75	-12.3	A	ADM2	GN		M	06			133677		952	Africa/Conakry	2019-01-08
+2422441	Dabola	Dabola	Dabola,Prefecture de Dabola,Préfecture de Dabola,Region Administrative de Dabola,Région Administrative de Dabola	10.6	-11.11667	A	ADM2	GN		F	05			181137		619	Africa/Conakry	2019-01-08
+2422923	Boke Prefecture	Boke Prefecture	Boke,Boké,Prefecture de Boke,Préfecture de Boké,Region Administrative de Boke,Région Administrative de Boké	11.08333	-14.41667	A	ADM2	GN		B	03			450278		60	Africa/Conakry	2019-01-08
+2422967	Boffa	Boffa	Boffa,Prefecture de Boffa,Préfecture de Boffa,Region Administrative de Boffa,Région Administrative de Boffa	10.33333	-14.16667	A	ADM2	GN		B	02			212583		101	Africa/Conakry	2019-01-08
+2423124	Beyla Prefecture	Beyla Prefecture	Beyla,Prefecture de Beyla,Préfecture de Beyla,Region Administrative de Beyla,Région Administrative de Beyla	8.91667	-8.41667	A	ADM2	GN		N	01			326082		883	Africa/Conakry	2019-01-08
+2595299	Coyah	Coyah	Coyah,Prefecture de Coyah,Préfecture de Coyah	9.75	-13.41667	A	ADM2	GN		D	30			263861		81	Africa/Conakry	2019-01-08
+2595302	Koubia	Koubia	Koubia,Prefecture de Koubia,Préfecture de Koubia	11.58333	-11.83333	A	ADM2	GN		L	33			100170		658	Africa/Conakry	2019-01-08
+2595303	Lelouma Prefecture	Lelouma Prefecture	Lelouma,Lélouma,Prefecture de Lelouma,Préfecture de Lélouma	11.41667	-12.66667	A	ADM2	GN		L	35			163069		933	Africa/Conakry	2019-01-08
+2595304	Lola	Lola	Lola,Prefecture de Lola,Préfecture de Lola	7.83333	-8.33333	A	ADM2	GN		N	36			171561		505	Africa/Conakry	2019-01-08
+2595305	Mandiana Prefecture	Mandiana Prefecture	Mandiana,Prefecture de Mandiana,Préfecture de Mandiana	10.658	-8.615	A	ADM2	GN		K	37			335999		408	Africa/Conakry	2019-01-08
+8335012	Conakry Special Zone	Conakry Special Zone	Conakry	9.603	-13.597	A	ADM2	GN		04	8335012			0		24	Africa/Conakry	2019-01-08
+11184925	Arfamoussaya	Arfamoussaya		10.76667	-11.36667	A	ADM3	GN		F	05	11184925		0		668	Africa/Conakry	2016-06-28
+11184945	Banko	Banko		10.68333	-10.66667	A	ADM3	GN		F	05	11184945		0		442	Africa/Conakry	2016-06-28
+11184948	Bissikrima	Bissikrima		10.85	-10.94	A	ADM3	GN		F	05	11184948		0		415	Africa/Conakry	2016-06-28
+11184950	Dogomet	Dogomet		10.88333	-11.15	A	ADM3	GN		F	05	11184950		0		422	Africa/Conakry	2016-06-28
+11184953	Kankama	Kankama		10.78333	-11.41667	A	ADM3	GN		F	05	11184953		0		663	Africa/Conakry	2016-06-28
+11184954	Kindoye	Kindoye		10.56667	-11.35	A	ADM3	GN		F	05	11184954		0		781	Africa/Conakry	2016-06-28
+11184957	N'Déma	N'Dema		10.65	-11.06667	A	ADM3	GN		F	05	11184957		0		652	Africa/Conakry	2016-06-28
+11184958	Konindou	Konindou		10.7	-10.85	A	ADM3	GN		F	05	11184958		0		463	Africa/Conakry	2016-06-28
+11184961	Banora	Banora		11.65	-10.31667	A	ADM3	GN		F	07	11184961		0		424	Africa/Conakry	2016-06-28
+11184962	Dialakoro	Dialakoro		11.05	-11.1	A	ADM3	GN		F	07	11184962		0		445	Africa/Conakry	2016-06-28
+11184964	Diatiféré	Diatifere		11.68333	-10.71667	A	ADM3	GN		F	07	11184964		0		388	Africa/Conakry	2016-06-28
+11184966	Gagnakali	Gagnakali		11.8	-11	A	ADM3	GN		F	07	11184966		0		479	Africa/Conakry	2016-06-28
+11184967	Kalinko	Kalinko		11.11667	-11.18333	A	ADM3	GN		F	07	11184967		0		572	Africa/Conakry	2016-06-28
+11184968	Lansanya	Lansanya		11.38333	-10.88333	A	ADM3	GN		F	07	11184968		0		419	Africa/Conakry	2016-06-28
+11184969	Selouma	Selouma		11.11667	-10.98333	A	ADM3	GN		F	07	11184969		0		431	Africa/Conakry	2016-06-28
+11184971	Banian	Banian		9.60083	-10.54139	A	ADM3	GN		F	09	11184971		0		492	Africa/Conakry	2016-06-28
+11184972	Beindou	Beindou		10.3	-10.41667	A	ADM3	GN		F	09	11184972		0		471	Africa/Conakry	2016-06-28
+11184973	Gnaleah	Gnaleah		9.96667	-10.53333	A	ADM3	GN		F	09	11184973		0		511	Africa/Conakry	2016-06-28
+11184974	Heremakonon	Heremakonon		9.9	-11.06667	A	ADM3	GN		F	09	11184974		0		472	Africa/Conakry	2016-06-28
+11184975	Kobikoro	Kobikoro		9.2	-10.58333	A	ADM3	GN		F	09	11184975		0		671	Africa/Conakry	2016-06-28
+11184976	Marela	Marela		10.21667	-11.31667	A	ADM3	GN		F	09	11184976		0		519	Africa/Conakry	2016-06-28
+11184977	Passayah	Passayah		10.31667	-11.08333	A	ADM3	GN		F	09	11184977		0		511	Africa/Conakry	2016-06-28
+11184979	Sandeniah	Sandeniah		10.15	-11.05	A	ADM3	GN		F	09	11184979		0		509	Africa/Conakry	2016-06-28
+11184980	Songoyah	Songoyah		9.76667	-10.96667	A	ADM3	GN		F	09	11184980		0		473	Africa/Conakry	2016-06-28
+11184982	Tiro	Tiro		9.73083	-10.65111	A	ADM3	GN		F	09	11184982		0		441	Africa/Conakry	2016-06-28
+11184985	Albadaria	Albadaria		9.55	-10.1	A	ADM3	GN		F	17	11184985		0		496	Africa/Conakry	2016-06-28
+11184986	Banama	Banama		9.06667	-9.75	A	ADM3	GN		F	17	11184986		0		582	Africa/Conakry	2016-06-28
+11184987	Bardou	Bardou		9.0333	-9.8666	A	ADM3	GN		F	17	11184987		0		541	Africa/Conakry	2016-06-28
+11185034	Fermessadou-Pombo	Fermessadou-Pombo		9.13333	-10.15	A	ADM3	GN		F	17	11185034		0		538	Africa/Conakry	2016-06-28
+11185035	Firawa-Yomadou	Firawa-Yomadou		9.21667	-9.78333	A	ADM3	GN		F	17	11185035		0		532	Africa/Conakry	2016-06-17
+11185036	Gbangbadou	Gbangbadou		9.35	-10.05	A	ADM3	GN		F	17	11185036		0		483	Africa/Conakry	2016-06-28
+11185037	Kondiadou	Kondiadou		8.91667	-10.0333	A	ADM3	GN		F	17	11185037		0		493	Africa/Conakry	2016-06-28
+11185038	Manfran	Manfran		9.41667	-9.8333	A	ADM3	GN		F	17	11185038		0		549	Africa/Conakry	2016-06-29
+11185039	Sangarado	Sangarado		9.4	-10.21667	A	ADM3	GN		F	17	11185039		0		507	Africa/Conakry	2016-06-29
+11185040	Yendé-Millimou	Yende-Millimou		8.88333	-10.16667	A	ADM3	GN		F	17	11185040		0		527	Africa/Conakry	2016-06-29
+11185041	Yombiro	Yombiro		9.08333	-10.31667	A	ADM3	GN		F	17	11185041		0		639	Africa/Conakry	2016-06-29
+11185042	Balandougou	Balandougou		10.55	-9.13333	A	ADM3	GN		K	32	11185042		0		364	Africa/Conakry	2016-06-17
+11185043	Bate-Nafadji	Bate-Nafadji		10.66667	-9.26667	A	ADM3	GN		K	32	11185043		0		373	Africa/Conakry	2016-06-29
+11185044	Boula	Boula		9.98333	-8.41667	A	ADM3	GN		K	32	11185044		0		399	Africa/Conakry	2016-06-29
+11185045	Gbérédou-Baranama	Gberedou-Baranama		10.48333	-9.58333	A	ADM3	GN		K	32	11185045		0		477	Africa/Conakry	2016-06-29
+11185046	Kanfamoriyah	Kanfamoriyah		10.55	-9.41667	A	ADM3	GN		K	32	11185046		0		397	Africa/Conakry	2016-06-29
+11185047	Koumban	Koumban		10.21667	-9.46667	A	ADM3	GN		K	32	11185047		0		437	Africa/Conakry	2016-06-29
+11185048	Mamouroudou	Mamouroudou		9.4	-9.35	A	ADM3	GN		F	17	11185048		0		571	Africa/Conakry	2016-06-29
+11185049	Missamana	Missamana		10.3	-9.05	A	ADM3	GN		K	32	11185049		0		397	Africa/Conakry	2016-06-29
+11185050	Moribayah	Moribayah		9.88333	-9.55	A	ADM3	GN		K	32	11185050		0		430	Africa/Conakry	2016-06-29
+11185051	Sabadou-Baranama	Sabadou-Baranama		10.13333	-8.76667	A	ADM3	GN		K	32	11185051		0		402	Africa/Conakry	2016-06-29
+11185052	Tinti-Oulen	Tinti-Oulen		10.21667	-9.2	A	ADM3	GN		K	32	11185052		0		408	Africa/Conakry	2016-06-29
+11185053	Tokounou	Tokounou		9.83333	-9.71667	A	ADM3	GN		K	32	11185053		0		441	Africa/Conakry	2016-06-29
+11185054	Banankoro	Banankoro		9.18333	-9.3	A	ADM3	GN		K	15	11185054		0		699	Africa/Conakry	2016-06-29
+11185055	Damaro	Damaro		9.13333	-8.9	A	ADM3	GN		K	15	11185055		0		702	Africa/Conakry	2016-06-29
+11185056	Komodou	Komodou		9.83111	-9.08028	A	ADM3	GN		K	32	11185056		0		576	Africa/Conakry	2016-06-29
+11185057	Kounsankoro	Kounsankoro		9.03333	-8.98333	A	ADM3	GN		K	15	11185057		0		542	Africa/Conakry	2016-06-29
+11185058	Linko	Linko		9.38333	-8.81667	A	ADM3	GN		K	15	11185058		0		635	Africa/Conakry	2016-06-29
+11185059	Sibiribaro	Sibiribaro		9.03333	-9.4	A	ADM3	GN		F	17	11185059		0		774	Africa/Conakry	2016-06-29
+11185061	Soromaya	Soromaya		9.33333	-9.45	A	ADM3	GN		F	17	11185061		0		614	Africa/Conakry	2016-06-17
+11185062	Babila	Babila		10.65	-9.68333	A	ADM3	GN		K	19	11185062		0		379	Africa/Conakry	2016-06-17
+11185063	Balato	Balato		10.71667	-9.56667	A	ADM3	GN		K	19	11185063		0		362	Africa/Conakry	2016-06-17
+11185065	Banfélé	Banfele		10.21667	-10.05	A	ADM3	GN		K	19	11185065		0		463	Africa/Conakry	2016-06-17
+11185066	Baro	Baro		10.61667	-9.7	A	ADM3	GN		K	19	11185066		0		365	Africa/Conakry	2016-06-17
+11185067	Cisséla	Cissela		10.83861	-10.63472	A	ADM3	GN		K	19	11185067		0		425	Africa/Conakry	2016-06-17
+11185068	Douako	Douako		9.73333	-10.18333	A	ADM3	GN		K	19	11185068		0		491	Africa/Conakry	2016-06-17
+11185070	Doura	Doura		12.01667	-9	A	ADM3	GN		K	39	11185070		0		354	Africa/Conakry	2016-06-29
+11185071	Kiniéro	Kiniero		10.4	-9.75	A	ADM3	GN		K	19	11185071		0		371	Africa/Conakry	2016-06-17
+11185073	Koumana	Koumana		10.68333	-9.66667	A	ADM3	GN		K	19	11185073		0		361	Africa/Conakry	2016-06-17
+11185074	Komola-Koura	Komola-Koura		11.05	-10.41667	A	ADM3	GN		K	19	11185074		0		391	Africa/Conakry	2016-06-17
+11185075	Sanguiana	Sanguiana		10.78333	-10.18333	A	ADM3	GN		K	19	11185075		0		406	Africa/Conakry	2016-06-17
+11185076	Balandougouba	Balandougouba		11.31667	-8.41667	A	ADM3	GN		K	37	11185076		0		363	Africa/Conakry	2016-06-28
+11185077	Dialakoro	Dialakoro		11.4	-8.91667	A	ADM3	GN		K	39	11185077		0		370	Africa/Conakry	2016-06-29
+11185078	Faralako	Faralako		10.66667	-8.7	A	ADM3	GN		K	37	11185078		0		395	Africa/Conakry	2016-06-28
+11185079	Kantoumania	Kantoumania		10.48333	-8.65	A	ADM3	GN		K	37	11185079		0		381	Africa/Conakry	2016-06-28
+11185080	Kiniéran	Kinieran		11.11667	-8.93333	A	ADM3	GN		K	39	11185080		0		399	Africa/Conakry	2016-06-17
+11185081	Koundianakoro	Koundianakoro		11.23333	-8.68333	A	ADM3	GN		K	37	11185081		0		366	Africa/Conakry	2016-06-28
+11185082	Koundian	Koundian		10.91667	-8.9	A	ADM3	GN		K	37	11185082		0		388	Africa/Conakry	2016-06-28
+11185083	Morodou	Morodou		10.85	-8.66667	A	ADM3	GN		K	37	11185083		0		360	Africa/Conakry	2016-06-28
+11185084	Niantania	Niantania		10.96667	-8.33333	A	ADM3	GN		K	37	11185084		0		371	Africa/Conakry	2016-06-28
+11185085	Saladou	Saladou		10.28333	-8.33333	A	ADM3	GN		K	37	11185085		0		442	Africa/Conakry	2016-06-28
+11185086	Sansando	Sansando		11.08333	-9.2	A	ADM3	GN		K	39	11185086		0		347	Africa/Conakry	2016-07-09
+11185087	Bankon	Bankon		11.56667	-8.8	A	ADM3	GN		K	39	11185087		0		338	Africa/Conakry	2016-07-09
+11185088	Doko	Doko		11.78333	-8.96667	A	ADM3	GN		K	39	11185088		0		404	Africa/Conakry	2016-06-17
+11185089	Franwalia	Franwalia		11.8	-9.51667	A	ADM3	GN		K	39	11185089		0		325	Africa/Conakry	2016-07-09
+11185090	Kiniébakoura	Kiniebakoura		11.36667	-9.15	A	ADM3	GN		K	39	11185090		0		348	Africa/Conakry	2016-07-09
+11185091	Kintian	Kintian		11.6	-9.38333	A	ADM3	GN		K	39	11185091		0		416	Africa/Conakry	2016-06-17
+11185092	Maléa	Malea		11.8	-9.71667	A	ADM3	GN		K	39	11185092		0		370	Africa/Conakry	2016-07-09
+11185093	Naboun	Naboun		11.98333	-9.53333	A	ADM3	GN		K	39	11185093		0		501	Africa/Conakry	2016-07-09
+11185094	Niagassola	Niagassola		12.31667	-9.11667	A	ADM3	GN		K	39	11185094		0		342	Africa/Conakry	2016-07-09
+11185095	Niandankoro	Niandankoro		11.08333	-9.25	A	ADM3	GN		K	39	11185095		0		356	Africa/Conakry	2016-07-09
+11185096	Norassoba	Norassoba		11.23333	-9.68333	A	ADM3	GN		K	39	11185096		0		375	Africa/Conakry	2016-07-09
+11185097	Siguirini	Siguirini		11.81667	-10.05	A	ADM3	GN		K	39	11185097		0		489	Africa/Conakry	2016-07-09
+11185098	Boola	Boola		8.35282	-8.71765	A	ADM3	GN		N	38	11185098		0		615	Africa/Conakry	2016-06-29
+11185099	Diara-Guerela	Diara-Guerela		8.65	-8.51667	A	ADM3	GN		N	01	11185099		0		675	Africa/Conakry	2016-07-09
+11185100	Diassodou	Diassodou		9.11667	-8.33333	A	ADM3	GN		N	01	11185100		0		636	Africa/Conakry	2016-06-29
+11185101	Fouala	Fouala		8.98333	-8.33333	A	ADM3	GN		N	01	11185101		0		689	Africa/Conakry	2016-06-29
+11185102	Gbakedou	Gbakedou		8.63333	-8.36667	A	ADM3	GN		N	01	11185102		0		654	Africa/Conakry	2016-06-29
+11185103	Gbessoba	Gbessoba		8.58333	-8	A	ADM3	GN		N	01	11185103		0		629	Africa/Conakry	2016-06-29
+11185104	Karala	Karala		9.3	-8.41667	A	ADM3	GN		N	01	11185104		0		611	Africa/Conakry	2016-06-29
+11185105	Koumandou	Koumandou		9.16667	-8	A	ADM3	GN		N	01	11185105		0		494	Africa/Conakry	2016-06-28
+11185106	Moussadou	Moussadou		8.88333	-8.8	A	ADM3	GN		N	01	11185106		0		616	Africa/Conakry	2016-06-28
+11185107	Nionsomoridou	Nionsomoridou		8.71667	-8.83333	A	ADM3	GN		N	01	11185107		0		682	Africa/Conakry	2016-08-15
+11185108	Samana	Samana		9.11667	-8.56667	A	ADM3	GN		N	01	11185108		0		591	Africa/Conakry	2016-06-28
+11185109	Sinko	Sinko		8.88333	-8.26667	A	ADM3	GN		N	01	11185109		0		722	Africa/Conakry	2016-06-28
+11185110	Sokourala	Sokourala		9.21667	-8.06667	A	ADM3	GN		N	01	11185110		0		481	Africa/Conakry	2016-06-28
+11185111	Bolodou	Bolodou		8.85	-10.33333	A	ADM3	GN		N	13	11185111		0		467	Africa/Conakry	2016-06-28
+11185112	Fangamadou	Fangamadou		8.5	-10.6	A	ADM3	GN		N	13	11185112		0		280	Africa/Conakry	2016-06-28
+11185113	Guendembou	Guendembou		8.83333	-10.05	A	ADM3	GN		N	13	11185113		0		471	Africa/Conakry	2016-06-28
+11185114	Kassadou	Kassadou		8.91667	-10.35	A	ADM3	GN		N	13	11185114		0		530	Africa/Conakry	2016-06-28
+11185115	Koundou	Koundou		8.68333	-10.45	A	ADM3	GN		N	13	11185115		0		372	Africa/Conakry	2016-06-28
+11185116	Nongoa	Nongoa		8.58111	-10.32917	A	ADM3	GN		N	13	11185116		0		426	Africa/Conakry	2016-06-28
+11185117	Ouéndé-Kénéma	Ouende-Kenema		8.61667	-10.15	A	ADM3	GN		N	13	11185117		0		469	Africa/Conakry	2016-06-28
+11185118	Tekoulo	Tekoulo		8.55	-9.95	A	ADM3	GN		N	13	11185118		0		545	Africa/Conakry	2016-06-28
+11185120	Termessadou-Dibo	Termessadou-Dibo		8.7	-10.25	A	ADM3	GN		N	13	11185120		0		448	Africa/Conakry	2016-06-28
+11185121	Bossou	Bossou		7.65	-8.51667	A	ADM3	GN		N	36	11185121		0		548	Africa/Conakry	2016-06-28
+11185122	Gama	Gama		7.9	-8.23333	A	ADM3	GN		N	36	11185122		0		544	Africa/Conakry	2016-06-28
+11185123	Guéassou	Gueassou		8	-8.15	A	ADM3	GN		N	36	11185123		0		510	Africa/Conakry	2016-06-28
+11185124	Kokota	Kokota		7.91667	-8.5	A	ADM3	GN		N	36	11185124		0		506	Africa/Conakry	2016-06-28
+11185125	Lain	Lain		8.08333	-8.48333	A	ADM3	GN		N	36	11185125		0		511	Africa/Conakry	2016-06-28
+11185126	N'Zoo	N'Zoo		7.67944	-8.31417	A	ADM3	GN		N	36	11185126		0		455	Africa/Conakry	2016-06-28
+11185127	Tounkarata	Tounkarata		7.61667	-8.35	A	ADM3	GN		N	36	11185127		0		588	Africa/Conakry	2016-06-28
+11185128	Balizia	Balizia		8.65	-9.6	A	ADM3	GN		N	21	11185128		0		576	Africa/Conakry	2016-06-17
+11185129	Binikala	Binikala		8.76667	-9.53333	A	ADM3	GN		N	21	11185129		0		581	Africa/Conakry	2016-06-17
+11185130	Bofossou	Bofossou		8.66528	-9.70222	A	ADM3	GN		N	21	11185130		0		553	Africa/Conakry	2016-06-17
+11185131	Daro	Daro		8.51667	-9.56667	A	ADM3	GN		N	21	11185131		0		556	Africa/Conakry	2016-06-17
+11185133	Fassankoni	Fassankoni		8.03333	-9.36667	A	ADM3	GN		N	21	11185133		0		479	Africa/Conakry	2016-06-17
+11185134	Kouankan	Kouankan		8.45	-9.13333	A	ADM3	GN		N	21	11185134		0		520	Africa/Conakry	2016-06-17
+11185135	Koyamah	Koyamah		7.9	-9.35	A	ADM3	GN		N	21	11185135		0		483	Africa/Conakry	2016-06-17
+11185136	N'Zébéla	N'Zebela		8.08333	-9.1	A	ADM3	GN		N	21	11185136		0		479	Africa/Conakry	2016-06-17
+11185137	Ourémai	Ouremai		8.43333	-9.43333	A	ADM3	GN		N	21	11185137		0		542	Africa/Conakry	2016-06-17
+11185138	Panziazou	Panziazou		8.55	-9.7	A	ADM3	GN		N	21	11185138		0		625	Africa/Conakry	2016-06-17
+11185140	Sengbédou	Sengbedou		8.56667	-9.31667	A	ADM3	GN		N	21	11185140		0		962	Africa/Conakry	2016-06-17
+11185141	Sérédou	Seredou		8.38333	-9.3	A	ADM3	GN		N	21	11185141		0		561	Africa/Conakry	2016-06-17
+11185142	Vassérédou	Vasseredou		8.7	-9.21667	A	ADM3	GN		N	21	11185142		0		903	Africa/Conakry	2016-06-17
+11185143	Watanka	Watanka		8.80639	-9.80778	A	ADM3	GN		N	21	11185143		0		632	Africa/Conakry	2016-06-17
+11185144	Bounouma	Bounouma		7.64028	-8.79833	A	ADM3	GN		N	38	11185144		0		454	Africa/Conakry	2016-06-28
+11185146	Gouécké	Gouecke		8.01667	-8.71667	A	ADM3	GN		N	38	11185146		0		479	Africa/Conakry	2016-06-28
+11185147	Kobéla	Kobela		7.88333	-9.01667	A	ADM3	GN		N	38	11185147		0		461	Africa/Conakry	2016-06-28
+11185148	Koropara	Koropara		7.95	-8.7	A	ADM3	GN		N	38	11185148		0		487	Africa/Conakry	2016-06-28
+11185149	Koulé	Koule		7.77861	-8.95917	A	ADM3	GN		N	29	11185149		0		482	Africa/Conakry	2016-06-28
+11185150	Palé	Pale		8.03333	-8.9	A	ADM3	GN		N	38	11185150		0		472	Africa/Conakry	2016-06-28
+11185152	Samoé	Samoe		7.80528	-8.8675	A	ADM3	GN		N	38	11185152		0		461	Africa/Conakry	2016-06-28
+11185153	Soulouta	Soulouta		7.97306	-8.68278	A	ADM3	GN		N	38	11185153		0		493	Africa/Conakry	2016-06-28
+11185154	Womey	Womey		8.078	-8.782	A	ADM3	GN		N	38	11185154		0		458	Africa/Conakry	2016-06-28
+11185155	Yalenzou	Yalenzou		7.71667	-8.68333	A	ADM3	GN		N	38	11185155		0		441	Africa/Conakry	2016-06-28
+11185157	Bheeta	Bheeta		7.42972	-9.20167	A	ADM3	GN		N	29	11185157		0		416	Africa/Conakry	2016-06-28
+11185159	Diéké	Dieke		7.34833	-8.95417	A	ADM3	GN		N	29	11185159		0		295	Africa/Conakry	2016-06-28
+11185160	Péla	Pela		7.61667	-9.11667	A	ADM3	GN		N	29	11185160		0		401	Africa/Conakry	2016-06-28
+11185161	Colia	Colia		10.41667	-14.06667	A	ADM3	GN		B	02	11185161		0		96	Africa/Conakry	2016-06-28
+11185162	Douprou	Douprou		10.23333	-14.35	A	ADM3	GN		B	02	11185162		0		2	Africa/Conakry	2016-06-28
+11185163	Koba-Tatema	Koba-Tatema		9.95	-13.9	A	ADM3	GN		B	02	11185163		0		26	Africa/Conakry	2016-06-28
+11185165	Mankountan	Mankountan		10.53333	-14.45	A	ADM3	GN		B	02	11185165		0		0	Africa/Conakry	2016-06-28
+11185166	Tamita	Tamita		10.48333	-14.31667	A	ADM3	GN		B	02	11185166		0		60	Africa/Conakry	2016-07-09
+11185167	Tougnifili	Tougnifili		10.4	-14.41667	A	ADM3	GN		B	02	11185167		0		17	Africa/Conakry	2016-06-29
+11185400	Bintimodiya	Bintimodiya		10.65	-14.45	A	ADM3	GN		B	03	11185400		0		14	Africa/Conakry	2016-06-29
+11185401	Dabiss	Dabiss		11.2	-14.55	A	ADM3	GN		B	03	11185401		0		31	Africa/Conakry	2016-06-29
+11185402	Kanfarandé	Kanfarande		10.83333	-14.55	A	ADM3	GN		B	03	11185402		0		1	Africa/Conakry	2016-06-29
+11185403	Kolaboui	Kolaboui		10.88333	-14.36667	A	ADM3	GN		B	03	11185403		0		2	Africa/Conakry	2016-06-29
+11185404	Malapouyah	Malapouyah		10.75	-14.21667	A	ADM3	GN		B	03	11185404		0		75	Africa/Conakry	2016-06-29
+11185405	Sansalé	Sansale		11.11667	-14.85	A	ADM3	GN		B	03	11185405		0		16	Africa/Conakry	2016-06-29
+11185406	Tanéné	Tanene		11.03333	-14.2	A	ADM3	GN		B	03	11185406		0		52	Africa/Conakry	2016-06-29
+11185407	Baguinet	Baguinet		10.6	-13.63333	A	ADM3	GN		B	11	11185407		0		46	Africa/Conakry	2016-06-29
+11185408	Banguingny	Banguingny		10.7	-13.36667	A	ADM3	GN		D	27	11185408		0		334	Africa/Conakry	2016-06-29
+11185410	Tormelin	Tormelin		10.3	-13.71667	A	ADM3	GN		B	11	11185410		0		81	Africa/Conakry	2016-06-29
+11185411	Foulamory	Foulamory		12.16667	-13.63333	A	ADM3	GN		B	12	11185411		0		108	Africa/Conakry	2016-06-29
+11185412	Kakony	Kakony		11.4	-13.13333	A	ADM3	GN		B	12	11185412		0		122	Africa/Conakry	2016-06-29
+11185413	Koumbia	Koumbia		11.8	-13.5	A	ADM3	GN		B	12	11185413		0		115	Africa/Conakry	2016-06-29
+11185414	Kounsitel	Kounsitel		11.93333	-12.95	A	ADM3	GN		B	12	11185414		0		171	Africa/Conakry	2016-06-29
+11185415	Malanta	Malanta		11.53333	-13.76667	A	ADM3	GN		B	12	11185415		0		262	Africa/Conakry	2016-06-29
+11185416	Touba	Touba		11.6	-13.03333	A	ADM3	GN		B	12	11185416		0		119	Africa/Conakry	2016-07-09
+11185418	Wendou M'Bour	Wendou M'Bour		11.43333	-13.88333	A	ADM3	GN		B	12	11185418		0		160	Africa/Conakry	2016-06-20
+11185419	Guingan	Guingan		12.38333	-12.93333	A	ADM3	GN		B	18	11185419		0		138	Africa/Conakry	2016-07-08
+11185420	Kamaby	Kamaby		12.4	-13.41667	A	ADM3	GN		B	18	11185420		0		76	Africa/Conakry	2016-07-08
+11185421	Sambailo	Sambailo		12.58333	-13.36667	A	ADM3	GN		B	18	11185421		0		70	Africa/Conakry	2016-07-08
+11185422	Saréboido	Sareboido		12.4	-13.53333	A	ADM3	GN		B	18	11185422		0		73	Africa/Conakry	2016-07-08
+11185423	Termesse	Termesse		12.31667	-12.78333	A	ADM3	GN		B	18	11185423		0		190	Africa/Conakry	2016-07-08
+11185424	Youkounkoun	Youkounkoun		12.53333	-13.13333	A	ADM3	GN		B	18	11185424		0		71	Africa/Conakry	2016-07-08
+11185425	Kouriah	Kouriah		9.78333	-13.35	A	ADM3	GN		D	31	11185425		0		164	Africa/Conakry	2016-06-20
+11185426	Manéah	Maneah		9.73333	-13.41667	A	ADM3	GN		D	31	11185426		0		46	Africa/Conakry	2016-06-20
+11185428	Wonkifong	Wonkifong		9.65528	-13.39361	A	ADM3	GN		D	31	11185428		0		14	Africa/Conakry	2016-06-20
+11185429	Badi	Badi		10.35	-13.46667	A	ADM3	GN		B	11	11185429		0		70	Africa/Conakry	2016-06-20
+11185430	Falessade	Falessade		10.13333	-13.3	A	ADM3	GN		D	31	11185430		0		139	Africa/Conakry	2016-06-29
+11185431	Khorira	Khorira		9.86667	-13.48333	A	ADM3	GN		D	31	11185431		0		44	Africa/Conakry	2016-07-08
+11185432	Ouassou	Ouassou		10.18333	-13.55	A	ADM3	GN		D	31	11185432		0		50	Africa/Conakry	2016-07-08
+11185433	Tanéné	Tanene		9.80889	-13.49417	A	ADM3	GN		D	31	11185433		0		18	Africa/Conakry	2016-07-08
+11185434	Tondon	Tondon		10.36667	-13.35	A	ADM3	GN		D	31	11185434		0		113	Africa/Conakry	2016-07-08
+11185435	Alassoya	Alassoya		9.55	-13.1	A	ADM3	GN		D	10	11185435		0		128	Africa/Conakry	2016-07-08
+11185436	Benty	Benty		9.18333	-13.23333	A	ADM3	GN		D	10	11185436		0		6	Africa/Conakry	2016-07-08
+11185438	Kaback	Kaback		9.4	-13.35	A	ADM3	GN		D	10	11185438		0		4	Africa/Conakry	2016-07-08
+11185439	Kakossa	Kakossa		9.43333	-13.31667	A	ADM3	GN		D	10	11185439		0		16	Africa/Conakry	2016-07-08
+11185440	Kallia	Kallia		9.21667	-13.26667	A	ADM3	GN		D	10	11185440		0		6	Africa/Conakry	2016-07-08
+11185441	Maférinya	Maferinya		9.55	-13.28333	A	ADM3	GN		D	10	11185441		0		26	Africa/Conakry	2016-07-08
+11185442	Moussaya	Moussaya		9.46667	-12.85	A	ADM3	GN		D	10	11185442		0		79	Africa/Conakry	2016-07-08
+11185444	Sikhourou	Sikhourou		9.61667	-12.81667	A	ADM3	GN		D	10	11185444		0		117	Africa/Conakry	2016-07-08
+11185445	Bangouyah	Bangouyah		10.33333	-12.95	A	ADM3	GN		D	16	11185445		0		220	Africa/Conakry	2016-07-08
+11185446	Damankanyah	Damankanyah		9.91667	-12.96667	A	ADM3	GN		D	16	11185446		0		377	Africa/Conakry	2016-06-30
+11185447	Friguiagbé	Friguiagbe		9.95	-12.93333	A	ADM3	GN		D	16	11185447		0		364	Africa/Conakry	2016-06-30
+11185448	Kolenté	Kolente		10.1	-12.61667	A	ADM3	GN		D	16	11185448		0		130	Africa/Conakry	2016-06-30
+11185450	Mambia	Mambia		9.82806	-13.11778	A	ADM3	GN		D	16	11185450		0		277	Africa/Conakry	2016-06-30
+11185451	Molota	Molota		9.93333	-12.83333	A	ADM3	GN		D	16	11185451		0		397	Africa/Conakry	2016-07-08
+11185452	Samayah	Samayah		9.88333	-13.06667	A	ADM3	GN		D	16	11185452		0		349	Africa/Conakry	2016-07-08
+11185453	Souguéta	Sougueta		10.15	-12.53333	A	ADM3	GN		D	16	11185453		0		301	Africa/Conakry	2016-07-08
+11185454	Daramagnaky	Daramagnaky		10.8806	-13.1572	A	ADM3	GN		D	27	11185454		0		270	Africa/Conakry	2016-07-08
+11185455	Gougoudjé	Gougoudje		10.81667	-13	A	ADM3	GN		D	27	11185455		0		303	Africa/Conakry	2016-07-08
+11185456	Koba	Koba		11.23333	-13.35	A	ADM3	GN		D	27	11185456		0		450	Africa/Conakry	2016-07-10
+11185457	Kollet	Kollet		11.21667	-13.11667	A	ADM3	GN		B	12	11185457		0		415	Africa/Conakry	2016-09-19
+11185458	Konsotamy	Konsotamy		10.93333	-13.5	A	ADM3	GN		D	27	11185458		0		391	Africa/Conakry	2016-07-10
+11185460	Missira	Missira		11.21667	-13.6	A	ADM3	GN		D	27	11185460		0		466	Africa/Conakry	2016-07-10
+11185461	Santou	Santou		11.13333	-13.08333	A	ADM3	GN		D	27	11185461		0		582	Africa/Conakry	2016-07-10
+11185462	Sarékaly	Sarekaly		11.06667	-13	A	ADM3	GN		D	27	11185462		0		599	Africa/Conakry	2016-07-10
+11185463	Sinta	Sinta		10.71667	-13	A	ADM3	GN		D	27	11185463		0		325	Africa/Conakry	2016-07-10
+11185464	Sogolon	Sogolon		10.55	-13.26667	A	ADM3	GN		B	11	11185464		0		331	Africa/Conakry	2016-06-20
+11185465	Tarihoye	Tarihoye		10.71667	-13.08333	A	ADM3	GN		D	27	11185465		0		478	Africa/Conakry	2016-07-10
+11185466	Thionthian	Thionthian		10.83333	-13.21667	A	ADM3	GN		D	27	11185466		0		432	Africa/Conakry	2016-07-10
+11185467	Fafaya	Fafaya		11.71667	-11.7	A	ADM3	GN		L	33	11185467		0		772	Africa/Conakry	2016-07-10
+11185468	Gadha-Woundou	Gadha-Woundou		12.01667	-11.53333	A	ADM3	GN		L	22	11185468		0		512	Africa/Conakry	2016-06-20
+11185469	Matakaou	Matakaou		11.7639	-11.7972	A	ADM3	GN		L	22	11185469		0		564	Africa/Conakry	2016-06-20
+11185470	Missira	Missira		11.5492	-11.7603	A	ADM3	GN		L	33	11185470		0		559	Africa/Conakry	2016-07-10
+11185471	Pilimini	Pilimini		11.56667	-12.15	A	ADM3	GN		L	33	11185471		0		750	Africa/Conakry	2016-07-10
+11185473	Dalein	Dalein		11.51667	-12.31667	A	ADM3	GN		L	34	11185473		0		980	Africa/Conakry	2016-07-10
+11185474	Daralabe	Daralabe		11.43333	-11.35	A	ADM3	GN		L	28	11185474		0		782	Africa/Conakry	2016-06-29
+11185475	Diari	Diari		11.33333	-12.5	A	ADM3	GN		L	34	11185475		0		958	Africa/Conakry	2016-06-29
+11185476	Dionfo	Dionfo		11.33333	-12.06667	A	ADM3	GN		L	33	11185476		0		774	Africa/Conakry	2016-06-29
+11185477	Garambé	Garambe		11.26667	-12.38333	A	ADM3	GN		L	34	11185477		0		1035	Africa/Conakry	2016-06-29
+11185478	Hafia	Hafia		11.21667	-12.4	A	ADM3	GN		L	34	11185478		0		992	Africa/Conakry	2016-06-29
+11185479	Kaalan	Kaalan		11.31667	-12.18333	A	ADM3	GN		L	34	11185479		0		832	Africa/Conakry	2016-09-19
+11185480	Kouramangui	Kouramangui		11.5	-12.46667	A	ADM3	GN		L	34	11185480		0		1057	Africa/Conakry	2016-06-29
+11185481	Noussy	Noussy		11.21667	-12.2	A	ADM3	GN		M	25	11185481		0		1136	Africa/Conakry	2016-06-20
+11185482	Popodara	Popodara		11.4	-12.4	A	ADM3	GN		L	34	11185482		0		1020	Africa/Conakry	2016-06-29
+11185484	Tountouroun	Tountouroun		11.41667	-12.28333	A	ADM3	GN		L	34	11185484		0		1039	Africa/Conakry	2016-06-29
+11185485	Balaya	Balaya		11.43333	-12.71667	A	ADM3	GN		L	35	11185485		0		987	Africa/Conakry	2016-06-29
+11185486	Djountou	Djountou		11.46667	-12.53333	A	ADM3	GN		L	35	11185486		0		1028	Africa/Conakry	2016-06-29
+11185487	Hérico	Herico		11.28333	-12.68333	A	ADM3	GN		L	35	11185487		0		510	Africa/Conakry	2016-06-29
+11185488	Korbé	Korbe		11.46667	-12.61667	A	ADM3	GN		L	35	11185488		0		939	Africa/Conakry	2016-06-29
+11185489	Lafou	Lafou		11.46667	-12.85	A	ADM3	GN		B	12	11185489		0		947	Africa/Conakry	2016-06-29
+11185490	Linsan	Linsan		11.76667	-12.68333	A	ADM3	GN		L	22	11185490		0		465	Africa/Conakry	2016-06-29
+11185491	Manda	Manda		11.66667	-12.61667	A	ADM3	GN		L	35	11185491		0		528	Africa/Conakry	2016-06-29
+11185492	Parawol	Parawol		11.35	-12.63333	A	ADM3	GN		L	35	11185492		0		548	Africa/Conakry	2016-06-29
+11185531	Sagalé	Sagale		11.28333	-12.85	A	ADM3	GN		L	35	11185531		0		1133	Africa/Conakry	2016-06-29
+11185532	Tyanguel-Bori	Tyanguel-Bori		11.6	-12.68333	A	ADM3	GN		L	35	11185532		0		493	Africa/Conakry	2016-06-29
+11185533	Balaki	Balaki		12.15	-11.83333	A	ADM3	GN		L	22	11185533		0		427	Africa/Conakry	2016-06-29
+11185534	Donghol-Sigon	Donghol-Sigon		11.8	-12.21667	A	ADM3	GN		L	22	11185534		0		940	Africa/Conakry	2016-06-21
+11185535	Dougountouny	Dougountouny		11.86667	-12.61667	A	ADM3	GN		L	22	11185535		0		745	Africa/Conakry	2016-06-29
+11185536	Fougou	Fougou		11.9	-12.3	A	ADM3	GN		L	22	11185536		0		1080	Africa/Conakry	2016-06-29
+11185537	Gayah	Gayah		12.01667	-12.43333	A	ADM3	GN		L	22	11185537		0		772	Africa/Conakry	2016-06-29
+11185538	Hidayatou	Hidayatou		12.03333	-12.16667	A	ADM3	GN		L	22	11185538		0		628	Africa/Conakry	2016-06-29
+11185539	Lébékére	Lebekere		12.11667	-12.4	A	ADM3	GN		L	22	11185539		0		605	Africa/Conakry	2016-07-10
+11185540	Madina-Wora	Madina-Wora		12.03333	-12.5	A	ADM3	GN		L	22	11185540		0		690	Africa/Conakry	2016-06-21
+11185541	Salambandé	Salambande		11.83333	-11.88333	A	ADM3	GN		L	22	11185541		0		755	Africa/Conakry	2016-06-29
+11185542	Téliré	Telire		11.93333	-12.08333	A	ADM3	GN		L	22	11185542		0		414	Africa/Conakry	2016-06-29
+11185543	Yimbéring	Yimbering		11.8	-12.36667	A	ADM3	GN		L	22	11185543		0		839	Africa/Conakry	2016-06-29
+11185544	Fatako	Fatako		11.21667	-11.88333	A	ADM3	GN		L	28	11185544		0		685	Africa/Conakry	2016-06-29
+11185545	Fello-Koundoua	Fello-Koundoua		11.86667	-11.3	A	ADM3	GN		L	28	11185545		0		532	Africa/Conakry	2016-06-21
+11185546	Kansangui	Kansangui		11.2	-11.6	A	ADM3	GN		L	28	11185546		0		819	Africa/Conakry	2016-06-29
+11185547	Kolangui	Kolangui		11.13333	-11.81667	A	ADM3	GN		L	28	11185547		0		708	Africa/Conakry	2016-06-29
+11185548	Kollet	Kollet		10.11667	-11.78333	A	ADM3	GN		M	23	11185548		0		300	Africa/Conakry	2016-06-21
+11185549	Konah	Konah		11.46667	-11.38333	A	ADM3	GN		L	28	11185549		0		750	Africa/Conakry	2016-06-29
+11185550	Kouratongo	Kouratongo		11.63333	-11.48333	A	ADM3	GN		L	28	11185550		0		844	Africa/Conakry	2016-08-15
+11185551	Koin	Koin		11.21667	-11.81667	A	ADM3	GN		L	28	11185551		0		738	Africa/Conakry	2016-06-29
+11185552	Tangali	Tangali		11.35	-11.93333	A	ADM3	GN		L	28	11185552		0		781	Africa/Conakry	2016-07-10
+11185553	Bodié	Bodie		11.03333	-12.06667	A	ADM3	GN		M	06	11185553		0		708	Africa/Conakry	2016-06-29
+11185554	Ditinn	Ditinn		10.88333	-12.18333	A	ADM3	GN		M	06	11185554		0		685	Africa/Conakry	2016-06-29
+11185555	Kaala	Kaala		10.81667	-12.16667	A	ADM3	GN		M	06	11185555		0		1234	Africa/Conakry	2016-06-29
+11185556	Kankalabé	Kankalabe		11.15	-12	A	ADM3	GN		M	06	11185556		0		704	Africa/Conakry	2016-06-29
+11185557	Kébali	Kebali		10.95	-12.2	A	ADM3	GN		M	06	11185557		0		685	Africa/Conakry	2016-06-29
+11185558	Koba	Koba		10.61667	-12.31667	A	ADM3	GN		M	06	11185558		0		935	Africa/Conakry	2016-06-21
+11185559	Mafara	Mafara		10.83333	-12.26667	A	ADM3	GN		M	06	11185559		0		1064	Africa/Conakry	2016-06-29
+11185561	Mitty	Mitty		10.83333	-12.31667	A	ADM3	GN		M	06	11185561		0		991	Africa/Conakry	2016-06-29
+11185562	Mombéyah	Mombeyah		11.21667	-12.06667	A	ADM3	GN		M	06	11185562		0		763	Africa/Conakry	2016-06-29
+11185563	Bouliwel	Bouliwel		10.61667	-12.18333	A	ADM3	GN		M	23	11185563		0		866	Africa/Conakry	2016-06-21
+11185564	Dounet	Dounet		10.54722	-11.90917	A	ADM3	GN		M	23	11185564		0		686	Africa/Conakry	2016-06-29
+11185565	Gongoret	Gongoret		10.76667	-11.95	A	ADM3	GN		M	23	11185565		0		851	Africa/Conakry	2016-06-29
+11185566	Kégnéko	Kegneko		10.54056	-11.77944	A	ADM3	GN		M	23	11185566		0		635	Africa/Conakry	2016-06-29
+11185567	Konkouré	Konkoure		10.28333	-12.23333	A	ADM3	GN		M	23	11185567		0		512	Africa/Conakry	2016-07-10
+11185568	Nyagara	Nyagara		10.75	-11.8	A	ADM3	GN		M	23	11185568		0		630	Africa/Conakry	2016-07-10
+11185569	Ouré-Kaba	Oure-Kaba		10.15	-11.66667	A	ADM3	GN		M	23	11185569		0		436	Africa/Conakry	2016-06-21
+11185570	Porédaka	Poredaka		10.73333	-12.06667	A	ADM3	GN		M	23	11185570		0		785	Africa/Conakry	2016-07-10
+11185571	Saramoussaya	Saramoussaya		10.75	-11.58333	A	ADM3	GN		M	23	11185571		0		742	Africa/Conakry	2016-07-10
+11185572	Soyah	Soyah		10.23333	-12.03333	A	ADM3	GN		M	23	11185572		0		682	Africa/Conakry	2016-07-10
+11185573	Téguéréya	Teguereya		10.6114	-12.1869	A	ADM3	GN		M	23	11185573		0		917	Africa/Conakry	2016-06-29
+11185574	Timbo	Timbo		10.63333	-11.83333	A	ADM3	GN		M	23	11185574		0		704	Africa/Conakry	2016-07-09
+11185575	Tolo	Tolo		10.38333	-11.75	A	ADM3	GN		M	23	11185575		0		474	Africa/Conakry	2016-07-09
+11185576	Bantignel	Bantignel		11.11667	-12.3	A	ADM3	GN		M	25	11185576		0		1024	Africa/Conakry	2016-07-09
+11185577	Dongol-Touma	Dongol-Touma		10.91667	-12.5	A	ADM3	GN		M	25	11185577		0		926	Africa/Conakry	2016-07-09
+11185578	Gongore	Gongore		10.83333	-12.41667	A	ADM3	GN		M	06	11185578		0		934	Africa/Conakry	2016-07-09
+11185579	Ley-Miro	Ley-Miro		10.93333	-12.88333	A	ADM3	GN		M	25	11185579		0		475	Africa/Conakry	2016-07-09
+11185580	Maci	Maci		10.91667	-12.43333	A	ADM3	GN		M	25	11185580		0		965	Africa/Conakry	2016-07-09
+11185581	Ninguélandé	Ninguelande		11.18333	-12.66667	A	ADM3	GN		M	25	11185581		0		1179	Africa/Conakry	2016-07-09
+11185582	Sangaréah	Sangareah		10.63333	-12.85	A	ADM3	GN		M	25	11185582		0		280	Africa/Conakry	2016-07-09
+11185583	Sintali	Sintali		11.1	-12.4333	A	ADM3	GN		M	25	11185583		0		906	Africa/Conakry	2016-07-09
+11185584	Timbi-Madina	Timbi-Madina		11.2	-12.53333	A	ADM3	GN		M	25	11185584		0		1011	Africa/Conakry	2016-06-21
+11185585	Timbi-Touny	Timbi-Touny		11.11667	-12.48333	A	ADM3	GN		M	25	11185585		0		973	Africa/Conakry	2016-06-21
+11203659	Siguiri-Centre	Siguiri-Centre		11.41667	-9.16667	A	ADM3	GN		K	39	11203659		0		356	Africa/Conakry	2016-07-07
+11203766	Dalaba-Centre	Dalaba-Centre		10.69165	-12.24907	A	ADM3	GN		M	06	11203766		0		1236	Africa/Conakry	2016-07-08
+11203887	Kissidougou-Centre	Kissidougou-Centre		9.19463	-10.093	A	ADM3	GN		F	17	11203887		0		518	Africa/Conakry	2016-07-11
+11238551	Kankan Centre	Kankan Centre		10.33865	-9.26336	A	ADM3	GN		K	32	11238551		0		408	Africa/Conakry	2018-12-21
+11257166	Sangarédi	Sangaredi		11.1	-13.76667	A	ADM3	GN		B	03	11257166		0		200	Africa/Conakry	2016-09-17
+11258467	Kamakoulon	Kamakoulon		10.71	-14.53	A	ADM3	GN		B	03	11258467		0		14	Africa/Conakry	2016-10-01
+7669296	Matoto Sub-Prefecture	Matoto Sub-Prefecture	Matoto	9.58976	-13.54741	A	ADM3	GN		04		7669296		0		4	Africa/Conakry	2012-06-07
+7731883	Ratoma Sub-Prefecture	Ratoma Sub-Prefecture	Prefecture de Ratoma,Préfecture de Ratoma,Ratoma	9.69619	-13.56289	A	ADM3	GN		04		7731883		0		5	Africa/Conakry	2012-06-07
+7731884	Dixinn Sub-Prefecture	Dixinn Sub-Prefecture	Dixinn	9.61294	-13.62991	A	ADM3	GN		04		7731884		0		32	Africa/Conakry	2012-06-07
+7731885	Matam Sub-Prefecture	Matam Sub-Prefecture	Matam	9.5763	-13.6341	A	ADM3	GN		04		7731885		0		72	Africa/Conakry	2012-06-07
+7731886	Kaloum	Kaloum		9.50773	-13.71351	A	ADM3	GN		04	8335012	7731886		0		3	Africa/Conakry	2017-12-25
+8260267	Bourouwal-Tappé	Bourouwal-Tappe		11	-12.38333	A	ADM3	GN		M	25	8260267		0		979	Africa/Conakry	2016-06-29
+8334590	Foumbadou Sub-Prefecture	Foumbadou Sub-Prefecture	Foumbadou	8.25	-8.4	A	ADM3	GN		N	01	8334590		0		543	Africa/Conakry	2012-06-14
+11257348	Barkere	Barkere		11.82	-13.198	A	ADM4	GN		B	12		11257348	0		169	Africa/Conakry	2016-09-22
+11258598	Melikansa	Melikansa		10.077	-12.244	A	ADM4	GN		D	16		11258598	0		629	Africa/Conakry	2016-10-05

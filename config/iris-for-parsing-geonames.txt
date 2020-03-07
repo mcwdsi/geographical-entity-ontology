@@ -1,0 +1,10 @@
+geonameid	http://purl.obolibrary.org/obo/GEO_000035330	annotation
+admin1 code	http://purl.obolibrary.org/obo/GEO_000035331	annotation
+admin2 code	http://purl.obolibrary.org/obo/GEO_000035332	annotation
+admin3 code	http://purl.obolibrary.org/obo/GEO_000035333	annotation
+admin4 code	http://purl.obolibrary.org/obo/GEO_000035334	annotation
+proper part	http://purl.obolibrary.org/obo/BFO_0000137	object property
+alternative term	http://purl.obolibrary.org/obo/IAO_0000118	annotation
+label	http://www.w3.org/2000/01/rdf-schema#label	annotation
+editor preferred	http://purl.obolibrary.org/obo/IAO_0000111	annotation
+geo region	http://purl.obolibrary.org/obo/GEO_000000372	class

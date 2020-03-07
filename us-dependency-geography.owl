@@ -10,15 +10,15 @@
 ]>
 
 
-<rdf:RDF xmlns="&obo;geo/us-geography.owl#"
-     xml:base="&obo;geo/us-geography.owl"
+<rdf:RDF xmlns="&obo;geo/dev/us-geography.owl#"
+     xml:base="&obo;geo/dev/us-geography.owl"
      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:owl="http://www.w3.org/2002/07/owl#"
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
      xmlns:obo="http://purl.obolibrary.org/obo/">
-    <owl:Ontology rdf:about="&obo;geo/us-dependency-geography.owl">
-        <owl:imports rdf:resource="&obo;geo/us-basic-geography.owl"/>
+    <owl:Ontology rdf:about="&obo;geo/dev/us-dependency-geography.owl">
+        <owl:imports rdf:resource="&obo;geo/dev/us-basic-geography.owl"/>
     </owl:Ontology>
     
 
@@ -118,31 +118,6 @@
     <rdf:Description rdf:about="&obo;IAO_0000119">
         <obo:IAO_0000114 rdf:resource="&obo;IAO_0000122"/>
     </rdf:Description>
-    
-
-
-    <!-- 
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Object Properties
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-     -->
-
-    
-
-
-    <!-- http://purl.obolibrary.org/obo/BFO_0000137 -->
-
-    <rdf:Description rdf:about="&obo;BFO_0000137">
-        <owl:inverseOf rdf:resource="&obo;BFO_0000187"/>
-    </rdf:Description>
-    
-
-
-    <!-- http://purl.obolibrary.org/obo/BFO_0000187 -->
-
-    <rdf:Description rdf:about="&obo;BFO_0000187"/>
     
 
 
@@ -492,6 +467,7 @@
         <obo:GEO_000000360 rdf:datatype="&xsd;string">72</obo:GEO_000000360>
         <obo:GEO_000000362 rdf:datatype="&xsd;string">PR</obo:GEO_000000362>
         <obo:GEO_000000358 rdf:datatype="&xsd;string">US-72</obo:GEO_000000358>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
     </owl:NamedIndividual>
     
 
@@ -549,6 +525,7 @@
         <obo:GEO_000000362 rdf:datatype="&xsd;string">VI</obo:GEO_000000362>
         <obo:IAO_0000118 xml:lang="en">region of U.S. Virgin Islands</obo:IAO_0000118>
         <obo:IAO_0000118 xml:lang="en">region of United States Virgin Islands</obo:IAO_0000118>
+        <obo:BFO_0000137 rdf:resource="&obo;GEO_000000345"/>
     </owl:NamedIndividual>
     
 

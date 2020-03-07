@@ -1,0 +1,6 @@
+input=~/devel/repos/ontology/geographical-entity-ontology/source_data/NG-admin-units.txt
+countrycode=NG
+owlpurlbase=http://purl.obolibrary.org/obo/geo/ng-admin-level
+countryiri=http://purl.obolibrary.org/obo/GEO_000000656
+irilookup=~/devel/repos/ontology/geographical-entity-ontology/config/iris-for-parsing-geonames.txt
+iriStart=69590

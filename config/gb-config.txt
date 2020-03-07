@@ -1,0 +1,6 @@
+input=/Users/aehicks/projects/ontologies/geographical-entity-ontology/source_data/GB-admin-units.txt
+countrycode=GB
+owlpurlbase=http://purl.obolibrary.org/obo/geo/great_britian-admin-level
+countryiri=http://purl.obolibrary.org/obo/GEO_000000578
+irilookup=/Users/aehicks/projects/ontologies/geographical-entity-ontology/config/iris-for-parsing-geonames.txt
+iriStart=43677

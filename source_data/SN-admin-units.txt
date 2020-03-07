@@ -1,0 +1,73 @@
+2243939	Ziguinchor	Ziguinchor	Basse Casamance,Diiwaanu Siggcoor,Regio de Ziguinchor,Region Ziguinchor,Region de Ziguinchor,Regione di Ziguinchor,Regió de Ziguinchor,Región de Ziguinchor,Rexion de Ziguinchor,Rexión de Ziguinchor,Région de Ziguinchor,Ziginshor,Ziginsoro regionas,Ziginšoro regionas,Ziguinchor,Ziguinchor Region,Ziguinchor eskualdea,ji jin shao er qu,jiganshoru zhou,jiginsyoleu ju,zynghshwr,Зигиншор,زينغشور,ジガンショール州,济金绍尔区,지긴쇼르 주	12.8	-16.36667	A	ADM1	SN		12				523840		19	Africa/Dakar	2016-05-08
+2244800	Région de Thiès	Region de Thies	Region de Thies,Région de Thiès,Thies,Thies Region,Thiès	14.86667	-16.86667	A	ADM1	SN		07				1709112		61	Africa/Dakar	2016-05-08
+2244990	Tambacounda	Tambacounda	Diiwaanu Tambaakundaa,Eastern Senegal Region,Region Tambacounda,Region de Tambacounda,Region du Senegal Oriental,Regione di Tambacounda,Regiunea Tambacounda,Región de Tambacounda,Rexion de Tambacounda,Rexión de Tambacounda,Région de Tambacounda,Région du Sénégal Oriental,Tambacounda,Tambacounda Region,Tambacounda eskualdea,Tambakunda,Tambakundos regionas,tambakunda ju,tan ba kun da qu,tanbakunda zhou,Тамбакунда,تامباکؤندا علاقہ,タンバクンダ州,坦巴昆達區,탐바쿤다 주	13.91667	-13.25	A	ADM1	SN		05				649854		66	Africa/Dakar	2016-05-08
+2246451	Saint-Louis	Saint-Louis	Diiwaanu Ndar,Region Saint-Louis,Region de Saint-Louis,Region du Fleuve,Region du Valle du Fleuve,Regione di Saint-Louis,Regiunea Saint-Louis,Región de Saint-Louis,Rexion de Saint-Louis,Rexión de Saint-Louis,River Region,Région de Saint-Louis,Région du Fleuve,Région du Vallé du Fleuve,Saint-Louis,Saint-Louis Region,Saint-Louis eskualdea,Sen Luji regionas,Sen-Lui,saenglu-i ju,sanrui zhou,sheng lu yi qu,Сен-Луи,سینٹ-لوئیس علاقہ,サンルイ州,聖路易區,생루이 주	16.33333	-15	A	ADM1	SN		14				732667		37	Africa/Dakar	2016-05-08
+2248753	Matam	Matam	Diiwaanu Maatam,Matam,Matam Region,Matam eskualdea,Matamo regionas,Region Matam,Region de Matam,Regione di Matam,Regiunea Matam,Región de Matam,Rexion de Matam,Rexión de Matam,Région de Matam,ma ta mu qu,matam ju,matamu zhou,Матам,ماتام علاقہ,マタム州,馬塔姆區,마탐 주	15.16667	-13.66667	A	ADM1	SN		15				477964		43	Africa/Dakar	2016-05-08
+2249221	Louga	Louga	Diiwaanu Luga,Louga,Louga Region,Louga eskualdea,Luga,Lugos regionas,Region Louga,Region de Louga,Regione di Louga,Regiunea Louga,Región de Louga,Rexion de Louga,Rexión de Louga,Région de Louga,lu jia qu,luga ju,ruga zhou,Луга,ルーガ州,盧加區,루가 주	15.41667	-15.5	A	ADM1	SN		13				835325		30	Africa/Dakar	2016-05-08
+2249781	Kolda	Kolda	Diiwaanu Koldaa,Gebied Kolda,Kolda,Kolda Region,Kolda eskualdea,Koldos regionas,Regiao de Kolda,Region Kolda,Region de Kolda,Regione di Kolda,Regiunea Kolda,Região de Kolda,Región de Kolda,Rexion de Kolda,Rexión de Kolda,Région de Kolda,ke er da qu,kolda ju,koruda zhou,Колда,کولدا علاقہ,コルダ州,科爾達區,콜다 주	13	-14.41667	A	ADM1	SN		11				633652		56	Africa/Dakar	2016-05-08
+2250804	Kaolack	Kaolack	Diiwaanu Kawlax,Kaolack,Kaolack Region,Kaolack eskualdea,Kaolackin alue,Kaolak,Kaolako regionas,Region Kaolack,Region de Kaolack,Regione di Kaolack,Regiunea Kaolack,Región de Kaolack,Rexion de Kaolack,Rexión de Kaolack,Région de Kaolack,kao la ke qu,kaollakeu ju,kaorakku zhou,Каолак,کاولاک علاقہ,カオラック州,考拉克区,카올라크 주	14	-16	A	ADM1	SN		10				918355		17	Africa/Dakar	2016-05-08
+2251910	Fatick	Fatick	Fatick,Region de Fatick,Région de Fatick	14.28333	-16.5	A	ADM1	SN		09				24243		4	Africa/Dakar	2016-05-08
+2252308	Diourbel	Diourbel	Diiwaanu Njaareem,Diiwaanu Njaaréem,Diourbel,Diourbel Region,Diourbel eskualdea,Diurbel,Diurbel',Diurbelio regionas,Region Diourbel,Region de Diourbel,Regione di Diourbel,Regiunea Diourbel,Región de Diourbel,Rexion de Diourbel,Rexión de Diourbel,Région de Diourbel,diuleubel ju,jiu er bei lei qu,juruberu zhou,Диурбел,Диурбель,دیوربیل علاقہ,ジュルベル州,久尔贝勒区,디우르벨 주	14.76667	-16.1	A	ADM1	SN		03				1420082		25	Africa/Dakar	2016-05-08
+2253350	Dakar	Dakar	Dakar,Dakar Region,Dakar eskualdea,Dakaro regionas,Diiwaanu Ndakaaru,Region Dakar,Region de Dakar,Region du Cap Vert,Regione di Dakar,Regiunea Dakar,Región de Dakar,Rexion de Dakar,Rexión de Dakar,Région de Dakar,Région du Cap Vert,da ka er qu,dakaleu ju,dakaru zhou,Дакар,ڈاکار علاقہ,ダカール州,达喀尔区,다카르 주	14.76667	-17.28333	A	ADM1	SN		01				2431062		16	Africa/Dakar	2016-05-08
+7303935	Région de Kaffrine	Region de Kaffrine	Kaffrine	14.10528	-15.54565	A	ADM1	SN		16				28396		16	Africa/Dakar	2016-05-08
+7303936	Région de Kédougou	Region de Kedougou	Kedougou,Kédougou	12.55146	-12.17586	A	ADM1	SN		17				152134		118	Africa/Dakar	2016-05-08
+7303937	Région de Sédhiou	Region de Sedhiou	Sedhiou,Sédhiou	12.70683	-15.55801	A	ADM1	SN		18				434877		25	Africa/Dakar	2016-05-08
+10402310	Goudomp Department	Goudomp Department	Goudomp	12.57778	-15.87222	A	ADM2	SN		18	10402310			150000		6	Africa/Dakar	2019-01-08
+10778597	Département de Ranérou Ferlo	Departement de Ranerou Ferlo	Departement de Ranerou,Departement de Ranerou Ferlo,Département de Ranérou,Département de Ranérou Ferlo,Ranerou,Ranerou Ferlo,Ranérou,Ranérou Ferlo	15.05069	-14.13322	A	ADM2	SN		15	10778597			0		59	Africa/Dakar	2019-01-08
+10778869	Département de Guinguinéo	Departement de Guinguineo	Departement de Guinguineo,Département de Guinguinéo,Guinguineo,Guinguinéo	14.29886	-15.92072	A	ADM2	SN		10	10778869			0		28	Africa/Dakar	2019-01-08
+10778870	Birkelane	Birkelane	Birkelane,Birkilane,Departement de Birkelane,Departement de Birkilane,Département de Birkelane,Département de Birkilane	14.0685	-15.69036	A	ADM2	SN		16	10778870			0		27	Africa/Dakar	2019-01-08
+10778871	Malem Hoddar	Malem Hoddar	Departement de Malem Hoddar,Departement de Maleme Hodar,Département de Malem Hoddar,Département de Maleme Hodar,Malem Hodar,Malem Hoddar,Maleme Hodar	14.38595	-15.23713	A	ADM2	SN		16	10778871			0		33	Africa/Dakar	2019-01-08
+10778872	Koungheul	Koungheul	Departement de Koungheul,Departement de Koungueul,Département de Koungheul,Département de Koungueul,Koungheul,Koungueul	14.23612	-14.84476	A	ADM2	SN		16	10778872			0		50	Africa/Dakar	2019-01-08
+10778873	Koumpentoum	Koumpentoum	Departement de Koumpentoum,Departement de Koupentoum,Département de Koumpentoum,Département de Koupentoum,Koumpentoum,Koupentoum	14.13124	-14.33534	A	ADM2	SN		05	10778873			0		51	Africa/Dakar	2019-01-08
+10778874	Goudiry	Goudiry	Departement de Goudiry,Département de Goudiry,Goudiry,Goudury	13.97766	-12.91197	A	ADM2	SN		05	10778874			0		67	Africa/Dakar	2019-01-08
+10778875	Département de Salémata	Departement de Salemata	Departement de Salemata,Département de Salémata,Salemata,Salémata	12.59971	-12.77619	A	ADM2	SN		17	10778875			0		129	Africa/Dakar	2019-01-08
+10779432	Saraya	Saraya	Departement de Saraya,Département de Saraya,Saraya	13.0015	-11.79627	A	ADM2	SN		17	10779432			0		151	Africa/Dakar	2019-01-08
+10779433	Département de Médina Yoro Foulah	Departement de Medina Yoro Foulah	Departement de Medina Yoro Foula,Departement de Medina Yoro Foulah,Département de Médina Yoro Foula,Département de Médina Yoro Foulah,Medina Yoro Foula,Medina Yoro Foulah,Médina Yoro Foula,Médina Yoro Foulah	13.22561	-14.85773	A	ADM2	SN		11	10779433			0		51	Africa/Dakar	2019-01-08
+10779434	Bounkiling	Bounkiling	Bounkiling,Departement de Bounkiling,Département de Bounkiling	13.13701	-15.61163	A	ADM2	SN		18	10779434			0		46	Africa/Dakar	2019-01-08
+11429067	Saint-Louis Department	Saint-Louis Department	Saint Louis	16.028	-16.40808	A	ADM2	SN		14	11429067			0		3	Africa/Dakar	2019-01-08
+2243943	Ziguinchor	Ziguinchor	Departement de Ziguinchor,Département de Ziguinchor,Ziguinchor	12.52201	-16.21621	A	ADM2	SN		12	2243943			0		23	Africa/Dakar	2019-01-08
+2244181	Velingara Department	Velingara Department	Departement de Velingara,Département de Velingara,Velingara,Vélingara	12.986	-13.813	A	ADM2	SN	SN	11	2244181			0		66	Africa/Dakar	2019-01-08
+2244388	Tivaouane	Tivaouane	Departement de Tivaouane,Département de Tivaouane,Tivaouane	15.08519	-16.71058	A	ADM2	SN		07	2244388			0		46	Africa/Dakar	2019-01-08
+2244804	Thiès	Thies	Departement de Thies,Département de Thiès,Thies,Thiès	14.73004	-16.86974	A	ADM2	SN		07	2244804			0		53	Africa/Dakar	2019-01-08
+2244993	Tambacounda Department	Tambacounda Department	Tambacounda	13.605	-13.647	A	ADM2	SN		05	2244993			0		55	Africa/Dakar	2019-01-08
+2245705	Sédhiou	Sedhiou	Departement de Sedhiou,Département de Sédhiou,Sedhiou,Sédhiou	12.69807	-15.58479	A	ADM2	SN	SN	18	2245705			0		48	Africa/Dakar	2019-01-11
+2246656	Podor	Podor	Departement de Podor,Département de Podor,Podor	16.2502	-14.59767	A	ADM2	SN		14	2246656			0		43	Africa/Dakar	2019-01-08
+2246902	Oussouye	Oussouye	Departement d'Oussouye,Département d’Oussouye,Oussouye	12.48552	-16.61648	A	ADM2	SN		12	2246902			0		10	Africa/Dakar	2019-01-08
+2247158	Nioro du Rip	Nioro du Rip	Departement de Nioro,Departement de Nioro du Rip,Département de Nioro,Département de Nioro du Rip,Nioro,Nioro du Rip	13.73513	-15.83925	A	ADM2	SN		10	2247158			0		45	Africa/Dakar	2019-01-08
+2248478	Mbour	Mbour	Departement de M'bour,Departement de Mbour,Département de Mbour,Département de M’bour,M'bour,Mbour,M’bour	14.40569	-16.85559	A	ADM2	SN		07	2248478			0		13	Africa/Dakar	2019-01-08
+2248699	Mbacké	Mbacke	Departement de Mbacke,Département de Mbacké,M'Backe,Mbacke,Mbacké,Mbake,Mbaké,M’Backé	14.80828	-15.86454	A	ADM2	SN		03	2248699			0		41	Africa/Dakar	2019-01-08
+2249224	Louga Department	Louga Department	Louga	15.75	-16	A	ADM2	SN		13	2249224			0		32	Africa/Dakar	2019-01-08
+2249283	Linguere Department	Linguere Department	Linguere,Linguère	15.359	-15.158	A	ADM2	SN		13	2249283			0		36	Africa/Dakar	2019-01-08
+2250648	Kédougou Department	Kedougou Department	Kedougou,Kédougou	12.81716	-12.17834	A	ADM2	SN		17	2250648			0		122	Africa/Dakar	2019-01-08
+2250660	Kebemer Department	Kebemer Department	Kebemer,Kébémer	15.318	-16.221	A	ADM2	SN		13	2250660			0		43	Africa/Dakar	2019-01-08
+2250807	Kaolack	Kaolack	Departement de Kaolack,Département de Kaolack,Kaolack,Kaolak	14.05726	-16.07898	A	ADM2	SN		10	2250807			0		7	Africa/Dakar	2019-01-08
+2251008	Kaffrine Department	Kaffrine Department	Kaffrine,Kafrine	14.15415	-15.50188	A	ADM2	SN	SN	16	2251008			0		3	Africa/Dakar	2019-01-11
+2251492	Gossas	Gossas	Departement de Gossas,Département de Gossas,Gossas	14.49176	-15.84674	A	ADM2	SN		09	2251492			0		35	Africa/Dakar	2019-01-08
+2251792	Foundiougne	Foundiougne	Departement de Foundiougne,Département de Foundiougne,Foundiougne	13.86997	-16.4573	A	ADM2	SN		09	2251792			0		7	Africa/Dakar	2019-01-08
+2252312	Diourbel	Diourbel	Departement de Diourbel,Diourbel,Département de Diourbel	14.77831	-16.22319	A	ADM2	SN		03	2252312			0		33	Africa/Dakar	2019-01-08
+2253376	Dagana Department	Dagana Department	Dagana	16.334	-15.839	A	ADM2	SN		14	2253376			0		5	Africa/Dakar	2019-01-08
+2253903	Bignona	Bignona	Bignona,Departement de Bignona,Département de Bignona	12.88163	-16.36944	A	ADM2	SN		12	2253903			0		4	Africa/Dakar	2019-01-08
+2254315	Bambey	Bambey	Bambey,Departement de Bambey,Département de Bambey	14.80266	-16.48258	A	ADM2	SN		03	2254315			0		31	Africa/Dakar	2019-01-08
+2254443	Bakel	Bakel	Bakel,Departement de Bakel,Département de Bakel	14.23612	-12.23961	A	ADM2	SN		05	2254443			0		43	Africa/Dakar	2019-01-08
+7670821	Kolda Department	Kolda Department	Kolda	12.883	-14.95	A	ADM2	SN		11	7670821			306591		7	Africa/Dakar	2019-01-08
+7670866	Fatick Department	Fatick Department	Fatick	14.25909	-16.49884	A	ADM2	SN		09	7670866			267756		3	Africa/Dakar	2019-01-08
+7670870	Matam Department	Matam Department	Matam	15.73191	-13.63393	A	ADM2	SN		15	7670870			233179		73	Africa/Dakar	2019-01-08
+7732977	Dakar Department	Dakar Department	Dakar,Dakar Department	14.71403	-17.45534	A	ADM2	SN		01	7732977			1030594		28	Africa/Dakar	2011-04-06
+7732979	Pikine Department	Pikine Department	Pikine,Pikine Department	14.76515	-17.35198	A	ADM2	SN		01	7732979			834246		11	Africa/Dakar	2011-04-06
+7733009	Rufisque Department	Rufisque Department	Rufisque,Rufisque Department	14.74339	-17.19841	A	ADM2	SN		01	7733009			307463		43	Africa/Dakar	2011-04-06
+9166367	Kanel Department	Kanel Department	Kanel	15.49167	-13.17639	A	ADM2	SN		15	9166367			0		24	Africa/Dakar	2019-01-08
+9180011	Guédiawaye Department	Guediawaye Department	Guediawaye	14.7761	-17.3956	A	ADM2	SN		01	9180011			0		22	Africa/Dakar	2019-01-08
+11205702	Commune de Nguékhokh	Commune de Nguekhokh		14.51278	-17.05	A	ADM3	SN		07		11205702		0		4	Africa/Dakar	2016-08-04
+11239765	Dieuppeul Derkle	Dieuppeul Derkle		14.71694	-17.45	A	ADM3	SN		01		11239765		0		28	Africa/Dakar	2016-09-09
+11428701	Ngoye	Ngoye		14.64018	-16.44932	A	ADM3	SN		03		11428701		0		22	Africa/Dakar	2017-01-28
+2244806	Thiénaba	Thienaba		14.75	-16.75	A	ADM3	SN		07		2244806		0		22	Africa/Dakar	1994-01-06
+8617712	Fimela	Fimela		14.13578	-16.65892	A	ADM3	SN		09		8617712		0		6	Africa/Dakar	2013-10-04
+10401823	Mermoz-Sacré-Coeur	Mermoz-Sacre-Coeur		14.70634	-17.47734	A	ADM4	SN		01			10401823	0		37	Africa/Dakar	2015-08-04
+10401825	Ngor	Ngor		14.74358	-17.51468	A	ADM4	SN		01			10401825	0		7	Africa/Dakar	2015-08-05
+10401827	Diamaguène Sicap Mbao	Diamaguene Sicap Mbao		14.738	-17.324	A	ADM4	SN		01			10401827	0		3	Africa/Dakar	2015-08-05
+10401947	Coubalan	Coubalan		12.66793	-16.17557	A	ADM4	SN		12			10401947	0		26	Africa/Dakar	2015-08-05
+10626729	Hann Bel-Air	Hann Bel-Air		14.71879	-17.43761	A	ADM4	SN		01			10626729	0		16	Africa/Dakar	2015-08-11
+11205307	Nyassia	Nyassia		12.47056	-16.38278	A	ADM4	SN		12			11205307	0		8	Africa/Dakar	2016-07-29
+11205570	Grand Yoff	Grand Yoff		14.73361	-17.44944	A	ADM4	SN		01			11205570	0		16	Africa/Dakar	2016-08-02
+11205623	Paoskoto Commune	Paoskoto Commune		13.78333	-15.81667	A	ADM4	SN		10			11205623	0		21	Africa/Dakar	2016-08-03
+11256889	Biscuiterie	Biscuiterie		14.71	-17.44972	A	ADM4	SN		01			11256889	0		16	Africa/Dakar	2016-09-12

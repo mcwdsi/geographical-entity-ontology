@@ -1,0 +1,835 @@
+5881791	Abbotsford	Abbotsford	Abbotsford,Abotsford,Abotsfordas,YXX,abottsufodo,abwtsfwrd,abwtsfwrd  brytysh klmbya,aebeocheupeodeu,ya bo si fu,ÐÐ±Ð±Ð¾Ñ‚ÑÑ„Ð¾Ñ€Ð´,ÐÐ±Ð¾Ñ‚ÑÑ„Ð¾Ñ€Ð´,Ø£Ø¨ÙˆØªØ³ÙÙˆØ±Ø¯,Ø§Ø¨ÙˆØªØ³ÙÙˆØ±Ø¯ØŒ Ø¨Ø±ÛŒØªÛŒØ´ Ú©Ù„Ù…Ø¨ÛŒØ§,Ø§ÛŒØ¨Ø§Ù¹Ø³ÙÙˆØ±Úˆ,Ø§ÛŒØ¨Ù¹Ø³ ÙÙˆØ±ÚˆØŒ Ø¨Ø±Ù¹Ø´ Ú©ÙˆÙ„Ù…Ø¨ÛŒØ§,ã‚¢ãƒœãƒƒãƒ„ãƒ•ã‚©ãƒ¼ãƒ‰,äºžåšæ–¯ç¦,ì• ë²„ì¸ í¼ë“œ	49.05798	-122.25257	P	PPL	CA		2	5957659			151683		114	America/Vancouver	4/22/13
+5882142	Acton Vale	Acton Vale	Akton Veil,Akton Vejl,Aktonvejl,aktwn wal  kbk,Î†ÎºÏ„Î¿Î½ Î’Î­Î¹Î»,ÐÐºÑ‚Ð¾Ð½ Ð’ÐµÑ˜Ð»,ÐÐºÑ‚Ð¾Ð½Ð²ÐµÐ¹Ð»,Ø§Ú©ØªÙˆÙ† ÙˆØ§Ù„ØŒ Ú©Ø¨Ú©,Ø§ÛŒÚ©Ù¹Ù† ÙˆØ§Ù„ÛŒ	45.65007	-72.56582	P	PPL	CA		10	16	48028		5135		90	America/Toronto	6/22/16
+5882428	Adstock	Adstock	adstwk,adstwk  kbk,Ø£Ø¯Ø³ØªÙˆÙƒ,Ø§Ø¯Ø³ØªÙˆÚ©ØŒ Ú©Ø¨Ú©	46.05007	-71.08235	P	PPL	CA		10	12	31056		2643		390	America/Toronto	6/22/16
+5882534	Agassiz	Agassiz		49.23298	-121.76926	P	PPL	CA		2				4738		17	America/Vancouver	10/3/11
+5882799	Airdrie	Airdrie	Erdri,ai er de li,ayrdray,ayrdry,eeodeuli,Ð•Ñ€Ð´Ñ€Ð¸,Ø¥ÙŠØ±Ø¯Ø±Ø§ÙŠ,Ø§Ø¦Ø±ÚˆØ±Ø§Ø¦,Ø§Ø¦ÛŒØ±ÚˆØ±Ø§Ø¦ÛŒØŒ Ø§Ù„Ø¨Ø±Ù¹Ø§,Ø§ÛŒØ±Ø¯Ø±ÛŒ,è‰¾å°”å¾·é‡Œ,ì—ì–´ë“œë¦¬	51.30011	-114.03528	P	PPL	CA		1				24673		1086	America/Edmonton	4/11/08
+5882873	Ajax	Ajax	Adzhaks,Ehjdzhaks,Ejdzaks,ajaks,ajaks  antaryw,eijaegseu,eijakkusu,ya ji shi,ÐÐ´Ð¶Ð°ÐºÑ,Ð•Ñ˜ÑŸÐ°ÐºÑ,Ð­Ð¹Ð´Ð¶Ð°ÐºÑ,Ø£Ø¬Ø§ÙƒØ³,Ø§Ø¬Ø§Ú©Ø³ØŒ Ø§Ù†ØªØ§Ø±ÛŒÙˆ,ã‚¨ã‚¤ã‚¸ãƒ£ãƒƒã‚¯ã‚¹,äºžç©å£«,ì—ì´ìž­ìŠ¤	43.85012	-79.03288	P	PPL	CA		8				90167		97	America/Toronto	12/30/11
+5883074	Albanel	Albanel		48.88324	-72.44867	P	PPL	CA		10	2	92030		1087		150	America/Toronto	6/22/16
+5883166	Alberton	Alberton	Alberton,albrtwn  jzyrh prns adward,ÐÐ»Ð±ÐµÑ€Ñ‚Ð¾Ð½,Ø¢Ù„Ø¨Ø±ØªÙˆÙ†ØŒ Ø¬Ø²ÛŒØ±Ù‡ Ù¾Ø±Ù†Ø³ Ø§Ø¯ÙˆØ§Ø±Ø¯	46.81685	-64.06542	P	PPL	CA		9				1147		10	America/Halifax	4/11/08
+5884083	Alma	Alma	Al'ma,Alma,YTF,alma,alma  kbk,alma  kybk,ÐÐ»Ð¼Ð°,ÐÐ»ÑŒÐ¼Ð°,Ø¢Ù„Ù…Ø§,Ø¢Ù„Ù…Ø§ØŒ Ú©Ø¨Ú©,Ø£Ù„Ù…Ø§ØŒ ÙƒÙŠØ¨Ùƒ	48.55009	-71.6491	P	PPL	CA		10	2	93042		29526		90	America/Toronto	6/22/16
+5884260	Altona	Altona	Altona,altwna  manytwba,ÐÐ»Ñ‚Ð¾Ð½Ð°,Ø§Ù„ØªÙˆÙ†Ø§ØŒ Ù…Ø§Ù†ÛŒØªÙˆØ¨Ø§,Ø§Ù„Ù¹ÙˆÙ†Ø§ØŒ Ù…ÛŒÙ†ÛŒ Ù¹ÙˆØ¨Ø§	49.10469	-97.55961	P	PPL	CA		3				3613		246	America/Winnipeg	4/11/08
+5884467	Amherst	Amherst	a mo si te,amhrst,amhrst  nwa askatya,Ø£Ù…Ù‡Ø±Ø³Øª,Ø§Ù…Ù‡Ø±Ø³ØªØŒ Ù†ÙˆØ§ Ø§Ø³Ú©Ø§ØªÛŒØ§,é˜¿é»˜æ–¯ç‰¹	45.83345	-64.19874	P	PPL	CA		7				9336		20	America/Halifax	4/11/08
+5884473	Amherstburg	Amherstburg		42.11679	-83.04985	P	PPL	CA		8				11459		183	America/Toronto	1/22/06
+5884588	Amos	Amos	Amos,YEY,amws,amws  kbk,amws  kybk,ÐÐ¼Ð¾Ñ,Ø¢Ù…ÙˆØ³ØŒ Ú©Ø¨Ú©,Ø£Ù…ÙˆØ³ØŒ ÙƒÙŠØ¨Ùƒ,Ø§Ù…ÙˆØ³	48.56688	-78.11624	P	PPL	CA		10	8	88055		17918		298	America/Toronto	6/22/16
+5885150	Ange-Gardien	Ange-Gardien	Ange-Gardien	45.35008	-72.93244	P	PPL	CA		10	16	55008		2420		71	America/Toronto	6/22/16
+5885383	Anmore	Anmore		49.31637	-122.85263	P	PPL	CA		2	5915			126456		183	America/Vancouver	8/28/13
+5886182	Antigonish	Antigonish	Antigonis,antygwnysh. nwa askwshya,Ø¢Ù†ØªÛŒÚ¯ÙˆÙ†ÛŒØ´Ù¬ Ù†ÙˆØ§ Ø§Ø³Ú©ÙˆØ´ÛŒØ§	45.61685	-61.99858	P	PPL	CA		7				5003		17	America/Halifax	4/11/08
+5887048	Armstrong	Armstrong	Armstrong,a mu si te lang,armstrang  brytysh klmbya,ÐÑ€Ð¼ÑÑ‚Ñ€Ð¾Ð½Ð³,Ø¢Ø±Ù…Ø³ØªØ±Ø§Ù†Ú¯ØŒ Ø¨Ø±ÛŒØªÛŒØ´ Ú©Ù„Ù…Ø¨ÛŒØ§,Ø¢Ø±Ù…Ø³Ù¹Ø±Ø§Ù†Ú¯,Ø¢Ø±Ù…Ø³Ù¹Ø±Ø§Ù†Ú¯ØŒ Ø¨Ø±Ù¹Ø´ Ú©ÙˆÙ„Ù…Ø¨ÛŒØ§,é˜¿å§†æ–¯ç‰¹æœ—	50.44979	-119.20235	P	PPL	CA		2				4275		359	America/Vancouver	4/11/08
+5887214	Arnprior	Arnprior	Arnprajor,anpuraia,arnprywr,ÐÑ€Ð½Ð¿Ñ€Ð°Ñ˜Ð¾Ñ€,Ø¢Ø±Ù†Ù¾Ø±ÛŒÙˆØ±,ã‚¢ãƒ¼ãƒ³ãƒ—ãƒ©ã‚¤ã‚¢ãƒ¼	45.43341	-76.34939	P	PPL	CA		8				9607		72	America/Toronto	4/11/08
+5887470	Asbestos	Asbestos	Asbestos	45.76678	-71.9324	P	PPL	CA		10	5	40043		7190		252	America/Toronto	6/22/16
+5887531	Ashcroft	Ashcroft	Ashcroft,YZA,ashkrwft,Ø£Ø´ÙƒØ±ÙˆÙØª	50.72372	-121.28207	P	PPL	CA		2	5933			1796		307	America/Vancouver	10/6/13
+5887798	Assiniboia	Assiniboia	Asiniboja,asynybwyya  saskachwan,ÐÑÐ¸Ð½Ð¸Ð±Ð¾Ñ˜Ð°,Ø¢Ø³ÛŒÙ†ÛŒØ¨ÙˆØ¦ÛŒØ§ØŒ Ø³Ø§Ø³Ú©Ø§Ú†ÙˆØ§Ù†	49.63336	-105.98446	P	PPL	CA		11				2320		743	America/Regina	4/11/08
+5887916	Athabasca	Athabasca	Atabaska,a sa ba si ka,ÐÑ‚Ð°Ð±Ð°ÑÐºÐ°,é˜¿è¨å·´æ–¯å¡	54.71687	-113.28537	P	PPL	CA		1				2539		534	America/Edmonton	4/11/08
+5888001	Atikokan	Atikokan	Atikokan,YIB	48.75667	-91.62409	P	PPL	CA		8	3559			3400		390	America/Atikokan	1/20/18
+5888716	Aylmer	Aylmer		42.76679	-80.98302	P	PPL	CA		8				7527		229	America/Toronto	4/11/08
+5889745	Baie-Comeau	Baie-Comeau	Baie-Comeau,Be Komo,Be-Komo,YBC,bay kamyw,bh-kwmw,byh kwmw  kybk,Ð‘Ðµ ÐšÐ¾Ð¼Ð¾,Ð‘Ðµ-ÐšÐ¾Ð¼Ð¾,Ø¨Ø§Ø¦ Ú©Ø§Ù…ÛŒÙˆ,Ø¨Ù‡-Ú©ÙˆÙ…Ùˆ,Ø¨ÙŠÙ‡ ÙƒÙˆÙ…ÙˆØŒ ÙƒÙŠØ¨Ùƒ	49.21679	-68.14894	P	PPL	CA		10	9	96020		29808		76	America/Toronto	6/22/16
+5890542	Baie-D'UrfÃ©	Baie-D'Urfe		45.41397	-73.91586	P	PPL	CA		10	6	66112		3902		40	America/Toronto	6/22/16
+5892510	Bancroft	Bancroft		45.05752	-77.85702	P	PPL	CA		8				3838		330	America/Toronto	2/1/08
+5892532	Banff	Banff	Banf,Banfas,Banff,YBA,baenpeu,ban fu,banf,banfu,banpi,bnf,Ð‘Ð°Ð½Ñ„,Ð‘Ð°Ð½Ñ„Ñ„,Ø¨Ø§Ù†Ù,Ø¨Ù†Ù,áƒ‘áƒáƒœáƒ¤áƒ˜,ãƒãƒ³ãƒ•,ç­å¤«,ë°´í”„	51.17622	-115.56982	P	PPL	CA		1				7502		1388	America/Edmonton	6/24/10
+5894033	Barraute	Barraute		48.43349	-77.63279	P	PPL	CA		10	8	88022		1180		301	America/Toronto	6/22/16
+5894164	Barrhead	Barrhead	Barhedas,Barkhed,ba er hei de,Ð‘Ð°Ñ€Ñ…ÐµÐ´,å·´å°”é»‘å¾·	54.13345	-114.40211	P	PPL	CA		1				4430		656	America/Edmonton	4/11/08
+5894171	Barrie	Barrie	Bari,Baris,Barri,Barrie,Berri,YLK,ba li,baeli,bari,bary,bry  antaryw,Ð‘Ð°Ñ€Ð¸,Ð‘Ð°Ñ€Ñ€Ð¸,Ð‘ÐµÑ€Ñ€Ñ–,Ø¨Ø§Ø±ÙŠ,Ø¨Ø§Ø±ÛŒ,Ø¨Ø§Ø±ÛŒØŒ Ø§ÙˆÙ†Ù¹Ø§Ø±ÛŒÙˆ,Ø¨Ø±ÛŒØŒ Ø§Ù†ØªØ§Ø±ÛŒÙˆ,ãƒãƒªãƒ¼,å·´é‡Œ,ë°°ë¦¬	44.40011	-79.66634	P	PPL	CA		8				182041		269	America/Toronto	9/22/13
+5894642	Bassano	Bassano		50.78342	-112.46854	P	PPL	CA		1				1388		790	America/Edmonton	4/11/08
+5895424	Bay Roberts	Bay Roberts	bay rwbrts,Ø¨Ø§ÙŠ Ø±ÙˆØ¨Ø±ØªØ³	47.59989	-53.26478	P	PPL	CA		5				13737		9	America/St_Johns	1/22/06
+5895650	Beaconsfield	Beaconsfield	Bikonsfild,bykwnsfyld,bykwnsfyld  kbk,Ð‘Ð¸ÐºÐ¾Ð½ÑÑ„Ð¸Ð»Ð´,Ø¨ÙŠÙƒÙˆÙ†Ø³ÙÙŠÙ„Ø¯,Ø¨ÛŒÚ©Ù†Ø²ÙÛŒÙ„Úˆ,Ø¨ÛŒÚ©ÙˆÙ†Ø³ÙÛŒÙ„Ø¯ØŒ Ú©Ø¨Ú©	45.43341	-73.86586	P	PPL	CA		10	6	66107		19194		33	America/Toronto	6/22/16
+5896495	Beauharnois	Beauharnois	Boarnoa,bwarnwa  kbk,bwarnwa  kybk,Ð‘Ð¾Ð°Ñ€Ð½Ð¾Ð°,Ø¨ÙˆØ¢Ø±Ù†ÙˆØ¢ØŒ Ú©Ø¨Ú©,Ø¨ÙˆØ£Ø±Ù†ÙˆØ§ØŒ ÙƒÙŠØ¨Ùƒ,Ø¨ÛŒÙˆÛØ§Ø±Ù†ÙˆØ¦Ø³	45.31341	-73.8725	P	PPL	CA		10	16	70022		11918		27	America/Toronto	6/22/16
+5896522	Beaumont	Beaumont	Bomont,Ð‘Ð¾Ð¼Ð¾Ð½Ñ‚	53.35013	-113.41871	P	PPL	CA		1				7366		716	America/Edmonton	4/11/08
+5896549	Beausejour	Beausejour		50.0622	-96.51669	P	PPL	CA		3				2886		248	America/Winnipeg	4/11/08
+5896969	Beaverlodge	Beaverlodge	Biverlodz,Ð‘Ð¸Ð²ÐµÑ€Ð»Ð¾ÑŸ	55.21664	-119.43605	P	PPL	CA		1				2219		723	America/Edmonton	4/11/08
+5897209	BÃ©cancour	Becancour	Becancour,Bekankur,BÃ©cancour,bkankwr  kbk,bykankwr  kybk,byknkwr,Ð‘ÐµÐºÐ°Ð½ÐºÑƒÑ€,Ø¨ÙŠÙƒØ§Ù†ÙƒÙˆØ±ØŒ ÙƒÙŠØ¨Ùƒ,Ø¨Ú©Ø§Ù†Ú©ÙˆØ±ØŒ Ú©Ø¨Ú©,Ø¨ÛŒÚ©Ù†Ú©ÙˆØ±	46.33336	-72.43241	P	PPL	CA		10	17	38010		11134		10	America/Toronto	6/22/16
+5897323	Bedford	Bedford		45.11678	-72.98244	P	PPL	CA		10	16			2684		57	America/Toronto	1/13/14
+5897884	Belleville	Belleville	Bel'vil',Belleville,Belvil,Bilivailas,XVV,bei er wei er,belbil,berubiru,blwyl  antaryw,bylfy,Ð‘ÐµÐ»Ð²Ð¸Ð»,Ð‘ÐµÐ»ÑŒÐ²Ð¸Ð»ÑŒ,Ð‘ÐµÐ»ÑŒÐ²Ñ–Ð»ÑŒ,Ø¨Ù„ÙˆÛŒÙ„ØŒ Ø§Ù†ØªØ§Ø±ÛŒÙˆ,Ø¨ÙŠÙ„ÙÙŠ,Ø¨ÛŒÙ„ÙˆÙ„ØŒ Ø§ÙˆÙ†Ù¹Ø§Ø±ÛŒÙˆ,Ø¨ÛŒÙ„ÛŒ ÙˆÙ„Û’,ãƒ™ãƒ«ãƒ“ãƒ«,è´å°”ç»´å°”,ë²¨ë¹Œ	44.16682	-77.38277	P	PPL	CA		8	3512			49454		93	America/Toronto	1/20/18
+5898070	Bells Corners	Bells Corners	Bells Corners,Bels-Korners,Ottawa Bells Corners,Ð‘ÐµÐ»Ñ-ÐšÐ¾Ñ€Ð½ÐµÑ€Ñ	45.31588	-75.83012	P	PPL	CA		8				9977		96	America/Toronto	3/18/10
+5898138	Beloeil	Beloeil	Beloeil,Beloej,BelÅ“il,blwy  kbk,blwyl,byl awy  kybk,Ð‘ÐµÐ»Ð¾ÐµÑ˜,Ø¨Ù„ÙˆØ¦Ù„,Ø¨Ù„ÙˆÛŒØŒ Ú©Ø¨Ú©,Ø¨ÙŠÙ„ Ø£ÙˆÙŠØŒ ÙƒÙŠØ¨Ùƒ	45.56839	-73.20568	P	PPL	CA		10	16	57040		18927		13	America/Toronto	1/31/17
+5899017	Berthierville	Berthierville	Berthierville	46.08336	-73.18245	P	PPL	CA		10	14	52035		4411		9	America/Toronto	6/22/16
+5899061	Berwick	Berwick		45.05015	-64.73208	P	PPL	CA		7				2271		33	America/Halifax	4/11/08
+5899982	Biggar	Biggar	Bigar,Ð‘Ð¸Ð³Ð°Ñ€	52.0668	-108.00135	P	PPL	CA		11				2068		661	America/Regina	4/11/08
+5902458	Black Diamond	Black Diamond		50.70011	-114.2353	P	PPL	CA		1				3663		1167	America/Edmonton	1/22/06
+5902599	Blackfalds	Blackfalds		52.38342	-113.7853	P	PPL	CA		1				3198		876	America/Edmonton	4/11/08
+5903510	Blainville	Blainville		45.66678	-73.88249	P	PPL	CA		10	15			46493		73	America/Toronto	9/22/10
+5904501	Bluewater	Bluewater		43.46679	-81.59977	P	PPL	CA		8				7044		249	America/Toronto	5/5/13
+5905132	Boisbriand	Boisbriand		45.61678	-73.83249	P	PPL	CA		10	15	73005		26483		30	America/Toronto	6/22/16
+5905152	Bois-des-Filion	Bois-des-Filion		45.66678	-73.74918	P	PPL	CA		10	13	65005		8383		17	America/Toronto	6/22/16
+5905191	Boissevain	Boissevain		49.23062	-100.05586	P	PPL	CA		3				1557		514	America/Winnipeg	4/11/08
+5905348	Bon Accord	Bon Accord		53.83345	-113.41872	P	PPL	CA		1				1611		700	America/Edmonton	4/11/08
+5905393	Bonavista	Bonavista		48.64989	-53.11474	P	PPL	CA		5				3658		-2	America/St_Johns	4/11/08
+5905616	Bonnyville	Bonnyville	Bonivil,YBY,Ð‘Ð¾Ð½Ð¸Ð²Ð¸Ð»	54.26684	-110.73505	P	PPL	CA		1				6003		555	America/Edmonton	4/11/08
+5906229	Botwood	Botwood		49.14994	-55.34819	P	PPL	CA		5				2940		17	America/St_Johns	4/11/08
+5906267	Boucherville	Boucherville	Bushervil,Bushervil',bushavu~iru,bwshrwyl,bwshyfyl  kybk,Ð‘ÑƒÑˆÐµÑ€Ð²Ð¸Ð»,Ð‘ÑƒÑˆÐµÑ€Ð²Ð¸Ð»ÑŒ,Ø¨Ø§Ø¤Ú†Ø±ÙˆÙ„Û’,Ø¨ÙˆØ´Ø±ÙˆÛŒÙ„,Ø¨ÙˆØ´ÙŠÙÙŠÙ„ØŒ ÙƒÙŠØ¨Ùƒ,ãƒ–ãƒ¼ã‚·ãƒ£ãƒ¼ãƒ´ã‚£ãƒ«	45.59104	-73.43605	P	PPL	CA		10	16	58033		39062		16	America/Toronto	6/22/16
+5906281	Bouctouche	Bouctouche	Baktush,Ð‘Ð°ÐºÑ‚ÑƒÑˆ	46.46844	-64.73905	P	PPL	CA		4				1895		27	America/Moncton	4/11/08
+5906690	Bowen Island	Bowen Island		49.3847	-123.33622	P	PPL	CA		2	5915			3551		30	America/Vancouver	9/23/13
+5906757	Bow Island	Bow Island		49.86676	-111.36843	P	PPL	CA		1				2025		795	America/Edmonton	12/11/13
+5907092	Bracebridge	Bracebridge	Brejsbridz,brysbrydj,bureisuburijji,Ð‘Ñ€ÐµÑ˜ÑÐ±Ñ€Ð¸ÑŸ,Ø¨Ø±ÙŠØ³Ø¨Ø±ÙŠØ¯Ø¬,ãƒ–ãƒ¬ã‚¤ã‚¹ãƒ–ãƒªãƒƒã‚¸	45.03341	-79.31633	P	PPL	CA		8				8238		240	America/Toronto	1/22/06
+5907364	Brampton	Brampton	Brampton,Bramptonas,Bramptono,Bramptun,XPN,baraimpatana,beulaemteon,braimpatana,brambtwn,bramptan,bramtana,bremptana,brmptwn  antaryw,bu lan pu dun,buranputon,piramptan,Ð‘Ñ€Ð°Ð¼Ð¿Ñ‚Ð¾Ð½,Ð‘Ñ€Ð°Ð¼Ð¿Ñ‚ÑŠÐ½,Ø¨Ø±Ø§Ù…Ø¨ØªÙˆÙ†,Ø¨Ø±Ø§Ù…Ù¾Ù¹Ù†ØŒ Ø§Ù†Ù¹Ø§Ø±ÛŒÙˆ,Ø¨Ø±Ù…Ù¾ØªÙˆÙ†ØŒ Ø§Ù†ØªØ§Ø±ÛŒÙˆ,Ø¨Ø±ÛŒÙ…Ù¾Ù¹Ù†,à¤¬à¥à¤°à¤¾à¤®à¥à¤Ÿà¤¨,à¤¬à¥à¤°à¥ˆà¤‚à¤ªà¤Ÿà¤¨,à¨¬à¨°à©ˆà¨‚à¨ªà¨Ÿà¨¨,àª¬à«àª°à«‡àª®à«àªªà«àªŸàª¨,à®ªà®¿à®°à®¾à®®à¯à®ªà¯à®Ÿà®©à¯,à°¬à±à°°à°¾à°‚à°ªà±à°Ÿà°¨à±,à´¬àµà´°à´‚à´ªàµà´Ÿàµº,à¶¶à·Šâ€à¶»à·à¶¸à·Šà¶§à¶±à·Š,ãƒ–ãƒ©ãƒ³ãƒ—ãƒˆãƒ³,å¸ƒå…°æ™®é¡¿,ë¸Œëž¨í„´	43.68341	-79.76633	P	PPL	CA		8				433806		221	America/Toronto	9/22/10
+5907896	Brandon	Brandon	Brandon,Branton,Brehndon,Brendon,YBR,bu lan deng,burandon,ÎœÏ€ÏÎ¬Î½Ï„Î¿Î½,Ð‘Ñ€Ð°Ð½Ð´Ð¾Ð½,Ð‘Ñ€ÐµÐ½Ð´Ð¾Ð½,Ð‘Ñ€ÑÐ½Ð´Ð¾Ð½,Ø¨Ø±ÛŒÙ†ÚˆÙ†,ãƒ–ãƒ©ãƒ³ãƒ‰ãƒ³,å¸ƒå…°ç™»	49.84692	-99.95306	P	PPL	CA		3				26234		383	America/Winnipeg	1/29/10
+5907983	Brant	Brant		43.1334	-80.34967	P	PPL	CA		8				34415		245	America/Toronto	9/22/10
+5907990	Brantford	Brantford	Brantford,Brantfordas,XFV,beulaenteupeodeu,brantfwrd,brntfwrd  antaryw,bu lan te fu de,burantofodo,Ð‘Ñ€Ð°Ð½Ñ‚Ñ„Ð¾Ñ€Ð´,Ø¨Ø±Ø§Ù†ØªÙÙˆØ±Ø¯,Ø¨Ø±Ø§Ù†Ù¹ÙÙˆØ±Úˆ,Ø¨Ø±Ù†ØªÙÙˆØ±Ø¯ØŒ Ø§Ù†ØªØ§Ø±ÛŒÙˆ,Ø¨Ø±ÛŒÙ†Ù¹ÙÙˆØ±Úˆ,ãƒ–ãƒ©ãƒ³ãƒˆãƒ•ã‚©ãƒ¼ãƒ‰,å¸ƒå…°ç‰¹ç¦å¾·,ë¸ŒëžœíŠ¸í¼ë“œ	43.1334	-80.26636	P	PPL	CA		8				87759		200	America/Toronto	4/11/08
+5908723	Bridgewater	Bridgewater	bryj watr,Ø¨Ø±ÛŒØ¬ ÙˆØ§ØªØ±	44.37856	-64.51882	P	PPL	CA		7				8070		6	America/Halifax	6/26/15
+5909294	Brockville	Brockville	Brokvil,Brokvil',Brokvill,Brukvailas,Gorad Brokvil,XBR,brakwyl,brwk-wl,brwkfyl,bu luo ke wei er,burokkubiru,Ð‘Ñ€Ð¾ÐºÐ²Ð¸Ð»,Ð‘Ñ€Ð¾ÐºÐ²Ð¸Ð»Ð»,Ð‘Ñ€Ð¾ÐºÐ²Ñ–Ð»ÑŒ,Ð“Ð¾Ñ€Ð°Ð´ Ð‘Ñ€Ð¾ÐºÐ²Ñ–Ð»,Ø¨Ø±Ø§Ú©ÙˆÛŒÙ„,Ø¨Ø±ÙˆÙƒÙÙŠÙ„,Ø¨Ø±ÙˆÚ© ÙˆÙ„Û’,Ø¨Ø±ÙˆÚ©-ÙˆÙ„,ãƒ–ãƒ­ãƒƒã‚¯ãƒ“ãƒ«,å¸ƒç¾…å…‹ç¶­çˆ¾	44.59132	-75.68705	P	PPL	CA		8				23886		93	America/Toronto	5/16/13
+5909403	Bromont	Bromont	Bromon,Bromont,ZBM,brwmwn,brwmwn  kbk,Ð‘Ñ€Ð¾Ð¼Ð¾Ð½,Ø¨Ø±ÙˆÙ…ÙˆÙ†,Ø¨Ø±ÙˆÙ…ÙˆÙ†ØŒ Ú©Ø¨Ú©,Ø¨Ø±ÙˆÙ…ÙˆÙ†Ù¹	45.31678	-72.64912	P	PPL	CA		10	16	46078		6049		126	America/Toronto	6/22/16
+5909514	Brooks	Brooks	Broks,Bruks,beulugseu,brwks,brwks  albrÙ¹a,bu lu ke si,Ð‘Ñ€ÑƒÐºÑ,Ø¨Ø±ÙˆÚ©Ø³,Ø¨Ø±ÙˆÚ©Ø³ØŒ Ø§Ù„Ø¨Ø±Ù¹Ø§,áƒ‘áƒ áƒáƒ™áƒ¡áƒ˜,å¸ƒé²å…‹æ–¯,ë¸Œë£©ìŠ¤	50.58341	-111.88509	P	PPL	CA		1				12744		748	America/Edmonton	4/11/08
+5909629	Brossard	Brossard	Brosar,bao le sha,brwsar,burosado,Ð‘Ñ€Ð¾ÑÐ°Ñ€,Ø¨Ø±ÙˆØ³Ø§Ø±,Ø¨Ø±ÙˆØ³Ø§Ø±Úˆ,ãƒ–ãƒ­ã‚µãƒ¼ãƒ‰,å¯¶æ¨‚æ²™	45.45008	-73.46583	P	PPL	CA		10	16	58007		69575		17	America/Toronto	6/22/16
+5909969	Brownsburg-Chatham	Brownsburg-Chatham		45.68342	-74.4159	P	PPL	CA		10	15	76043		6664		157	America/Toronto	6/22/16
+5911440	Burgeo	Burgeo		47.61668	-57.61516	P	PPL	CA		5				1627		1	America/St_Johns	4/11/08
+5911592	Burlington	Burlington	Berlington,barinton,beollingteon,bo ling dun,brlngÙ¹n  awnÙ¹aryw,brlyngtwn  antaryw,byrlynjtwn,Ð‘ÐµÑ€Ð»Ð¸Ð½Ð³Ñ‚Ð¾Ð½,Ð‘ÐµÑ€Ð»Ñ–Ð½Ð³Ñ‚Ð¾Ð½,Ø¨Ø±Ù„Ù†Ú¯Ù¹Ù†,Ø¨Ø±Ù„Ù†Ú¯Ù¹Ù†ØŒ Ø§ÙˆÙ†Ù¹Ø§Ø±ÛŒÙˆ,Ø¨Ø±Ù„ÛŒÙ†Ú¯ØªÙˆÙ†ØŒ Ø§Ù†ØªØ§Ø±ÛŒÙˆ,Ø¨ÙŠØ±Ù„ÙŠÙ†Ø¬ØªÙˆÙ†,ãƒãƒ¼ãƒªãƒ³ãƒˆãƒ³,ä¼¯çµé¡¿,ë²Œë§í„´	43.38621	-79.83713	P	PPL	CA		8				164415		165	America/Toronto	9/22/10
+5911606	Burnaby	Burnaby	Barnabis,Bernabi,Bernabija,Bjornabi,Burnabi,Burnaby,BÄ“rnabija,banabi,banabi shi,ben na bi,beoneobi,brnaby,brnabÛ’,brnyby,bwrnby,Ð‘ÐµÑ€Ð½Ð°Ð±Ð¸,Ð‘ÐµÑ€Ð½Ð°Ð±Ñ–,Ð‘ÑŠÑ€Ð½Ð°Ð±Ð¸,Ð‘Ñ‘Ñ€Ð½Ð°Ð±Ð¸,Ð‘Ó©Ñ€Ð½Ð°Ð±Ð¸,Ø¨Ø±Ù†Ø§Ø¨ÛŒ,Ø¨Ø±Ù†Ø§Ø¨Û’,Ø¨Ø±Ù†ÛŒØ¨ÛŒ,Ø¨ÙˆØ±Ù†Ø¨ÙŠ,ãƒãƒ¼ãƒŠãƒ“ãƒ¼,ãƒãƒ¼ãƒŠãƒ“ãƒ¼å¸‚,æœ¬æ‹¿æ¯”,æœ¬é‚£æ¯”,ë²„ë„ˆë¹„	49.26636	-122.95263	P	PPL	CA		2				202799		87	America/Vancouver	9/22/10
+5911745	Burns Lake	Burns Lake	Burns Lake,YPZ	54.22972	-125.76084	P	PPL	CA		2	5951			2635		724	America/Vancouver	7/2/16
+5913049	Cache Creek	Cache Creek	katsh kryk,ÙƒØ§ØªØ´ ÙƒØ±ÙŠÙƒ	50.81011	-121.3246	P	PPL	CA		2				1061		464	America/Vancouver	10/29/10
+5913490	Calgary	Calgary	Calgaria,Calgary,Gorad Kalgary,Kalgari,Kalgario,Kalgaris,Kalnkari,Kalqari,Kelgery,YYC,ka er jia li,ka jia li,kaelgeoli,kailagari,kalgari,kalghary,kalgry,kalkari,karugari,kelgari,klgry,kyalgari,kylgry,qlgry,ÎšÎ¬Î»Î³ÎºÎ±ÏÎ¹,Ð“Ð¾Ñ€Ð°Ð´ ÐšÐ°Ð»Ð³Ð°Ñ€Ñ‹,ÐšÐ°Ð»Ð³Ð°Ñ€Ð¸,ÐšÐ°Ð»Ð³Ð°Ñ€Ñ–,Ô¿Õ¡Õ¬Õ£Õ¡Ö€Õ«,×§×œ×’×¨×™,ÙƒØ§Ù„ØºØ§Ø±ÙŠ,Ú©Ø§Ù„Ú¯Ø±ÛŒ,Ú©Ù„Ú¯Ø±ÛŒ,Ú©ÛŒÙ„Ú¯Ø±ÛŒ,à¤•à¥…à¤²à¥à¤—à¤¾à¤°à¥€,à¤•à¥ˆà¤²à¤—à¤°à¥€,à¨•à©ˆà¨²à¨—à¨°à©€,à®•à®¾à®²à¯à®•à®°à®¿,à°•à°¾à°²à±à°—à°°à±€,à²•à³à²¯à²¾à²²à³à²—à²°à²¿,à¹à¸„à¸¥à¸à¸°à¸£à¸µ,á€€á€šá€ºá€œá€ºá€‚á€›á€®á€™á€¼á€­á€¯á€·,áƒ™áƒáƒšáƒ’áƒáƒ áƒ˜,ã‚«ãƒ«ã‚¬ãƒªãƒ¼,å¡åŠ åˆ©,å¡å°”åŠ é‡Œ,ìº˜ê±°ë¦¬	51.05011	-114.08529	P	PPL	CA		1				1019942	1048	1042	America/Edmonton	4/24/15
+5913601	Calmar	Calmar		53.26683	-113.81874	P	PPL	CA		1				2000		725	America/Edmonton	4/11/08
+5913695	Cambridge	Cambridge	Kejmbridzh,Kembridz,Kembridzh,Kembrigo,KembriÄo,jian qiao,kambrydj,keimbeuliji,kenburijji,kmbryj  antaryw,kymbrj,ÐšÐµÐ¹Ð¼Ð±Ñ€Ð¸Ð´Ð¶,ÐšÐµÐ¼Ð±Ñ€Ð¸Ð´Ð¶,ÐšÐµÐ¼Ð±Ñ€Ð¸ÑŸ,ÙƒØ§Ù…Ø¨Ø±ÙŠØ¯Ø¬,Ú©Ù…Ø¨Ø±ÛŒØ¬ØŒ Ø§Ù†ØªØ§Ø±ÛŒÙˆ,Ú©ÛŒÙ…Ø¨Ø±Ø¬,Ú©ÛŒÙ…Ø¨Ø±Ø¬ØŒ Ø§Ù†Ù¹Ø§Ø±ÛŒÙˆ,ã‚±ãƒ³ãƒ–ãƒªãƒƒã‚¸,å‰‘æ¡¥,ì¼€ìž„ë¸Œë¦¬ì§€	43.3601	-80.31269	P	PPL	CA		8				120372		272	America/Toronto	4/28/10
+5913934	Camlachie	Camlachie		43.03596	-82.1616	P	PPL	CA		8				7506		200	America/Toronto	11/27/11
+5914132	Campbell River	Campbell River	Kampel River,Kehmpbell-River,Kembel River,Kempbell-River,YBL,kaembellibeo,kambl ryfr,kan bei er li fu,kmbl rywr  brytysh klmbya,kyanberuriba,ÎšÎ¬Î¼Ï€ÎµÎ» Î¡Î¯Î²ÎµÏ,ÐšÐµÐ¼Ð±ÐµÐ» Ð Ð¸Ð²ÐµÑ€,ÐšÐµÐ¼Ð¿Ð±ÐµÐ»Ð»-Ð Ñ–Ð²ÐµÑ€,ÐšÑÐ¼Ð¿Ð±ÐµÐ»Ð»-Ð Ð¸Ð²ÐµÑ€,ÙƒØ§Ù…Ø¨Ù„ Ø±ÙŠÙØ±,Ú©Ù…Ø¨Ù„ Ø±ÛŒÙˆØ±ØŒ Ø¨Ø±ÛŒØªÛŒØ´ Ú©Ù„Ù…Ø¨ÛŒØ§,Ú©ÛŒÙ…Ù¾Ø¨Ù„ Ø±ÛŒÙˆØ±ØŒ Ø¨Ø±Ù¹Ø´ Ú©ÙˆÙ„Ù…Ø¨ÛŒØ§,ã‚­ãƒ£ãƒ³ãƒ™ãƒ«ãƒªãƒãƒ¼,åŽè´å°”é‡Œå¼—,ìº ë²¨ë¦¬ë²„	50.01634	-125.24459	P	PPL	CA		2				33430		65	America/Vancouver	4/11/08
+5914653	Camrose	Camrose	Kamros',Kamrouz,Keimrozas,ka mu luo si,kamrwz,kmrwz,kymrwz  albrÙ¹a,ÐšÐ°Ð¼Ñ€Ð¾ÑÑŒ,ÐšÐ°Ð¼Ñ€Ð¾ÑƒÐ·,ÙƒØ§Ù…Ø±ÙˆØ²,Ú©Ù…Ø±ÙˆØ²,Ú©ÛŒÙ…Ø±ÙˆØ²ØŒ Ø§Ù„Ø¨Ø±Ù¹Ø§,å¡å§†ç½—æ–¯	53.01684	-112.83525	P	PPL	CA		1				15686		739	America/Edmonton	4/11/08
+5914826	Candiac	Candiac	Kandjak,kandyak  kbk,kandyak  kybk,ÐšÐ°Ð½Ð´Ñ˜Ð°Ðº,ÙƒØ§Ù†Ø¯ÙŠØ§ÙƒØŒ ÙƒÙŠØ¨Ùƒ,Ú©Ø§Ù†Ø¯ÛŒØ§Ú©ØŒ Ú©Ø¨Ú©,Ú©ÛŒÙ†ÚˆÛŒÚ©	45.38338	-73.51587	P	PPL	CA		10	16	67020		15947		25	America/Toronto	6/22/16
+5914894	Canmore	Canmore	Kanmor,Kenmor,kan mo er,ÐšÐ°Ð½Ð¼Ð¾Ñ€,ÐšÐµÐ½Ð¼Ð¾Ñ€,åŽèŽ«å°”	51.08335	-115.35206	P	PPL	CA		1				12288	1375	1309	America/Edmonton	7/8/15
+5915098	Canora	Canora	Kanora,ÐšÐ°Ð½Ð¾Ñ€Ð°	51.63328	-102.43425	P	PPL	CA		11				2055		489	America/Regina	4/11/08
+5915359	Cap-Chat	Cap-Chat	Cap-Chat,Kap Sha,kab sha,kap-sha  kbk,ÐšÐ°Ð¿ Ð¨Ð°,ÙƒØ§Ø¨ Ø´Ø§,Ú©Ø§Ù¾-Ø´Ø§ØŒ Ú©Ø¨Ú©,Ú©ÛŒÙ¾ Ú†ÛŒÙ¹	49.10009	-66.68212	P	PPL	CA		10				1466		-9999	America/Toronto	4/12/16
+5916706	Carberry	Carberry	Karberi,ÐšÐ°Ñ€Ð±ÐµÑ€Ð¸	49.86893	-99.36021	P	PPL	CA		3				1575		385	America/Winnipeg	4/11/08
+5916722	Carbonear	Carbonear		47.73319	-53.21478	P	PPL	CA		5				6814		11	America/St_Johns	1/22/06
+5916821	Cardston	Cardston	Kardston,ÐšÐ°Ñ€Ð´ÑÑ‚Ð¾Ð½	49.19998	-113.3019	P	PPL	CA		1				3654		1136	America/Edmonton	4/11/08
+5917117	Carignan	Carignan	Carignan,Karinan,kargnan,karynyan  kbk,karynywn,ÐšÐ°Ñ€Ð¸ÑšÐ°Ð½,ÙƒØ§Ø±ÙŠÙ†ÙŠÙˆÙ†,Ú©Ø§Ø±Ú¯Ù†Ø§Ù†,Ú©Ø§Ø±ÛŒÙ†ÛŒØ§Ù†ØŒ Ú©Ø¨Ú©	45.45008	-73.29916	P	PPL	CA		10	16			7426		10	America/Toronto	4/13/16
+5917158	Carleton Place	Carleton Place	Karlton Plejs,Karlton-Plejs,ka er dun pu lei si,karltwn blas,karltwn plys,ÐšÐ°Ñ€Ð»Ñ‚Ð¾Ð½ ÐŸÐ»ÐµÑ˜Ñ,ÐšÐ°Ñ€Ð»Ñ‚Ð¾Ð½-ÐŸÐ»ÐµÐ¹Ñ,ÙƒØ§Ø±Ù„ØªÙˆÙ† Ø¨Ù„Ø§Ø³,Ú©Ø§Ø±Ù„ØªÙˆÙ† Ù¾Ù„ÛŒØ³,å¡çˆ¾é “æ™®é›·æ–¯	45.13341	-76.14938	P	PPL	CA		8				9743		144	America/Toronto	4/11/08
+5917262	Carlyle	Carlyle		49.63334	-102.26765	P	PPL	CA		11				1177		630	America/Regina	4/11/08
+5917275	Carman	Carman	Karman,ÐšÐ°Ñ€Ð¼Ð°Ð½	49.4992	-98.00156	P	PPL	CA		3				2948		264	America/Winnipeg	4/11/08
+5917688	Carstairs	Carstairs		51.56681	-114.102	P	PPL	CA		1				2370		1059	America/Edmonton	4/11/08
+5918021	Casselman	Casselman	XZB	45.3168	-75.0826	P	PPL	CA		8				3074		64	America/Toronto	4/11/08
+5918118	Castlegar	Castlegar	Kaslgar,YCG,ka si er jia,kaslghar,kslgr  brytysh klmbya,ÐšÐ°ÑÐ»Ð³Ð°Ñ€,ÙƒØ§Ø³Ù„ØºØ§Ø±,Ú©Ø³Ù„Ú¯Ø±ØŒ Ø¨Ø±ÛŒØªÛŒØ´ Ú©Ù„Ù…Ø¨ÛŒØ§,Ú©ÛŒØ³Ù„Ú¯Ø±ØŒ Ø¨Ø±Ù¹Ø´ Ú©ÙˆÙ„Ù…Ø¨ÛŒØ§,å¡æ–¯å°”åŠ 	49.29984	-117.66894	P	PPL	CA		2				8715		613	America/Vancouver	4/11/08
+5918243	Catalina	Catalina		48.51659	-53.08135	P	PPL	CA		5				1352		16	America/St_Johns	1/22/06
+5919566	Chambly	Chambly	Chambly,Shambli,chymbly,shambly  kbk,shwmbly  kybk,Ð¨Ð°Ð¼Ð±Ð»Ð¸,Ð¨Ð°Ð¼Ð±Ð»Ñ–,Ø´Ø§Ù…Ø¨Ù„ÛŒØŒ Ú©Ø¨Ú©,Ø´ÙˆÙ…Ø¨Ù„ÙŠØŒ ÙƒÙŠØ¨Ùƒ,Ú†ÛŒÙ…Ø¨Ù„ÛŒ	45.45008	-73.28246	P	PPL	CA		10	16			22608		4	America/Toronto	4/13/16
+5919569	Chambord	Chambord	Chambord,XCI,chmbwrd  kbk,shwmbwr,Ø´ÙˆÙ…Ø¨ÙˆØ±,Ú†Ù…Ø¨ÙˆØ±Ø¯ØŒ Ú©Ø¨Ú©	48.43339	-72.06583	P	PPL	CA		10	2	91020		1773		141	America/Toronto	4/13/16
+5919815	Channel-Port aux Basques	Channel-Port aux Basques	Channel-Port-aux-Basques,Port aux Basques	47.57286	-59.13808	P	PPL	CA		5				4220		-9999	America/St_Johns	2/13/18
+5919850	Chapais	Chapais	Chapais	49.78344	-74.84919	P	PPL	CA		10	10	99020		1824		399	America/Toronto	6/22/16
+5920089	Charlemagne	Charlemagne		45.71678	-73.48247	P	PPL	CA		10	14			5594		7	America/Toronto	9/23/10
+5920381	Chase	Chase		50.8165	-119.68571	P	PPL	CA		2				2471		366	America/Vancouver	4/11/08
+5920433	ChÃ¢teauguay	Chateauguay	Chateauguay,ChÃ¢teauguay,Shatoge,shatwgh  kbk,shatwghyh  kybk,Ð¨Ð°Ñ‚Ð¾Ð³Ðµ,Ø´Ø§ØªÙˆØºÙŠÙ‡ØŒ ÙƒÙŠØ¨Ùƒ,Ø´Ø§ØªÙˆÚ¯Ù‡ØŒ Ú©Ø¨Ú©,Ú†ÛŒØªÛŒØ¢Ú¯ÙˆÛ’	45.38338	-73.74919	P	PPL	CA		10	16			42786		19	America/Toronto	2/1/17
+5920457	Chatham	Chatham	Chatham,XCM	42.41224	-82.18494	P	PPL	CA		8	3536			43550		183	America/Toronto	1/20/18
+5920996	Chertsey	Chertsey	Chertsey	46.07109	-73.89095	P	PPL	CA		10	14	62047		4836		251	America/Toronto	6/22/16
+5921028	Chester	Chester	chstr. nwa askwshya,tshstr,ØªØ´Ø³ØªØ±,Ú†Ø³ØªØ±Ù¬ Ù†ÙˆØ§ Ø§Ø³Ú©ÙˆØ´ÛŒØ§	44.54225	-64.23891	P	PPL	CA		7				1531		9	America/Halifax	2/17/15
+5921060	Chestermere	Chestermere	Chestermir,Ð§ÐµÑÑ‚ÐµÑ€Ð¼Ð¸Ñ€	51.03341	-113.81867	P	PPL	CA		1				3590		1022	America/Edmonton	1/22/06
+5921091	Chetwynd	Chetwynd	YCQ	55.69988	-121.63627	P	PPL	CA		2				2587	615	653	America/Dawson_Creek	5/8/12
+5921147	Chibougamau	Chibougamau	Chibougamau,Shibugamo,YMT,chbwgamaw,shybwghamw,shybwkamw,Ð¨Ð¸Ð±ÑƒÐ³Ð°Ð¼Ð¾,Ø´ÙŠØ¨ÙˆØºØ§Ù…Ùˆ,Ø´ÛŒØ¨ÙˆÚ©Ø§Ù…Ùˆ,Ú†Ø¨ÙˆÚ¯Ø§Ù…Ø§Ø¤	49.91684	-74.36586	P	PPL	CA		10	10	99025		7563		407	America/Toronto	2/24/18
+5922281	Chute-aux-Outardes	Chute-aux-Outardes		49.11679	-68.39896	P	PPL	CA		10	9	96035		2000		31	America/Toronto	6/22/16
+5923101	Clarence-Rockland	Clarence-Rockland		45.5501	-75.29101	P	PPL	CA		8				20790		55	America/Toronto	9/22/10
+5923119	Clarenville-Shoal Harbour	Clarenville-Shoal Harbour		48.1805	-53.96982	P	PPL	CA		5				3478		1	America/St_Johns	4/11/08
+5923125	Claresholm	Claresholm		50.03332	-113.58524	P	PPL	CA		1				3808		1034	America/Edmonton	4/11/08
+5924417	Coaldale	Coaldale		49.7167	-112.61854	P	PPL	CA		1				6317		865	America/Edmonton	4/11/08
+5924428	Coalhurst	Coalhurst		49.7464	-112.93246	P	PPL	CA		1				1552		933	America/Edmonton	4/11/08
+5924500	Coaticook	Coaticook	Coaticook,Koatikuk,kwtykwk  kbk,kwtykwk  kybk,ÐšÐ¾Ð°Ñ‚Ð¸ÐºÑƒÐº,ÙƒÙˆØªÙŠÙƒÙˆÙƒØŒ ÙƒÙŠØ¨Ùƒ,Ú©ÙˆØªÛŒÚ©ÙˆÚ©ØŒ Ú©Ø¨Ú©,Ú©ÙˆÙ¹ÛŒÚ©ÙˆÚ©	45.13339	-71.79907	P	PPL	CA		10	5	44037		7021		289	America/Toronto	6/22/16
+5924579	Cobourg	Cobourg	Cobourg,Koburg,XGJ,ke bao,kwbwrgh,ÐšÐ¾Ð±ÑƒÑ€Ð³,ÙƒÙˆØ¨ÙˆØ±Øº,ç§‘å ¡	43.95977	-78.16515	P	PPL	CA		8				18099		82	America/Toronto	11/2/13
+5924618	Cochrane	Cochrane	Kokran,ÐšÐ¾ÐºÑ€Ð°Ð½	51.18341	-114.46871	P	PPL	CA		1				16365		1143	America/Edmonton	4/11/08
+5925024	Cold Lake	Cold Lake	Kold Leikas,Kold Lejk,Kold Leyk,Kold-Lejk,YOD,kld lyk,kwld layk,kwlÚˆ lyk  albrÙ¹a,leng hu shi,ÐšÐ¾Ð»Ð´ Ð›ÐµÐ¹Ðº,ÐšÐ¾Ð»Ð´ Ð›ÐµÑ˜Ðº,ÐšÐ¾Ð»Ð´-Ð›ÐµÐ¹Ðº,ÙƒÙˆÙ„Ø¯ Ù„Ø§ÙŠÙƒ,Ú©Ù„Ø¯ Ù„ÛŒÚ©,Ú©ÙˆÙ„Úˆ Ù„ÛŒÚ©ØŒ Ø§Ù„Ø¨Ø±Ù¹Ø§,å†·æ¹–å¸‚	54.46525	-110.18154	P	PPL	CA		1				11595		548	America/Edmonton	9/22/13
+5925975	Collingwood	Collingwood	Kolingvud,kalyngwwd  antaryw,kwlynjwwd,ÐšÐ¾Ð»Ð¸Ð½Ð³Ð²ÑƒÐ´,ÐšÐ¾Ð»Ñ–Ð½Ð³Ð²ÑƒÐ´,ÙƒÙˆÙ„ÙŠÙ†Ø¬ÙˆÙˆØ¯,Ú©Ø§Ù„ÛŒÙ†Ú¯ÙˆÙˆØ¯ØŒ Ø§Ù†ØªØ§Ø±ÛŒÙˆ	44.4834	-80.21638	P	PPL	CA		8				15809		194	America/Toronto	4/11/08
+5926268	Colwood	Colwood	Kolvud,kal wwd  brytysh klmbya,ke er wu de,kol-udeu,kwlwwd,ÐšÐ¾Ð»Ð²ÑƒÐ´,ÙƒÙˆÙ„ÙˆÙˆØ¯,Ú©Ø§Ù„ ÙˆÙˆØ¯ØŒ Ø¨Ø±ÛŒØªÛŒØ´ Ú©Ù„Ù…Ø¨ÛŒØ§,Ú©ÙˆÙ„ ÙˆÚˆØŒ Ø¨Ø±Ù¹Ø´ Ú©ÙˆÙ„Ù…Ø¨ÛŒØ§,ç§‘å°”ä¼å¾·,ì½œìš°ë“œ	48.43293	-123.48591	P	PPL	CA		2				14687		95	America/Vancouver	9/22/10
+5926511	Conception Bay South	Conception Bay South	Ú©ÙˆÙ†Ø³ÛŒÙ¾Ø´Ù† Ø¨Û’ Ø³Ø§Ø¤ØªÚ¾	47.49989	-52.99806	P	PPL	CA		5				17087		48	America/St_Johns	4/11/08
+5926526	Concord	Concord		43.80011	-79.48291	P	PPL	CA		8				8255		188	America/Toronto	3/1/12
+5927024	Contrecoeur	Contrecoeur	Contrecoeur	45.85008	-73.23245	P	PPL	CA		10	16			3587		26	America/Toronto	2/1/17
+5927235	Cookshire-Eaton	Cookshire-Eaton		45.41675	-71.6324	P	PPL	CA		10	5	41038		1568		239	America/Toronto	6/22/16
+5927689	Coquitlam	Coquitlam	Coquitlam,kokittoramu,kokittoramu shi,kokuittoramu,ã‚³ã‚­ãƒƒãƒˆãƒ©ãƒ ,ã‚³ã‚­ãƒƒãƒˆãƒ©ãƒ å¸‚,ã‚³ã‚¯ã‚¤ãƒƒãƒˆãƒ©ãƒ 	49.28297	-122.75262	P	PPL	CA		2				114565		33	America/Vancouver	9/22/10
+5927969	Corner Brook	Corner Brook	Korner-Bruk,YNF,karnr brwk,ke na bu lu ke,konaburukku,koneobeulug,qwrnr brwq,ÐšÐ¾Ñ€Ð½ÐµÑ€-Ð‘Ñ€ÑƒÐº,×§×•×¨× ×¨ ×‘×¨×•×§,Ú©Ø§Ø±Ù†Ø± Ø¨Ø±ÙˆÚ©,ã‚³ãƒ¼ãƒŠãƒ¼ãƒ–ãƒ«ãƒƒã‚¯,ç§‘çº³å¸ƒé²å…‹,ì½”ë„ˆë¸Œë£©	48.95001	-57.95202	P	PPL	CA		5				18693		17	America/St_Johns	8/10/13
+5928063	Cornwall	Cornwall	Kornuoll,ÐšÐ¾Ñ€Ð½ÑƒÐ¾Ð»Ð»	46.22652	-63.21809	P	PPL	CA		9				2272		15	America/Halifax	1/29/10
+5928065	Cornwall	Cornwall	Kornvol,YCC,kang wo er,karnwal,kon'u~oru,kon-wol,kwrnwal,kwrnwal  antaryw,ÐšÐ¾Ñ€Ð½Ð²Ð¾Ð»,ÙƒÙˆØ±Ù†ÙˆØ§Ù„,Ú©Ø§Ø±Ù†ÙˆØ§Ù„,Ú©ÙˆØ±Ù†ÙˆØ§Ù„ØŒ Ø§Ù†ØªØ§Ø±ÛŒÙˆ,Ú©ÙˆØ±Ù†ÙˆØ§Ù„ØŒ Ø§Ù†Ù¹Ø§Ø±ÛŒÙˆ,ã‚³ãƒ¼ãƒ³ã‚¦ã‚©ãƒ¼ãƒ«,åº·æ²ƒå°”,ì½˜ì›”	45.01809	-74.72815	P	PPL	CA		8				48821		59	America/Toronto	7/31/09
+5928488	CÃ´te-Saint-Luc	Cote-Saint-Luc		45.46536	-73.66585	P	PPL	CA		10	6	66058		31395		47	America/Toronto	6/22/16
+5930890	Courtenay	Courtenay	Courtenay,Kortni,Kurteneh,YCA,kao te ni,kwrtny,kwrtynay,ÐšÐ¾Ñ€Ñ‚Ð½Ð¸,ÐšÐ¾Ñ€Ñ‚Ð½Ñ–,ÐšÑƒÑ€Ñ‚ÐµÐ½Ñ,ÙƒÙˆØ±ØªÙŠÙ†Ø§ÙŠ,Ú©ÙˆØ±ØªÙ†ÛŒ,Ú©ÙˆØ±Ù¹ÛŒÙ†ÛŒØŒ Ø¨Ø±Ù¹Ø´ Ú©ÙˆÙ„Ù…Ø¨ÛŒØ§,è€ƒç‰¹å°¼	49.68657	-124.9936	P	PPL	CA		2				32793		13	America/Vancouver	10/27/13
+5931074	Cowansville	Cowansville	Cowansville,Kauansvil,kawnswyl  kbk,kwwansfyl  kybk,ÐšÐ°ÑƒÐ°Ð½ÑÐ²Ð¸Ð»,ÙƒÙˆÙˆØ§Ù†Ø³ÙÙŠÙ„ØŒ ÙƒÙŠØ¨Ùƒ,Ú©Ø§ÙˆÙ†Ø³ÙˆÛŒÙ„ØŒ Ú©Ø¨Ú©,Ú©ÙˆÙ†Ø²ÙˆÙ„Û’	45.20008	-72.74913	P	PPL	CA		10	16	46080		10887		117	America/Toronto	2/1/17
+5931427	Crabtree	Crabtree		45.96677	-73.46586	P	PPL	CA		10	14			2248		36	America/Toronto	4/11/08
+5931800	Cranbrook	Cranbrook	Kranbruk,YXC,ke lan bu lu ke,kranbrwk,krnbrwk,ÐšÑ€Ð°Ð½Ð±Ñ€ÑƒÐº,ÙƒØ±Ø§Ù†Ø¨Ø±ÙˆÙƒ,Ú©Ø±Ù†Ø¨Ø±ÙˆÚ©,Ú©Ø±ÛŒÙ† Ø¨Ø±ÙˆÚ©ØŒ Ø¨Ø±Ù¹Ø´ Ú©ÙˆÙ„Ù…Ø¨ÛŒØ§,å…‹å…°å¸ƒé²å…‹	49.49991	-115.76879	P	PPL	CA		2				18610		949	America/Edmonton	4/11/08
+5932311	Creston	Creston	CFQ	49.09987	-116.50211	P	PPL	CA		2				4816		647	America/Creston	4/11/08
+5933070	Crossfield	Crossfield		51.43341	-114.03528	P	PPL	CA		1				2512		1117	America/Edmonton	4/11/08
+5933885	Cumberland	Cumberland		49.61634	-125.03613	P	PPL	CA		2	5926			2630		165	America/Vancouver	3/17/17
+5934709	Dalmeny	Dalmeny		52.33339	-106.76792	P	PPL	CA		11				1504		520	America/Regina	4/11/08
+5935042	Danville	Danville		45.78337	-72.0158	P	PPL	CA		10	5	40047		1761		160	America/Toronto	6/22/16
+5935277	Dartmouth	Dartmouth	dateumeoseu,à´¡à´¾àµ¼à´Ÿàµà´®àµ—à´¤àµ,ë‹¤íŠ¸ë¨¸ìŠ¤	44.67134	-63.57719	P	PPL	CA		7				101343		35	America/Halifax	9/22/10
+5935341	Dauphin	Dauphin	Dofen,Dofin,YDN,duo fen,Ð”Ð¾Ñ„ÐµÐ½,Ð”Ð¾Ñ„Ñ–Ð½,ÚˆØ§ÙÙ†ØŒ Ù…ÛŒÙ†ÛŒ Ù¹ÙˆØ¨Ø§,ÚˆÙˆÙÙ†,å¤šèŠ¬	51.14941	-100.05023	P	PPL	CA		3				8418		294	America/Winnipeg	4/11/08
+5935388	Daveluyville	Daveluyville		46.20006	-72.13239	P	PPL	CA		10	17	39155		1318		88	America/Toronto	2/23/16
+5935804	Dawson Creek	Dawson Creek	Doson Krik,Doson-Krik,YDQ,dao sen ke li ke,dawswn kryk,doseunkeulig,dwsn kryk,dxw san kh rik,Ð”Ð¾ÑÐ¾Ð½ ÐšÑ€Ð¸Ðº,Ð”Ð¾ÑÐ¾Ð½-ÐšÑ€Ð¸Ðº,Ø¯Ø§ÙˆØ³ÙˆÙ† Ú©Ø±ÛŒÚ©,Ø¯ÙˆØ³Ù† ÙƒØ±ÙŠÙƒ,ÚˆØ§Ø³Ù† Ú©Ø±ÛŒÚ©,ÚˆØ§Ø³Ù†Ú©Ø±ÛŒÚ©,à¸”à¸­à¸§à¹Œà¸ªà¸±à¸™à¸„à¸£à¸µà¸,é“æ£®å…‹é‡Œå…‹,ë„ìŠ¨í¬ë¦­	55.75984	-120.2403	P	PPL	CA		2	5955			10802		663	America/Dawson_Creek	1/9/15
+5937073	Deep River	Deep River	Dip River,dipuriba,Ð”Ð¸Ð¿ Ð Ð¸Ð²ÐµÑ€,ãƒ‡ã‚£ãƒ¼ãƒ—ãƒªãƒãƒ¼	46.10012	-77.49949	P	PPL	CA		8				4296		146	America/Toronto	4/11/08
+5937252	Deer Lake	Deer Lake	Deer Lake,YDF	49.16671	-57.43163	P	PPL	CA		5				4163		34	America/St_Johns	4/17/16
+5937577	Deloraine	Deloraine		49.19082	-100.49477	P	PPL	CA		3				1068		503	America/Winnipeg	4/11/08
+5937612	Delson	Delson	Delson	45.36678	-73.54917	P	PPL	CA		10	16	67025		7322		27	America/Toronto	6/22/16
+5937615	Delta	Delta	Del'ta,Delta,delta,deruta,dlth,dylta,san jiao zhou,Ð”ÐµÐ»Ñ‚Ð°,Ð”ÐµÐ»ÑŒÑ‚Ð°,×“×œ×ª×”,Ø¯ÙŠÙ„ØªØ§,ãƒ‡ãƒ«ã‚¿,ä¸‰è§’æ´²,ë¸íƒ€	49.14399	-122.9068	P	PPL	CA		2				101668		81	America/Vancouver	2/27/10
+5938187	Deseronto	Deseronto		44.20012	-77.04944	P	PPL	CA		8				1897		96	America/Toronto	4/11/08
+5938513	Deux-Montagnes	Deux-Montagnes		45.53455	-73.90168	P	PPL	CA		10	15	72010		17402		29	America/Toronto	6/22/16
+5938801	Devon	Devon	Devon,Ð”ÐµÐ²Ð¾Ð½	53.36683	-113.73533	P	PPL	CA		1				5225		695	America/Edmonton	4/11/08
+5939210	Didsbury	Didsbury	Didsberi,Ð”Ð¸Ð´ÑÐ±ÐµÑ€Ð¸	51.66681	-114.13529	P	PPL	CA		1				4134		1032	America/Edmonton	4/11/08
+5939219	Dieppe	Dieppe	D'ep,di ye pu,dieppu,dyyp  nyw brnzwyk,Ð”ÑŒÐµÐ¿,Ø¯ÛŒØ¦Ù¾ØŒ Ù†ÛŒÙˆ Ø¨Ø±Ù†Ø²ÙˆÛŒÚ©,ÚˆÛŒÙ¾ÛŒ,ãƒ‡ã‚£ã‚¨ãƒƒãƒ—,è¿ªè€¶æ™®	46.07844	-64.68735	P	PPL	CA		4				18565		42	America/Moncton	9/22/10
+5939236	Digby	Digby	YDG,dygby,Ø¯ÛŒÚ¯Ø¨ÛŒ	44.62188	-65.7586	P	PPL	CA		7				2052		35	America/Halifax	11/13/14
+5940934	Dolbeau-Mistassini	Dolbeau-Mistassini	Dolbeau-Mistassini,Dolbo Mistasini,YDO,dwlbw mystasyny  kybk,dwlbw-mystasyny  kbk,Ð”Ð¾Ð»Ð±Ð¾ ÐœÐ¸ÑÑ‚Ð°ÑÐ¸Ð½Ð¸,Ø¯ÙˆÙ„Ø¨Ùˆ Ù…ÙŠØ³ØªØ§Ø³ÙŠÙ†ÙŠØŒ ÙƒÙŠØ¨Ùƒ,Ø¯ÙˆÙ„Ø¨Ùˆ-Ù…ÛŒØ³ØªØ§Ø³ÛŒÙ†ÛŒØŒ Ú©Ø¨Ú©,ÚˆØ§Ù„Ø¨ÛŒØ§Ø¤ Ù…Ø³Ù¹Ø§Ø³Ù†ÛŒ	48.8786	-72.23142	P	PPL	CA		10	2	92022		12916		127	America/Toronto	2/24/16
+5940956	Dollard-Des Ormeaux	Dollard-Des Ormeaux	Dolar dez Ormo,Dollard-Des-Ormeaux,Dollard-des-Ormeaux,dwlar dyzwrmw  kybk,dwlar-dh-awrmw,Ð”Ð¾Ð»Ð°Ñ€ Ð´ÐµÐ· ÐžÑ€Ð¼Ð¾,Ø¯ÙˆÙ„Ø§Ø± Ø¯ÙŠØ²ÙˆØ±Ù…ÙˆØŒ ÙƒÙŠØ¨Ùƒ,Ø¯ÙˆÙ„Ø§Ø±-Ø¯Ù‡-Ø§ÙˆØ±Ù…Ùˆ,ÚˆÙˆÙ„Ø§Ø±Úˆ ÚˆØ³ Ø§ÙˆØ±Ù…ÛŒÙˆÚ©Ø³	45.49452	-73.82419	P	PPL	CA		10	6	66142		48930		34	America/Toronto	2/24/18
+5941761	Dorchester	Dorchester		42.98339	-81.06643	P	PPL	CA		8				9329		260	America/Toronto	7/17/13
+5941925	Dorval	Dorval	Dorval,Dorval',dwrfal  kybk,dwrwal,Ð”Ð¾Ñ€Ð²Ð°Ð»,Ð”Ð¾Ñ€Ð²Ð°Ð»ÑŒ,Ø¯ÙˆØ±ÙØ§Ù„ØŒ ÙƒÙŠØ¨Ùƒ,Ø¯ÙˆØ±ÙˆØ§Ù„,ÚˆÙˆØ±ÙˆÙ„	45.4473	-73.75335	P	PPL	CA		10	6	66087		18088		27	America/Toronto	6/22/16
+5942547	Drayton Valley	Drayton Valley	Drejton Vali,Drejton-Valli,YDC,Ð”Ñ€ÐµÐ¹Ñ‚Ð¾Ð½-Ð’Ð°Ð»Ð»Ð¸,Ð”Ñ€ÐµÑ˜Ñ‚Ð¾Ð½ Ð’Ð°Ð»Ð¸	53.21682	-114.98544	P	PPL	CA		1				6099		846	America/Edmonton	4/11/08
+5942845	Drummondville	Drummondville	Drammondvill,Drammonvil',Dramondvil,Drummondville,XDM,de la meng shi,doramonbiru,drwmwndwyl,drwmwnfyl,Ð”Ñ€Ð°Ð¼Ð¼Ð¾Ð½Ð²Ñ–Ð»ÑŒ,Ð”Ñ€Ð°Ð¼Ð¼Ð¾Ð½Ð´Ð²Ð¸Ð»Ð»,Ð”Ñ€Ð°Ð¼Ð¾Ð½Ð´Ð²Ð¸Ð»,Ø¯Ø±ÙˆÙ…ÙˆÙ†Ø¯ÙˆÛŒÙ„,Ø¯Ø±ÙˆÙ…ÙˆÙ†ÙÙŠÙ„,ÚˆØ±Ù…Ù†ÚˆÙˆÙ„Û’,ÚˆØ±Ù…ÙˆÙ†ÚˆÙˆÛŒÙ„,ãƒ‰ãƒ©ãƒ¢ãƒ³ãƒ“ãƒ«,å¾·æ‹‰è’™å¸‚	45.88336	-72.48241	P	PPL	CA		10	17	49058		59489		89	America/Toronto	4/12/16
+5942913	Dryden	Dryden	YHD	49.78334	-92.75032	P	PPL	CA		8				8195		387	America/Winnipeg	9/22/10
+5943865	Duncan	Duncan	DUQ,Dankan,Duncan,Dunkan,deng ken,Ð”Ð°Ð½ÐºÐ°Ð½,Ð”ÑƒÐ½ÐºÐ°Ð½,ÚˆÙ†Ú©Ù†ØŒ Ø¨Ø±Ù¹Ø´ Ú©ÙˆÙ„Ù…Ø¨ÛŒØ§,é‚“è‚¯	48.78293	-123.70266	P	PPL	CA		2				22199		14	America/Vancouver	7/21/13
+5944071	Dunham	Dunham	Dunham	45.13338	-72.79913	P	PPL	CA		10	16			3471		154	America/Toronto	4/13/16
+5944935	Ear Falls	Ear Falls		50.63955	-93.23526	P	PPL	CA		8				1026		376	America/Winnipeg	7/20/13
+5945016	East Angus	East Angus	Ist Angus,ayst anghs,ayst angws  kbk,Ð˜ÑÑ‚ ÐÐ½Ð³ÑƒÑ,Ø£ÙŠØ³Øª Ø£Ù†ØºØ³,Ø§ÛŒØ³Øª Ø§Ù†Ú¯ÙˆØ³ØŒ Ú©Ø¨Ú©,Ø§ÛŒØ³Ù¹ Ø§Ù†Ú¯Ø³	45.48338	-71.66577	P	PPL	CA		10	5			3634		191	America/Toronto	4/11/08
+5946820	Edson	Edson	Edson,YET,Ð•Ð´ÑÐ¾Ð½	53.58345	-116.43559	P	PPL	CA		1				7975		913	America/Edmonton	4/11/08
+5947708	Elkford	Elkford		50.05007	-114.8854	P	PPL	CA		2				2585		1518	America/Edmonton	4/11/08
+5947754	Elk Point	Elk Point		53.90017	-110.9017	P	PPL	CA		1				1514		601	America/Edmonton	4/11/08
+5947866	Elliot Lake	Elliot Lake	Eliot Lejk,YEL,alywt layk,alywt lyk,eriottoreiku,Ð•Ð»Ð¸Ð¾Ñ‚ Ð›ÐµÑ˜Ðº,Ø¥Ù„ÙŠÙˆØª Ù„Ø§ÙŠÙƒ,Ø§Ù„ÛŒÙˆØª Ù„ÛŒÚ©,Ø§Ù„ÛŒÙ¹ Ù„ÛŒÚ©,ã‚¨ãƒªã‚ªãƒƒãƒˆãƒ¬ã‚¤ã‚¯	46.38336	-82.63315	P	PPL	CA		8				12508		310	America/Toronto	4/11/08
+5948770	Enderby	Enderby	Enderbi,Ð•Ð½Ð´ÐµÑ€Ð±Ð¸,Ø§ÛŒÙ†ÚˆØ±Ø¨Ø§Ø¦,Ø§ÛŒÙ†ÚˆØ±Ø¨ÛŒØŒ Ø¨Ø±Ù¹Ø´ Ú©ÙˆÙ„Ù…Ø¨ÛŒØ§	50.5498	-119.15234	P	PPL	CA		2				2830		473	America/Vancouver	4/11/08
+5948844	Englehart	Englehart		47.81686	-79.8664	P	PPL	CA		8				1685		201	America/Toronto	4/11/08
+5949493	Espanola	Espanola	Espanola,EspaÃ±ola,ai si pa nuo la,esupanora,Ð•ÑÐ¿Ð°Ð½Ð¾Ð»Ð°,ã‚¨ã‚¹ãƒ‘ãƒŽãƒ¼ãƒ©,åŸƒæ–¯å¸•è«¾æ‹‰	46.25837	-81.76649	P	PPL	CA		8				4682		204	America/Toronto	4/11/08
+5949563	Esterhazy	Esterhazy		50.65001	-102.08426	P	PPL	CA		11				2194		516	America/Regina	4/11/08
+5949568	Estevan	Estevan	Ehstevan,Estevan,YEN,astyfn,Ð•ÑÑ‚ÐµÐ²Ð°Ð½,Ð­ÑÑ‚ÐµÐ²Ð°Ð½,Ø¥Ø³ØªÙŠÙÙ†	49.13337	-102.98422	P	PPL	CA		11				9904		563	America/Regina	4/11/08
+5950267	Etobicoke	Etobicoke	Ehtobiko,Etobiko,etobiko,etopikok,itobiko,yi tao bi gu,Ð•Ñ‚Ð¾Ð±Ñ–ÐºÐ¾,Ð­Ñ‚Ð¾Ð±Ð¸ÐºÐ¾,à®Žà®Ÿà¯‹à®ªà®¿à®•à¯‹à®•à¯,ã‚¨ãƒˆãƒ“ã‚³,æ€¡é™¶ç¢§è°·,ì´í† ë¹„ì½”	43.65421	-79.56711	P	PPL	CA		8				347948		148	America/Toronto	2/22/12
+5951036	Fairview	Fairview	Fairview,Fervju,ZFW,Ð¤ÐµÑ€Ð²Ñ˜Ñƒ,ÙÛŒØ¦Ø±ÙˆÛŒÙˆØŒ Ø§Ù„Ø¨Ø±Ù¹Ø§	56.06675	-118.38606	P	PPL	CA		1				3312		655	America/Edmonton	10/29/17
+5951224	Falher	Falher	Falher	55.73339	-117.20262	P	PPL	CA		1				1166		578	America/Edmonton	9/22/13
+5951289	Fall River	Fall River		44.81685	-63.6154	P	PPL	CA		7				11526		33	America/Halifax	11/26/17
+5951644	Farnham	Farnham	Farnham	45.28338	-72.98244	P	PPL	CA		10	16	46112		6061		55	America/Toronto	2/1/17
+5952330	Ferme-Neuve	Ferme-Neuve		46.70011	-75.44929	P	PPL	CA		10	15			2115		219	America/Toronto	4/11/08
+5952337	Fermont	Fermont		52.78345	-67.08204	P	PPL	CA		10	9			2966		633	America/Toronto	4/11/08
+5952370	Fernie	Fernie	Ferni,Ð¤ÐµÑ€Ð½Ð¸,ÙØ±Ù†ÛŒØŒ Ø¨Ø±Ù¹Ø´ Ú©ÙˆÙ„Ù…Ø¨ÛŒØ§	49.49996	-115.06871	P	PPL	CA		2				5019		996	America/Edmonton	4/11/08
+5954718	Flin Flon	Flin Flon	Flin Flon,Flin-Flon,YFO,fln flwn,flyn flwn,Ð¤Ð»Ð¸Ð½ Ð¤Ð»Ð¾Ð½,Ð¤Ð»Ð¸Ð½-Ð¤Ð»Ð¾Ð½,Ð¤Ð»Ñ–Ð½-Ð¤Ð»Ð¾Ð½,ÙÙ„Ù† ÙÙ„Ø§Ù†ØŒ Ù…ÛŒÙ†ÛŒ Ù¹ÙˆØ¨Ø§,ÙÙ„Ù† ÙÙ„ÙˆÙ†,ÙÙ„ÛŒÙ† ÙÙ„ÙˆÙ†	54.76703	-101.87433	P	PPL	CA		3				6002		336	America/Winnipeg	4/23/16
+5955084	Foam Lake	Foam Lake		51.65001	-103.53431	P	PPL	CA		11				1138		552	America/Regina	4/11/08
+5955797	Fort-Coulonge	Fort-Coulonge	fwr kwlwnj,fwrt-kwlwny  kbk,ÙÙˆØ± ÙƒÙˆÙ„ÙˆÙ†Ø¬,ÙÙˆØ±Øª-Ú©ÙˆÙ„ÙˆÙ†ÛŒØŒ Ú©Ø¨Ú©	45.85011	-76.73272	P	PPL	CA		10	7	84065		2911		106	America/Toronto	6/22/16
+5955815	Fort Erie	Fort Erie	Fort Erie,Fort Iri,Fort Ã‰riÃ©,Fort-Eri,fotoeri,fwrt ayry,yi li bao,Ð¤Ð¾Ñ€Ñ‚ Ð˜Ñ€Ð¸,Ð¤Ð¾Ñ€Ñ‚-Ð•Ñ€Ñ–,ÙÙˆØ±Øª Ø¥ÙŠØ±ÙŠ,ãƒ•ã‚©ãƒ¼ãƒˆã‚¨ãƒªãƒ¼,ä¼Šåˆ©å ¡	42.90012	-78.93286	P	PPL	CA		8				15953		183	America/Toronto	1/22/06
+5955826	Fort Frances	Fort Frances	Fort Frances,Fort Franses,YAG,fotofuranshisu,fu lang xi si bao,fwrt fransys,Ð¤Ð¾Ñ€Ñ‚ Ð¤Ñ€Ð°Ð½ÑÐµÑ,ÙÙˆØ±Øª ÙØ±Ø§Ù†Ø³ÙŠØ³,ãƒ•ã‚©ãƒ¼ãƒˆãƒ•ãƒ©ãƒ³ã‚·ã‚¹,å¼—æœ—è¥¿æ–¯å ¡	48.61667	-93.4003	P	PPL	CA		8	3559			7931		340	America/Winnipeg	1/20/18
+5955891	Fort Macleod	Fort Macleod	Fort Maklaud,Fort Makleodas,Ð¤Ð¾Ñ€Ñ‚ ÐœÐ°ÐºÐ»Ð°ÑƒÐ´	49.71671	-113.41857	P	PPL	CA		1				3060		952	America/Edmonton	4/11/08
+5955895	Fort McMurray	Fort McMurray	Fort Makmari,Fort-MakMerrej,Fort-MakMerrey,YMM,fotomakumare,fwrt makmwray,mai ke mo li bao,poteumaegmeoli,Ð¤Ð¾Ñ€Ñ‚ ÐœÐ°ÐºÐ¼Ð°Ñ€Ð¸,Ð¤Ð¾Ñ€Ñ‚-ÐœÐ°ÐºÐœÐµÑ€Ñ€ÐµÐ¹,ÙÙˆØ±Øª Ù…Ø§ÙƒÙ…ÙˆØ±Ø§ÙŠ,ÙÙˆØ±Øª Ù…Ú©â€ŒÙ…ÙˆØ±ÛŒ,ãƒ•ã‚©ãƒ¼ãƒˆãƒžã‚¯ãƒžãƒ¬ãƒ¼,éº¦å…‹é»˜é‡Œå ¡,í¬íŠ¸ë§¥ë¨¸ë¦¬	56.72676	-111.38103	P	PPL	CA		1				76000		258	America/Edmonton	10/8/11
+5955902	Fort Nelson	Fort Nelson	YYE,fwrt nlswn,ÙÙˆØ±Øª Ù†Ù„Ø³ÙˆÙ†	58.80533	-122.7002	P	PPL	CA		2				4514		415	America/Fort_Nelson	10/16/16
+5955948	Fort Saskatchewan	Fort Saskatchewan	Fort Saskacevanas,Fort Saskachevan,Fort SaskaÄevanas,Fort-Saskachevan,frt saskachwan,fwrt saskatshwan,sa si ka che wen bao,Ð¤Ð¾Ñ€Ñ‚ Ð¡Ð°ÑÐºÐ°Ñ‡ÐµÐ²Ð°Ð½,Ð¤Ð¾Ñ€Ñ‚-Ð¡Ð°ÑÐºÐ°Ñ‡ÐµÐ²Ð°Ð½,ÙØ±Øª Ø³Ø§Ø³Ú©Ø§Ú†ÙˆØ§Ù†,ÙÙˆØ±Øª Ø³Ø§Ø³ÙƒØ§ØªØ´ÙˆØ§Ù†,ÙÙˆØ±Ù¹ Ø³Ø§Ø³Ú©ÛŒÚ†ÙˆØ§Ù†,è¨æ–¯å–€å½»æ¸©å ¡	53.71684	-113.2187	P	PPL	CA		1				14957		595	America/Edmonton	9/22/10
+5955954	Fort Smith	Fort Smith	Fort Smith,Thebacha,YSM	60.00439	-111.88871	P	PPL	CA		13				2364		205	America/Yellowknife	4/2/16
+5955960	Fort St. John	Fort St. John	Fort Sent DZon,Fort-Sent-Dzhon,YXJ,fwrt sant jwn,fwrt snt jan,sheng yue han bao,Ð¤Ð¾Ñ€Ñ‚ Ð¡ÐµÐ½Ñ‚ ÐÐ¾Ð½,Ð¤Ð¾Ñ€Ñ‚-Ð¡ÐµÐ½Ñ‚-Ð”Ð¶Ð¾Ð½,ÙÙˆØ±Øª Ø³Ø§Ù†Øª Ø¬ÙˆÙ†,ÙÙˆØ±Øª Ø³Ù†Øª Ø¬Ø§Ù†,ÙÙˆØ±Ù¹ Ø³ÛŒÙ†Ù¹ Ø¬Ø§Ù†ØŒ Ø¨Ø±Ù¹Ø´ Ú©ÙˆÙ„Ù…Ø¨ÛŒØ§,è–ç´„ç¿°å ¡	56.24988	-120.85292	P	PPL	CA		2				17402		696	America/Dawson_Creek	10/6/13
+5956869	Fox Creek	Fox Creek	Foks Krik,Ð¤Ð¾ÐºÑ ÐšÑ€Ð¸Ðº	54.40007	-116.80238	P	PPL	CA		1				2457		832	America/Edmonton	4/11/08
+5957404	Franklin	Franklin	Franklin	45.03338	-73.91591	P	PPL	CA		10	16	69010		1688		137	America/Toronto	6/22/16
+5958590	Fruitvale	Fruitvale		49.11654	-117.55222	P	PPL	CA		2				3790		659	America/Vancouver	1/22/06
+5959271	Gambo	Gambo		48.7832	-54.21482	P	PPL	CA		5				1614		7	America/St_Johns	4/11/08
+5959326	Gananoque	Gananoque	XGW	44.33342	-76.16607	P	PPL	CA		8				5458		84	America/Toronto	4/11/08
+5959878	GaspÃ©	Gaspe	Gaspe,GaspÃ©,GaspÄ—,YGP,gasph  kbk,gasupe,ghasbyh,gysp,Ð“Ð°ÑÐ¿Ðµ,×’××¡×¤×”,ØºØ§Ø³Ø¨ÙŠÙ‡,Ú¯Ø§Ø³Ù¾Ù‡ØŒ Ú©Ø¨Ú©,Ú¯ÛŒØ³Ù¾,á—´á”…á—«,ã‚¬ã‚¹ãƒš	48.83341	-64.48194	P	PPL	CA		10	11	3005		14819		15	America/Toronto	6/22/16
+5959974	Gatineau	Gatineau	Gatineau,Gatino,Sablono:TabelKapoLauCarta,gatino,gatynw,ghatynw,gytynw,jia di nuo,jia di nuo shi,kettinov,Åœablono:TabelKapoLaÅ­Äˆarta,Ð“Ð°Ñ‚Ð¸Ð½Ð¾,Ð“Ð°Ñ‚Ñ–Ð½Ð¾,ØºØ§ØªÙŠÙ†Ùˆ,Ú¯Ø§ØªÛŒÙ†Ùˆ,Ú¯ÛŒØªÛŒÙ†Ø¤,Ú¯ÛŒÙ¹ÛŒÙ†ÛŒÙˆ,à®•à¯†à®Ÿà¯à®Ÿà®¿à®©à¯‹à®µà¯,áƒ’áƒáƒ¢áƒ˜áƒœáƒ,ã‚¬ãƒ†ã‚£ãƒŽãƒ¼,åŠ è’‚è«¾,åŠ è’‚è¯ºå¸‚,ê°€í‹°ë…¸	45.47723	-75.70164	P	PPL	CA		10	7	81017		242124		53	America/Toronto	6/22/16
+5960842	Gibbons	Gibbons		53.83345	-113.33531	P	PPL	CA		1				2790		633	America/Edmonton	4/11/08
+5960971	Gibsons	Gibsons		49.39539	-123.50555	P	PPL	CA		2	5929			6821		16	America/Vancouver	9/23/13
+5961417	Gimli	Gimli	Gimli,YGM,gimali,Ð“Ð¸Ð¼Ð»Ð¸,à¤—à¤¿à¤®à¤²à¥€	50.63362	-96.99066	P	PPL	CA		3				2009		221	America/Winnipeg	9/22/13
+5961564	Glace Bay	Glace Bay	Glasbaidh	46.19695	-59.95698	P	PPL	CA		7				19968		15	America/Glace_Bay	8/28/08
+5962442	Goderich	Goderich	Goderich,Godrich,ge de li qi,godoritchi,Ð“Ð¾Ð´Ñ€Ð¸Ñ‡,Ú¯ÙˆÚˆØ±Ú†ØŒ Ø§ÙˆÙ†Ù¹Ø§Ø±ÛŒÙˆ,ã‚´ãƒ‰ãƒªãƒƒãƒ,æˆˆå¾·é‡Œå¥‡	43.74171	-81.71339	P	PPL	CA		8	3540			8032		222	America/Toronto	1/20/18
+5962582	Golden	Golden	Ú¯ÙˆÙ„ÚˆÙ†ØŒ Ø¨Ø±Ù¹Ø´ Ú©ÙˆÙ„Ù…Ø¨ÛŒØ§	51.29995	-116.9689	P	PPL	CA		2				4038		789	America/Edmonton	4/11/08
+5964215	Granby	Granby	Gorad Granbi,Granbi,Granby,ge lan bi,ghranby,granby  kbk,grymby,Ð“Ð¾Ñ€Ð°Ð´ Ð“Ñ€Ð°Ð½Ð±Ñ–,Ð“Ñ€Ð°Ð½Ð±Ð¸,Ð“Ñ€Ð°Ð½Ð±Ñ–,ØºØ±Ø§Ù†Ø¨ÙŠ,Ú¯Ø±Ø§Ù†Ø¨ÛŒØŒ Ú©Ø¨Ú©,Ú¯Ø±ÛŒÙ…Ø¨ÛŒ,æ ¼å…°æ¯”	45.40008	-72.73243	P	PPL	CA		10	16	47017		53979		102	America/Toronto	2/1/17
+5964230	Grand Bank	Grand Bank		47.09995	-55.76504	P	PPL	CA		5				4623		5	America/St_Johns	1/22/06
+5964304	Grande Cache	Grande Cache	Grand Kesh,YGC,Ð“Ñ€Ð°Ð½Ð´ ÐšÐµÑˆ	53.88335	-119.13585	P	PPL	CA		1				4025		1225	America/Edmonton	4/11/08
+5964347	Grande Prairie	Grande Prairie	Gorad Grand-Prehry,Gran Preri,Grand Preri,Grand-Preri,Grande Prairie,Qrand-Preri,YQU,da cao yuan cheng,geulaendipeuleli,ghrand brary,grnd pryry,Ð“Ð¾Ñ€Ð°Ð´ Ð“Ñ€Ð°Ð½Ð´-ÐŸÑ€ÑÑ€Ñ‹,Ð“Ñ€Ð°Ð½Ð´ ÐŸÑ€ÐµÑ€Ð¸,Ð“Ñ€Ð°Ð½Ð´-ÐŸÑ€ÐµÑ€Ð¸,Ð“Ñ€Ð°Ð½Ð´-ÐŸÑ€ÐµÑ€Ñ–,ØºØ±Ø§Ù†Ø¯ Ø¨Ø±Ø§Ø±ÙŠ,Ú¯Ø±Ø§Ù†Úˆ Ù¾Ø±Ø§Ø¦Ø±ÛŒ,Ú¯Ø±Ù†Ø¯ Ù¾Ø±ÛŒØ±ÛŒ,Ú¯Ø±ÛŒÙ†Úˆ Ù¾Ø±ÛŒØ±ÛŒ,áƒ’áƒ áƒáƒœáƒ“áƒ”-áƒžáƒ áƒ”áƒ áƒ˜áƒ,å¤§è‰åŽŸåŸŽ,ê·¸ëžœë””í”„ë ˆë¦¬	55.16667	-118.80271	P	PPL	CA		1				41462		653	America/Edmonton	4/17/16
+5964378	Grand Falls-Windsor	Grand Falls-Windsor		48.93324	-55.66492	P	PPL	CA		5				12076		67	America/St_Johns	4/11/08
+5964401	Grand Forks	Grand Forks	Grand Forks,Grand-Forks,ZGF,Ð“Ñ€Ð°Ð½Ð´ Ð¤Ð¾Ñ€ÐºÑ,Ð“Ñ€Ð°Ð½Ð´-Ð¤Ð¾Ñ€ÐºÑ,Ú¯Ø±ÛŒÙ†Úˆ ÙÙˆØ±Ú©Ø³ØŒ Ø¨Ø±Ù¹Ø´ Ú©ÙˆÙ„Ù…Ø¨ÛŒØ§	49.03309	-118.4356	P	PPL	CA		2				4208		514	America/Vancouver	4/11/08
+5964700	Greater Sudbury	Greater Sudbury	Bol'shoj Sadberi,Gran Sudbury,Grand Sudbury,Granda Sudbury,Greater Sudbury,Sadberi,Sadberis,Sudbury,Veliki Sadberi,YSB,catpari perumpakam,da sa de bo li,ghrytr swdbwry,gryytr sdbry,sadbry bzrg,sadobari,seodeubeli,Ð‘Ð¾Ð»ÑŒÑˆÐ¾Ð¹ Ð¡Ð°Ð´Ð±ÐµÑ€Ð¸,Ð’ÐµÐ»Ð¸ÐºÐ¸ Ð¡Ð°Ð´Ð±ÐµÑ€Ð¸,Ð¡Ð°Ð´Ð±ÐµÑ€Ñ–,×’×¨×™×™×˜×¨ ×¡×“×‘×¨×™,Ø³Ø§Ø¯Ø¨Ø±ÛŒ Ø¨Ø²Ø±Ú¯,ØºØ±ÙŠØªØ± Ø³ÙˆØ¯Ø¨ÙˆØ±ÙŠ,Ú¯Ø±ÛŒÙ¹Ø± Ø³ÚˆØ¨Ø±ÛŒ,à®šà®Ÿà¯à®ªà®±à®¿ à®ªà¯†à®°à¯à®®à¯à®ªà®¾à®•à®®à¯,ã‚µãƒ‰ãƒãƒªãƒ¼,å¤§è–©å¾·ä¼¯é‡Œ,ì„œë“œë² ë¦¬	46.49	-80.99001	P	PPL	CA		8				157857		266	America/Toronto	5/12/14
+5965462	Gravelbourg	Gravelbourg		49.88336	-106.55122	P	PPL	CA		11				1109		699	America/Regina	4/11/08
+5965546	Gravenhurst	Gravenhurst	Gravenhurst i Ontario,Grejvenkherst,ge lei wen he si te,gureibunhasuto,jrafnhwrst,Ð“Ñ€ÐµÑ˜Ð²ÐµÐ½Ñ…ÐµÑ€ÑÑ‚,Ø¬Ø±Ø§ÙÙ†Ù‡ÙˆØ±Ø³Øª,ã‚°ãƒ¬ã‚¤ãƒ–ãƒ³ãƒãƒ¼ã‚¹ãƒˆ,æ ¼é›·æ–‡èµ«æ–¯ç‰¹	44.91681	-79.36633	P	PPL	CA		8				5839		260	America/Toronto	1/22/06
+5965812	Greater Napanee	Greater Napanee	Napanee	44.25012	-76.94944	P	PPL	CA		8				15132		92	America/Toronto	4/6/10
+5966622	Greenstone	Greenstone		49.73343	-87.16668	P	PPL	CA		8				4200		339	America/Toronto	7/29/12
+5966689	Greenwood	Greenwood	YZX	44.97413	-64.93169	P	PPL	CA		7				6915		28	America/Halifax	6/26/15
+5967157	Grimshaw	Grimshaw	Grimsho,Ð“Ñ€Ð¸Ð¼ÑˆÐ¾	56.18339	-117.6027	P	PPL	CA		1				2560		598	America/Edmonton	4/11/08
+5967629	Guelph	Guelph	Guehlf,Guelfas,Guelph,Gvelf,The Royal City,XIA,gerufu,ghwylf,gui hu,gwelpeu,gwlf,gwylf,gywlf,Ð“Ð²ÐµÐ»Ñ„,Ð“ÑƒÑÐ»Ñ„,ØºÙˆÙŠÙ„Ù,Ú¯ÙˆÙ„Ù,Ú¯ÙˆÛŒÙ„Ù,Ú¯ÛŒÙˆÙ„Ù,ã‚²ãƒ«ãƒ•,è²´æ¹–,ê¶¬í”„	43.54594	-80.25599	P	PPL	CA		8	3523			115760		335	America/Toronto	1/20/18
+5969025	Haines Junction	Haines Junction	YHT	60.75216	-137.51082	P	PPL	CA		12				1148		599	America/Whitehorse	1/22/06
+5969782	Hamilton	Hamilton	Gamil'ton,Gamilton,Gorad Gamil'tan,Hamilton,Hamilton i Ontario,Hamiltona,Hamiltonas,Hamiltono,Khamilton,Khamiltun,amiltan,ha mi er dun,haemilteon,hamiruton,hamyltwn,hemiltana,hmyltwn,hmyltwn  antaryw,Ð“Ð°Ð¼Ð¸Ð»ÑŒÑ‚Ð¾Ð½,Ð“Ð°Ð¼Ñ–Ð»ÑŒÑ‚Ð¾Ð½,Ð“Ð¾Ñ€Ð°Ð´ Ð“Ð°Ð¼Ñ–Ð»ÑŒÑ‚Ð°Ð½,Ð¥Ð°Ð¼Ð¸Ð»Ñ‚Ð¾Ð½,Ð¥Ð°Ð¼Ð¸Ð»Ñ‚ÑŠÐ½,Õ€Õ¡Õ´Õ«Õ¬Õ¿Õ¸Õ¶,×”×ž×™×œ×˜×•×Ÿ,Ù‡Ø§Ù…ÙŠÙ„ØªÙˆÙ†,Ù‡Ù…ÛŒÙ„ØªÙˆÙ†ØŒ Ø§Ù†ØªØ§Ø±ÛŒÙˆ,ÛØ§Ù…Ù„Ù¹Ù†,ÛÛŒÙ…Ù„Ù¹Ù†ØŒ Ø§Ù†Ù¹Ø§Ø±ÛŒÙˆ,à¤¹à¥…à¤®à¤¿à¤²à¥à¤Ÿà¤¨,à®†à®®à®¿à®²à¯à®Ÿà®©à¯,à·„à·à¶¸à·’à¶½à·Šà¶§à¶±à·Š,áƒ°áƒáƒ›áƒ˜áƒšáƒ¢áƒáƒœáƒ˜,ãƒãƒŸãƒ«ãƒˆãƒ³,å“ˆå¯†å°”é¡¿,í•´ë°€í„´	43.25011	-79.84963	P	PPL	CA		8				519949		95	America/Toronto	2/16/13
+5970014	Hampstead	Hampstead		45.48064	-73.66307	P	PPL	CA		10	6	66058		6996		49	America/Toronto	6/22/16
+5970018	Hampton	Hampton		45.52876	-65.85354	P	PPL	CA		4				4292		0	America/Moncton	4/14/14
+5970234	Hanna	Hanna	Khana,Ð¥Ð°Ð½Ð°,ÒºÐ°Ð½Ð½Ð°	51.63343	-111.90181	P	PPL	CA		1				3140		826	America/Edmonton	4/11/08
+5970301	Hanover	Hanover	Khanover,Ð¥Ð°Ð½Ð¾Ð²ÐµÑ€	44.15009	-81.03303	P	PPL	CA		8				7255		277	America/Toronto	4/11/08
+5970414	Hantsport	Hantsport		45.06685	-64.16544	P	PPL	CA		7				1253		-9999	America/Halifax	4/11/08
+5970458	Happy Valley-Goose Bay	Happy Valley-Goose Bay	Happy Valley-Goose Bay,YYR,×”×¤×™ ×•×•××œ×™-×’×•×¡ ×‘×™×™,ÛÛŒÙ¾ÛŒ ÙˆÛŒÙ„ÛŒ-Ú¯ÙˆØ² Ø¨Û’	53.3038	-60.32576	P	PPL	CA		5				7572	12	17	America/Goose_Bay	4/2/16
+5970478	Harbour Breton	Harbour Breton		47.48325	-55.79833	P	PPL	CA		5				1898		1	America/St_Johns	4/11/08
+5972291	Havre-Saint-Pierre	Havre-Saint-Pierre	Havre-Saint-Pierre,Havre-St-Pierre,YGV	50.24342	-63.60264	P	PPL	CA		10	9	98040		2966		12	America/Toronto	6/22/16
+5972360	Hawkesbury	Hawkesbury	Hawkesbury,Khoksberi,hawksbry,hawkysbyry,Ð¥Ð¾ÐºÑÐ±ÐµÑ€Ð¸,Ù‡Ø§ÙˆÙƒÙŠØ³Ø¨ÙŠØ±ÙŠ,Ù‡Ø§ÙˆÚ©Ø³Ø¨Ø±ÛŒ	45.60009	-74.61595	P	PPL	CA		8				12283		53	America/Toronto	5/5/16
+5972762	Hay River	Hay River	YHY	60.81555	-115.79993	P	PPL	CA		13				3400		152	America/Yellowknife	12/30/11
+5972961	Headingley	Headingley		49.8753	-97.40896	P	PPL	CA		3				3215		239	America/Winnipeg	7/18/13
+5973108	Hearst	Hearst	Kherst,YHF,Ð¥ÐµÑ€ÑÑ‚	49.68351	-83.66654	P	PPL	CA		8				4746		235	America/Toronto	4/11/08
+5975004	High Level	High Level	High Level,Khaj Level,YOJ,Ð¥Ð°Ð¹ Ð›ÐµÐ²ÐµÐ»,Ð¥Ð°Ñ˜ Ð›ÐµÐ²ÐµÐ»	58.51688	-117.13605	P	PPL	CA		1				3621		329	America/Edmonton	12/30/17
+5975034	High Prairie	High Prairie	Khaj Preri,ZHP,Ð¥Ð°Ñ˜ ÐŸÑ€ÐµÑ€Ð¸	55.4334	-116.4858	P	PPL	CA		1				2878		593	America/Edmonton	4/11/08
+5975038	High River	High River	Khaj River,Ð¥Ð°Ñ˜ Ð Ð¸Ð²ÐµÑ€	50.58341	-113.86867	P	PPL	CA		1				9826		1034	America/Edmonton	4/11/08
+5975503	Hinton	Hinton	Hinton,Khinton,YJP,Ð¥Ð¸Ð½Ñ‚Ð¾Ð½,ÛÙ†Ù¹Ù†ØŒ Ø§Ù„Ø¨Ø±Ù¹Ø§	53.40009	-117.58567	P	PPL	CA		1				9889		1022	America/Edmonton	9/22/13
+5976783	Hope	Hope	Goup,Hope,YHE,he pu,hwb,Ð“Ð¾ÑƒÐ¿,Ù‡ÙˆØ¨,åˆæ™®	49.38299	-121.44144	P	PPL	CA		2	5909			4598		45	America/Vancouver	7/2/16
+5977046	Hornepayne	Hornepayne	Hornepayne,YHN	49.21451	-84.77617	P	PPL	CA		8	3557			1050		330	America/Toronto	1/20/18
+5977783	Houston	Houston	Houston,ZHO	54.39976	-126.67008	P	PPL	CA		2				2884		590	America/Vancouver	7/6/13
+5978126	Hudson	Hudson		45.45008	-74.14922	P	PPL	CA		10	16	71100		5088		47	America/Toronto	6/22/16
+5978133	Hudson Bay	Hudson Bay	Hudson Bay,YHB	52.85003	-102.38425	P	PPL	CA		11				1661		375	America/Regina	7/2/16
+5978404	Humboldt	Humboldt	Khambolt,Ð¥Ð°Ð¼Ð±Ð¾Ð»Ñ‚	52.20005	-105.1255	P	PPL	CA		11				4822		568	America/Regina	4/11/08
+5978683	Huntingdon	Huntingdon		45.08339	-74.16593	P	PPL	CA		10	16			2865		48	America/Toronto	4/11/08
+5978765	Huntsville	Huntsville	Khantsvil,Khantsvill,hantsfyl,hantsubiru,heng ci wei er,Ð¥Ð°Ð½Ñ‚ÑÐ²Ð¸Ð»,Ð¥Ð°Ð½Ñ‚ÑÐ²Ð¸Ð»Ð»,Ù‡Ø§Ù†ØªØ³ÙÙŠÙ„,ãƒãƒ³ãƒ„ãƒ“ãƒ«,äº¨èŒ¨ç¶­çˆ¾	45.33341	-79.21632	P	PPL	CA		8				19579		302	America/Toronto	5/19/09
+5978831	Huron East	Huron East	Khjuron Ist,hwrn ayst,Ð¥Ñ˜ÑƒÑ€Ð¾Ð½ Ð˜ÑÑ‚,Ù‡ÙˆØ±Ù† Ø£ÙŠØ³Øª	43.61679	-81.29975	P	PPL	CA		8				9264		338	America/Toronto	5/5/13
+5982839	Indian Head	Indian Head		50.53336	-103.66775	P	PPL	CA		11				1642		588	America/Regina	4/11/08
+5983175	Ingersoll	Ingersoll	Ingersol,Ingersoll,XIB,anjrswl,Ð†Ð½Ð³ÐµÑ€ÑÐ¾Ð»Ð»,Ð˜Ð½Ð³ÐµÑ€ÑÐ¾Ð»,Ø¥Ù†Ø¬Ø±Ø³ÙˆÙ„	43.03339	-80.88302	P	PPL	CA		8				11874		293	America/Toronto	4/11/08
+5983433	Innisfil	Innisfil		44.30011	-79.64964	P	PPL	CA		8				7345		266	America/Toronto	1/22/06
+5983607	Inuvik	Inuvik	Inuvik,YEV,anwyk,inubig,inuvu~ikku,yin niu wei ke,Ä°nuvik,Ð˜Ð½ÑƒÐ²Ð¸Ðº,Ø§Ù†ÙˆØ¦Ú©,ã‚¤ãƒŒãƒ´ã‚£ãƒƒã‚¯,å› çº½ç»´å…‹,ì´ëˆ„ë¹…	68.34986	-133.72181	P	PPL	CA		13				3022		15	America/Inuvik	4/11/08
+5983626	Invermere	Invermere		50.51666	-116.03538	P	PPL	CA		2				2871		803	America/Edmonton	4/11/08
+5984000	Iroquois Falls	Iroquois Falls		48.76688	-80.68307	P	PPL	CA		8				4232		280	America/Toronto	4/11/08
+5984019	Irricana	Irricana		51.32372	-113.60475	P	PPL	CA		1				1091		931	America/Edmonton	4/11/08
+5987650	Joliette	Joliette	Joliette,XJL,Zhol'et,Zholijet,jwlyyt  kybk,zhwlyt,Ð–Ð¾Ð»Ð¸Ñ˜ÐµÑ‚,Ð–Ð¾Ð»ÑŒÑ”Ñ‚,Ø¬ÙˆÙ„ÙŠÙŠØªØŒ ÙƒÙŠØ¨Ùƒ,Ø¬ÙˆÙ„ÛŒÙ¹,Ú˜ÙˆÙ„ÛŒØª	46.0164	-73.4236	P	PPL	CA		10	14	61020		34772		57	America/Toronto	6/20/16
+5989045	Kamloops	Kamloops	Kamloops,Kamlups,YKA,kaimalupasa,kamlwbs,kamlwps,kamurupusu,kan lu pu si,ÐšÐ°Ð¼Ð»ÑƒÐ¿Ñ,×§××ž×œ×•×¤×¡,ÙƒØ§Ù…Ù„ÙˆØ¨Ø³,Ú©Ø§Ù…Ù„ÙˆÙ¾Ø³,à¨•à©ˆà¨®à¨²à©‚à¨ªà¨¸,ã‚«ãƒ ãƒ«ãƒ¼ãƒ—ã‚¹,åŽå¢æ™®æ–¯	50.66648	-120.3192	P	PPL	CA		2				68714		414	America/Vancouver	1/29/10
+5989068	Kamsack	Kamsack		51.56668	-101.90093	P	PPL	CA		11				1877		450	America/Regina	4/11/08
+5989403	Kapuskasing	Kapuskasing	Kapaskazing,Kapuskasing,Kapuskejsing,YYU,kabwskasyngh,ÐšÐ°Ð¿Ð°ÑÐºÐ°Ð·Ð¸Ð½Ð³,ÐšÐ°Ð¿ÑƒÑÐºÐµÐ¹ÑÑ–Ð½Ð³,ÐšÐ°Ð¿ÑƒÑÐºÐµÑ˜ÑÐ¸Ð½Ð³,ÐšÐ°Ð¿ÑŠÑÐºÐµÐ¹ÑÐ¸Ð½Ð³,ÙƒØ§Ø¨ÙˆØ³ÙƒØ§Ø³ÙŠÙ†Øº	49.41694	-82.43308	P	PPL	CA		8	3556			9240		219	America/Toronto	1/20/18
+5990579	Kelowna	Kelowna	Kelouna,Kelowna,YLW,ji long na,kellona,kerouna,klwna,kylwna,kylwwna,qlwnh,ÐšÐµÐ»Ð¾ÑƒÐ½Ð°,×§×œ×•× ×”,ÙƒÙŠÙ„ÙˆÙ†Ø§,Ú©Ù„ÙˆÙ†Ø§,Ú©ÛŒÙ„ÙˆÙˆÙ†Ø§,ã‚±ãƒ­ã‚¦ãƒŠ,åŸºéš†æ‹¿,ì¼ˆë¡œë‚˜	49.88307	-119.48568	P	PPL	CA		2				125109		350	America/Vancouver	2/19/11
+5991055	Kenora	Kenora	Kenora,YQK,ken nuo la,kenora,knwra,kynwra,ÐšÐµÐ½Ð¾Ñ€Ð°,ÙƒÙŠÙ†ÙˆØ±Ø§,Ú©Ù†ÙˆØ±Ø§,Ú©ÛŒÙ†ÙˆØ±Ø§,ã‚±ãƒŽãƒ¼ãƒ©,è‚¯è«¾æ‹‰	49.76741	-94.48985	P	PPL	CA		8	3560			15096		328	America/Winnipeg	1/20/18
+5991080	Kensington	Kensington		46.43343	-63.64871	P	PPL	CA		9				1424		33	America/Halifax	4/11/08
+5991148	Kentville	Kentville		45.0771	-64.49605	P	PPL	CA		7	1207			12636		15	America/Halifax	8/31/14
+5991284	Kerrobert	Kerrobert		51.91682	-109.13479	P	PPL	CA		11				1038		685	America/Regina	4/11/08
+5991888	Killam	Killam		52.78344	-111.85175	P	PPL	CA		1				1056		677	America/Edmonton	4/11/08
+5991907	Killarney	Killarney		49.18332	-99.66364	P	PPL	CA		3				2362		495	America/Winnipeg	4/11/08
+5992059	Kimberley	Kimberley	Gorad Kimberli,Kimberley,Kimberli,YQE,kymbyrly,Ð“Ð¾Ñ€Ð°Ð´ ÐšÑ–Ð¼Ð±ÐµÑ€Ð»Ñ–,ÐšÐ¸Ð¼Ð±ÐµÑ€Ð»Ð¸,ÙƒÙŠÙ…Ø¨ÙŠØ±Ù„ÙŠ,Ú©Ù…Ø¨Ø±Ù„Û’ØŒ Ø¨Ø±Ù¹Ø´ Ú©ÙˆÙ„Ù…Ø¨ÛŒØ§	49.67071	-115.9776	P	PPL	CA		2	5901			6513		1067	America/Edmonton	2/8/14
+5992144	Kincardine	Kincardine	Kincardine,Kinkardin,YKD,jin ka ding,kynkardyn,ÐšÐ¸Ð½ÐºÐ°Ñ€Ð´Ð¸Ð½,ÙƒÙŠÙ†ÙƒØ§Ø±Ø¯ÙŠÙ†,é‡‘å¡ä¸	44.18339	-81.63307	P	PPL	CA		8				6725		195	America/Toronto	11/9/15
+5992154	Kindersley	Kindersley	Kindersley,YKY	51.46681	-109.16818	P	PPL	CA		11				4249		689	America/Regina	9/22/13
+5992424	Kingsey Falls	Kingsey Falls		45.85007	-72.0658	P	PPL	CA		10	17	39097		1480		113	America/Toronto	2/23/16
+5992500	Kingston	Kingston	Cataraqui,Kingstan,Kingston,Kingstonas,Kingstun,YGK,jin si dun,jing shi dun,kingseuteon,kingusuton,kynghstwn,kyngstwn  antaryw,ÐšÐ¸Ð½Ð³ÑÑ‚Ð¾Ð½,ÐšÐ¸Ð½Ð³ÑÑ‚ÑŠÐ½,ÐšÑ–Ð½Ð³ÑÑ‚Ð°Ð½,ÐšÑ–Ð½Ð³ÑÑ‚Ð¾Ð½,ÙƒÙŠÙ†ØºØ³ØªÙˆÙ†,Ú©Ù†Ú¯Ø³Ù¹Ù†,Ú©Ù†Ú¯Ø³Ù¹Ù†ØŒ Ø§ÙˆÙ†Ù¹Ø§Ø±ÛŒÙˆ,Ú©ÛŒÙ†Ú¯Ø³ØªÙˆÙ†ØŒ Ø§Ù†ØªØ§Ø±ÛŒÙˆ,ã‚­ãƒ³ã‚°ã‚¹ãƒˆãƒ³,äº¬å£«é “,é‡‘æ–¯é¡¿,í‚¹ìŠ¤í„´	44.22976	-76.48098	P	PPL	CA		8				114195	70	83	America/Toronto	5/11/14
+5992830	Kirkland	Kirkland	Kirkland,krklnd  kbk,kyrkland  kybk,ÐšÐ¸Ñ€ÐºÐ»Ð°Ð½Ð´,ÙƒÙŠØ±ÙƒÙ„Ø§Ù†Ø¯ØŒ ÙƒÙŠØ¨Ùƒ,Ú©Ø±Ú©Ù„Ù†Ø¯ØŒ Ú©Ø¨Ú©,Ú©Ø±Ú©Ù„ÛŒÙ†Úˆ	45.45008	-73.86586	P	PPL	CA		10	6	66102		20491		36	America/Toronto	6/22/16
+5992836	Kirkland Lake	Kirkland Lake	Kirkland Lejk,YKX,keokeullaendeuleikeu,kyrkland lyk,ÐšÐ¸Ñ€ÐºÐ»Ð°Ð½Ð´ Ð›ÐµÑ˜Ðº,ÙƒÙŠØ±ÙƒÙ„Ø§Ù†Ø¯ Ù„ÙŠÙƒ,ì»¤í´ëžœë“œë ˆì´í¬	48.14461	-80.03767	P	PPL	CA		8				7775		321	America/Toronto	1/7/12
+5993072	Kitimat	Kitimat	kytymat,ÙƒÙŠØªÙŠÙ…Ø§Øª	54.05244	-128.65342	P	PPL	CA		2				8987		22	America/Vancouver	5/27/10
+5994763	Labelle	Labelle	Labelle	46.28339	-74.73255	P	PPL	CA		10	15	78120		1239		223	America/Toronto	6/22/16
+5994839	Labrador City	Labrador City	Urbs Estotilandiensis,la bu la duo shi,lbrdwr syty,×œ×‘×¨×“×•×¨ ×¡×™×˜×™,æ‹‰å¸ƒæ‹‰å¤šå¸‚	52.94626	-66.91137	P	PPL	CA		5				10313		555	America/Goose_Bay	9/17/08
+5994866	La Broquerie	La Broquerie		49.51688	-96.50029	P	PPL	CA		3				1073	268	280	America/Winnipeg	7/18/13
+6002133	Lac-Brome	Lac-Brome	Lac Brome	45.21678	-72.51581	P	PPL	CA		10	16	46075		5629		209	America/Toronto	6/22/16
+6014443	Lac du Bonnet	Lac du Bonnet		50.2536	-96.06116	P	PPL	CA		3				1134		261	America/Winnipeg	4/11/08
+6024829	Lachute	Lachute	Lashit,lashwt,lshwt,Ð›Ð°ÑˆÐ¸Ñ‚,Ù„Ø§Ø´ÙˆØª,Ù„Ø§Ú†ÙˆÙ¹,Ù„Ø´ÙˆØª	45.65008	-74.33253	P	PPL	CA		10	15	76020		9562		70	America/Toronto	6/22/16
+6028050	Lac La Biche	Lac La Biche	Lac La Biche,YLB,Ù„Ø§Ú© Ù„Ø§ Ø¨ÛŒÚ†ÛŒØŒ Ø§Ù„Ø¨Ø±Ù¹Ø§	54.7669	-111.96861	P	PPL	CA		1				2919		566	America/Edmonton	4/27/13
+6032673	Lac-MÃ©gantic	Lac-Megantic	Lac-Megantic,Lac-MÃ©gantic,Lak Megantik,lak mghantyk,lak-mgantyk  kbk,mei gan ti ke hu,Ð›Ð°Ðº ÐœÐµÐ³Ð°Ð½Ñ‚Ð¸Ðº,Ù„Ø§Ùƒ Ù…ØºØ§Ù†ØªÙŠÙƒ,Ù„Ø§Ú©-Ù…Ú¯Ø§Ù†ØªÛŒÚ©ØŒ Ú©Ø¨Ú©,Ù„ÛŒÚ© Ù…ÛŒÚ¯Ø§Ù†Ù¹Ú©,æ¢…å¹²æå…‹æ¹–	45.58338	-70.88234	P	PPL	CA		10	5	30030		4658		396	America/Toronto	6/22/16
+6035592	Lacolle	Lacolle		45.08338	-73.36585	P	PPL	CA		10	16	56023		1528		40	America/Toronto	6/22/16
+6035615	Lacombe	Lacombe	Lakom,la ke mu,lakwmb,lkwmb,Ð›Ð°ÐºÐ¾Ð¼,Ù„Ø§ÙƒÙˆÙ…Ø¨,Ù„Ø§Ú©ÙˆÙ…Ø¨ØŒ Ø§Ù„Ø¨Ø±Ù¹Ø§,Ù„Ú©ÙˆÙ…Ø¨,æ‹‰ç§‘å§†	52.46681	-113.7353	P	PPL	CA		1				10059		853	America/Edmonton	4/11/08
+6035664	La Conception	La Conception	La Conception	46.15009	-74.69925	P	PPL	CA		10	15	78115		1287		202	America/Toronto	6/22/16
+6047817	Ladysmith	Ladysmith	Ladysmith,Lejdismit,XEH,laydy smyth,lyydysmyt,Ð›ÐµÐ¹Ð´Ð¸ÑÐ¼Ð¸Ñ‚,×œ×™×™×“×™×¡×ž×™×ª,Ù„Ø§ÙŠØ¯ÙŠ Ø³Ù…ÙŠØ«	48.99016	-123.81699	P	PPL	CA		2	5919			8740		71	America/Vancouver	2/8/14
+6048316	Lake Cowichan	Lake Cowichan		48.82495	-124.05461	P	PPL	CA		2				2870		167	America/Vancouver	9/14/11
+6049024	Lambton Shores	Lambton Shores	Lamton Shors,Thedford,lmbtwn shwrys,Ð›Ð°Ð¼Ñ‚Ð¾Ð½ Ð¨Ð¾Ñ€Ñ,Ù„Ù…Ø¨ØªÙˆÙ† Ø´ÙˆØ±ÙŠØ³	43.16678	-81.93309	P	PPL	CA		8				10656		207	America/Toronto	5/5/13
+6049035	La Minerve	La Minerve	La Minerve	46.25009	-74.93257	P	PPL	CA		10	15			1234		280	America/Toronto	4/13/16
+6049046	Lamont	Lamont	Lamont,Ð›Ð°Ð¼Ð¾Ð½Ñ‚,Ù„Ø§Ù…ÙˆÙ†Ù¹ØŒ Ø§Ù„Ø¨Ø±Ù¹Ø§	53.76686	-112.80195	P	PPL	CA		1				1779		643	America/Edmonton	4/11/08
+6049379	Langenburg	Langenburg		50.84999	-101.71763	P	PPL	CA		11				1034		511	America/Regina	4/11/08
+6049388	Langford	Langford	Langford,XEJ,lan fu de,langhfwrd,lngfwrd,Ð›Ð°Ð½Ð³Ñ„Ð¾Ñ€Ð´,Ù„Ø§Ù†ØºÙÙˆØ±Ø¯,Ù„Ù†Ú¯ÙÙˆØ±Ø¯,è˜­ç¦å¾·	48.44963	-123.50261	P	PPL	CA		2				22459		80	America/Vancouver	2/8/14
+6049403	Langham	Langham		52.3668	-106.96793	P	PPL	CA		11				1070		512	America/Regina	4/11/08
+6049429	Langley	Langley	Ciudad de Langley,Langley,Langley  British Columbia,Langli,YLY,laeng-geulli,lan li shi,langhly  kwlwmbya albrytanyt,lyngly,ranguri,Ð›Ð°Ð½Ð³Ð»Ð¸,Ù„Ø§Ù†ØºÙ„ÙŠØŒ ÙƒÙˆÙ„ÙˆÙ…Ø¨ÙŠØ§ Ø§Ù„Ø¨Ø±ÙŠØ·Ø§Ù†ÙŠØ©,Ù„ÛŒÙ†Ú¯Ù„ÛŒ,ãƒ©ãƒ³ã‚°ãƒªãƒ¼,è˜­é‡Œå¸‚,ëž­ê¸€ë¦¬	49.10107	-122.65883	P	PPL	CA		2				23606		13	America/Vancouver	6/1/13
+6049515	Lanigan	Lanigan		51.85006	-105.03443	P	PPL	CA		11				1204		534	America/Regina	4/11/08
+6049537	Lanoraie	Lanoraie	Lanoraie	45.96677	-73.21585	P	PPL	CA		10	14	52017		4447		13	America/Toronto	6/22/16
+6049863	La Prairie	La Prairie	La Preri,la bryry,la prry  kbk,Ð›Ð° ÐŸÑ€ÐµÑ€Ð¸,Ù„Ø§ Ø¨Ø±ÙŠØ±ÙŠ,Ù„Ø§ Ù¾Ø±Ø±ÛŒØŒ Ú©Ø¨Ú©	45.41678	-73.49917	P	PPL	CA		10	16	67015		21763		8	America/Toronto	6/22/16
+6050066	La Ronge	La Ronge	La Rondzh,La Ronge,YVC,Ð›Ð° Ð Ð¾Ð½Ð´Ð¶	55.10013	-105.28422	P	PPL	CA		11				3071		360	America/Regina	12/30/17
+6050194	La Sarre	La Sarre	La Sar,La Sarre,La-Sar,SSQ,la sar  kbk,la sary,Ð›Ð° Ð¡Ð°Ñ€,Ð›Ð°-Ð¡Ð°Ñ€,Ù„Ø§ Ø³Ø§Ø±ØŒ Ú©Ø¨Ú©,Ù„Ø§ Ø³Ø§Ø±ÙŠ	48.80019	-79.19964	P	PPL	CA		10	8	87090		7206		269	America/Toronto	6/22/16
+6050263	L'Assomption	L'Assomption		45.82318	-73.4294	P	PPL	CA		10	14	60028		16738		13	America/Toronto	6/22/16
+6050416	La Tuque	La Tuque	La Tik,La Tuque,La-Tjuk,YLQ,la tu ke,latak,latwk,Ð›Ð° Ð¢Ð¸Ðº,Ð›Ð°-Ð¢ÑŽÐº,Ù„Ø§ØªØ§Ùƒ,Ù„Ø§ØªÙˆÚ©,æ‹‰åœ–å…‹	47.43337	-72.7824	P	PPL	CA		10	4	90012		9503		165	America/Toronto	6/7/18
+6050610	Laval	Laval	Gorad Laval',Laval,Laval',Lavalis,Lavalo,la wa lei,lafal,lawal  kbk,lawl,ravu~aru,Î›Î±Î²Î¬Î»,Ð“Ð¾Ñ€Ð°Ð´ Ð›Ð°Ð²Ð°Ð»ÑŒ,Ð›Ð°Ð²Ð°Ð»,Ð›Ð°Ð²Ð°Ð»ÑŒ,×œ××•×•××œ,Ù„Ø§ÙØ§Ù„,Ù„Ø§ÙˆØ§Ù„ØŒ Ú©Ø¨Ú©,Ù„Ø§ÙˆÙ„,ãƒ©ãƒ´ã‚¡ãƒ«,æ‹‰ç“¦å‹’	45.56995	-73.692	P	PPL	CA		10	13	65005		376845		34	America/Toronto	6/22/16
+6050650	Lavaltrie	Lavaltrie	Lavaltrie	45.88338	-73.28245	P	PPL	CA		10	14			8762		21	America/Toronto	4/12/16
+6051264	Lebel-sur-QuÃ©villon	Lebel-sur-Quevillon	Lebel-sur-Quevillon,Lebel-sur-QuÃ©villon,YLS	49.05018	-76.98273	P	PPL	CA		10	10	99005		3289		281	America/Toronto	6/22/16
+6051562	Leduc	Leduc	Leduk,lei du ke,lideog,lwdwk,lydwk,Ð›ÐµÐ´ÑƒÐº,Ù„ÙˆØ¯ÙˆÚ©,Ù„ÙŠØ¯ÙˆÙƒ,Ù„ÛŒÚˆÚ©ØŒ Ø§Ù„Ø¨Ø±Ù¹Ø§,å‹’æœå…‹,ë¦¬ë•	53.26682	-113.55201	P	PPL	CA		1				15561		728	America/Edmonton	4/11/08
+6052583	L'Ã‰piphanie	L'Epiphanie		45.85008	-73.48246	P	PPL	CA		10	14	60035		4606		21	America/Toronto	6/22/16
+6052773	Les CÃ¨dres	Les Cedres		45.30008	-74.04922	P	PPL	CA		10	16	71050		1434		30	America/Toronto	6/22/16
+6052788	Les Coteaux	Les Coteaux		45.28338	-74.23254	P	PPL	CA		10	16	71033		10622		44	America/Toronto	6/22/16
+6053154	Lethbridge	Lethbridge	Letbric,Letbridz,Letbridzas,Letbridzh,LetbridÅ¾as,Lethbridge,YQL,lai si bu li qi,leseubeuliji,ltbrydg,lythbrydj,resuburijji,Ð›ÐµÑ‚Ð±Ñ€Ð¸Ð´Ð¶,Ð›ÐµÑ‚Ð±Ñ€Ð¸ÑŸ,×œ×ª×‘×¨×™×“×’,Ù„Ø«â€ŒØ¨Ø±ÛŒØ¬,Ù„ÙŠØ«Ø¨Ø±ÙŠØ¯Ø¬,Ù„ÛŒØªÚ¾ Ø¨Ø±Ø¬,Ù„ÛŒØªÚ¾Ø¨Ø±ÛŒØ¬,ãƒ¬ã‚¹ãƒ–ãƒªãƒƒã‚¸,èŠæ–¯å¸ƒé‡Œå¥‡,ë ˆìŠ¤ë¸Œë¦¬ì§€	49.69999	-112.81856	P	PPL	CA		1				70617		907	America/Edmonton	4/11/08
+6053446	Lewisporte	Lewisporte		49.24993	-55.04816	P	PPL	CA		5				2935		-9999	America/St_Johns	4/11/08
+6053877	L'ÃŽle-Perrot	L'Ile-Perrot	L'Ile Perrot	45.38338	-73.9492	P	PPL	CA		10	16	71060		9927		49	America/Toronto	6/22/16
+6054578	Lions Bay	Lions Bay		49.45218	-123.2376	P	PPL	CA		2	5915			1385		66	America/Vancouver	9/24/13
+6055388	Little Current	Little Current		45.97927	-81.9248	P	PPL	CA		8				2156		190	America/Toronto	12/30/11
+6058415	Logan Lake	Logan Lake		50.49976	-120.80253	P	PPL	CA		2				2190		1136	America/Vancouver	4/11/08
+6058560	London	London	Landona,London,Londonas,Londono,YXU,leondeon,lndn,lndn  antaryw,londoni,lun dui,lun dun,lwndwn,rondon,Ð›Ð¾Ð½Ð´Ð¾Ð½,×œ×•× ×“×•×Ÿ,Ù„Ù†Ø¯Ù†,Ù„Ù†Ø¯Ù†ØŒ Ø§Ù†ØªØ§Ø±ÛŒÙˆ,Ù„Ù†Ø¯Ù†ØŒ Ø§ÙˆÙ†Ù¹Ø§Ø±ÛŒÙˆ,áƒšáƒáƒœáƒ“áƒáƒœáƒ˜,ãƒ­ãƒ³ãƒ‰ãƒ³,ä¼¦æ•¦,ëŸ°ë˜	42.98339	-81.23304	P	PPL	CA		8				346765		252	America/Toronto	8/19/12
+6059891	Longueuil	Longueuil	Gorad Langjoj,Long'oj,Longej,Longejlo,Longjoj,Longueuil,lang ji er,long-goei,lwnghwy,lwngwl,lwngwy,rongeru,Ð“Ð¾Ñ€Ð°Ð´ Ð›Ð°Ð½Ð³Ñ‘Ð¹,Ð›Ð¾Ð½Ð³ÐµÑ˜,Ð›Ð¾Ð½Ð³ÑŒÐ¾Ð¹,Ð›Ð¾Ð½Ð³Ñ‘Ð¹,Ù„ÙˆÙ†ØºÙˆÙŠ,Ù„ÙˆÙ†Ú¯Ø¤Ù„,Ù„ÙˆÙ†Ú¯ÙˆÛŒ,ãƒ­ãƒ³ã‚²ãƒ¼ãƒ«,æœ—åŸºçˆ¾,ë¡±ê´´ì´	45.53121	-73.51806	P	PPL	CA		10	16	58227		229330		18	America/Toronto	6/22/16
+6060407	Lorraine	Lorraine		45.68338	-73.78249	P	PPL	CA		10	14	64008		9613		64	America/Toronto	6/22/16
+6060839	Louiseville	Louiseville	Luivil,lwyyzwyl  kbk,lwyzfyl,Ð›ÑƒÐ¸Ð²Ð¸Ð»,Ù„Ø§Ø¤Ø³ÙˆÙ„Û’,Ù„ÙˆÙŠØ²ÙÙŠÙ„,Ù„ÙˆÛŒÛŒØ²ÙˆÛŒÙ„ØŒ Ú©Ø¨Ú©	46.25594	-72.94145	P	PPL	CA		10	4	51015		5819		17	America/Toronto	2/24/16
+6061958	Lumby	Lumby		50.24979	-118.96904	P	PPL	CA		2				1625		516	America/Vancouver	4/11/08
+6061979	Lumsden	Lumsden		50.65009	-104.86783	P	PPL	CA		11				1477		496	America/Regina	4/11/08
+6062069	Lunenburg	Lunenburg	Lunenberg,Lunenburg,Lunenburq,Lunnenburg,lannbwrg  nwa askwshya,lu nen bao,lunenburgi,lwnnbwrg,mdynt wnynbwrj,runenbagu,Ð›ÑƒÐ½ÐµÐ½Ð±ÐµÑ€Ð³,Ð›ÑƒÐ½ÐµÐ½Ð±ÑƒÑ€Ð³,×œ×•× × ×‘×•×¨×’,Ù„Ø§Ù†Ù†Ø¨ÙˆØ±Ú¯ØŒ Ù†ÙˆØ§ Ø§Ø³Ú©ÙˆØ´ÛŒØ§,Ù…Ø¯ÙŠÙ†Ø© ÙˆÙ†ÙŠÙ†Ø¨ÙˆØ±Ø¬,áƒšáƒ£áƒœáƒ”áƒœáƒ‘áƒ£áƒ áƒ’áƒ˜,ãƒ«ãƒ¼ãƒãƒ³ãƒãƒ¼ã‚°,ç›§å«©å ¡	44.37847	-64.31658	P	PPL	CA		7				2473		10	America/Halifax	2/12/15
+6062163	Lutes Mountain	Lutes Mountain	Ljut Mauntin,Ð›ÑŽÑ‚ ÐœÐ°ÑƒÐ½Ñ‚Ð¸Ð½	46.13544	-64.90504	P	PPL	CA		4				16311		133	America/Moncton	6/29/16
+6062563	Macamic	Macamic		48.75018	-78.99962	P	PPL	CA		10	8	87058		1559		283	America/Toronto	6/22/16
+6063429	Macklin	Macklin		52.33344	-109.93484	P	PPL	CA		11				1257		674	America/Regina	4/11/08
+6064180	Magog	Magog	Magog,Mejgog,maghwgh  kybk,magogu,magwg,magwg  kbk,mygwg  kywbyk,ÐœÐ°Ð³Ð¾Ð³,ÐœÐµÐ¹Ð³Ð¾Ð³,Ù…Ø§ØºÙˆØºØŒ ÙƒÙŠØ¨Ùƒ,Ù…Ø§Ú¯ÙˆÚ¯,Ù…Ø§Ú¯ÙˆÚ¯ØŒ Ú©Ø¨Ú©,Ù…ÛŒÚ¯ÙˆÚ¯ØŒ Ú©ÛŒÙˆØ¨ÛŒÚ©,ãƒžã‚´ã‚°	45.26678	-72.14909	P	PPL	CA		10	5	45072		15550		220	America/Toronto	5/16/16
+6064202	Magrath	Magrath	Magro,ÐœÐ°Ð³Ñ€Ð¾	49.41668	-112.86856	P	PPL	CA		1				2095		980	America/Edmonton	4/11/08
+6064704	Malartic	Malartic		48.13348	-78.13283	P	PPL	CA		10	8			3710		324	America/Toronto	4/11/08
+6065088	Mandeville	Mandeville	Mandeville	46.36677	-73.34915	P	PPL	CA		10	14	52095		2043		188	America/Toronto	6/22/16
+6065262	Maniwaki	Maniwaki	Manivaki,Maniwaki,YMW,manywaky,manywaky  kbk,ÐœÐ°Ð½Ð¸Ð²Ð°ÐºÐ¸,Ù…Ø§Ù†ÙŠÙˆØ§ÙƒÙŠ,Ù…Ø§Ù†ÛŒÙˆØ§Ú©ÛŒ,Ù…Ø§Ù†ÛŒÙˆØ§Ú©ÛŒØŒ Ú©Ø¨Ú©	46.38341	-75.96605	P	PPL	CA		10	7	83065		4236		162	America/Toronto	10/30/16
+6065306	Manning	Manning	Mening,ÐœÐµÐ½Ð¸Ð½Ð³	56.91683	-117.61945	P	PPL	CA		1				1359		475	America/Edmonton	4/11/08
+6065592	Maple Creek	Maple Creek		49.91678	-109.48481	P	PPL	CA		11				2121		759	America/Regina	4/11/08
+6065686	Maple Ridge	Maple Ridge	Mehpl-Ridzh,feng shu ling,mabl rydj,meipeulliji,meipururijji,ÐœÑÐ¿Ð»-Ð Ð¸Ð´Ð¶,Ù…Ø§Ø¨Ù„ Ø±ÙŠØ¯Ø¬,ãƒ¡ã‚¤ãƒ—ãƒ«ãƒªãƒƒã‚¸,æ¥“æ¨¹å¶º,ë©”ì´í”Œë¦¬ì§€	49.21939	-122.60193	P	PPL	CA		2				70000		42	America/Vancouver	2/27/10
+6065867	Marathon	Marathon	Marafon,Maraton,YSP,ÐœÐ°Ñ€Ð°Ñ‚Ð¾Ð½,ÐœÐ°Ñ€Ð°Ñ„Ð¾Ð½,Ù…ÛŒØ±Ø§ØªÚ¾Ù†ØŒ Ø§ÙˆÙ†Ù¹Ø§Ø±ÛŒÙˆ	48.7501	-86.43322	P	PPL	CA		8				4627		179	America/Toronto	4/11/08
+6066350	Marieville	Marieville	Marieville	45.43338	-73.16585	P	PPL	CA		10	16	55048		5600		34	America/Toronto	4/13/16
+6066513	Markham	Markham	Markam,Markem,Markhamo,Markum,makamu,markam,markam  antaryw,wan jin shi,ÐœÐ°Ñ€ÐºÐ°Ð¼,ÐœÐ°Ñ€ÐºÐµÐ¼,ÐœÐ°Ñ€ÐºÑŠÐ¼,Ù…Ø§Ø±ÙƒØ§Ù…,Ù…Ø§Ø±Ú©Ø§Ù…ØŒ Ø§Ù†ØªØ§Ø±ÛŒÙˆ,Ù…Ø§Ø±Ú©Ú¾Ù…ØŒ Ø§Ù†Ù¹Ø§Ø±ÛŒÙˆ,ãƒžãƒ¼ã‚«ãƒ ,è¬éŒ¦å¸‚	43.86682	-79.2663	P	PPL	CA		8				261573		168	America/Toronto	12/30/11
+6067033	Martensville	Martensville		52.28339	-106.66792	P	PPL	CA		11				4078		513	America/Regina	4/11/08
+6067472	Marystown	Marystown		47.16663	-55.14829	P	PPL	CA		5				4558		17	America/St_Johns	4/11/08
+6067494	Mascouche	Mascouche	Maskush,maskwch,maskwsh,maskwsh  kybk,ÐœÐ°ÑÐºÑƒÑˆ,Ù…Ø§Ø³ÙƒÙˆØ´ØŒ ÙƒÙŠØ¨Ùƒ,Ù…Ø§Ø³Ú©ÙˆØ´,Ù…Ø§Ø³Ú©ÙˆÚ†	45.74965	-73.59956	P	PPL	CA		10	14	64015		34626		17	America/Toronto	6/22/16
+6067547	MaskinongÃ©	Maskinonge		46.2286	-73.01917	P	PPL	CA		10	4	51008		1105		14	America/Toronto	2/24/16
+6067747	Matagami	Matagami	Matagami,YNM,matagamy,mataghamy,ÐœÐ°Ñ‚Ð°Ð³Ð°Ð¼Ð¸,Ù…Ø§ØªØ§ØºØ§Ù…ÙŠ,Ù…Ø§ØªØ§Ú¯Ø§Ù…ÛŒ,Ù…Ø§Ù¹Ø§Ú¯Ø§Ù…ÛŒ	49.75018	-77.63277	P	PPL	CA		10	10	99015		1966		257	America/Toronto	6/22/16
+6067959	Mattawa	Mattawa	Matava,ÐœÐ°Ñ‚Ð°Ð²Ð°	46.31681	-78.69957	P	PPL	CA		8				2415		161	America/Toronto	4/11/08
+6068315	Mayerthorpe	Mayerthorpe		53.95015	-115.13547	P	PPL	CA		1				1651		716	America/Edmonton	4/11/08
+6071421	Meadow Lake	Meadow Lake	Meadow Lake,Medou Lejk,YLJ,medoureiku,ÐœÐµÐ´Ð¾Ñƒ Ð›ÐµÑ˜Ðº,ãƒ¡ãƒ‰ã‚¦ãƒ¬ã‚¤ã‚¯	54.13348	-108.43471	P	PPL	CA		11				4281		480	America/Regina	7/2/16
+6071618	Medicine Hat	Medicine Hat	Medicine Hat,Medikan Hat,Medisin Hetas,Medisin Khat,Medisin-Get,Medisin-Khat,YXH,mdsyn hat,mdysyn ht,mei di xin ha te,ÐœÐµÐ´Ð¸ÑÐ¸Ð½ Ð¥Ð°Ñ‚,ÐœÐµÐ´Ð¸ÑÐ¸Ð½-Ð“ÐµÑ‚,ÐœÐµÐ´Ð¸ÑÐ¸Ð½-Ð¥Ð°Ñ‚,Ù…Ø¯Ø³ÙŠÙ† Ù‡Ø§Øª,Ù…Ø¯ÛŒØ³ÛŒÙ† Ù‡Øª,Ù…ÛŒÚˆÛŒØ³Ù† ÛÛŒÙ¹,æ¢…è¿ªè¾›å“ˆç‰¹	50.03928	-110.67661	P	PPL	CA		1				63138		673	America/Edmonton	4/2/16
+6071876	Melfort	Melfort	Melfort,ÐœÐµÐ»Ñ„Ð¾Ñ€Ñ‚	52.86673	-104.61768	P	PPL	CA		11				5410		457	America/Regina	4/11/08
+6071900	Melita	Melita	Melita,ÐœÐµÐ»Ð¸Ñ‚Ð°	49.26811	-100.99669	P	PPL	CA		3				1167		443	America/Winnipeg	4/11/08
+6071971	Melville	Melville	Melvil,Melvill,ÐœÐµÐ»Ð²Ð¸Ð»,ÐœÐµÐ»Ð²Ð¸Ð»Ð»,ÐœÐµÐ»Ð²Ñ–Ð»Ð»	50.91671	-102.80099	P	PPL	CA		11				4279		549	America/Regina	4/11/08
+6072206	Mercier	Mercier		45.31678	-73.74919	P	PPL	CA		10	16	67045		10121		47	America/Toronto	6/22/16
+6072350	Merritt	Merritt	Merit,YMB,myryt,ÐœÐµÑ€Ð¸Ñ‚,Ù…ÙŠØ±ÙŠØª,Ù…ÛŒØ±ÛŒÙ¹ØŒ Ø¨Ø±Ù¹Ø´ Ú©ÙˆÙ„Ù…Ø¨ÛŒØ§	50.11225	-120.7942	P	PPL	CA		2				7179		593	America/Vancouver	4/11/08
+6072482	Metchosin	Metchosin		48.38293	-123.53591	P	PPL	CA		2				4803		49	America/Vancouver	5/5/13
+6073289	Middleton	Middleton	Am Baile Meadhanach,mydltwn,Ù…ÛŒØ¯Ù„ØªÙˆÙ†	44.94284	-65.07022	P	PPL	CA		7				1680		20	America/Halifax	11/23/14
+6073363	Midland	Midland	Midland,mei de lan,mydland,mydlnd  antaryw,ÐœÐ¸Ð´Ð»Ð°Ð½Ð´,ÐœÑ–Ð´Ð»Ð°Ð½Ð´,Ù…ÙŠØ¯Ù„Ø§Ù†Ø¯,Ù…ÛŒØ¯Ù„Ù†Ø¯ØŒ Ø§Ù†ØªØ§Ø±ÛŒÙˆ,ç¾Žå¾·å…°	44.7501	-79.88296	P	PPL	CA		8				31502		195	America/Toronto	1/22/06
+6074099	Millet	Millet		53.10013	-113.4687	P	PPL	CA		1				2142		753	America/Edmonton	4/11/08
+6074882	Minnedosa	Minnedosa	Minedosa,ÐœÐ¸Ð½ÐµÐ´Ð¾ÑÐ°	50.24532	-99.84364	P	PPL	CA		3				2526		516	America/Winnipeg	4/11/08
+6075061	Mirabel	Mirabel	Mirabel,Mirabel',myrabl  kbk,myrabyl  kybk,ÐœÐ¸Ñ€Ð°Ð±ÐµÐ»,ÐœÐ¸Ñ€Ð°Ð±ÐµÐ»ÑŒ,Ù…ÙŠØ±Ø§Ø¨ÙŠÙ„ØŒ ÙƒÙŠØ¨Ùƒ,Ù…ÛŒØ±Ø§Ø¨Ù„ØŒ Ú©Ø¨Ú©	45.65008	-74.08251	P	PPL	CA		10	15	74005		34626		70	America/Toronto	6/22/16
+6075081	Miramichi	Miramichi	Miramichi,Miramishi,YCH,ÐœÐ¸Ñ€Ð°Ð¼Ð¸ÑˆÐ¸,ÐœÑ–Ñ€Ð°Ð¼Ñ–Ñ‡Ñ–,Ù…ÛŒØ±Ø§Ù…Ú†Ú¾ÛŒ	47.02895	-65.50186	P	PPL	CA		4	1309			18129		18	America/Moncton	8/10/13
+6075357	Mississauga	Mississauga	Misisaga,Misisoga,Misisogo,Missisoga,Mississauga,Mississoga,mi xi sha jia,mishisaga,misisaga,misisogeo,mss saga,mssaga,mysysaga,mysysagha,mysyswgh,mysyswja,ÐœÐ¸ÑÐ¸ÑÐ°Ð³Ð°,ÐœÐ¸ÑÐ¸ÑÐ¾Ð³Ð°,ÐœÐ¸ÑÑÐ¸ÑÑÐ¾Ð³Ð°,ÐœÑ–ÑÑÑ–ÑÐ¾Ð³Ð°,×ž×™×¡×™×¡×•×’×”,Ù…Ø³Ø³ Ø³Ø§Ú¯Ø§,Ù…Ø³Ø³Ø§Ú¯Ø§,Ù…ÙŠØ³ÙŠØ³Ø§ØºØ§,Ù…ÙŠØ³ÙŠØ³ÙˆØ¬Ø§,Ù…ÛŒØ³ÛŒØ³Ø§Ú¯Ø§,à¤®à¤¿à¤¸à¤¿à¤¸à¤¾à¤—à¤¾,à¨®à¨¿à¨¸à©€à¨¸à¨¾à¨—à¨¾,à¶¸à·’à·ƒà·’à·ƒà·à¶œà·,ãƒŸã‚·ã‚µã‚¬,å¯†è¥¿æ²™åŠ ,ë¯¸ì‹œì†Œê±°	43.5789	-79.6583	P	PPL	CA		8				668549		159	America/Toronto	7/1/12
+6076211	Moncton	Moncton	Mon'kton,Moncton,Monkton,Monktonas,Monktono,YQM,meng ke dun,meongkeuteon,monkuton,mwnktwn,mwnqtwn,mx ngk tan,ÎœÏŒÎ½ÎºÏ„Î¿Î½,ÐœÐ¾Ð½ÐºÑ‚Ð¾Ð½,×ž×•× ×§×˜×•×Ÿ,Ù…Ø§Ù†Ú©Ù¹Ù†,Ù…ÙˆÙ†ÙƒØªÙˆÙ†,Ù…ÙˆÙ†Ú©ØªÙˆÙ†,Ù…ÙˆÙ†Ú©Ù¹ÙˆÙ†,à¸¡à¸­à¸‡à¸à¹Œà¸•à¸±à¸™,ãƒ¢ãƒ³ã‚¯ãƒˆãƒ³,è’™å…‹é¡¿,ë©í¬í„´	46.09454	-64.7965	P	PPL	CA		4	1307			87467		30	America/Moncton	8/29/15
+6076690	Montague	Montague	Montagju,ÐœÐ¾Ð½Ñ‚Ð°Ð³Ñ˜Ñƒ	46.16681	-62.64866	P	PPL	CA		9				2005		11	America/Halifax	4/11/08
+6077128	Mont-Laurier	Mont-Laurier	Mon Lorje,Mon-Lor'e,Mont-Laurier,mwn-lwryh,mwnt lwryl,ÐœÐ¾Ð½ Ð›Ð¾Ñ€Ñ˜Ðµ,ÐœÐ¾Ð½-Ð›Ð¾Ñ€ÑŒÑ”,Ù…ÙˆÙ†-Ù„ÙˆØ±ÛŒÙ‡,Ù…ÙˆÙ†Øª Ù„ÙˆØ±ÙŠÙ„	46.55011	-75.4993	P	PPL	CA		10	15	79088		13405		226	America/Toronto	6/22/16
+6077251	MontrÃ©al-Est	Montreal-Est	Montreal East,Montreal-Est,MontrÃ©al-Est	45.63202	-73.5075	P	PPL	CA		10	6	66007		3822		12	America/Toronto	6/22/16
+6077265	MontrÃ©al-Ouest	Montreal-Ouest	Montreal West	45.45286	-73.64918	P	PPL	CA		10				5184		48	America/Toronto	9/23/10
+6077315	Mont-Royal	Mont-Royal	Mon Roajal,Mount Royal,mwn rwyal  kbk,mwnt rwyal,ÐœÐ¾Ð½ Ð Ð¾Ð°Ñ˜Ð°Ð»,Ù…ÙˆÙ† Ø±ÙˆÛŒØ§Ù„ØŒ Ú©Ø¨Ú©,Ù…ÙˆÙ†Øª Ø±ÙˆÙŠØ§Ù„	45.51675	-73.64918	P	PPL	CA		10	6	66072		18933		47	America/Toronto	6/22/16
+6077338	Mont-Saint-GrÃ©goire	Mont-Saint-Gregoire	Mont-Saint-Gregoire,Mont-Saint-GrÃ©goire	45.33338	-73.16585	P	PPL	CA		10	16	56097		3086		40	America/Toronto	2/1/17
+6077340	Mont-Saint-Hilaire	Mont-Saint-Hilaire	Mon Sent Iler,mwn-sn-aylr  kbk,mwnt san hylyr,ÐœÐ¾Ð½ Ð¡ÐµÐ½Ñ‚ Ð˜Ð»ÐµÑ€,Ù…ÙˆÙ†-Ø³Ù†-Ø§ÛŒÙ„Ø±ØŒ Ú©Ø¨Ú©,Ù…ÙˆÙ†Øª Ø³Ø§Ù† Ù‡ÙŠÙ„ÙŠØ±	45.56515	-73.1868	P	PPL	CA		10	16	57035		15720		39	America/Toronto	1/31/17
+6077445	Mont-Tremblant	Mont-Tremblant	Mon Tramblan,Mon-Tramblan,Mont-Tremblant,YTM,montoranburan,mwn-trwmblan  kbk,mwnt trymblant  kybk,ÐœÐ¾Ð½ Ð¢Ñ€Ð°Ð¼Ð±Ð»Ð°Ð½,ÐœÐ¾Ð½-Ð¢Ñ€Ð°Ð¼Ð±Ð»Ð°Ð½,Ù…ÙˆÙ†-ØªØ±ÙˆÙ…Ø¨Ù„Ø§Ù†ØŒ Ú©Ø¨Ú©,Ù…ÙˆÙ†Øª ØªØ±ÙŠÙ…Ø¨Ù„Ø§Ù†ØªØŒ ÙƒÙŠØ¨Ùƒ,ãƒ¢ãƒ³ãƒˆãƒ©ãƒ³ãƒ–ãƒ©ãƒ³	46.21274	-74.58438	P	PPL	CA		10	15			8892		257	America/Toronto	8/17/13
+6078112	Moose Jaw	Moose Jaw	Moose Jaw,Mus DZo,Mus Dzo,Mus-Dzho,Muus-dzho,MÅ«s DÅ¾o,YMJ,mu si qiao,museujo,mwsjaw,ÐœÑƒÑ ÐÐ¾,ÐœÑƒÑ-Ð”Ð¶Ð¾,ÐœÑƒÑƒÑ-Ð´Ð¶Ð¾,Ù…ÙˆØ³Ø¬Ø§Ùˆ,ç©†æ–¯ä¹”,ë¬´ìŠ¤ì¡°	50.40005	-105.53445	P	PPL	CA		11				32166		552	America/Regina	9/22/13
+6078359	Moosomin	Moosomin		50.13332	-101.66766	P	PPL	CA		11				2206		581	America/Regina	4/11/08
+6078447	Morden	Morden	Morden,ÐœÐ¾Ñ€Ð´ÐµÐ½,Ù…ÙˆØ±ÚˆÙ†ØŒ Ù…ÛŒÙ†ÛŒ Ù¹ÙˆØ¨Ø§	49.1919	-98.10136	P	PPL	CA		3				6395		306	America/Winnipeg	4/11/08
+6078607	Morin-Heights	Morin-Heights	Morin-Heights	45.90009	-74.24922	P	PPL	CA		10	15			3925		240	America/Toronto	4/12/16
+6078636	Morinville	Morinville		53.80014	-113.65203	P	PPL	CA		1				8108		701	America/Edmonton	4/11/08
+6078727	Morris	Morris		49.35499	-97.36567	P	PPL	CA		3				1742		236	America/Winnipeg	4/11/08
+6078737	Morrisburg	Morrisburg		44.9001	-75.18261	P	PPL	CA		8				3014		77	America/Toronto	6/28/17
+6082231	Mount Pearl	Mount Pearl		47.51659	-52.78135	P	PPL	CA		5				24671		109	America/St_Johns	9/22/10
+6085444	Nackawic	Nackawic	Nakavik,ÐÐ°ÐºÐ°Ð²Ð¸Ðº	45.99666	-67.24028	P	PPL	CA		4				1009		70	America/Moncton	8/21/12
+6085665	Nakusp	Nakusp		50.24987	-117.80226	P	PPL	CA		2				1706		484	America/Vancouver	4/11/08
+6085772	Nanaimo	Nanaimo	Nanaimo,Nanajmo,YCD,na nai mo,nanaimo,nanaymw,nanaymw  brytysh klmbya,nanyamw ay,nnayymw,ÐÐ°Ð½Ð°Ð¹Ð¼Ð¾,ÐÐ°Ð½Ð°Ñ˜Ð¼Ð¾,Ù†Ø§Ù†Ø§Ø¦Ù…Ùˆ,Ù†Ø§Ù†Ø§ÛŒÙ…Ùˆ,Ù†Ø§Ù†Ø§ÛŒÙ…ÙˆØŒ Ø¨Ø±ÛŒØªÛŒØ´ Ú©Ù„Ù…Ø¨ÛŒØ§,Ù†Ø§Ù†ÙŠØ§Ù…Ùˆ Ø¥ÙŠ,Ù†Ù†Ø§Ø¦ÛŒÙ…Ùˆ,ãƒŠãƒŠã‚¤ãƒ¢,çº³å¥ˆèŽ«,ë‚˜ë‚˜ì´ëª¨	49.16638	-123.94003	P	PPL	CA		2				84905		16	America/Vancouver	6/23/13
+6085892	Nanton	Nanton		50.35008	-113.76866	P	PPL	CA		1				1936		1019	America/Edmonton	4/11/08
+6085960	Napierville	Napierville	Napierville	45.18648	-73.40468	P	PPL	CA		10	16	68030		3124		57	America/Toronto	6/22/16
+6086590	Neebing	Neebing		48.1668	-89.41683	P	PPL	CA		8				1986		234	America/Toronto	5/5/13
+6086673	Neepawa	Neepawa		50.22892	-99.46642	P	PPL	CA		3				3151		374	America/Winnipeg	4/11/08
+6086871	Nelson	Nelson	Nel'son,Nelson,neruson,nylswn,ÐÐµÐ»ÑÐ¾Ð½,ÐÐµÐ»ÑŒÑÐ¾Ð½,Ù†ÙŠÙ„Ø³ÙˆÙ†,Ù†ÛŒÙ„Ø³Ù†ØŒ Ø¨Ø±Ù¹Ø´ Ú©ÙˆÙ„Ù…Ø¨ÛŒØ§,ãƒãƒ«ã‚½ãƒ³	49.49985	-117.28553	P	PPL	CA		2				9813		541	America/Vancouver	2/20/12
+6087029	Nepean	Nepean	Nepin,ÐÐµÐ¿Ð¸Ð½	45.35215	-75.73975	P	PPL	CA		8				180000		102	America/Toronto	11/14/17
+6087579	New Glasgow	New Glasgow	Glaschu Ur,Glaschu Ã™r,Glaschu Ãšr,Nova Glasgow,nyw glasgw,Ù†ÛŒÙˆ Ú¯Ù„Ø§Ø³Ú¯Ùˆ	45.58344	-62.64863	P	PPL	CA		7				20322		11	America/Halifax	1/22/06
+6087701	Newmarket	Newmarket	N'jumarket,Njumarket,niu ma ke te,nyumakes,nyumaketto,nywmarkt,nywmarkt  antaryw,ÐŠÑƒÐ¼Ð°Ñ€ÐºÐµÑ‚,ÐÑŒÑŽÐ¼Ð°Ñ€ÐºÐµÑ‚,Ù†ÙŠÙˆÙ…Ø§Ø±ÙƒØª,Ù†ÛŒÙˆÙ…Ø§Ø±Ú©ØªØŒ Ø§Ù†ØªØ§Ø±ÛŒÙˆ,ãƒ‹ãƒ¥ãƒ¼ãƒžãƒ¼ã‚±ãƒƒãƒˆ,çº½é©¬å…‹ç‰¹,ë‰´ë§ˆì¼“	44.05011	-79.46631	P	PPL	CA		8				74295		250	America/Toronto	12/30/11
+6087844	New Westminster	New Westminster	N'ju-Uehstminster,New Westminister,New Westminster,Nju Vestminster,YBD,nyuuesutominsuta,nyuweseuteuminseuteo,nyw wstmynstr,nyw wystmynystr,xin wei si min si te,xin xi min,ÐŠÑƒ Ð’ÐµÑÑ‚Ð¼Ð¸Ð½ÑÑ‚ÐµÑ€,ÐÑŒÑŽ-Ð£ÑÑÑ‚Ð¼Ð¸Ð½ÑÑ‚ÐµÑ€,× ×™×• ×•×¡×˜×ž×™× ×¡×˜×¨,Ù†ÙŠÙˆ ÙˆÙŠØ³ØªÙ…ÙŠÙ†ÙŠØ³ØªØ±,Ù†ÛŒÙˆ ÙˆØ³Ù¹Ù…Ù†Ø³Ù¹Ø±,Ù†ÛŒÙˆ ÙˆÛŒØ³Ù¹ Ù…Ù†Ø³Ù¹Ø±,ãƒ‹ãƒ¥ãƒ¼ã‚¦ã‚¨ã‚¹ãƒˆãƒŸãƒ³ã‚¹ã‚¿ãƒ¼,æ–°å¨æ–¯æ•æ–¯ç‰¹,æ–°è¥¿æ•,ë‰´ì›¨ìŠ¤íŠ¸ë¯¼ìŠ¤í„°	49.20678	-122.91092	P	PPL	CA		2				58549		64	America/Vancouver	2/9/14
+6087892	Niagara Falls	Niagara Falls	Najagara Fols,Niagara Falls,Niagara Folsas,Niagara-Folls,Niagara-Fols,XLV,naiagalapolseu,naiagaraforuzu,ni ya jia la pu bu cheng,nyagara falz  antaryw,nyagra falz,nyajara fwlz,ÐÐ°Ñ˜Ð°Ð³Ð°Ñ€Ð° Ð¤Ð¾Ð»Ñ,ÐÐ¸Ð°Ð³Ð°Ñ€Ð°-Ð¤Ð¾Ð»Ñ,ÐÑ–Ð°Ð³Ð°Ñ€Ð°-Ð¤Ð¾Ð»Ð»Ñ,Ù†ÙŠØ§Ø¬Ø§Ø±Ø§ ÙÙˆÙ„Ø²,Ù†ÛŒØ§Ú¯Ø§Ø±Ø§ ÙØ§Ù„Ø²ØŒ Ø§Ù†ØªØ§Ø±ÛŒÙˆ,Ù†ÛŒØ§Ú¯Ø±Ø§ ÙØ§Ù„Ø²,Ù†ÛŒØ§Ú¯Ø±Ø§ ÙØ§Ù„Ø²ØŒ Ø§Ù†Ù¹Ø§Ø±ÛŒÙˆ,ãƒŠã‚¤ã‚¢ã‚¬ãƒ©ãƒ•ã‚©ãƒ¼ãƒ«ã‚º,å°¼äºšåŠ æ‹‰ç€‘å¸ƒåŸŽ,ë‚˜ì´ì•„ê°€ë¼í´ìŠ¤	43.10012	-79.06627	P	PPL	CA		8				82000		184	America/Toronto	6/7/09
+6088132	Nicolet	Nicolet	Nikole,Nikolet,nykwlh  kbk,ÐÐ¸ÐºÐ¾Ð»Ðµ,ÐÐ¸ÐºÐ¾Ð»ÐµÑ‚,Ù†ÛŒÚ©ÙˆÙ„Ù‡ØŒ Ú©Ø¨Ú©	46.21676	-72.61582	P	PPL	CA		10	17	50072		5257		20	America/Toronto	2/23/16
+6088469	Nipawin	Nipawin		53.36678	-104.00092	P	PPL	CA		11				3994		361	America/Regina	4/11/08
+6088677	Niverville	Niverville		49.60559	-97.04234	P	PPL	CA		3				2000		235	America/Winnipeg	4/11/08
+6089125	Norfolk County	Norfolk County		42.8334	-80.38297	P	PPL	CA		8				60847		235	America/Toronto	9/22/10
+6089179	Normandin	Normandin		48.83328	-72.53209	P	PPL	CA		10	2	92040		2728		142	America/Toronto	6/22/16
+6089245	Norman Wells	Norman Wells	Norman Wells,Norman-Uehls,YVQ,ÐÐ¾Ñ€Ð¼Ð°Ð½-Ð£ÑÐ»Ñ	65.28201	-126.8329	P	PPL	CA		13				1027		17	America/Yellowknife	12/24/17
+6089404	North Battleford	North Battleford	Nort Betlford,Nort-Betlford,North Battleford,YQW,bei bei te er fu de,nwrth batlfwrd,ÐÐ¾Ñ€Ñ‚ Ð‘ÐµÑ‚Ð»Ñ„Ð¾Ñ€Ð´,ÐÐ¾Ñ€Ñ‚-Ð‘ÐµÑ‚Ð»Ñ„Ð¾Ñ€Ð´,Ù†ÙˆØ±Ø« Ø¨Ø§ØªÙ„ÙÙˆØ±Ø¯,åŒ—è´ç‰¹çˆ¾ç¦å¾·	52.77972	-108.2967	P	PPL	CA		11				19440		526	America/Regina	10/6/13
+6089426	North Bay	North Bay	Gorad Nort-Bej,Nort Bej,Nort-Bej,YYB,bei wan,nosubei,nwrth bay,nwrth by,Ð“Ð¾Ñ€Ð°Ð´ ÐÐ¾Ñ€Ñ‚-Ð‘ÐµÐ¹,ÐÐ¾Ñ€Ñ‚ Ð‘ÐµÑ˜,ÐÐ¾Ñ€Ñ‚-Ð‘ÐµÐ¹,Ù†Ø§Ø±ØªÚ¾ Ø¨Û’,Ù†ÙˆØ±Ø« Ø¨Ø§ÙŠ,Ù†ÙˆØ±Ø« Ø¨ÛŒ,ãƒŽãƒ¼ã‚¹ãƒ™ã‚¤,åŒ—ç£	46.3168	-79.46633	P	PPL	CA		8	3548			50170		206	America/Toronto	1/20/18
+6089661	North Cowichan	North Cowichan	kawytshan alshmalyt,ÙƒØ§ÙˆÙŠØªØ´Ø§Ù† Ø§Ù„Ø´Ù…Ø§Ù„ÙŠØ©	48.84133	-123.68596	P	PPL	CA		2				32272		145	America/Vancouver	1/22/06
+6090405	North Perth	North Perth	Nort Pert,nwrth byrth,ÐÐ¾Ñ€Ñ‚ ÐŸÐµÑ€Ñ‚,Ù†ÙˆØ±Ø« Ø¨ÙŠØ±Ø«	43.7251	-80.96723	P	PPL	CA		8				12254		380	America/Toronto	5/5/13
+6090579	North Saanich	North Saanich		48.66634	-123.41933	P	PPL	CA		2				11089		11	America/Vancouver	5/5/13
+6090785	North Vancouver	North Vancouver	Nort Vankuver,Nort-Vankuver,Vancouver Utara  British Columbia,bei wen ge hua shi,noseubaenkubeo,nosubankuba,wnkwwr shmaly,ÐÐ¾Ñ€Ñ‚ Ð’Ð°Ð½ÐºÑƒÐ²ÐµÑ€,ÐÐ¾Ñ€Ñ‚-Ð’Ð°Ð½ÐºÑƒÐ²ÐµÑ€,Ù†Ø§Ø±ØªÚ¾ ÙˆÛŒÙ†Ú©ÙˆÙˆØ±,ÙˆÙ†Ú©ÙˆÙˆØ± Ø´Ù…Ø§Ù„ÛŒ,ãƒŽãƒ¼ã‚¹ãƒãƒ³ã‚¯ãƒ¼ãƒãƒ¼,åŒ—æº«å“¥è¯å¸‚,ë…¸ìŠ¤ë°´ì¿ ë²„	49.31636	-123.06934	P	PPL	CA		2	5909			48000	68	89	America/Vancouver	8/28/13
+6091104	North York	North York	Nort-Jork,bei yue ke,nort york,nosuyoku,ÐÐ¾Ñ€Ñ‚-Ð™Ð¾Ñ€Ðº,à®¨à¯‹à®°à¯à®¤à¯ à®¯à¯‹à®°à¯à®•à¯,ãƒŽãƒ¼ã‚¹ãƒ¨ãƒ¼ã‚¯,åŒ—ç´„å…‹	43.76681	-79.4163	P	PPL	CA		8				636000	180	178	America/Toronto	12/7/11
+6091369	Notre-Dame-de-l'ÃŽle-Perrot	Notre-Dame-de-l'Ile-Perrot		45.36678	-73.9325	P	PPL	CA		10	16	71065		9885		41	America/Toronto	6/22/16
+6091422	Notre-Dame-des-Prairies	Notre-Dame-des-Prairies		46.05007	-73.43245	P	PPL	CA		10	14	61030		8230		62	America/Toronto	6/22/16
+6091919	Oak Bay	Oak Bay	awk bay,xiang shu wan,Ø£ÙˆÙƒ Ø¨Ø§ÙŠ,æ©¡æ¨¹ç£	48.44964	-123.3026	P	PPL	CA		2				18015		45	America/Vancouver	5/5/13
+6092122	Oakville	Oakville	Okvil,Okvill,XOK,ao ke wei er,awkfyl,okeubil,okubiru,ÐžÐºÐ²Ð¸Ð»,ÐžÐºÐ²Ð¸Ð»Ð»,ÐžÐºÐ²Ñ–Ð»Ð»,Ø£ÙˆÙƒÙÙŠÙ„,Ø§ÙˆÚ©â€ŒÙˆÛŒÙ„,ã‚ªãƒ¼ã‚¯ãƒ“ãƒ«,å¥¥å…‹ç»´å°”,ì˜¤í¬ë¹Œ	43.45011	-79.68292	P	PPL	CA		8				165697		99	America/Toronto	1/15/12
+6092873	Oka	Oka	Oka,awka,awka  kbk,Ø£ÙˆÙƒØ§,Ø§ÙˆÚ©Ø§ØŒ Ú©Ø¨Ú©	45.46489	-74.08892	P	PPL	CA		10	15	72032		1160		47	America/Toronto	6/22/16
+6093010	Okotoks	Okotoks	Okotoks,ao ke tuo ke si,okotogseu,ÐžÐºÐ¾Ñ‚Ð¾ÐºÑ,å¥¥å…‹æ‰˜å…‹æ–¯,ì˜¤ì½”í†¡ìŠ¤	50.72885	-113.98281	P	PPL	CA		1				14826		1071	America/Edmonton	3/25/09
+6093347	Olds	Olds	Oulds,ÐžÑƒÐ»Ð´Ñ	51.78341	-114.10199	P	PPL	CA		1				6947		1039	America/Edmonton	4/11/08
+6093514	Oliver	Oliver		49.18306	-119.5524	P	PPL	CA		2				4647		309	America/Vancouver	4/11/08
+6094201	Orangeville	Orangeville		43.9168	-80.09967	P	PPL	CA		8				32640		443	America/Toronto	4/11/08
+6094325	Orillia	Orillia	Orilija,Orillija,ao li li ya,awrylya,awrylya  antaryw,oriria,ÐžÑ€Ð¸Ð»Ð¸Ñ˜Ð°,ÐžÑ€Ð¸Ð»Ð»Ð¸Ñ,ÐžÑ€Ñ–Ð»Ð»Ñ–Ñ,Ø£ÙˆØ±ÙŠÙ„ÙŠØ§,Ø§ÙˆØ±ÛŒÙ„ÛŒØ§,Ø§ÙˆØ±ÛŒÙ„ÛŒØ§ØŒ Ø§Ù†ØªØ§Ø±ÛŒÙˆ,ã‚ªãƒªãƒªã‚¢,å¥§é‡Œåˆ©äºž	44.60868	-79.42068	P	PPL	CA		8				30178		232	America/Toronto	7/31/09
+6094391	Ormstown	Ormstown		45.13338	-73.99922	P	PPL	CA		10	16	69037		1562		38	America/Toronto	6/22/16
+6094407	Oromocto	Oromocto		45.83512	-66.47917	P	PPL	CA		4				8998		27	America/Moncton	4/11/08
+6094578	Oshawa	Oshawa	Osava,Oshava,OÅ¡ava,QWA,YOO,ao sha hua,awshawa,oshava,oshawa,osyawa,ÐžÑˆÐ°Ð²Ð°,Ø£ÙˆØ´Ø§ÙˆØ§,Ø§ÙˆØ´Ø§ÙˆØ§,áƒáƒ¨áƒáƒ•áƒ,ã‚ªã‚·ãƒ£ãƒ¯,å¥§æ²™è¯,ì˜¤ìƒ¤ì™€	43.90012	-78.84957	P	PPL	CA		8				247989		105	America/Toronto	9/22/13
+6094665	Osoyoos	Osoyoos	Osujus,ÐžÑÑƒÑŽÑ	49.03306	-119.45237	P	PPL	CA		2				4314		277	America/Vancouver	4/11/08
+6094884	Otterburn Park	Otterburn Park		45.53338	-73.21585	P	PPL	CA		10	16	57030		8464		13	America/Toronto	6/22/16
+6095416	Outlook	Outlook		51.50008	-107.05128	P	PPL	CA		11				1989		538	America/Regina	4/11/08
+6095645	Owen Sound	Owen Sound	Ouehn-Saund,Oven Saund,YOS,awwn sawnd,awyn sawnd,ou~ensaundo,ÐžÐ²ÐµÐ½ Ð¡Ð°ÑƒÐ½Ð´,ÐžÑƒÑÐ½-Ð¡Ð°ÑƒÐ½Ð´,Ø£ÙˆÙŠÙ† Ø³Ø§ÙˆÙ†Ø¯,Ø§ÙˆÙˆÙ† Ø³Ø§Ø¤Ù†Úˆ,Ø§ÙˆÙˆÙ† Ø³Ø§ÙˆÙ†Ø¯,ã‚ªãƒ¼ã‚¦ã‚§ãƒ³ã‚µã‚¦ãƒ³ãƒ‰	44.56717	-80.94349	P	PPL	CA		8				22625		180	America/Toronto	7/31/09
+6095751	Oxbow	Oxbow		49.23335	-102.1676	P	PPL	CA		11				1058		582	America/Regina	4/11/08
+6095779	Oxford	Oxford		45.73345	-63.86542	P	PPL	CA		7				1283		6	America/Halifax	4/11/08
+6096672	Papineauville	Papineauville		45.6168	-75.01599	P	PPL	CA		10	7	80037		1600		52	America/Toronto	2/24/18
+6098642	Parksville	Parksville	Jewel of Vancouver Island,Parksvil,Parksville,XPB,barksfyl,pa ke si wei er,ÐŸÐ°Ñ€ÐºÑÐ²Ð¸Ð»,Ø¨Ø§Ø±ÙƒØ³ÙÙŠÙ„,Ù¾Ø§Ø±Ú©Ø³ÙˆÙ„Û’,Ù¾Ø§Ø±Ú©Ø³ÙˆÛŒÙ„ØŒ Ø¨Ø±Ù¹Ø´ Ú©ÙˆÙ„Ù…Ø¨ÛŒØ§,å¸•å…‹æ–¯ç¶­çˆ¾	49.31947	-124.31575	P	PPL	CA		2	5921			12000		26	America/Vancouver	9/1/16
+6098717	Parrsboro	Parrsboro		45.40567	-64.32585	P	PPL	CA		7				1472		17	America/Halifax	10/31/14
+6098747	Parry Sound	Parry Sound	Pari Saund,Parri-Saund,YPD,pa li wan,parisaundo,ÐŸÐ°Ñ€Ð¸ Ð¡Ð°ÑƒÐ½Ð´,ÐŸÐ°Ñ€Ñ€Ñ–-Ð¡Ð°ÑƒÐ½Ð´,ãƒ‘ãƒªãƒ¼ã‚µã‚¦ãƒ³ãƒ‰,å¸•é‡Œç£	45.34732	-80.03527	P	PPL	CA		8	3549			6469		199	America/Toronto	1/20/18
+6098924	Pasadena	Pasadena		49.01671	-57.59837	P	PPL	CA		5				2248		28	America/St_Johns	4/11/08
+6100069	Peace River	Peace River	Peace River,Pis River,Pis-River,Riviere-la-Paix,RiviÃ¨re-la-Paix,YPE,pi si li fu,ÐŸÐ¸Ñ Ð Ð¸Ð²ÐµÑ€,ÐŸÑ–Ñ-Ð Ñ–Ð²ÐµÑ€,çš®æ–¯é‡Œå¼—	56.23715	-117.29176	P	PPL	CA		1				5340		330	America/Edmonton	7/2/16
+6100086	Peachland	Peachland		49.76647	-119.73568	P	PPL	CA		2				1305		342	America/Vancouver	1/22/06
+6100799	Pemberton	Pemberton	bymbrtwn,Ø¨ÙŠÙ…Ø¨Ø±ØªÙˆÙ†	50.31641	-122.80273	P	PPL	CA		2				2192		211	America/Vancouver	10/3/11
+6100832	Pembroke	Pembroke	YTA	45.81681	-77.11616	P	PPL	CA		8				15551		120	America/Toronto	4/11/08
+6100954	Penhold	Penhold		52.13342	-113.8687	P	PPL	CA		1				1818		895	America/Edmonton	4/11/08
+6101141	Penticton	Penticton	Pentikton,YYF,byntyktwn,peng di ke dun,ÐŸÐµÐ½Ñ‚Ð¸ÐºÑ‚Ð¾Ð½,Ø¨ÙŠÙ†ØªÙŠÙƒØªÙˆÙ†,Ù¾ÛŒÙ†Ù¹Ú©Ù¹Ø§Ù†,Ù¾ÛŒÙ†Ù¹ÛŒÚ©Ù¹Ù†,å½­è’‚å…‹é¡¿	49.48062	-119.58584	P	PPL	CA		2				37721		357	America/Vancouver	12/24/17
+6101546	Perth	Perth	Pert,pasu,po si,prt  antaryw,ÐŸÐµÑ€Ñ‚,Ù¾Ø±ØªØŒ Ø§Ù†ØªØ§Ø±ÛŒÙˆ,ãƒ‘ãƒ¼ã‚¹,ç€æ–¯	44.90011	-76.24939	P	PPL	CA		8				6481		134	America/Toronto	4/11/08
+6101606	Petawawa	Petawawa	Petawawa,YWA	45.89452	-77.28007	P	PPL	CA		8				15988		143	America/Toronto	10/26/13
+6101645	Peterborough	Peterborough	Peterborough,Piterboro,YPQ,bi de bao,bytyrbwrwgh,pitaboro,piteobeoleo,pytrbwrw  antaryw,ÐŸÐ¸Ñ‚ÐµÑ€Ð±Ð¾Ñ€Ð¾,ÐŸÑ–Ñ‚ÐµÑ€Ð±Ð¾Ñ€Ð¾,Ø¨ÙŠØªÙŠØ±Ø¨ÙˆØ±ÙˆØº,Ù¾ÛŒØªØ±Ø¨ÙˆØ±ÙˆØŒ Ø§Ù†ØªØ§Ø±ÛŒÙˆ,Ù¾ÛŒÙ¹Ø±Ø¨Ø±ÙˆØŒ Ø§Ù†Ù¹Ø§Ø±ÛŒÙˆ,Ù¾ÛŒÙ¹Ø±Ø¨Ø±ÙˆÛ,ãƒ”ãƒ¼ã‚¿ãƒ¼ãƒœãƒ­,å½¼å¾—å ¡,í”¼í„°ë²„ëŸ¬	44.30012	-78.31623	P	PPL	CA		8				75877		188	America/Toronto	7/2/16
+6103581	Petrolia	Petrolia		42.86678	-82.14981	P	PPL	CA		8				5453		190	America/Toronto	4/11/08
+6104111	Pickering	Pickering	Pikering,bykryngh,pi ke ling,pikaringu,pikeoling,pkrng,pykryng  antaryw,ÐŸÐ¸ÐºÐµÑ€Ð¸Ð½Ð³,ÐŸÑ–ÐºÐµÑ€Ñ–Ð½Ð³,Ø¨ÙŠÙƒØ±ÙŠÙ†Øº,Ù¾Ú©Ø±Ù†Ú¯,Ù¾ÛŒÚ©Ø±ÛŒÙ†Ú¯ØŒ Ø§Ù†ØªØ§Ø±ÛŒÙˆ,ãƒ”ã‚«ãƒªãƒ³ã‚°,çš®å…‹éˆ,í”¼ì»¤ë§	43.90012	-79.13289	P	PPL	CA		8				87838		214	America/Toronto	9/22/10
+6104215	Picton	Picton	pikuton,ãƒ”ã‚¯ãƒˆãƒ³	44.00012	-77.13275	P	PPL	CA		8				3983		149	America/Toronto	2/4/13
+6104221	Pictou	Pictou	Piogto,pyktw,Ù¾ÛŒÚ©ØªÙˆ	45.67875	-62.70936	P	PPL	CA		7				3732		45	America/Halifax	4/22/14
+6104231	Picture Butte	Picture Butte		49.8833	-112.78516	P	PPL	CA		1				2175		906	America/Edmonton	12/11/13
+6104260	Piedmont	Piedmont	Piedmont	45.90008	-74.13251	P	PPL	CA		10	15	77030		2721		184	America/Toronto	6/22/16
+6104329	Pierreville	Pierreville		46.07034	-72.81125	P	PPL	CA		10	17	50113		2172		24	America/Toronto	2/23/16
+6104745	Pilot Butte	Pilot Butte		50.46678	-104.41778	P	PPL	CA		11				1728		609	America/Regina	4/11/08
+6104841	Pincher Creek	Pincher Creek	Pincher Krik,WPC,ÐŸÐ¸Ð½Ñ‡ÐµÑ€ ÐšÑ€Ð¸Ðº	49.48328	-113.95195	P	PPL	CA		1				3855		1151	America/Edmonton	4/11/08
+6104876	Pincourt	Pincourt		45.38338	-73.9825	P	PPL	CA		10	16	71070		11197		27	America/Toronto	6/22/16
+6105815	Pitt Meadows	Pitt Meadows	Pit Medous,Pitt Meadows,Pitt-Medous,Pitts Meadows,byt mydwz,pi te cao yuan,piteumedoseu,pittomedouzu,ÐŸÐ¸Ñ‚ ÐœÐµÐ´Ð¾ÑƒÑ,ÐŸÐ¸Ñ‚Ñ‚-ÐœÐµÐ´Ð¾ÑƒÑ,Ø¨ÙŠØª Ù…ÙŠØ¯ÙˆØ²,Ù¾Ù¹ Ù…ÛŒÚˆÙˆØ²,ãƒ”ãƒƒãƒˆãƒ¡ãƒ‰ã‚¦ã‚º,åŒ¹ç‰¹è‰åŽŸ,í”¼íŠ¸ë©”ë„ìŠ¤	49.22119	-122.68965	P	PPL	CA		2				17410		13	America/Vancouver	4/15/10
+6107272	Pointe-Calumet	Pointe-Calumet	Pointe-Calumet	45.50008	-73.9659	P	PPL	CA		10	15	72020		6396		23	America/Toronto	6/22/16
+6107325	Pointe-Claire	Pointe-Claire	Poent Kler,bu wan ka li,bwynt klyr,pwynt-klr,ÐŸÐ¾ÐµÐ½Ñ‚ ÐšÐ»ÐµÑ€,Ø¨ÙˆÙŠÙ†Øª ÙƒÙ„ÙŠØ±,Ù¾ÙˆØ¦Ù†Øª-Ú©Ù„Ø±,å¸ƒå½Žå¡åˆ©	45.44868	-73.81669	P	PPL	CA		10	6			30161		45	America/Toronto	9/23/10
+6109273	Ponoka	Ponoka	Ponoka,ÐŸÐ¾Ð½Ð¾ÐºÐ°	52.6768	-113.58147	P	PPL	CA		1				6656		806	America/Edmonton	12/16/10
+6110611	Pont Rouge	Pont Rouge		48.88332	-72.08247	P	PPL	CA		10	2	92015		7518		135	America/Toronto	6/22/16
+6111529	Portage la Prairie	Portage la Prairie	Portage la Prairie,Portedzh-la-Preri,Portidz la Preri,Portidzh-la-Preri,YPG,prtagy la prayry,ÐŸÐ¾Ñ€Ñ‚ÐµÐ´Ð¶-Ð»Ð°-ÐŸÑ€ÐµÑ€Ñ–,ÐŸÐ¾Ñ€Ñ‚Ð¸Ð´Ð¶-Ð»Ð°-ÐŸÑ€ÐµÑ€Ð¸,ÐŸÐ¾Ñ€Ñ‚Ð¸ÑŸ Ð»Ð° ÐŸÑ€ÐµÑ€Ð¸,Ù¾Ø±ØªØ§Ú¯ÛŒ Ù„Ø§ Ù¾Ø±Ø§Ø¦Ø±ÛŒ,Ù¾ÙˆØ±Ù¹ÛŒØ¬ Ù„Ø§ Ù¾Ø±ÛŒØ±ÛŒØŒ Ù…ÛŒÙ†ÛŒ Ù¹ÙˆØ¨Ø§	49.97282	-98.29263	P	PPL	CA		3				12957		263	America/Winnipeg	9/22/13
+6111632	Port Alberni	Port Alberni	Port Alberni,Port Almperni,Port-Alberni,YPB,ai bo ni gang,bwrt albyrny,Î Î¿ÏÏ„ Î†Î»Î¼Ï€ÎµÏÎ½Î¹,ÐŸÐ¾Ñ€Ñ‚ ÐÐ»Ð±ÐµÑ€Ð½Ð¸,ÐŸÐ¾Ñ€Ñ‚-ÐÐ»Ð±ÐµÑ€Ð½Ð¸,Ø¨ÙˆØ±Øª Ø£Ù„Ø¨ÙŠØ±Ù†ÙŠ,Ù¾ÙˆØ±Ù¹ Ø§Ù„Ø¨Ø±Ù†ÛŒ,Ù¾ÙˆØ±Ù¹ Ø§Ù„Ø¨Ø±Ù†ÛŒØŒ Ø¨Ø±Ù¹Ø´ Ú©ÙˆÙ„Ù…Ø¨ÛŒØ§,è‰¾ä¼¯å°¼æ¸¯	49.24133	-124.8028	P	PPL	CA		2				21282		22	America/Vancouver	11/9/17
+6111696	Port-Cartier	Port-Cartier	Por Kartje,Port-Cartier,bwrt kartyr,ka jie gang,pwrt-kartyh  kbk,ÐŸÐ¾Ñ€ ÐšÐ°Ñ€Ñ‚Ñ˜Ðµ,Ø¨ÙˆØ±Øª ÙƒØ§Ø±ØªÙŠØ±,Ù¾ÙˆØ±Øª-Ú©Ø§Ø±ØªÛŒÙ‡ØŒ Ú©Ø¨Ú©,å¡æ·æ¸¯	50.03339	-66.86545	P	PPL	CA		10	9	97022		5851		31	America/Toronto	6/22/16
+6111704	Port Colborne	Port Colborne	Port Kolborn,Port-Kolborn,bwrt kwlbwrn,poteukolbon,potokorubon,pwrt kwlbwrn,ÐŸÐ¾Ñ€Ñ‚ ÐšÐ¾Ð»Ð±Ð¾Ñ€Ð½,ÐŸÐ¾Ñ€Ñ‚-ÐšÐ¾Ð»Ð±Ð¾Ñ€Ð½,Ø¨ÙˆØ±Øª ÙƒÙˆÙ„Ø¨ÙˆØ±Ù†,Ù¾ÙˆØ±Øª Ú©ÙˆÙ„Ø¨ÙˆØ±Ù†,Ù¾ÙˆØ±Ù¹ Ú©ÙˆÙ„Ø¨ÙˆØ±Ù†,ãƒãƒ¼ãƒˆã‚³ãƒ«ãƒœãƒ¼ãƒ³,í¬íŠ¸ì½œë³¸	42.90012	-79.23288	P	PPL	CA		8				18599		188	America/Toronto	9/22/10
+6111867	Port Hawkesbury	Port Hawkesbury	YPS	45.61685	-61.34853	P	PPL	CA		7				3564		42	America/Halifax	4/11/08
+6111962	Port Moody	Port Moody	Port Mudi,bwrt mwdy,man de bao,poteumudi,potomudi,ÐŸÐ¾Ñ€Ñ‚ ÐœÑƒÐ´Ð¸,Ø¨ÙˆØ±Øª Ù…ÙˆØ¯ÙŠ,Ù¾ÙˆØ±Ù¹ Ù…ÙˆÚˆÛŒ,ãƒãƒ¼ãƒˆãƒ ãƒ¼ãƒ‡ã‚£,æ»¿åœ°å¯¶,í¬íŠ¸ë¬´ë””	49.28297	-122.85263	P	PPL	CA		2				27512		6	America/Vancouver	9/22/10
+6112530	Powassan	Powassan		46.0334	-79.34961	P	PPL	CA		8				1243		330	America/Toronto	4/11/08
+6112608	Powell River	Powell River	Pauel River,Powell River,YPW,bwyl ryfr,ÐŸÐ°ÑƒÐµÐ» Ð Ð¸Ð²ÐµÑ€,Ø¨ÙˆÙŠÙ„ Ø±ÙŠÙØ±	49.83278	-124.52368	P	PPL	CA		2	5927			12779		41	America/Vancouver	4/23/16
+6112862	Preeceville	Preeceville		51.94998	-102.66766	P	PPL	CA		11				1003		508	America/Regina	4/11/08
+6113027	Prescott	Prescott	Prescott,Preskot,Preskott,XII,prskat  antaryw,ÐŸÑ€ÐµÑÐºÐ¾Ñ‚,ÐŸÑ€ÐµÑÐºÐ¾Ñ‚Ñ‚,Ù¾Ø±Ø³Ú©Ø§ØªØŒ Ø§Ù†ØªØ§Ø±ÛŒÙˆ	44.71681	-75.51604	P	PPL	CA		8				4466		90	America/Toronto	9/22/13
+6113198	PrÃ©vost	Prevost	Prevost,PrÃ©vost	45.86678	-74.08251	P	PPL	CA		10	15	75040		10132		166	America/Toronto	6/22/16
+6113335	Prince Albert	Prince Albert	Prince Albert,Prins Albert,Prins-Al'bert,Saskatoon,YPA,ai bo te qin wang cheng,bryns albrt,pryns albrt,ÐŸÑ€Ð¸Ð½Ñ ÐÐ»Ð±ÐµÑ€Ñ‚,ÐŸÑ€Ð¸Ð½Ñ-ÐÐ»ÑŒÐ±ÐµÑ€Ñ‚,Ø¨Ø±ÙŠÙ†Ø³ Ø£Ù„Ø¨Ø±Øª,Ù¾Ø±ÛŒÙ†Ø³ Ø¢Ù„Ø¨Ø±Øª,ãƒ—ãƒªãƒ³ã‚¹ãƒ»ã‚¢ãƒ«ãƒãƒ¼ãƒˆ,è‰¾ä¼¯ç‰¹äº²çŽ‹åŸŽ	53.20008	-105.76772	P	PPL	CA		11				34609		431	America/Regina	4/11/08
+6113355	Prince Edward	Prince Edward	Prince Edward,Prince Edward County	44.00012	-77.24946	P	PPL	CA		8				25496		97	America/Toronto	9/22/10
+6113365	Prince George	Prince George	Prince George,Prins DZordz,Prins-Dzhordzh,YXS,bryns jwrj,peulinseujoji,phrins cxrc,prns jrj  brytysh klmbya,pryns gwrg,qiao zhi wang zi cheng,ÐŸÑ€Ð¸Ð½Ñ ÐÐ¾Ñ€ÑŸ,ÐŸÑ€Ð¸Ð½Ñ-Ð”Ð¶Ð¾Ñ€Ð´Ð¶,ÐŸÑ€Ñ–Ð½Ñ-Ð”Ð¶Ð¾Ñ€Ð´Ð¶,×¤×¨×™× ×¡ ×’×•×¨×’,Ø¨Ø±ÙŠÙ†Ø³ Ø¬ÙˆØ±Ø¬,Ù¾Ø±Ù†Ø³ Ø¬Ø§Ø±Ø¬ØŒ Ø¨Ø±Ù¹Ø´ Ú©ÙˆÙ„Ù…Ø¨ÛŒØ§,Ù¾Ø±Ù†Ø³ Ø¬Ø±Ø¬ØŒ Ø¨Ø±ÛŒØªÛŒØ´ Ú©Ù„Ù…Ø¨ÛŒØ§,à¸žà¸£à¸´à¸™à¸‹à¹Œà¸ˆà¸­à¸£à¹Œà¸ˆ,ä¹”æ²»çŽ‹å­åŸŽ,í”„ë¦°ìŠ¤ì¡°ì§€	53.9166	-122.75301	P	PPL	CA		2				65558		578	America/Vancouver	1/29/10
+6113406	Prince Rupert	Prince Rupert	Prince Rupert,Prins Rupert,Prins-Rupert,YPR,bryns rwbyrt,lu po te wang zi gang,peulinseulupeoteu,purinsurupato,ÐŸÑ€Ð¸Ð½Ñ Ð ÑƒÐ¿ÐµÑ€Ñ‚,ÐŸÑ€Ð¸Ð½Ñ-Ð ÑƒÐ¿ÐµÑ€Ñ‚,ÐŸÑ€Ñ–Ð½Ñ-Ð ÑƒÐ¿ÐµÑ€Ñ‚,Ø¨Ø±ÙŠÙ†Ø³ Ø±ÙˆØ¨ÙŠØ±Øª,Ù¾Ø±Ù†Ø³ Ø±Ù¾Ø±Ù¹ØŒ Ø¨Ø±Ù¹Ø´ Ú©ÙˆÙ„Ù…Ø¨ÛŒØ§,ãƒ—ãƒªãƒ³ã‚¹ãƒ«ãƒ‘ãƒ¼ãƒˆ,é²ç€ç‰¹çŽ‹å­æ¸¯,í”„ë¦°ìŠ¤ë£¨í¼íŠ¸	54.31507	-130.32098	P	PPL	CA		2	5947			14708		26	America/Vancouver	12/31/17
+6113463	Princeton	Princeton	Prinston,ÐŸÑ€Ð¸Ð½ÑÑ‚Ð¾Ð½	49.45802	-120.51076	P	PPL	CA		2				2706		660	America/Vancouver	4/11/08
+6113466	Princeville	Princeville		45.76684	-61.29853	P	PPL	CA		7				5571		43	America/Halifax	9/23/10
+6113828	Provost	Provost		52.35014	-110.26828	P	PPL	CA		1				2082		666	America/Edmonton	4/11/08
+6115187	Quesnel	Quesnel	Kvenel,Kvesnel,YQZ,kwyznl,kynyl,ÐšÐ²ÐµÐ½ÐµÐ»,ÐšÐ²ÐµÑÐ½ÐµÐ»,ÙƒÙŠÙ†ÙŠÙ„,Ú©ÙˆØ¦Ø²Ù†Ù„,Ú©ÙˆØ¦ÛŒØ³Ù†Ù„ØŒ Ø¨Ø±Ù¹Ø´ Ú©ÙˆÙ„Ù…Ø¨ÛŒØ§	52.97842	-122.4931	P	PPL	CA		2				13788		479	America/Vancouver	1/1/18
+6115355	Quinte West	Quinte West	Kvinti Vest,kuinteuesuto,kwyynt ghrby,qwynt wyst,ÐšÐ²Ð¸Ð½Ñ‚Ð¸ Ð’ÐµÑÑ‚,Ù‚ÙˆÙŠÙ†Øª ÙˆÙŠØ³Øª,Ú©ÙˆØ¦Ù†ØªÛ’ ÙˆÛŒØ³Ù¹,Ú©ÙˆØ¦ÛŒÙ†Øª ØºØ±Ø¨ÛŒ,Ú©ÙˆÙ†Ù¹ ÙˆØ³Ù¹,ã‚¯ã‚¤ãƒ³ãƒ†ã‚¦ã‚¨ã‚¹ãƒˆ	44.18342	-77.56618	P	PPL	CA		8				42697		130	America/Toronto	9/22/10
+6117611	Rawdon	Rawdon	Rawdon	46.05007	-73.71587	P	PPL	CA		10	14			10400		176	America/Toronto	4/13/16
+6117675	Raymond	Raymond	Rejmond,Ð ÐµÑ˜Ð¼Ð¾Ð½Ð´,Ø±ÛŒÙ…Ù†ÚˆØŒ Ø§Ù„Ø¨Ø±Ù¹Ø§	49.44998	-112.65185	P	PPL	CA		1				3365		964	America/Edmonton	4/11/08
+6117731	Rayside-Balfour	Rayside-Balfour		46.60873	-81.20763	P	PPL	CA		8				16050		280	America/Toronto	7/20/13
+6118158	Red Deer	Red Deer	Red Deer,Red Dir,Red Dyras,Red-Dir,YQF,hong lu shi,rd dyr,reddodia,ryÚˆ Úˆyyr  albrÙ¹a,Ð ÐµÐ´ Ð”Ð¸Ñ€,Ð ÐµÐ´-Ð”Ð¸Ñ€,Ð ÐµÐ´-Ð”Ñ–Ñ€,×¨×“ ×“×™×¨,Ø±Ø¯ Ø¯ÙŠØ±,Ø±Ø¯ Ø¯ÛŒØ±,Ø±ÛŒÚˆ ÚˆØ¦Ø±,Ø±ÛŒÚˆ ÚˆØ¦ÛŒØ±ØŒ Ø§Ù„Ø¨Ø±Ù¹Ø§,ãƒ¬ãƒƒãƒ‰ãƒ‡ã‚£ã‚¢,çº¢é¹¿å¸‚	52.26682	-113.802	P	PPL	CA		1				73593		856	America/Edmonton	4/11/08
+6118417	Red Lake	Red Lake	Red Lake,Red Lejk,YRL,Ð ÐµÐ´ Ð›ÐµÑ˜Ðº	51.01678	-93.82736	P	PPL	CA		8	3560			4366		374	America/Winnipeg	1/20/18
+6119448	Renfrew	Renfrew	Renfru,renfuru,rnfrw  antaryw,Ð ÐµÐ½Ñ„Ñ€Ñƒ,Ø±Ù†ÙØ±ÙˆØŒ Ø§Ù†ØªØ§Ø±ÛŒÙˆ,ãƒ¬ãƒ³ãƒ•ãƒ«ãƒ¼	45.46681	-76.68272	P	PPL	CA		8				8018		128	America/Toronto	4/11/08
+6119518	Repentigny	Repentigny	Repantin'i,Repantini,Repentigny,rpantyny  kbk,rybntynyy,Ð ÐµÐ¿Ð°Ð½Ñ‚Ð¸Ð½ÑŒÐ¸,Ð ÐµÐ¿Ð°Ð½Ñ‚Ð¸ÑšÐ¸,Ø±ÙŠØ¨Ù†ØªÙŠÙ†ÙŠÙŠ,Ø±Ù¾Ø§Ù†ØªÛŒÙ†ÛŒØŒ Ú©Ø¨Ú©	45.74222	-73.45008	P	PPL	CA		10	14			76237		10	America/Toronto	4/12/16
+6121621	Revelstoke	Revelstoke	Revelstoke,Revelstouk,YRV,ryfylstwk,Ð ÐµÐ²ÐµÐ»ÑÑ‚Ð¾ÑƒÐº,Ø±ÙŠÙÙŠÙ„Ø³ØªÙˆÙƒ,Ø±ÛŒÙˆÙ„ Ø³Ù¹ÙˆÚ©,Ø±ÛŒÙˆÙ„Ø³Ù¹ÙˆÚ©ØŒ Ø¨Ø±Ù¹Ø´ Ú©ÙˆÙ„Ù…Ø¨ÛŒØ§	50.99712	-118.1953	P	PPL	CA		2	5939			7533		459	America/Vancouver	4/2/16
+6122037	Richelieu	Richelieu		45.44336	-73.24602	P	PPL	CA		10	16			5208		29	America/Toronto	9/23/10
+6122053	Richibucto	Richibucto	Richibouctou,Rishibakto,Ð Ð¸ÑˆÐ¸Ð±Ð°ÐºÑ‚Ð¾	46.68073	-64.88044	P	PPL	CA		4				1298		5	America/Moncton	4/11/08
+6122078	Richmond	Richmond	Richmond	45.66677	-72.1491	P	PPL	CA		10	5	42098		3485		126	America/Toronto	6/22/16
+6122085	Richmond	Richmond	Richmond,Richmund,Ricmondas,RiÄmondas,lichimeondeu,lie zhi wen,ricamada,ritchimondo,rytshmwnd,Ð Ð¸Ñ‡Ð¼Ð¾Ð½Ð´,Ð Ð¸Ñ‡Ð¼ÑŠÐ½Ð´,Ð Ñ–Ñ‡Ð¼Ð¾Ð½Ð´,Ø±ÙŠØªØ´Ù…ÙˆÙ†Ø¯,Ø±Ú†Ù…Ù†ÚˆØŒ Ø¨Ø±Ù¹Ø´ Ú©ÙˆÙ„Ù…Ø¨ÛŒØ§,Ø±Ú†Ù…ÙˆÙ†Úˆ,à¨°à¨¿à¨šà¨®à©°à¨¡,ãƒªãƒƒãƒãƒ¢ãƒ³ãƒ‰,åˆ—æ²»æ–‡,ë¦¬ì¹˜ë¨¼ë“œ	49.17003	-123.13683	P	PPL	CA		2				182000		9	America/Vancouver	1/29/10
+6122091	Richmond Hill	Richmond Hill	Richmond Khil,Richmond-Gill,Richmond-Khill,lichimeondeuhil,lie zhi wen shan,ritchimondohiru,rychmwnd hyl  antaryw,rytshmwnd hyl,Ð Ð¸Ñ‡Ð¼Ð¾Ð½Ð´ Ð¥Ð¸Ð»,Ð Ð¸Ñ‡Ð¼Ð¾Ð½Ð´-Ð“Ñ–Ð»Ð»,Ð Ð¸Ñ‡Ð¼Ð¾Ð½Ð´-Ð¥Ð¸Ð»Ð»,Ø±ÙŠØªØ´Ù…ÙˆÙ†Ø¯ Ù‡ÙŠÙ„,Ø±ÛŒÚ†Ù…ÙˆÙ†Ø¯ Ù‡ÛŒÙ„ØŒ Ø§Ù†ØªØ§Ø±ÛŒÙˆ,ãƒªãƒƒãƒãƒ¢ãƒ³ãƒ‰ãƒ’ãƒ«,åˆ—æ²»æ–‡å±±,çƒˆæ²»æ–‡å±±,ë¦¬ì¹˜ë¨¼ë“œíž	43.87111	-79.43725	P	PPL	CA		8	3519			185541		232	America/Toronto	1/20/18
+6122288	Rigaud	Rigaud	rygw  kbk,Ø±ÛŒÚ¯ÙˆØŒ Ú©Ø¨Ú©	45.47927	-74.30238	P	PPL	CA		10	16	71133		2525		30	America/Toronto	6/22/16
+6122374	Rimbey	Rimbey		52.6334	-114.23532	P	PPL	CA		1				2227		913	America/Edmonton	4/11/08
+6122707	Rivers	Rivers	YYI	50.03081	-100.24029	P	PPL	CA		3				1165		478	America/Winnipeg	4/11/08
+6124931	RiviÃ¨re-Rouge	Riviere-Rouge	Rivjer Ruzh,rywyyr-rwzh  kbk,Ð Ð¸Ð²Ñ˜ÐµÑ€ Ð ÑƒÐ¶,Ø±ÛŒÙˆÛŒÛŒØ±-Ø±ÙˆÚ˜ØŒ Ú©Ø¨Ú©	46.41679	-74.86596	P	PPL	CA		10	15	79037		4152		240	America/Toronto	6/22/16
+6125653	Roberval	Roberval	Roberval,YRJ	48.5168	-72.23244	P	PPL	CA		10	2	91025		9287		113	America/Toronto	4/12/16
+6125862	Roblin	Roblin		51.22999	-101.3565	P	PPL	CA		3				1903		553	America/Winnipeg	4/11/08
+6126749	Rocky Mountain House	Rocky Mountain House	YRM	52.36683	-114.9188	P	PPL	CA		1				6527		982	America/Edmonton	4/11/08
+6127681	RosemÃ¨re	Rosemere	Rozmer,rwzmr  kbk,rwzmyry,Ð Ð¾Ð·Ð¼ÐµÑ€,Ø±ÙˆØ²Ù…Ø±ØŒ Ú©Ø¨Ú©,Ø±ÙˆØ²Ù…ÙŠØ±ÙŠ	45.63338	-73.79919	P	PPL	CA		10	15			14173		29	America/Toronto	9/23/10
+6127749	Rosetown	Rosetown		51.5501	-108.00136	P	PPL	CA		11				2309		583	America/Regina	4/11/08
+6127950	Rossland	Rossland	Rosland,luo si lan,Ð Ð¾ÑÐ»Ð°Ð½Ð´,Ø±ÙˆØ³Ù„ÛŒÙ†Úˆ,Ø±ÙˆØ³Ù„ÛŒÙ†ÚˆØŒ Ø¨Ø±Ù¹Ø´ Ú©ÙˆÙ„Ù…Ø¨ÛŒØ§,ç¾…æ–¯è˜­	49.08313	-117.80224	P	PPL	CA		2				3619		1103	America/Vancouver	4/11/08
+6128008	Rosthern	Rosthern		52.66679	-106.33446	P	PPL	CA		11				1405		507	America/Regina	4/11/08
+6128089	Rougemont	Rougemont	Rougemont	45.43338	-73.04914	P	PPL	CA		10	16	55037		1183		49	America/Toronto	4/13/16
+6128577	Rouyn-Noranda	Rouyn-Noranda	Rouyn-Noranda,Ruehn-Noranda,Ruen-Noranda,Ruin Noranda,YUY,rwwan nwranda,rwyn-nwranda,Ð ÑƒÐµÐ½-ÐÐ¾Ñ€Ð°Ð½Ð´Ð°,Ð ÑƒÐ¸Ð½ ÐÐ¾Ñ€Ð°Ð½Ð´Ð°,Ð ÑƒÑÐ½-ÐÐ¾Ñ€Ð°Ð½Ð´Ð°,Ø±ÙˆÙˆØ§Ù† Ù†ÙˆØ±Ø§Ù†Ø¯Ø§,Ø±ÙˆÛŒÙ†-Ù†ÙˆØ±Ø§Ù†Ø¯Ø§	48.23656	-79.02311	P	PPL	CA		10	8	86042		24023		299	America/Toronto	6/22/16
+6137063	Sackville	Sackville	Sakvill,XKV,Ð¡Ð°ÐºÐ²Ð¸Ð»Ð»,Ø³Ú©ÙˆÙ„Û’ØŒ Ù†ÛŒÙˆ Ø¨Ø±Ù†Ø³ÙˆÚ©	45.91875	-64.38455	P	PPL	CA		4				5411		13	America/Moncton	6/8/10
+6137270	Saguenay	Saguenay	Sagene,Sagenej,SagenÄ—,Sagne,Saguenay,YBG,sa ge nai,sageune,saghynyh,sagune,sagwnh  kbk,Ð¡Ð°Ð³ÐµÐ½ÐµÐ¹,Ð¡Ð°Ð³Ð½Ðµ,×¡××’× ×”,Ø³Ø§ØºÙŠÙ†ÙŠÙ‡,Ø³Ø§Ú¯ÙˆÙ†Ù‡ØŒ Ú©Ø¨Ú©,Ø³Ú¯ÛŒÙ†Û’ØŒ Ú©ÛŒÙˆØ¨Ú©,ã‚µã‚°ãƒ,è–©æ ¼å¥ˆ,ì‚¬ê·¸ë„¤	48.41675	-71.06573	P	PPL	CA		10	2	94068		143692		84	America/Toronto	6/22/16
+6137327	Saint-Adolphe-d'Howard	Saint-Adolphe-d'Howard	Saint-Adolphe-d'Howard	45.96679	-74.33253	P	PPL	CA		10	15	77065		3702		374	America/Toronto	6/22/16
+6137381	Saint-Ambroise	Saint-Ambroise		48.55009	-71.33238	P	PPL	CA		10	2	94255		2015		125	America/Toronto	6/22/16
+6137404	Saint-AndrÃ©-Avellin	Saint-Andre-Avellin		45.7168	-75.06599	P	PPL	CA		10	7	80027		1868		177	America/Toronto	6/22/16
+6137411	Saint Andrews	Saint Andrews		45.0737	-67.05312	P	PPL	CA		4	1302			1809		9	America/Moncton	9/20/14
+6137462	Saint-Augustin	Saint-Augustin		51.22602	-58.65017	P	PPL	CA		10	9	98012		3961		7	America/Blanc-Sablon	6/22/16
+6137489	Saint-Basile-le-Grand	Saint-Basile-le-Grand	Saint-Basile-le-Grand,Sen Bazil le Gran,san basyly ly jrand,sn-bazyl-lw-grand  kbk,Ð¡ÐµÐ½ Ð‘Ð°Ð·Ð¸Ð» Ð»Ðµ Ð“Ñ€Ð°Ð½,Ø³Ø§Ù† Ø¨Ø§Ø³ÙŠÙ„ÙŠ Ù„ÙŠ Ø¬Ø±Ø§Ù†Ø¯,Ø³Ù†-Ø¨Ø§Ø²ÛŒÙ„-Ù„Ùˆ-Ú¯Ø±Ø§Ù†Ø¯ØŒ Ú©Ø¨Ú©,Ø³ÛŒÙ†Ù¹-Ø¨Ø³Ù„Û’-Ù„Û’-Ú¯Ø±ÛŒÙ†ÚˆØŒ Ú©ÛŒÙˆØ¨Ú©	45.53338	-73.28246	P	PPL	CA		10	16	57020		15605		13	America/Toronto	6/22/16
+6137533	Saint-Bruno	Saint-Bruno		48.46679	-71.6491	P	PPL	CA		10	2	93030		2636		150	America/Toronto	5/24/17
+6137539	Saint-Bruno-de-Guigues	Saint-Bruno-de-Guigues		47.46685	-79.43296	P	PPL	CA		10	8	85045		2928		228	America/Toronto	6/22/16
+6137540	Saint-Bruno-de-Montarville	Saint-Bruno-de-Montarville	Sen Brino de Montarvil,san brwnw dy mwntrafly,sn-brwnw-dw-mwntarwyl,Ð¡ÐµÐ½ Ð‘Ñ€Ð¸Ð½Ð¾ Ð´Ðµ ÐœÐ¾Ð½Ñ‚Ð°Ñ€Ð²Ð¸Ð»,Ø³Ø§Ù† Ø¨Ø±ÙˆÙ†Ùˆ Ø¯ÙŠ Ù…ÙˆÙ†ØªØ±Ø§ÙÙ„ÙŠ,Ø³Ù†-Ø¨Ø±ÙˆÙ†Ùˆ-Ø¯Ùˆ-Ù…ÙˆÙ†ØªØ§Ø±ÙˆÛŒÙ„,Ø³ÛŒÙ†Ù¹-Ø¨Ø±ÙˆÙ†Ùˆ-Ø¯Û’-Ù…ÙˆÙ†ØªØ±ÙˆÙ„Û’	45.53341	-73.34916	P	PPL	CA		10				24388		41	America/Toronto	9/23/10
+6137571	Saint-CÃ©saire	Saint-Cesaire	Saint-Cesaire,Saint-CÃ©saire	45.41678	-72.99914	P	PPL	CA		10	16			3175		32	America/Toronto	4/13/16
+6137631	Saint-CÃ´me--LiniÃ¨re	Saint-Come--Liniere		46.06677	-70.51573	P	PPL	CA		10	12	29057		2167		310	America/Toronto	6/22/16
+6137633	Saint-Constant	Saint-Constant	Saint-Constant,Sen Konstan,san kwnstant,sn-kwnstan  kbk,Ð¡ÐµÐ½ ÐšÐ¾Ð½ÑÑ‚Ð°Ð½,Ø³Ø§Ù† ÙƒÙˆÙ†Ø³ØªØ§Ù†Øª,Ø³Ù†-Ú©ÙˆÙ†Ø³ØªØ§Ù†ØŒ Ú©Ø¨Ú©,Ø³ÛŒÙ†Ù¹-Ú©Ø§Ù†Ø³Ù¹Ù†Ù¹ØŒ Ú©ÛŒÙˆØ¨Ú©	45.36678	-73.56588	P	PPL	CA		10	16	67035		23957		26	America/Toronto	6/22/16
+6137649	Saint-Cyrille-de-Wendover	Saint-Cyrille-de-Wendover		45.93336	-72.43241	P	PPL	CA		10	17	49070		1279		76	America/Toronto	2/23/16
+6137655	Saint-Damase	Saint-Damase		45.53341	-72.99914	P	PPL	CA		10	16	54017		1349		30	America/Toronto	6/22/16
+6137676	Saint-Denis-sur-Richelieu	Saint-Denis-sur-Richelieu	sn-dwny-swr-ryshwlyw  kbk,Ø³Ù†-Ø¯ÙˆÙ†ÛŒ-Ø³ÙˆØ±-Ø±ÛŒØ´ÙˆÙ„ÛŒÙˆØŒ Ú©Ø¨Ú©,Ø³ÛŒÙ†Ù¹-ÚˆÛŒÙ†Ø³-Ø³Ø±-Ø±ÛŒÚ†Ù„ÛŒÙˆØŒ Ú©ÛŒÙˆØ¨Ú©	45.78338	-73.14915	P	PPL	CA		10	16	57068		1067		17	America/Toronto	6/22/16
+6137696	Sainte-AdÃ¨le	Sainte-Adele	Sainte-Adele,Sainte-AdÃ¨le,Ste-Adele,Ste-AdÃ¨le	45.95008	-74.13251	P	PPL	CA		10	15	77022		10634		246	America/Toronto	2/24/18
+6137702	Sainte-Agathe-des-Monts	Sainte-Agathe-des-Monts	Sent Agat de Mon,Sent-Agat-de-Mon,sant aghath ds mwnts,snt-agat-dh-mwn,Ð¡ÐµÐ½Ñ‚ ÐÐ³Ð°Ñ‚ Ð´Ðµ ÐœÐ¾Ð½,Ð¡ÐµÐ½Ñ‚-ÐÐ³Ð°Ñ‚-Ð´Ðµ-ÐœÐ¾Ð½,Ø³Ø§Ù†Øª Ø£ØºØ§Ø« Ø¯Ø³ Ù…ÙˆÙ†ØªØ³,Ø³Ù†Øª-Ø¢Ú¯Ø§Øª-Ø¯Ù‡-Ù…ÙˆÙ†,Ø³ÛŒÙ†-Ø§Ú¯Ø§Ù¹Ú¾Û’-Ø¯Ø³-Ù…ÙˆÙ†Ù¹Ø³,ã‚µãƒ³ã‚¿ã‚¬ãƒƒãƒˆãƒ»ãƒ‡ãƒ»ãƒ¢ãƒ³	46.05009	-74.28252	P	PPL	CA		10	15			5706		375	America/Toronto	1/22/06
+6137733	Sainte-Anne-de-Bellevue	Sainte-Anne-de-Bellevue	Sent An de Belvi,Sent-Ann-de-Bel'vju,snt-an-dw-blww  kbk,Ð¡ÐµÐ½Ñ‚ ÐÐ½ Ð´Ðµ Ð‘ÐµÐ»Ð²Ð¸,Ð¡ÐµÐ½Ñ‚-ÐÐ½Ð½-Ð´Ðµ-Ð‘ÐµÐ»ÑŒÐ²ÑŽ,Ø³Ù†Øª-Ø¢Ù†-Ø¯Ùˆ-Ø¨Ù„ÙˆÙˆØŒ Ú©Ø¨Ú©,Ø³ÛŒÙ†-Ø§ÛŒÙ†-Ø¯Û’-Ø¨Ù„ÙˆÙˆÛ’ØŒ Ú©ÛŒÙˆØ¨Ú©	45.40618	-73.9456	P	PPL	CA		10				5197		34	America/Toronto	9/23/10
+6137749	Sainte-Anne-des-Monts	Sainte-Anne-des-Monts	Sent An de Mon,snt-an-dh-mwn  kbk,Ð¡ÐµÐ½Ñ‚ ÐÐ½ Ð´Ðµ ÐœÐ¾Ð½,Ø³Ù†Øª-Ø¢Ù†-Ø¯Ù‡-Ù…ÙˆÙ†ØŒ Ú©Ø¨Ú©,Ø³ÛŒÙ†-Ø§ÛŒÙ†-Ø¯Ø³-Ù…ÙˆÙ†Ù¹Ø³ØŒ Ú©ÛŒÙˆØ¨Ú©	49.12402	-66.49243	P	PPL	CA		10	11	4037		5602		15	America/Toronto	6/22/16
+6137753	Sainte-Anne-des-Plaines	Sainte-Anne-des-Plaines	Sent An de Plen,sant an dy blyn,snt-an-dh-pln  kbk,syn-ayn-ds-playns  kywbk,Ð¡ÐµÐ½Ñ‚ ÐÐ½ Ð´Ðµ ÐŸÐ»ÐµÐ½,Ø³Ø§Ù†Øª Ø¢Ù† Ø¯ÙŠ Ø¨Ù„ÙŠÙ†,Ø³Ù†Øª-Ø¢Ù†-Ø¯Ù‡-Ù¾Ù„Ù†ØŒ Ú©Ø¨Ú©,Ø³ÛŒÙ†-Ø§ÛŒÙ†-Ø¯Ø³-Ù¾Ù„Ø§Ø¦Ù†Ø³ØŒ Ú©ÛŒÙˆØ¨Ú©	45.76468	-73.81156	P	PPL	CA		10	15	73035		10680		67	America/Toronto	6/22/16
+6137764	Sainte-BÃ©atrix	Sainte-Beatrix	Sainte-Beatrix,Sainte-BÃ©atrix	46.20007	-73.61587	P	PPL	CA		10	14	62020		1849		204	America/Toronto	2/1/17
+6137780	Sainte-Catherine	Sainte-Catherine	Sainte-Catherine,Sent Katrin,sant kathryn,sheng ka te lin na,snt-katryn  kbk,Ð¡ÐµÐ½Ñ‚ ÐšÐ°Ñ‚Ñ€Ð¸Ð½,Ø³Ø§Ù†Øª ÙƒØ§Ø«Ø±ÙŠÙ†,Ø³Ù†Øª-Ú©Ø§ØªØ±ÛŒÙ†ØŒ Ú©Ø¨Ú©,Ø³ÛŒÙ†-Ú©ÛŒØªÚ¾Ø±ÛŒÙ†ØŒ Ú©ÛŒÙˆØ¨Ú©,åœ£å¡ç‰¹ç³å¨œ	45.40008	-73.58248	P	PPL	CA		10	16	67030		16762		25	America/Toronto	2/1/17
+6137781	Sainte-Catherine	Sainte-Catherine		46.31836	-72.56632	P	PPL	CA		10	4	37067		16211		10	America/Toronto	6/22/16
+6137842	Saint-Ã‰douard	Saint-Edouard	Saint-Edouard,Saint-Ã‰douard	45.23338	-73.51588	P	PPL	CA		10	16	68045		1672		53	America/Toronto	6/22/16
+6137941	Sainte-Julie	Sainte-Julie	Sent Zhili,sant jwly,snt-zhwly  kbk,Ð¡ÐµÐ½Ñ‚ Ð–Ð¸Ð»Ð¸,Ø³Ø§Ù†Øª Ø¬ÙˆÙ„ÙŠ,Ø³Ù†Øª-Ú˜ÙˆÙ„ÛŒØŒ Ú©Ø¨Ú©,Ø³ÛŒÙ†-Ø¬Ù„Û’ØŒ Ú©ÛŒÙˆØ¨Ú©	45.58338	-73.33246	P	PPL	CA		10	16	59010		29019		37	America/Toronto	6/22/16
+6137947	Sainte-Julienne	Sainte-Julienne		45.96677	-73.71587	P	PPL	CA		10	14	63060		3211		116	America/Toronto	6/22/16
+6138032	Sainte-Marthe-sur-le-Lac	Sainte-Marthe-sur-le-Lac		45.53338	-73.9325	P	PPL	CA		10	15	72015		11311		35	America/Toronto	6/22/16
+6138038	Sainte-Martine	Sainte-Martine		45.25008	-73.79919	P	PPL	CA		10	16	70012		2535		33	America/Toronto	6/22/16
+6138103	Sainte-Sophie	Sainte-Sophie		45.81678	-73.89919	P	PPL	CA		10	15	75028		1634		73	America/Toronto	6/22/16
+6138118	Sainte-ThÃ¨cle	Sainte-Thecle	snt-tkl  kbk,Ø³Ù†Øª-ØªÚ©Ù„ØŒ Ú©Ø¨Ú©,Ø³ÛŒÙ†-ØªÚ¾Ú©Ù„Û’ØŒ Ú©ÛŒÙˆØ¨Ú©	46.81676	-72.49911	P	PPL	CA		10	4	35050		1340		155	America/Toronto	2/23/16
+6138121	Sainte-ThÃ©rÃ¨se	Sainte-Therese		45.63922	-73.82757	P	PPL	CA		10	15	73010		25224		36	America/Toronto	6/22/16
+6138175	Saint-Eustache	Saint-Eustache	Fanum Sancti Eustachii,Saint-Eustache,Sent Estash,Sent-Ehstash,sant awstash,sn-awstash  kbk,Ð¡ÐµÐ½Ñ‚ Ð•ÑÑ‚Ð°Ñˆ,Ð¡ÐµÐ½Ñ‚-Ð­ÑÑ‚Ð°Ñˆ,Ø³Ø§Ù†Øª Ø£ÙˆØ³ØªØ§Ø´,Ø³Ù†-Ø§ÙˆØ³ØªØ§Ø´ØŒ Ú©Ø¨Ú©	45.565	-73.90554	P	PPL	CA		10	15	72005		42062		42	America/Toronto	6/22/16
+6138201	Saint-FÃ©licien	Saint-Felicien	Saint-Felicien,Saint-FÃ©licien,Sen Felisjen,Sen-Felis'en,san fylysyan,sn-flysyn  kbk,Ð¡ÐµÐ½ Ð¤ÐµÐ»Ð¸ÑÑ˜ÐµÐ½,Ð¡ÐµÐ½-Ð¤ÐµÐ»Ð¸ÑÑŒÐµÐ½,Ð¡ÐµÐ½-Ð¤ÐµÐ»Ñ–ÑÑŒÑ”Ð½,Ø³Ø§Ù† ÙÙŠÙ„ÙŠØ³ÙŠØ§Ù†,Ø³Ù†-ÙÙ„ÛŒØ³ÛŒÙ†ØŒ Ú©Ø¨Ú©,Ø³ÛŒÙ†Ù¹-ÙÙ„ÛŒÚ©ÛŒÚº ØŒ Ú©ÛŒÙˆØ¨Ú©	48.65007	-72.44906	P	PPL	CA		10	2	91042		8088		111	America/Toronto	4/13/16
+6138210	Saint-FÃ©lix-de-Valois	Saint-Felix-de-Valois	Saint-Felix-de-Valois,Saint-FÃ©lix-de-Valois	46.16977	-73.42525	P	PPL	CA		10	14	62007		6029		123	America/Toronto	2/1/17
+6138260	Saint-Gabriel	Saint-Gabriel		46.30007	-73.38245	P	PPL	CA		10	14	52080		2901		190	America/Toronto	6/22/16
+6138276	Saint-GÃ©dÃ©on	Saint-Gedeon		48.50009	-71.76581	P	PPL	CA		10	2	93035		1859		112	America/Toronto	6/22/16
+6138310	Saint-Germain-de-Grantham	Saint-Germain-de-Grantham		45.83337	-72.56582	P	PPL	CA		10	17	49048		2145		86	America/Toronto	2/23/16
+6138352	Saint-Hippolyte	Saint-Hippolyte	Saint-Hippolyte,St-Hippolyte	45.93338	-74.0159	P	PPL	CA		10	15	75045		8083		254	America/Toronto	6/22/16
+6138374	Saint-Hyacinthe	Saint-Hyacinthe	Gorad Sen-Iasent,Saint-Hyacinthe,Sankt-Giacint,Sent Ijasent,Sent-Iasent,XIM,san hyasnt  kybk,sn-ayysnt  kbk,Ð“Ð¾Ñ€Ð°Ð´ Ð¡ÐµÐ½-Ð†Ð°ÑÐµÐ½Ñ‚,Ð¡Ð°Ð½ÐºÑ‚-Ð“Ð¸Ð°Ñ†Ð¸Ð½Ñ‚,Ð¡ÐµÐ½Ñ‚ Ð˜Ñ˜Ð°ÑÐµÐ½Ñ‚,Ð¡ÐµÐ½Ñ‚-Ð†Ð°ÑÐµÐ½Ñ‚,Ð¡ÐµÐ½Ñ‚-Ð˜Ð°ÑÐµÐ½Ñ‚,Ø³Ø§Ù† Ù‡ÙŠØ§Ø³Ù†ØªØŒ ÙƒÙŠØ¨Ùƒ,Ø³Ù†-Ø§ÛŒÛŒØ³Ù†ØªØŒ Ú©Ø¨Ú©	45.63076	-72.95699	P	PPL	CA		10	16	54048		50326		32	America/Toronto	6/22/16
+6138413	Saint-Jacques	Saint-Jacques		45.95007	-73.56586	P	PPL	CA		10	14	63013		2985		55	America/Toronto	2/24/18
+6138419	Saint-Jacques-le-Mineur	Saint-Jacques-le-Mineur	Saint-Jacques-le-Mineur	45.28338	-73.41587	P	PPL	CA		10	16	68040		1672		47	America/Toronto	6/22/16
+6138495	Saint-Jean-sur-Richelieu	Saint-Jean-sur-Richelieu	Saint-Jean-sur-Richelieu,Sen Zhan sir Rishele,Sen-Zhan-sjur-Rishel'e,Sen-Zhan-sjur-Rishel'jo,YJN,san jan swr ryshlyw,sn-zhan-swr-ryshwlyw,Ð¡ÐµÐ½ Ð–Ð°Ð½ ÑÐ¸Ñ€ Ð Ð¸ÑˆÐµÑ™Ðµ,Ð¡ÐµÐ½-Ð–Ð°Ð½-ÑÑŽÑ€-Ð Ð¸ÑˆÐµÐ»ÑŒÐµ,Ð¡ÐµÐ½-Ð–Ð°Ð½-ÑÑŽÑ€-Ð Ñ–ÑˆÐµÐ»ÑŒÐ¹Ð¾,Ø³Ø§Ù† Ø¬Ø§Ù† Ø³ÙˆØ± Ø±ÙŠØ´Ù„ÙŠÙˆ,Ø³Ù†-Ú˜Ø§Ù†-Ø³ÙˆØ±-Ø±ÛŒØ´ÙˆÙ„ÛŒÙˆ,Ø³ÛŒÙ†Ù¹-Ú˜Ø§Úº -Ø³Ø±-Ø±ÛŒÚ†Ù„ÛŒÙˆ	45.30713	-73.26259	P	PPL	CA		10	16	56083		71613		32	America/Toronto	6/22/16
+6138501	Saint-JÃ©rÃ´me	Saint-Jerome	Saint-Jerome,Saint-JÃ©rÃ´me,Sen Zherom,Sen-Zherom,san jyrwm,sn-zhrwm  kbk,Ð¡ÐµÐ½ Ð–ÐµÑ€Ð¾Ð¼,Ð¡ÐµÐ½-Ð–ÐµÑ€Ð¾Ð¼,Ø³Ø§Ù† Ø¬ÙŠØ±ÙˆÙ…,Ø³Ù†-Ú˜Ø±ÙˆÙ…ØŒ Ú©Ø¨Ú©	45.78036	-74.00365	P	PPL	CA		10	15	75017		54948		95	America/Toronto	6/22/16
+6138517	Saint John	Saint John	Gorad Sent-Dzhon,Saint John,Saint-Jean,Sejnt Dzhon,Sent DZon,Sent-Dzhon,Urbs Sancti Ioannis Canadensis,YSJ,seinteujon,senta jona,sentcxhn,sentojon,sheng yue han,snt gwn,snt jan,Ð“Ð¾Ñ€Ð°Ð´ Ð¡ÐµÐ½Ñ‚-Ð”Ð¶Ð¾Ð½,Ð¡ÐµÐ¹Ð½Ñ‚ Ð”Ð¶Ð¾Ð½,Ð¡ÐµÐ½Ñ‚ ÐÐ¾Ð½,Ð¡ÐµÐ½Ñ‚-Ð”Ð¶Ð¾Ð½,×¡× ×˜ ×’×•×Ÿ,Ø³Ù†Øª Ø¬Ø§Ù†,Ø³ÛŒÙ†Ù¹ Ø¬Ø§Ù†,Ø³ÛŒÙ†Ù¹ Ø¬Ø§Ù†ØŒ Ù†ÛŒÙˆ Ø¨Ø±Ù†Ø³ÙˆÚ©,à¤¸à¥‡à¤‚à¤Ÿ à¤œà¥‰à¤¨,à¹€à¸‹à¸™à¸•à¹Œà¸ˆà¸­à¸«à¹Œà¸™,áƒ¡áƒ”áƒœáƒ¢-áƒ¯áƒáƒœáƒ˜,ã‚»ãƒ³ãƒˆã‚¸ãƒ§ãƒ³,ã‚»ãƒ³ãƒˆãƒ»ã‚¸ãƒ§ãƒ³,åœ£çº¦ç¿°,ì„¸ì¸íŠ¸ì¡´	45.27271	-66.06766	P	PPL	CA		4	1301			87857		5	America/Moncton	4/2/16
+6138558	Saint-Joseph-de-Coleraine	Saint-Joseph-de-Coleraine		45.96677	-71.36577	P	PPL	CA		10	12	31045		1319		273	America/Toronto	6/22/16
+6138573	Saint-Joseph-du-Lac	Saint-Joseph-du-Lac	Saint-Joseph-du-Lac	45.53338	-73.9992	P	PPL	CA		10	15	72025		6195		63	America/Toronto	6/22/16
+6138617	Saint-Lazare	Saint-Lazare	Saint-Lazare,Sen Lazar,san lazar  kybk,sn-lazar  kbk,Ð¡ÐµÐ½ Ð›Ð°Ð·Ð°Ñ€,Ø³Ø§Ù† Ù„Ø§Ø²Ø§Ø±ØŒ ÙƒÙŠØ¨Ùƒ,Ø³Ù†-Ù„Ø§Ø²Ø§Ø±ØŒ Ú©Ø¨Ú©	45.40008	-74.13256	P	PPL	CA		10	16	71105		17016		56	America/Toronto	6/22/16
+6138643	Saint-Lin-Laurentides	Saint-Lin-Laurentides		45.85008	-73.76588	P	PPL	CA		10	14	63048		14159		59	America/Toronto	6/22/16
+6138719	Saint-Marc-des-CarriÃ¨res	Saint-Marc-des-Carrieres		46.68335	-72.0491	P	PPL	CA		10	3	34065		2358		47	America/Toronto	6/22/16
+6138754	Saint-Mathieu	Saint-Mathieu	Saint-Mathieu	45.31678	-73.51587	P	PPL	CA		10	16	67005		1879		36	America/Toronto	6/22/16
+6138802	Saint-Michel-des-Saints	Saint-Michel-des-Saints	Saint-Michel-des-Saints	46.68338	-73.91589	P	PPL	CA		10	14			1835		364	America/Toronto	4/12/16
+6138980	Saint-Raymond	Saint-Raymond	Saint-Raymond de Portneuf	45.46698	-73.60948	P	PPL	CA		10	6	66023		9273		50	America/Toronto	2/24/18
+6139045	Saint-Sauveur	Saint-Sauveur		45.88686	-74.17943	P	PPL	CA		10	15	77043		9191		254	America/Toronto	6/22/16
+6139123	Saint-Thomas	Saint-Thomas	Saint-Thomas	46.01677	-73.34915	P	PPL	CA		10	14	61027		3193		28	America/Toronto	2/1/17
+6139154	Saint-Tite	Saint-Tite	Saint-Tite,Sen Tit,sn-tyt  kbk,Ð¡ÐµÐ½ Ð¢Ð¸Ñ‚,Ø³Ù†-ØªÛŒØªØŒ Ú©Ø¨Ú©	46.73336	-72.56581	P	PPL	CA		10	4	35027		2456		134	America/Toronto	2/1/17
+6139216	Saint-Zotique	Saint-Zotique	Saint-Zotique	45.25009	-74.24924	P	PPL	CA		10	16	71025		6773		47	America/Toronto	6/22/16
+6139289	Salaberry-de-Valleyfield	Salaberry-de-Valleyfield	Salaberi de Valefeld,Salaberri-de-Vallifild,Salaberry-de-Valleyfield,salabry-dw-wlyfyld,salbyry dy falyfyld,Ð¡Ð°Ð»Ð°Ð±ÐµÑ€Ð¸ Ð´Ðµ Ð’Ð°Ð»ÐµÑ„ÐµÐ»Ð´,Ð¡Ð°Ð»Ð°Ð±ÐµÑ€Ñ€Ð¸-Ð´Ðµ-Ð’Ð°Ð»Ð»Ð¸Ñ„Ð¸Ð»Ð´,Ø³Ø§Ù„Ø§Ø¨Ø±ÛŒ-Ø¯Ùˆ-ÙˆÙ„ÛŒÙÛŒÙ„Ø¯,Ø³Ø§Ù„Ø¨ÙŠØ±ÙŠ Ø¯ÙŠ ÙØ§Ù„ÙŠÙÙŠÙ„Ø¯	45.25008	-74.13253	P	PPL	CA		10	16	70052		38662		46	America/Toronto	6/22/16
+6139354	Salisbury	Salisbury		46.03905	-65.04628	P	PPL	CA		4				1891		45	America/Moncton	4/11/08
+6139413	Salmo	Salmo		49.19986	-117.2689	P	PPL	CA		2				1125		665	America/Vancouver	4/11/08
+6139416	Salmon Arm	Salmon Arm	Sehlmon-Arm,YSN,Ð¡ÑÐ»Ð¼Ð¾Ð½-ÐÑ€Ð¼	50.6998	-119.30237	P	PPL	CA		2				16205		347	America/Vancouver	5/13/08
+6141190	Sarnia	Sarnia	Gorad Sarnija,Sarnia,Sarnija,YZR,carniya,sa ni ya shi,sania,sarnya,Ð“Ð¾Ñ€Ð°Ð´ Ð¡Ð°Ñ€Ð½Ñ–Ñ,Ð¡Ð°Ñ€Ð½Ð¸Ñ,Ð¡Ð°Ñ€Ð½Ð¸Ñ˜Ð°,Ð¡Ð°Ñ€Ð½Ñ–Ñ,Ø³Ø§Ø±Ù†ÙŠØ§,Ø³Ø§Ø±Ù†ÛŒØ§,Ø³Ø§Ø±Ù†ÛŒÛ,à®šà®¾à®°à¯à®©à®¿à®¯à®¾,ã‚µãƒ¼ãƒ‹ã‚¢,è–©å°¼äºžå¸‚,ì‚¬ë‹ˆì•„	42.97866	-82.40407	P	PPL	CA		8	3538			82998		185	America/Toronto	1/20/18
+6141256	Saskatoon	Saskatoon	Gorad Saskatun,Saskatoon,Saskatoun,Saskatun,Saskatuna,Saskatunas,Saskatuno,SaskatÅ«na,SaskatÅ«nas,YXE,caskatun,sa si ka tong,saeseukeotun,saskatuna,saskatwn,sasukato~un,ssqtwn,Î£Î±ÏƒÎºÎ±Ï„Î¿ÏÎ½,Ð“Ð¾Ñ€Ð°Ð´ Ð¡Ð°ÑÐºÐ°Ñ‚ÑƒÐ½,Ð¡Ð°ÑÐºÐ°Ñ‚ÑƒÐ½,ÕÕ¡Õ½Õ¯Õ¡Õ¿Õ¸Ö‚Õ¶,×¡×¡×§×˜×•×Ÿ,Ø³Ø§Ø³ÙƒØ§ØªÙˆÙ†,Ø³Ø§Ø³Ú©Ø§ØªÙˆÙ†,Ø³Ø§Ø³Ú©Ø§Ù¹ÙˆÙ†,à¤¸à¤¾à¤¸à¥à¤•à¤¾à¤Ÿà¥‚à¤¨,à®šà®¾à®¸à¯à®•à®Ÿà¯‚à®©à¯,áƒ¡áƒáƒ¡áƒ™áƒáƒ¢áƒ£áƒœáƒ˜,ã‚µã‚¹ã‚«ãƒˆã‚¥ãƒ¼ãƒ³,è¨æ–¯å¡é€š,ìƒˆìŠ¤ì»¤íˆ°	52.13238	-106.66892	P	PPL	CA		11				198958		484	America/Regina	4/2/16
+6143367	Sechelt	Sechelt	YHS	49.47512	-123.75903	P	PPL	CA		2	5929			5977		10	America/Vancouver	9/23/13
+6144054	Selkirk	Selkirk	Selkirk,slkrk,Ð¡ÐµÐ»ÐºÐ¸Ñ€Ðº,Ð¡ÐµÐ»ÐºÑ–Ñ€Ðº,Ø³Ù„ Ú©Ø±Ú©ØŒ Ù…ÛŒÙ†ÛŒ Ù¹ÙˆØ¨Ø§,Ø³Ù„Ú©Ø±Ú©	50.1436	-96.88452	P	PPL	CA		3				9653		227	America/Winnipeg	4/11/08
+6144195	Senneterre	Senneterre	Senneterre,Senter,XFK,Ð¡ÐµÐ½Ñ‚ÐµÑ€	48.39302	-77.23951	P	PPL	CA		10	8	89040		3228		314	America/Toronto	1/15/18
+6144312	Sept-ÃŽles	Sept-Iles	Sept-Iles,Sept-ÃŽles,Set Il,Set-Il',YZV,sat ayl,st-ayl  kbk,Ð¡ÐµÑ‚ Ð˜Ð»,Ð¡ÐµÑ‚-Ð†Ð»ÑŒ,Ð¡ÐµÑ‚-Ð˜Ð»ÑŒ,Ø³Ø§Øª Ø¥ÙŠÙ„,Ø³Øª-Ø§ÛŒÙ„ØŒ Ú©Ø¨Ú©	50.20011	-66.38208	P	PPL	CA		10	9	97007		22582		5	America/Toronto	6/22/16
+6144602	Sexsmith	Sexsmith	Seksmit,Ð¡ÐµÐºÑÐ¼Ð¸Ñ‚	55.34998	-118.78602	P	PPL	CA		1				1743		719	America/Edmonton	4/11/08
+6145425	Shaunavon	Shaunavon		49.65005	-108.4181	P	PPL	CA		11				1658		916	America/Regina	4/11/08
+6145563	Shawville	Shawville		45.60011	-76.4827	P	PPL	CA		10	7	84010		1608		159	America/Toronto	6/22/16
+6145668	Shediac	Shediac	Shed'jak,Shediac,ShÃ©diac,Ð¨ÐµÐ´ÑŒÑÐº	46.21981	-64.54107	P	PPL	CA		4				4735		16	America/Moncton	7/25/08
+6145887	Shelburne	Shelburne	shlbrn  nwa askwshya,Ø´Ù„Ø¨Ø±Ù†ØŒ Ù†ÙˆØ§ Ø§Ø³Ú©ÙˆØ´ÛŒØ§	43.76325	-65.32355	P	PPL	CA		7				1939		10	America/Halifax	12/28/14
+6145890	Shelburne	Shelburne	Shelbern,Ð¨ÐµÐ»Ð±ÐµÑ€Ð½	44.0787	-80.20408	P	PPL	CA		8				4390		497	America/Toronto	4/11/08
+6145951	Shellbrook	Shellbrook		53.21679	-106.40109	P	PPL	CA		11				1192		494	America/Regina	4/11/08
+6146143	Sherbrooke	Sherbrooke	Gorad Shehrbruk,Serbrukas,Sherbrooke,Sherbruk,YSC,she bu lu,she bu lu ke,sheruburukku,shrbrwk,shyrbrwk,syeleubeulukeu,Å erbrukas,Ð“Ð¾Ñ€Ð°Ð´ Ð¨ÑÑ€Ð±Ñ€ÑƒÐº,Ð¨ÐµÑ€Ð±Ñ€ÑƒÐº,Ø´Ø±Ø¨Ø±ÙˆÚ©,Ø´ÙŠØ±Ø¨Ø±ÙˆÙƒ,Ø´ÛŒØ±Ø¨Ø±ÙˆÚ©,áƒ¨áƒ”áƒ áƒ‘áƒ áƒ£áƒ™áƒ˜,ã‚·ã‚§ãƒ«ãƒ–ãƒ«ãƒƒã‚¯,èˆå¸ƒç¢Œ,èˆå¸ƒé­¯å…‹,ì…°ë¥´ë¸Œë£¨í¬	45.40008	-71.89908	P	PPL	CA		10	5	43027		129447		175	America/Toronto	6/22/16
+6146279	Sherwood Park	Sherwood Park	Shervud Park,Ð¨ÐµÑ€Ð²ÑƒÐ´ ÐŸÐ°Ñ€Ðº	53.51684	-113.3187	P	PPL	CA		1				55063	729	722	America/Edmonton	2/13/07
+6147353	Sicamous	Sicamous		50.83312	-118.98565	P	PPL	CA		2				2732		355	America/Vancouver	4/11/08
+6147962	Simcoe	Simcoe		42.8334	-80.29967	P	PPL	CA		8				13922		210	America/Toronto	12/13/17
+6149374	Slave Lake	Slave Lake	Slave Lake,Slejv Lejk,YZH,Ð¡Ð»ÐµÑ˜Ð² Ð›ÐµÑ˜Ðº	55.28344	-114.76896	P	PPL	CA		1				7661		583	America/Edmonton	4/2/16
+6149996	Smithers	Smithers	Smithers,YYD,smydhrz,Ø³Ù…ÙŠØ°Ø±Ø²	54.78036	-127.17428	P	PPL	CA		2				5438		494	America/Vancouver	4/2/16
+6150174	Smiths Falls	Smiths Falls	Smiths Falls,YSH	44.90452	-76.02333	P	PPL	CA		8	3509			10553		131	America/Toronto	1/20/18
+6150293	Smoky Lake	Smoky Lake		54.11687	-112.46863	P	PPL	CA		1				1063		618	America/Edmonton	4/11/08
+6151264	Sooke	Sooke		48.37463	-123.72762	P	PPL	CA		2				6145		39	America/Vancouver	4/11/08
+6151455	Souris	Souris	Suris,Ð¡ÑƒÑ€Ð¸Ñ	46.3501	-62.24862	P	PPL	CA		9				1284		8	America/Halifax	4/11/08
+6151456	Souris	Souris		49.6172	-100.2612	P	PPL	CA		3				1752		428	America/Winnipeg	4/11/08
+6152244	South Huron	South Huron		43.31679	-81.51647	P	PPL	CA		8				9982		246	America/Toronto	5/5/13
+6152561	South River	South River		45.8334	-79.38293	P	PPL	CA		8				1193		369	America/Toronto	4/11/08
+6153250	Sparwood	Sparwood		49.73332	-114.88532	P	PPL	CA		2				3667		1140	America/Edmonton	8/15/12
+6153766	Spirit River	Spirit River		55.78327	-118.83607	P	PPL	CA		1				1157		616	America/Edmonton	4/11/08
+6154202	Springhill	Springhill		45.65015	-64.04873	P	PPL	CA		7				3940		192	America/Halifax	4/11/08
+6154383	Spruce Grove	Spruce Grove	Spras Grouvas,Sprus Grouv,Sprus-Grouv,Spryus-Qruv,asprws grww,sbrws ghrwwf,si pu lu si ge luo fu,sprws grww,Ð¡Ð¿Ñ€ÑƒÑ Ð“Ñ€Ð¾ÑƒÐ²,Ð¡Ð¿Ñ€ÑƒÑ-Ð“Ñ€Ð¾ÑƒÐ²,Ø§Ø³Ù¾Ø±ÙˆØ³ Ú¯Ø±ÙˆÙˆ,Ø³Ø¨Ø±ÙˆØ³ ØºØ±ÙˆÙˆÙ,Ø³Ù¾Ø±ÙˆØ³ Ú¯Ø±ÙˆÙˆ,æ–¯æ™®é²æ–¯æ ¼ç½—å¤«	53.53344	-113.91874	P	PPL	CA		1				17767		704	America/Edmonton	4/11/08
+6155033	St. Albert	St. Albert	Saint Albert,Saint-Albert,Sen Alberas,Sent Albert,sant albrt,seinteuaelbeoteu,sheng ai bo te,snt albrt,Ð¡ÐµÐ½Ñ‚ ÐÐ»Ð±ÐµÑ€Ñ‚,Ø³Ø§Ù†Øª Ø£Ù„Ø¨Ø±Øª,Ø³Ù†Øª Ø¢Ù„Ø¨Ø±Øª,Ø³ÛŒÙ†Ù¹ Ø§Ù„Ø¨Ø±Ù¹,Ø³ÛŒÙ†Ù¹ Ø§Ù„Ø¨Ø±Ù¹ØŒ Ø§Ù„Ø¨Ø±Ù¹Ø§,áƒ¡áƒ”áƒœáƒ¢-áƒáƒšáƒ‘áƒ”áƒ áƒ¢áƒ˜,åœ£è‰¾ä¼¯ç‰¹,ì„¸ì¸íŠ¸ì•¨ë²„íŠ¸	53.63344	-113.63533	P	PPL	CA		1				57719		663	America/Edmonton	9/22/10
+6155721	St. Catharines	St. Catharines	Gorad Sent-Kataryns,Saint Catharines,Sankta Katarino,Sent Katerinsas,Sent Ketrins,Sent-Katarins,Sent-Keterins,St. Catharines,YCM,sant kathrynz,seinteukaeseolinseu,sentokyasarinzu,sheng kai se lin si,snt katrynz  antaryw,Ð“Ð¾Ñ€Ð°Ð´ Ð¡ÐµÐ½Ñ‚-ÐšÐ°Ñ‚Ð°Ñ€Ñ‹Ð½Ñ,Ð¡ÐµÐ½Ñ‚ ÐšÐµÑ‚Ñ€Ð¸Ð½Ñ,Ð¡ÐµÐ½Ñ‚-ÐšÐ°Ñ‚Ð°Ñ€Ð¸Ð½Ñ,Ð¡ÐµÐ½Ñ‚-ÐšÐµÑ‚ÐµÑ€Ñ–Ð½Ñ,ÕÕ¥Õ¶Õ© Õ”Õ¡Õ©Õ¡Ö€Õ«Õ¶Õ½,Ø³Ø§Ù†Øª ÙƒØ§Ø«Ø±ÙŠÙ†Ø²,Ø³Ù†Øª Ú©Ø§ØªØ±ÛŒÙ†Ø²ØŒ Ø§Ù†ØªØ§Ø±ÛŒÙˆ,Ø³ÛŒÙ†Ù¹ Ú©ÛŒØªÚ¾Ø±Ø§Ø¦Ù†Ø²,à¹€à¸‹à¸™à¸•à¹Œà¹à¸„à¹€à¸—à¸­à¸£à¸µà¸™à¸ªà¹Œ,áƒ¡áƒ”áƒœáƒ¢-áƒ™áƒáƒ¢áƒáƒ áƒ˜áƒœáƒ¡áƒ˜,ã‚»ãƒ³ãƒˆã‚­ãƒ£ã‚µãƒªãƒ³ã‚º,åœ£å‡¯ç‘Ÿç³æ–¯,ì„¸ì¸íŠ¸ìºì„œë¦°ìŠ¤	43.17126	-79.24267	P	PPL	CA		8	3526			131989		102	America/Toronto	1/20/18
+6156102	Steinbach	Steinbach	Stajnbak,Stajnbek,si tan ba ke,Ð¡Ñ‚Ð°Ð¹Ð½Ð±Ð°Ðº,Ð¡Ñ‚Ð°Ð¹Ð½Ð±ÐµÐº,Ð¡Ñ‚Ð°Ñ˜Ð½Ð±Ð°Ðº,Ø³Ù¹ÛŒÙ† Ø¨ÛŒÚ†ØŒ Ù…Ø§Ù†ÛŒÙ¹ÙˆØ¨Ø§,Ø³Ù¹ÛŒÙ†Ø¨Ø§Ø®,æ–¯å¦å·´å…‹	49.52579	-96.68451	P	PPL	CA		3				9607		263	America/Winnipeg	4/11/08
+6156244	Stephenville	Stephenville	YJT	48.55001	-58.5818	P	PPL	CA		5				6278		15	America/St_Johns	4/11/08
+6156245	Stephenville Crossing	Stephenville Crossing		48.50001	-58.4318	P	PPL	CA		5				1183		-9999	America/St_Johns	4/11/08
+6156307	Stettler	Stettler	Stetler,Ð¡Ñ‚ÐµÑ‚Ð»ÐµÑ€	52.31683	-112.71861	P	PPL	CA		1				5494		814	America/Edmonton	4/11/08
+6157355	Stonewall	Stonewall	Stounvol,Ð¡Ñ‚Ð¾ÑƒÐ½Ð²Ð¾Ð»	50.13441	-97.32676	P	PPL	CA		3				4177		256	America/Winnipeg	4/11/08
+6157536	Stony Plain	Stony Plain	Stoni Plejn,si tuo ni pu lai en,Ð¡Ñ‚Ð¾Ð½Ð¸ ÐŸÐ»ÐµÑ˜Ð½,æ–¯æ‰˜å°¼æ™®èŽ±æ©	53.53343	-114.00205	P	PPL	CA		1				8939		705	America/Edmonton	4/11/08
+6157977	Stratford	Stratford	Stratford,Stretford,astratfwrd  antaryw,seuteulaespeodeu,si te la te fu,startfwrd,sutoratofodo,Ð¡Ñ‚Ñ€Ð°Ñ‚Ñ„Ð¾Ñ€Ð´,Ð¡Ñ‚Ñ€ÐµÑ‚Ñ„Ð¾Ñ€Ð´,Ø§Ø³ØªØ±Ø§ØªÙÙˆØ±Ø¯ØŒ Ø§Ù†ØªØ§Ø±ÛŒÙˆ,Ø³ØªØ§Ø±ØªÙÙˆØ±Ø¯,Ø³Ù¹Ø§Ø±Ù¹ ÙÙˆØ±Úˆ,ã‚¹ãƒˆãƒ©ãƒˆãƒ•ã‚©ãƒ¼ãƒ‰,æ–¯ç‰¹æ‹‰ç‰¹ç¦,ìŠ¤íŠ¸ëž«í¼ë“œ	43.36679	-80.94972	P	PPL	CA		8				30233		365	America/Toronto	1/29/10
+6158023	Strathmore	Strathmore	Stratmor,Ð¡Ñ‚Ñ€Ð°Ñ‚Ð¼Ð¾Ñ€	51.05011	-113.38523	P	PPL	CA		1				10009		976	America/Edmonton	4/11/08
+6158357	St. Thomas	St. Thomas	Saint Thomas,Sent Tomas,St. Thomas,YQS,sant twmas,sentotomasu,sheng tang ma shi,snt twmas  antaryw,Ð¡ÐµÐ½Ñ‚ Ð¢Ð¾Ð¼Ð°Ñ,Ø³Ø§Ù†Øª ØªÙˆÙ…Ø§Ø³,Ø³Ù†Øª ØªÙˆÙ…Ø§Ø³ØŒ Ø§Ù†ØªØ§Ø±ÛŒÙˆ,Ø³ÛŒÙ†Ù¹ ØªÚ¾Ø§Ù…Ø³,Ø³ÛŒÙ†Ù¹ ØªÚ¾Ø§Ù…Ø³ØŒ Ø§ÙˆÙ†Ù¹Ø§Ø±ÛŒÙˆ,ã‚»ãƒ³ãƒˆãƒˆãƒ¼ãƒžã‚¹,è–æ¹¯ç‘ªå£«	42.77361	-81.18038	P	PPL	CA		8				36110		232	America/Toronto	10/6/13
+6159232	Summerland	Summerland		49.59977	-119.66911	P	PPL	CA		2				6292		475	America/Vancouver	4/11/08
+6159244	Summerside	Summerside	Samersajd,Summerside,YSU,sa mo sai de,samrsayd,Ð¡Ð°Ð¼ÐµÑ€ÑÐ°Ñ˜Ð´,Ø³Ø§Ù…Ø±Ø³Ø§ÛŒØ¯,è¨é»˜èµ›å¾·	46.39593	-63.78762	P	PPL	CA		9	1103			14808		16	America/Halifax	4/2/16
+6159474	Sundre	Sundre		51.8001	-114.63532	P	PPL	CA		1				2384		1089	America/Edmonton	4/11/08
+6159905	Surrey	Surrey	Sari,Suri,Surrej,sare,seoli,su li,swry,swry  kwlwmbya albrytanyt,Ð¡Ð°Ñ€Ð¸,Ð¡ÑƒÑ€Ñ€ÐµÐ¹,Ð¡ÑŠÑ€Ð¸,×¡××¨×™,Ø³ÙˆØ±ÙŠØŒ ÙƒÙˆÙ„ÙˆÙ…Ø¨ÙŠØ§ Ø§Ù„Ø¨Ø±ÙŠØ·Ø§Ù†ÙŠØ©,Ø³ÙˆØ±ÛŒ,ã‚µãƒ¬ãƒ¼,ç´ é‡Œ,ì„œë¦¬	49.10635	-122.82509	P	PPL	CA		2				394976		82	America/Vancouver	9/22/10
+6159980	Sussex	Sussex		45.72266	-65.50663	P	PPL	CA		4				4048		23	America/Moncton	4/11/08
+6160070	Sutton	Sutton	Sutton	45.10008	-72.61582	P	PPL	CA		10	16	46058		3805		176	America/Toronto	6/22/16
+6160291	Swan Hills	Swan Hills		54.71681	-115.40226	P	PPL	CA		1				1900		1139	America/Edmonton	4/11/08
+6160362	Swan River	Swan River	Svon River,ZJN,tian e he,Ð¡Ð²Ð¾Ð½ Ð Ð¸Ð²ÐµÑ€,å¤©é¹…æ²³	52.1058	-101.26759	P	PPL	CA		3				4198		340	America/Winnipeg	4/11/08
+6160603	Swift Current	Swift Current	Svift Karent,Svift-Kerrent,Swift Current,YYN,si wei fu te ka lun te,swyft kwrnt,Ð¡Ð²Ð¸Ñ„Ñ‚ ÐšÐ°Ñ€ÐµÐ½Ñ‚,Ð¡Ð²Ñ–Ñ„Ñ‚-ÐšÐµÑ€Ñ€ÐµÐ½Ñ‚,Ø³ÙˆÙŠÙØª ÙƒÙˆØ±Ù†Øª,æ–¯å¨å¤«ç‰¹å¡ä¼¦ç‰¹	50.28337	-107.80135	P	PPL	CA		11				14703		742	America/Swift_Current	4/2/16
+6160806	Sylvan Lake	Sylvan Lake	Silvan Lejk,Ð¡Ð¸Ð»Ð²Ð°Ð½ Ð›ÐµÑ˜Ðº	52.311	-114.08375	P	PPL	CA		1	4808012			10518		961	America/Edmonton	1/16/18
+6160919	Taber	Taber	Tejber,Ð¢ÐµÑ˜Ð±ÐµÑ€	49.78703	-112.14603	P	PPL	CA		1				8163		813	America/Edmonton	7/24/12
+6162654	TÃ©miscaming	Temiscaming	Temiskaming,tmyskamng  kbk,Ð¢ÐµÐ¼Ð¸ÑÐºÐ°Ð¼Ð¸Ð½Ð³,ØªÙ…ÛŒØ³Ú©Ø§Ù…Ù†Ú¯ØŒ Ú©Ø¨Ú©	46.72122	-79.09712	P	PPL	CA		10	8	85005		1854		240	America/Toronto	6/22/16
+6162659	Temiskaming Shores	Temiskaming Shores	New Liskeard,Temiskaming Shors,di mi si ka ming hu an shi,timisukamingushoazu,tymyskymynj shwrz,Ð¢ÐµÐ¼Ð¸ÑÐºÐ°Ð¼Ð¸Ð½Ð³ Ð¨Ð¾Ñ€Ñ,ØªÙŠÙ…ÙŠØ³ÙƒÙŠÙ…ÙŠÙ†Ø¬ Ø´ÙˆØ±Ø²,Ù¹ÛŒÙ…Ø³Ú©Ø§Ù…Ù†Ú¯ Ø´ÙˆØ±Ø²,ãƒ†ã‚£ãƒŸã‚¹ã‚«ãƒŸãƒ³ã‚°ã‚·ãƒ§ã‚¢ãƒ¼ã‚º,è’‚ç±³æ–¯å¡æ˜Žæ¹–å²¸å¸‚	47.49376	-79.71529	P	PPL	CA		8				10442		248	America/Toronto	9/22/10
+6162949	Terrace	Terrace	Teras,YXT,tyras,Ð¢ÐµÑ€Ð°Ñ,ØªÙŠØ±Ø§Ø³,Ù¹ÛŒØ±ÛŒØ³ØŒ Ø¨Ø±Ù¹Ø´ Ú©ÙˆÙ„Ù…Ø¨ÛŒØ§	54.51634	-128.60345	P	PPL	CA		2				19443		70	America/Vancouver	1/22/06
+6163012	Terrebonne	Terrebonne	Terbon,trbwn  kbk,tyrbwn,Ð¢ÐµÑ€Ð±Ð¾Ð½,ØªØ±Ø¨ÙˆÙ†ØŒ Ú©Ø¨Ú©,ØªÙŠØ±Ø¨ÙˆÙ†	45.70004	-73.64732	P	PPL	CA		10	14	64008		94703		18	America/Toronto	6/22/16
+6164499	The Pas	The Pas	De Pa,De-Pa,Le Pas,The Pas,YQD,Ð”Ðµ ÐŸÐ°,Ð”Ðµ-ÐŸÐ°,Ø¯ÛŒ Ù¾Ø§Ø³ØŒ Ù…ÛŒÙ†ÛŒ Ù¹ÙˆØ¨Ø§	53.82509	-101.25413	P	PPL	CA		3				6055		267	America/Winnipeg	9/23/13
+6164831	Thessalon	Thessalon		46.25006	-83.5666	P	PPL	CA		8				1464		175	America/Toronto	4/11/08
+6165406	Thompson	Thompson	Thompson,Tompson,YTH,tang pu sen,twmbswn,Ð¢Ð¾Ð¼Ð¿ÑÐ¾Ð½,ØªÙˆÙ…Ø¨Ø³ÙˆÙ†,ØªÚ¾Ø§Ù…Ù¾Ø³Ù†ØŒ Ù…ÛŒÙ†ÛŒ Ù¹ÙˆØ¨Ø§,ØªÚ¾ÙˆÙ…Ù¾Ø³Ù†,æ±¤æ™®æ£®	55.7435	-97.85579	P	PPL	CA		3				12467		205	America/Winnipeg	4/2/16
+6165719	Thorold	Thorold	Torold,sororudo,thwrwld,Ð¢Ð¾Ñ€Ð¾Ð»Ð´,ØªÚ¾ÙˆØ±ÙˆÙ„Úˆ,Ø«ÙˆØ±ÙˆÙ„Ø¯,ã‚½ãƒ­ãƒ«ãƒ‰	43.11682	-79.19958	P	PPL	CA		8				18224		178	America/Toronto	9/22/10
+6165875	Three Hills	Three Hills		51.70012	-113.26863	P	PPL	CA		1				3051		897	America/Edmonton	4/11/08
+6166142	Thunder Bay	Thunder Bay	Tander Bej,Tander Bejus,Tander BÄ—jus,Tander-Bej,Thunder Bay,Tundurbej,YQT,sandabei,sang de bei,seondeobei,thandr bay,thandr by,Ð¢Ð°Ð½Ð´ÐµÑ€ Ð‘ÐµÑ˜,Ð¢Ð°Ð½Ð´ÐµÑ€-Ð‘ÐµÐ¹,Ð¢ÑŠÐ½Ð´ÑŠÑ€Ð±ÐµÐ¹,×ª×× ×“×¨ ×‘×™×™,ØªÚ¾Ù†ÚˆØ± Ø¨Û’,ØªÚ¾Ù†ÚˆØ±Ø¨Û’ØŒ Ø§Ù†Ù¹Ø§Ø±ÛŒÙˆ,Ø«Ø§Ù†Ø¯Ø± Ø¨Ø§ÙŠ,Ø«Ø§Ù†Ø¯Ø± Ø¨ÛŒ,à´¤à´£àµà´Ÿàµ¼ à´¬àµ‡,ã‚µãƒ³ãƒ€ãƒ¼ãƒ™ã‚¤,æ¡‘å¾·è´,ì„ ë”ë² ì´	48.38202	-89.25018	P	PPL	CA		8	3558			99334		188	America/Thunder_Bay	1/20/18
+6166224	Thurso	Thurso		45.6001	-75.24931	P	PPL	CA		10	7			2476		55	America/Toronto	4/11/08
+6166739	Timmins	Timmins	Timins,Timmins,YTS,di ming si,timinseu,timinzu,tymyns,tymyns  antaryw,tymynz,Ð¢Ð¸Ð¼Ð¸Ð½Ñ,Ð¢Ð¸Ð¼Ð¼Ð¸Ð½Ñ,Ð¢Ñ–Ð¼Ð¼Ñ–Ð½Ñ,×˜×™×ž×™× ×¡,ØªÙŠÙ…ÙŠÙ†Ø²,ØªÛŒÙ…ÛŒÙ†Ø³ØŒ Ø§Ù†ØªØ§Ø±ÛŒÙˆ,Ù¹ÛŒÙ…Ù†Ø²,ãƒ†ã‚£ãƒŸãƒ³ã‚º,è’‚æ˜Žæ–¯,í‹°ë¯¼ìŠ¤	48.46686	-81.33312	P	PPL	CA		8				42997		301	America/Toronto	11/12/17
+6166987	Tisdale	Tisdale	YTT	52.85002	-104.05096	P	PPL	CA		11				2862		448	America/Regina	4/11/08
+6167125	Tobermory	Tobermory		45.25007	-81.66647	P	PPL	CA		8				1427		192	America/Toronto	1/31/12
+6167254	Tofield	Tofield		53.36684	-112.66862	P	PPL	CA		1				1911		697	America/Edmonton	4/11/08
+6167817	Torbay	Torbay		47.66659	-52.73135	P	PPL	CA		5				3097		69	America/St_Johns	1/22/06
+6168326	Trail	Trail	Trejl,YZZ,trayl,Ð¢Ñ€ÐµÐ¹Ð»,Ð¢Ñ€ÐµÑ˜Ð»,ØªØ±Ø§ÙŠÙ„,Ù¹Ø±ÛŒÙ„ØŒ Ø¨Ø±Ù¹Ø´ Ú©ÙˆÙ„Ù…Ø¨ÛŒØ§	49.09983	-117.70223	P	PPL	CA		2				9707		422	America/Vancouver	1/3/18
+6169141	Trois-RiviÃ¨res	Trois-Rivieres	Gorad Trua-Ryuer,Troa Rivier,Troa Rivjer,Trois-Rivieres,Trois-RiviÃ¨res,Trua Rivjeras,Trua-Riv'er,Trua-River,Urbs Trifluvianensis,YRQ,san he shi,teulualibieleu,torowaribieru,torowarivu~ieru,trw-rywyayr,trwa ryfyyr,trwa rywyr,Ð“Ð¾Ñ€Ð°Ð´ Ð¢Ñ€ÑƒÐ°-Ð Ñ‹ÑžÐµÑ€,Ð¢Ñ€Ð¾Ð° Ð Ð¸Ð²Ð¸ÐµÑ€,Ð¢Ñ€Ð¾Ð° Ð Ð¸Ð²Ñ˜ÐµÑ€,Ð¢Ñ€ÑƒÐ°-Ð Ð¸Ð²ÑŒÐµÑ€,Ð¢Ñ€ÑƒÐ°-Ð Ñ–Ð²Ñ”Ñ€,ØªØ±Ùˆ-Ø±ÛŒÙˆÛŒØ§Ø¦Ø±,ØªØ±ÙˆØ§ Ø±ÙŠÙÙŠÙŠØ±,ØªØ±ÙˆØ§ Ø±ÛŒÙˆÛŒØ±,ãƒˆãƒ­ãƒ¯ãƒªãƒ“ã‚¨ãƒ¼ãƒ«,ãƒˆãƒ­ãƒ¯ãƒªãƒ´ã‚£ã‚¨ãƒ¼ãƒ«,ä¸‰æ²³å¸‚,íŠ¸ë£¨ì•„ë¦¬ë¹„ì—ë¥´	46.34515	-72.5477	P	PPL	CA		10	4	37067		119693		16	America/Toronto	6/22/16
+6169587	Truro	Truro	Truro,XLZ,trwrw  nwa askwshya,Ð¢Ñ€ÑƒÑ€Ð¾,ØªØ±ÙˆØ±ÙˆØŒ Ù†ÙˆØ§ Ø§Ø³Ú©ÙˆØ´ÛŒØ§	45.36685	-63.26538	P	PPL	CA		7				20650		17	America/Halifax	1/22/06
+6170118	Tumbler Ridge	Tumbler Ridge	TUX,Tumbler Ridge	55.13027	-120.99415	P	PPL	CA		2				2454	830	838	America/Dawson_Creek	3/5/17
+6171332	Two Hills	Two Hills		53.71686	-111.75181	P	PPL	CA		1				1147		621	America/Edmonton	4/11/08
+6171633	Ucluelet	Ucluelet	Gioukloulet,Juklulet,you ke lu li te,ywklwlt,Î“Î¹Î¿ÏÎºÎ»Î¿Ï…Î»ÎµÏ„,Ð®ÐºÐ»ÑƒÐ»ÐµÑ‚,Ø§Ú©Ù„ÙˆÛŒÙ„ÛŒÙ¹,ÛŒÙˆÚ©Ù„ÙˆÙ„Øª,å°¤å…‹ç›§åˆ©ç‰¹	48.94153	-125.54635	P	PPL	CA		2	5923			1566		24	America/Vancouver	9/14/13
+6172009	Unity	Unity		52.45014	-109.16816	P	PPL	CA		11				2096		633	America/Regina	4/11/08
+6172932	Uxbridge	Uxbridge	Uksbridzh,ywksbrydj,Ð£ÐºÑÐ±Ñ€Ð¸Ð´Ð¶,ÙŠÙˆÙƒØ³Ø¨Ø±ÙŠØ¯Ø¬	44.10012	-79.11628	P	PPL	CA		8				11531		274	America/Toronto	1/1/15
+6172998	Valcourt	Valcourt	Valcourt,Valkur,walkwr  kbk,Ð’Ð°Ð»ÐºÑƒÑ€,ÙˆØ§Ù„Ú©ÙˆØ±ØŒ Ú©Ø¨Ú©	45.50008	-72.31581	P	PPL	CA		10	5	42055		2451		200	America/Toronto	6/22/16
+6173001	Val-David	Val-David	Val-David	46.03338	-74.21592	P	PPL	CA		10	15			1211		325	America/Toronto	4/12/16
+6173012	Val-des-Monts	Val-des-Monts		45.6501	-75.66604	P	PPL	CA		10	7	82015		9539		141	America/Toronto	6/22/16
+6173017	Val-d'Or	Val-d'Or	Val d'Or,Val'-d'Or,Val-d'Or,Val-dâ€™Or,YVO,fal dwr  kybk,wal-dwr,Ð’Ð°Ð» Ð´'ÐžÑ€,Ð’Ð°Ð»ÑŒ-Ð´'ÐžÑ€,ÙØ§Ù„ Ø¯ÙˆØ±ØŒ ÙƒÙŠØ¨Ùƒ,ÙˆØ§Ù„-Ø¯ÙˆØ±	48.0974	-77.79737	P	PPL	CA		10	8	89008		31123		338	America/Toronto	9/6/15
+6173220	Valleyview	Valleyview	Valivju,falyfyw,Ð’Ð°Ð»Ð¸Ð²Ñ˜Ñƒ,ÙØ§Ù„ÙŠÙÙŠÙˆ,ÙˆÙ„ÛŒâ€ŒÙˆÛŒÙˆØŒ Ø¢Ù„Ø¨Ø±ØªØ§	55.06673	-117.28585	P	PPL	CA		1				1951		692	America/Edmonton	4/11/08
+6173241	Val-Morin	Val-Morin	Val-Morin	46.00008	-74.18251	P	PPL	CA		10	15	78005		2772		335	America/Toronto	6/22/16
+6173331	Vancouver	Vancouver	Ban'kouber,Fankuver,FankÃ»ver,Gorad Vankuver,Vancouver,Vancover,Vancuverium,VancÃ´ver,Vanguve,VangÃºve,Vankuver,Vankuvera,Vankuveris,Vankuvero,Vankuvur,VankÅ«vera,Venkuver,VenkÃ»ver,Wankuwer,WankuwÃ©r,YVR,baenkubeo,bankuba,bankuba shi,bhyanakubhara,fankwfr,vainakuvara,vainkuvara,vankuvar,vhamkuvhara,wen ge hua,wnkwwr,wnkwwr  brytysh klmbya,wnqwbr,wynkwwr,Î’Î±Î½ÎºÎ¿ÏÎ²ÎµÏ,Ð’Ð°Ð½ÐºÑƒÐ²ÐµÑ€,Ð’Ð°Ð½ÐºÑƒÐ²ÑŠÑ€,Ð“Ð¾Ñ€Ð°Ð´ Ð’Ð°Ð½ÐºÑƒÐ²ÐµÑ€,ÕŽÕ¡Õ¶Õ¯Õ¸Ö‚Õ¾Õ¥Ö€,×•× ×§×•×‘×¨,ÙØ§Ù†ÙƒÙˆÙØ±,ÙˆÙ†Ú©ÙˆÙˆØ±,ÙˆÙ†Ú©ÙˆÙˆØ±ØŒ Ø¨Ø±ÛŒØªÛŒØ´ Ú©Ù„Ù…Ø¨ÛŒØ§,ÙˆÛŒÙ†Ú©ÙˆÙˆØ±,à¤µà¥ˆà¤‚à¤•à¥‚à¤µà¤°,à¤µà¥à¤¹à¤à¤•à¥‚à¤µà¥à¤¹à¤°,à¦­à§à¦¯à¦¾à¦¨à¦•à§à¦­à¦¾à¦°,à¨µà©ˆà¨¨à¨•à©‚à¨µà¨°,à®µà®¾à®©à¯à®•à¯‚à®µà®°à¯,à¹à¸§à¸™à¸„à¸¹à¹€à¸§à¸­à¸£à¹Œ,à½à½“à¼‹à½à½´à¼‹à½à½ºà½¢à¼,á€—á€”á€ºá€€á€°á€¸á€—á€¬á€¸á€™á€¼á€­á€¯á€·,áƒ•áƒáƒœáƒ™áƒ£áƒ•áƒ”áƒ áƒ˜,á‰«áŠ•áŠ©á‰¨áˆ­,ãƒãƒ³ã‚¯ãƒ¼ãƒãƒ¼,ãƒãƒ³ã‚¯ãƒ¼ãƒãƒ¼å¸‚,æº«å“¥è¯,ë°´ì¿ ë²„	49.24966	-123.11934	P	PPL	CA		2				600000		70	America/Vancouver	7/18/16
+6173361	Vanderhoof	Vanderhoof	Vanderkhuf,fan de hu fu,fandrhwf,wndrhwf  brytysh klmbya,Ð’Ð°Ð½Ð´ÐµÑ€Ñ…ÑƒÑ„,ÙØ§Ù†Ø¯Ø±Ù‡ÙˆÙ,ÙˆÙ†Ø¯Ø±Ù‡ÙˆÙØŒ Ø¨Ø±ÛŒØªÛŒØ´ Ú©Ù„Ù…Ø¨ÛŒØ§,èŒƒå¾·èƒ¡å¤«	54.01657	-124.01982	P	PPL	CA		2				1462		635	America/Vancouver	4/11/08
+6173508	Varennes	Varennes	Varen,Varennes,warn  kbk,Ð’Ð°Ñ€ÐµÐ½,ÙˆØ§Ø±Ù†ØŒ Ú©Ø¨Ú©	45.68338	-73.43246	P	PPL	CA		10	16			20950		15	America/Toronto	2/1/17
+6173570	Vaudreuil-Dorion	Vaudreuil-Dorion	Vodrej Dorion,Vodrej-Dorion,fwdrwydwrywn,wwdrwy-dwrywn,Ð’Ð¾Ð´Ñ€ÐµÐ¹-Ð”Ð¾Ñ€Ñ–Ð¾Ð½,Ð’Ð¾Ð´Ñ€ÐµÑ˜ Ð”Ð¾Ñ€Ð¸Ð¾Ð½,ÙÙˆØ¯Ø±ÙˆÙŠØ¯ÙˆØ±ÙŠÙˆÙ†,ÙˆÙˆØ¯Ø±ÙˆÛŒ-Ø¯ÙˆØ±ÛŒÙˆÙ†	45.40008	-74.03251	P	PPL	CA		10	16	71083		25789		22	America/Toronto	6/22/16
+6173577	Vaughan	Vaughan	Von,bon,fawjan,vu~on,wan,wang shi,Ð’Ð¾Ð½,ÙØ§ÙˆØ¬Ø§Ù†,ÙˆØ§Ù†,ÙˆØ§Ù†ØŒ Ø§Ù†Ù¹Ø§Ø±ÛŒÙˆ,ÙˆØ§Ú¯Ú¾Ù†,ãƒ´ã‚©ãƒ¼ãƒ³,æ—ºå¸‚,ë³¸	43.8361	-79.49827	P	PPL	CA		8				238866		218	America/Toronto	12/7/11
+6173635	Vegreville	Vegreville	Vegrevil,Vegrevil',Vegrevill,wgrwyl  albrta,Ð’ÐµÐ³Ñ€ÐµÐ²Ð¸Ð»,Ð’ÐµÐ³Ñ€ÐµÐ²Ð¸Ð»Ð»,Ð’ÐµÒ‘Ñ€ÐµÐ²Ñ–Ð»ÑŒ,ÙˆÚ¯Ø±ÙˆÛŒÙ„ØŒ Ø¢Ù„Ø¨Ø±ØªØ§	53.50015	-112.05182	P	PPL	CA		1				5678		635	America/Edmonton	4/11/08
+6173690	Venise-en-QuÃ©bec	Venise-en-Quebec	Venise-en-Quebec,Venise-en-QuÃ©bec	45.08338	-73.13245	P	PPL	CA		10	16	56005		1547		29	America/Toronto	6/22/16
+6173750	VerchÃ¨res	Vercheres	wrshr  kbk,ÙˆØ±Ø´Ø±ØŒ Ú©Ø¨Ú©	45.78338	-73.34916	P	PPL	CA		10	16	59025		4030		2	America/Toronto	6/22/16
+6173801	Vermilion	Vermilion	Vermilion,YVG,wrmylywn  albrta,Ð’ÐµÑ€Ð¼Ð¸Ð»Ð¸Ð¾Ð½,ÙˆØ±Ù…ÛŒÙ„ÛŒÙˆÙ†ØŒ Ø¢Ù„Ø¨Ø±ØªØ§	53.35409	-110.85849	P	PPL	CA		1				4151		617	America/Edmonton	8/25/13
+6173864	Vernon	Vernon	Vernon,YVE,fu nong,fyrnwn,wrnn  brytysh klmbya,wrnn  brÙ¹sh kwlmbya,Ð’ÐµÑ€Ð½Ð¾Ð½,ÙÙŠØ±Ù†ÙˆÙ†,ÙˆØ±Ù†Ù†ØŒ Ø¨Ø±Ù¹Ø´ Ú©ÙˆÙ„Ù…Ø¨ÛŒØ§,ÙˆØ±Ù†Ù†ØŒ Ø¨Ø±ÛŒØªÛŒØ´ Ú©Ù„Ù…Ø¨ÛŒØ§,å¼—å†œ	50.26729	-119.27337	P	PPL	CA		2	5937			47274		383	America/Vancouver	1/11/15
+6174151	Victoriaville	Victoriaville	Victoriaville,Viktoriavill,Viktorijavil,Viktorijavil',bikutoriabiru,fyktwrya fyl,wyktwryawyl,Ð’Ð¸ÐºÑ‚Ð¾Ñ€Ð¸Ð°Ð²Ð¸Ð»Ð»,Ð’Ð¸ÐºÑ‚Ð¾Ñ€Ð¸Ñ˜Ð°Ð²Ð¸Ð»,Ð’Ñ–ÐºÑ‚Ð¾Ñ€Ñ–ÑÐ²Ñ–Ð»ÑŒ,ÙÙŠÙƒØªÙˆØ±ÙŠØ§ ÙÙŠÙ„,ÙˆÛŒÚ©ØªÙˆØ±ÛŒØ§ÙˆÛŒÙ„,ãƒ“ã‚¯ãƒˆãƒªã‚¢ãƒ“ãƒ«	46.05007	-71.96579	P	PPL	CA		10	17	39062		34426		131	America/Toronto	4/12/16
+6174254	Viking	Viking	Vajking,Ð’Ð°Ñ˜ÐºÐ¸Ð½Ð³	53.10014	-111.76844	P	PPL	CA		1				1106		683	America/Edmonton	4/11/08
+6174335	Ville-Marie	Ville-Marie		47.33345	-79.43297	P	PPL	CA		10	8	85025		2831		204	America/Toronto	6/22/16
+6174457	Virden	Virden	Verden,Ð’ÐµÑ€Ð´ÐµÐ½,ÙˆØ±ÚˆÙ†ØŒ Ù…ÛŒÙ†ÛŒ Ù¹ÙˆØ¨Ø§	49.8508	-100.93262	P	PPL	CA		3				3237		442	America/Winnipeg	4/11/08
+6174687	Vulcan	Vulcan	Valkan,Ð’Ð°Ð»ÐºÐ°Ð½	50.40008	-113.25189	P	PPL	CA		1				1853		1043	America/Edmonton	4/11/08
+6174727	Wabana	Wabana		47.63319	-52.94806	P	PPL	CA		5				2362		84	America/St_Johns	4/11/08
+6174914	Wadena	Wadena		51.94999	-103.80102	P	PPL	CA		11				1319		542	America/Regina	4/11/08
+6175059	Wainwright	Wainwright	Vejnrajt,Wainwright,Ð’ÐµÑ˜Ð½Ñ€Ð°Ñ˜Ñ‚	52.83482	-110.85342	P	PPL	CA		1				5380		680	America/Edmonton	12/11/16
+6175108	Wakefield	Wakefield		45.6668	-75.83265	P	PPL	CA		10	7	82035		2000		305	America/Toronto	6/22/16
+6176226	Warman	Warman	Vorman,Ð’Ð¾Ñ€Ð¼Ð°Ð½	52.31679	-106.56791	P	PPL	CA		11				3252		507	America/Regina	4/11/08
+6176393	Warwick	Warwick		45.95007	-71.9824	P	PPL	CA		10	17	39077		3340		168	America/Toronto	2/23/16
+6176421	Wasaga Beach	Wasaga Beach	Wasaga,Wasaga Beach	44.5168	-80.01637	P	PPL	CA		8				7567		188	America/Toronto	3/11/10
+6176654	Waswanipi	Waswanipi	Waswanipi	49.73346	-76.16604	P	PPL	CA		10	10			1473		307	America/Toronto	4/13/16
+6176821	Waterloo	Waterloo	Vaterloo,Ð’Ð°Ñ‚ÐµÑ€Ð»Ð¾Ð¾	45.35008	-72.51582	P	PPL	CA		10	16	47025		4064		210	America/Toronto	2/24/16
+6176823	Waterloo	Waterloo	Uoterlu,Vaterloo,Voterlu,hua tie lu,u~otaru,watrlw,watrlw  antaryw,woteollu,Ð’Ð°Ñ‚ÐµÑ€Ð»Ð¾Ð¾,Ð’Ð¾Ñ‚ÐµÑ€Ð»Ñƒ,Ð£Ð¾Ñ‚ÐµÑ€Ð»Ñƒ,ÙˆØ§ØªØ±Ù„Ùˆ,ÙˆØ§ØªØ±Ù„ÙˆØŒ Ø§Ù†ØªØ§Ø±ÛŒÙˆ,ÙˆØ§Ù¹Ø±Ù„ÙˆØŒ Ø§Ù†Ù¹Ø§Ø±ÛŒÙˆ,ã‚¦ã‚©ãƒ¼ã‚¿ãƒ¼ãƒ«ãƒ¼,æ»‘éµç›§,ì›Œí„¸ë£¨	43.4668	-80.51639	P	PPL	CA		8				97475		325	America/Toronto	1/29/10
+6176928	Watrous	Watrous		51.66677	-105.46788	P	PPL	CA		11				1689		543	America/Regina	4/11/08
+6176992	Watson Lake	Watson Lake	Uotson-Lejk,Watson Lake,YQH,Ð£Ð¾Ñ‚ÑÐ¾Ð½-Ð›ÐµÐ¹Ðº	60.06349	-128.70893	P	PPL	CA		12				1547		678	America/Vancouver	5/5/16
+6177869	Welland	Welland	Veland,Velland,u~erando,wei lan,wellaendeu,wlnd  antaryw,wyland,Ð’ÐµÐ»Ð°Ð½Ð´,Ð’ÐµÐ»Ð»Ð°Ð½Ð´,ÙˆÙ„Ù†Ø¯ØŒ Ø§Ù†ØªØ§Ø±ÛŒÙˆ,ÙˆÙŠÙ„Ø§Ù†Ø¯,ÙˆÛŒÙ„ÛŒÙ†Úˆ,ã‚¦ã‚§ãƒ©ãƒ³ãƒ‰,å¨è˜­,ì›°ëžœë“œ	42.98342	-79.24958	P	PPL	CA		8				50331		180	America/Toronto	9/22/10
+6178038	Wembley	Wembley		55.14995	-119.13602	P	PPL	CA		1				1574		729	America/Edmonton	4/11/08
+6178582	West End	West End		49.28333	-123.13333	P	PPL	CA		2				44560		49	America/Vancouver	9/9/13
+6179138	Westlock	Westlock		54.15016	-113.86876	P	PPL	CA		1				5067		651	America/Edmonton	4/11/08
+6179226	Westmount	Westmount	Uehstmaunt,Uestmaunt,Vestmaunt,uesutomaunto,wstmwnt  kbk,wysmawnt,Ð’ÐµÑÑ‚Ð¼Ð°ÑƒÐ½Ñ‚,Ð£ÐµÑÑ‚Ð¼Ð°ÑƒÐ½Ñ‚,Ð£ÑÑÑ‚Ð¼Ð°ÑƒÐ½Ñ‚,ÙˆØ³ØªÙ…ÙˆÙ†ØªØŒ Ú©Ø¨Ú©,ÙˆÙŠØ³Ù…Ø§ÙˆÙ†Øª,ã‚¦ã‚¨ã‚¹ãƒˆãƒžã‚¦ãƒ³ãƒˆ	45.48341	-73.59918	P	PPL	CA		10				20494		52	America/Toronto	9/23/10
+6179602	Wetaskiwin	Wetaskiwin	Vetaskisin,Vetaskivin,Vetaskivinas,VetaskiÅŸin,wei ta si ji wen,wetaseukiwin,wtaskwyn,wtaskywyn,Ð’ÐµÑ‚Ð°ÑÐºÐ¸Ð²Ð¸Ð½,ÙˆØªØ§Ø³ÙƒÙˆÙŠÙ†,ÙˆØªØ§Ø³Ú©ÛŒÙˆÛŒÙ†,ÙˆÛŒÙ¹Ø§Ø³Ú©ÛŒÙˆÙ†,éŸ¦å¡”æ–¯åŸºæ¸©,ì›¨íƒ€ìŠ¤í‚¤ìœˆ	52.96683	-113.36869	P	PPL	CA		1				11302		758	America/Edmonton	4/11/08
+6179652	Weyburn	Weyburn	Vejbern,wybrn,Ð’ÐµÐ¹Ð±ÐµÑ€Ð½,Ð’ÐµÑ˜Ð±ÐµÑ€Ð½,ÙˆÙŠØ¨Ø±Ù†	49.66675	-103.85109	P	PPL	CA		11				9362		568	America/Regina	4/11/08
+6180144	Whistler	Whistler	Uislur,Uistler,Visler,Vistler,Vistlera,Vistleris,Whistler,Whistler Village,Whistler i British Columbia,YWS,hwiseulleo,u~isura,wei shi na,wyslr  kwlwmbya albrytanyt,Ð’Ð¸ÑÐ»ÐµÑ€,Ð’Ñ–ÑÑ‚Ð»ÐµÑ€,Ð£Ð¸ÑÐ»ÑŠÑ€,Ð£Ð¸ÑÑ‚Ð»ÐµÑ€,ÙˆÙŠØ³Ù„Ø±ØŒ ÙƒÙˆÙ„ÙˆÙ…Ø¨ÙŠØ§ Ø§Ù„Ø¨Ø±ÙŠØ·Ø§Ù†ÙŠØ©,ã‚¦ã‚£ã‚¹ãƒ©ãƒ¼,å¨å£«æ‹¿,íœ˜ìŠ¬ëŸ¬	50.1164	-122.96946	P	PPL	CA		2				10600		688	America/Vancouver	5/23/15
+6180266	White City	White City		50.43338	-104.36778	P	PPL	CA		11				1813		606	America/Regina	1/22/06
+6180285	Whitecourt	Whitecourt	Vajtkort,YZU,Ð’Ð°Ñ˜Ñ‚ÐºÐ¾Ñ€Ñ‚	54.15015	-115.68548	P	PPL	CA		1				8763		689	America/Edmonton	4/11/08
+6180961	White Rock	White Rock	Vajt Rok,White Rock,bai shi,howaitorokku,hwaiteulog,wayt rak   brytysh klmbya,wayt rwk,Ð’Ð°Ñ˜Ñ‚ Ð Ð¾Ðº,ÙˆØ§Ø¦Ù¹ Ø±Ø§Ú©,ÙˆØ§Ø¦Ù¹ Ø±Ø§Ú©ØŒ Ø¨Ø±Ù¹Ø´ Ú©ÙˆÙ„Ù…Ø¨ÛŒØ§,ÙˆØ§ÙŠØª Ø±ÙˆÙƒ,ÙˆØ§ÛŒØª Ø±Ø§Ú© ØŒ Ø¨Ø±ÛŒØªÛŒØ´ Ú©Ù„Ù…Ø¨ÛŒØ§,ãƒ›ãƒ¯ã‚¤ãƒˆãƒ­ãƒƒã‚¯,ç™½çŸ³,í™”ì´íŠ¸ë¡	49.01636	-122.8026	P	PPL	CA		2	5915			66450		-9999	America/Vancouver	8/28/13
+6182001	Wilkie	Wilkie		52.41683	-108.70142	P	PPL	CA		11				1198		662	America/Regina	4/11/08
+6182212	Williams Lake	Williams Lake	Columetza,Uil'jams Lejk,Vilijams Lejk,Williams,Williams Lake,YWL,wei lian mu si hu,wlymzlyk,wylyamz lyk,Ð’Ð¸Ð»Ð¸Ñ˜Ð°Ð¼Ñ Ð›ÐµÑ˜Ðº,Ð£Ð¸Ð»ÑŒÑÐ¼Ñ Ð›ÐµÐ¹Ðº,ÙˆÙ„ÛŒÙ…Ø²Ù„ÛŒÚ©,ÙˆÙŠÙ„ÙŠØ§Ù…Ø² Ù„ÙŠÙƒ,å¨å»‰å§†æ–¯æ¹–	52.14153	-122.14451	P	PPL	CA		2	5941			14168		674	America/Vancouver	12/23/17
+6182958	Windsor	Windsor	Uinsor,Vindzor,wyndswr. nwa askwshya,Ð’Ð¸Ð½Ð´Ð·Ð¾Ñ€,Ð£Ð¸Ð½ÑÐ¾Ñ€,ÙˆÛŒÙ†Ø¯Ø³ÙˆØ±Ù¬ Ù†ÙˆØ§ Ø§Ø³Ú©ÙˆØ´ÛŒØ§	44.98345	-64.13204	P	PPL	CA		7				3864		11	America/Halifax	1/29/10
+6182959	Windsor	Windsor	Vindzor,Ð’Ð¸Ð½Ð´Ð·Ð¾Ñ€	45.56678	-71.99909	P	PPL	CA		10	5	42088		5408		173	America/Toronto	6/22/16
+6182962	Windsor	Windsor	Uindzur,Uinsor,Vindzor,Vindzoras,Windsor,YQG,u'indasara,uindzori,uinza,u~inza,wen sha,winjeo,wndswr,wyndzwr,wynzr  antaryw,Ð’Ð¸Ð½Ð´Ð·Ð¾Ñ€,Ð’Ñ–Ð½Ð´Ð·Ð¾Ñ€,Ð£Ð¸Ð½Ð´Ð·ÑŠÑ€,Ð£Ð¸Ð½ÑÐ¾Ñ€,×•×™× ×“×–×•×¨,ÙˆÙ†Ø¯Ø³ÙˆØ±,ÙˆÙ†ÚˆØ³Ø±ØŒ Ø§Ù†Ù¹Ø§Ø±ÛŒÙˆ,ÙˆÙ†ÚˆØ³ÙˆØ±,ÙˆÛŒÙ†Ø²Ø±ØŒ Ø§Ù†ØªØ§Ø±ÛŒÙˆ,à¦‰à¦‡à¦¨à§à¦¡à¦¸à¦°,áƒ£áƒ˜áƒœáƒ«áƒáƒ áƒ˜,ã‚¦ã‚£ãƒ³ã‚¶ãƒ¼,ã‚¦ã‚¤ãƒ³ã‚¶ãƒ¼,æ¸©èŽŽ,ìœˆì €	42.30008	-83.01654	P	PPL	CA		8				278013		190	America/Toronto	5/4/12
+6183141	Wingham	Wingham	wyngham  antaryw,ÙˆÛŒÙ†Ú¯Ù‡Ø§Ù…ØŒ Ø§Ù†ØªØ§Ø±ÛŒÙˆ	43.88793	-81.31145	P	PPL	CA		8				2923		318	America/Toronto	7/31/09
+6183204	Winkler	Winkler	Uinkler,Vinkler,wnklr,Ð’Ð¸Ð½ÐºÐ»ÐµÑ€,Ð’Ñ–Ð½ÐºÐ»ÐµÑ€,Ð£Ð¸Ð½ÐºÐ»ÐµÑ€,ÙˆÙ†Ú©Ù„Ø±,ÙˆÙ†Ú©Ù„Ø±ØŒ Ù…ÛŒÙ†ÛŒ Ù¹ÙˆØ¨Ø§	49.1817	-97.94104	P	PPL	CA		3				8270		271	America/Winnipeg	4/11/08
+6183858	Wolfville	Wolfville	wlf wyl,ÙˆÙ„Ù ÙˆÛŒÙ„	45.08345	-64.36546	P	PPL	CA		7				3523		53	America/Halifax	4/11/08
+6185021	Wynyard	Wynyard		51.76674	-104.18436	P	PPL	CA		11				1793		559	America/Regina	4/11/08
+6185138	Yamachiche	Yamachiche	yamashysh  kbk,ÛŒØ§Ù…Ø§Ø´ÛŒØ´ØŒ Ú©Ø¨Ú©,ÛŒØ§Ù…Ø§Ú†Ú†Û’ ØŒ Ú©ÛŒÙˆØ¨Ú©	46.26676	-72.83243	P	PPL	CA		10	4	51020		1255		4	America/Toronto	2/23/16
+6185217	Yarmouth	Yarmouth	Jarmut,YQI,Yarmouth,yameoseu,yarmwt,Ð¯Ñ€Ð¼ÑƒÑ‚,ÛŒØ§Ø±Ù…ÙˆØª,ÛŒØ§Ø±Ù…ÙˆØªÚ¾ØŒ Ù†ÙˆØ§ Ø³Ú©ÙˆÙ¹ÛŒØ§,ì•¼ë¨¸ìŠ¤	43.83345	-66.11557	P	PPL	CA		7				7500		26	America/Halifax	4/11/08
+6185607	Yorkton	Yorkton	Jorkton,YQV,Yorkton,yue ke dun,ywrktn,ywrktwn,ÐˆÐ¾Ñ€ÐºÑ‚Ð¾Ð½,Ð™Ð¾Ñ€ÐºÑ‚Ð¾Ð½,ÙŠÙˆØ±ÙƒØªÙ†,ÛŒÙˆØ±Ú©ØªÙˆÙ†,çº¦å…‹é¡¿	51.2167	-102.46766	P	PPL	CA		11				15669	498	504	America/Regina	10/6/13
+6295855	Beauceville	Beauceville	Bosvil,CWHV,bwsfyl,bwswyl  kbk,Ð‘Ð¾ÑÐ²Ð¸Ð»,Ø¨ÙˆØ³ÙÙŠÙ„,Ø¨ÙˆØ³ÙˆÛŒÙ„ØŒ Ú©Ø¨Ú©,Ø¨ÛŒÙˆØ³ÙˆÙ„Û’	46.21785	-70.77873	P	PPL	CA		10	12	27028		6226	229	174	America/Toronto	6/22/16
+6325479	BeauprÃ©	Beaupre	Beaupre,BeauprÃ©	47.04428	-70.89529	P	PPL	CA		10	3			2803		21	America/Toronto	4/12/16
+6325486	ChÃ¢teau-Richer	Chateau-Richer		46.96031	-71.03219	P	PPL	CA		10	3	21035		3563		6	America/Toronto	6/22/16
+6325516	L'Ange-Gardien	L'Ange-Gardien	L'Ange-Gardien	46.91976	-71.08253	P	PPL	CA		10	3	21040		3634		20	America/Toronto	6/22/16
+6325521	LÃ©vis	Levis	Levi,li wei,lwy  kbk,lyfys,lyws,revu~i,Ð›ÐµÐ²Ð¸,Ð›ÐµÐ²Ñ–,Ù„ÙˆÛŒØŒ Ú©Ø¨Ú©,Ù„ÙŠÙÙŠØ³,Ù„ÛŒÙˆØ³,ãƒ¬ãƒ´ã‚£,åˆ©ç»´	46.80326	-71.17793	P	PPL	CA		10	12	25213		126396		87	America/Blanc-Sablon	9/4/15
+6325529	Montmagny	Montmagny	Monmani,Montmagny,St. Thomas de Montmagny,mwnmayyny  kbk,mwntmaghny  kybk,ÐœÐ¾Ð½Ð¼Ð°Ð½Ñ–,ÐœÐ¾Ð½Ð¼Ð°ÑšÐ¸,Ù…ÙˆÙ†ØªÙ…Ø§ØºÙ†ÙŠØŒ ÙƒÙŠØ¨Ùƒ,Ù…ÙˆÙ†Ù…Ø§ÛŒÛŒÙ†ÛŒØŒ Ú©Ø¨Ú©	46.98043	-70.55493	P	PPL	CA		10	12			11724		15	America/Toronto	4/3/17
+6325572	Neuville	Neuville	Nevil,nwwyl  kbk,nywfyl,ÐÐµÐ²Ð¸Ð»,Ù†ÙˆÙˆÛŒÙ„ØŒ Ú©Ø¨Ú©,Ù†ÙŠÙˆÙÙŠÙ„	46.69823	-71.58275	P	PPL	CA		10	3	34007		3638		18	America/Toronto	6/22/16
+6354894	Portneuf	Portneuf	Pornef,Portneuf,bwrtnywf,pwrtnwf  kbk,ÐŸÐ¾Ñ€Ð½ÐµÑ„,Ø¨ÙˆØ±ØªÙ†ÙŠÙˆÙ,Ù¾ÙˆØ±ØªÙ†ÙˆÙØŒ Ú©Ø¨Ú©	46.69058	-71.89011	P	PPL	CA		10	3			3107		12	America/Toronto	4/13/16
+6354895	Rimouski	Rimouski	Rimouski,Rimuski,YXK,rymwsky,Ð Ð¸Ð¼ÑƒÑÐºÐ¸,Ð Ñ–Ð¼ÑƒÑÐºÑ–,Ø±ÙŠÙ…ÙˆØ³ÙƒÙŠ,Ø±ÛŒÙ…ÙˆØ³Ú©ÛŒ,á•†á’§á”…á‘­	48.44879	-68.52396	P	PPL	CA		10	1	10043		42240		23	America/Toronto	6/22/16
+6354897	RiviÃ¨re-du-Loup	Riviere-du-Loup	Riv'er-dju-Lu,River-dju-Lju,Riviere-du-Loup,RiviÃ¨re-du-Loup,Rivjer di Lu,YRI,ryfry dw lwb,rywyyr-dw-lw,Ð Ð¸Ð²ÑŒÐµÑ€-Ð´ÑŽ-Ð›Ñƒ,Ð Ð¸Ð²Ñ˜ÐµÑ€ Ð´Ð¸ Ð›Ñƒ,Ð Ñ–Ð²Ñ”Ñ€-Ð´ÑŽ-Ð›ÑŽ,Ø±ÙŠÙØ±ÙŠ Ø¯Ùˆ Ù„ÙˆØ¨,Ø±ÛŒÙˆÛŒÛŒØ±-Ø¯Ùˆ-Ù„Ùˆ,á‘²á±á‘Žá‘Œá’áá”…	47.82699	-69.54243	P	PPL	CA		10	1			18586		56	America/Toronto	8/24/13
+6354908	Sydney	Sydney	Baile Shidni,Sidni,Sydney,YQY,shidoni,sydny. nwa askwshya,Ð¡Ð¸Ð´Ð½Ð¸,Ø³ÛŒØ¯Ù†ÛŒÙ¬ Ù†ÙˆØ§ Ø§Ø³Ú©ÙˆØ´ÛŒØ§,ã‚·ãƒ‰ãƒ‹ãƒ¼	46.1351	-60.1831	P	PPL	CA		7	Cape Breton County (undefined)			105968		6	America/Glace_Bay	4/17/16
+6354950	Tofino	Tofino	Tofino,YAZ,tu fen nu,Î¤Î¿Ï†Î¯Î½Î¿,Ð¢Ð¾Ñ„Ð¸Ð½Ð¾,åèŠ¬å¥´	49.15314	-125.90744	P	PPL	CA		2	5923			1655		20	America/Vancouver	9/21/14
+6534203	L'Ancienne-Lorette	L'Ancienne-Lorette		46.79392	-71.35191	P	PPL	CA		10				16516		27	America/Toronto	9/22/10
+6545023	Edmundston	Edmundston	Edmundston,Ehdmundston,ai de meng ci dun,edomonsuton,Ð•Ð´Ð¼ÑƒÐ½Ð´ÑÑ‚Ð¾Ð½,Ð­Ð´Ð¼ÑƒÐ½Ð´ÑÑ‚Ð¾Ð½,Ø§ÚˆÙ…Ù†ÚˆØ³Ù¹Ù†,ã‚¨ãƒ‰ãƒ¢ãƒ³ã‚¹ãƒˆãƒ³,åŸƒå¾·è’™å…¹é¡¿	47.3737	-68.32512	P	PPL	CA		4				16643	200	154	America/Moncton	9/22/10
+6620467	St-Jean-Port-Joli	St-Jean-Port-Joli	Saint-Jean-Port-Joli	47.21418	-70.26969	P	PPL	CA		10	12	17070		3304		7	America/Toronto	4/3/17
+6620953	Saint-Georges	Saint-Georges	Saint-Georges	46.11353	-70.66526	P	PPL	CA		10	12	29073		31173		163	America/Toronto	6/22/16
+6639619	Sainte Catherine de la Jacques Cartier	Sainte Catherine de la Jacques Cartier		46.85244	-71.62056	P	PPL	CA		10	3	22005		5021		159	America/Toronto	6/22/16
+6690232	Baie-Saint-Paul	Baie-Saint-Paul	Baie-Saint-Paul,Be Sen Pol,Be-Sen-Pol',bay syn pal,bh-sn-pl  kbk,byh san bwl,Ð‘Ðµ Ð¡ÐµÐ½ ÐŸÐ¾Ð»,Ð‘Ðµ-Ð¡ÐµÐ½-ÐŸÐ¾Ð»ÑŒ,Ø¨Ø§Ø¦ Ø³ÛŒÙ† Ù¾Ø§Ù„,Ø¨Ù‡-Ø³Ù†-Ù¾Ù„ØŒ Ú©Ø¨Ú©,Ø¨ÙŠÙ‡ Ø³Ø§Ù† Ø¨ÙˆÙ„	47.44109	-70.49858	P	PPL	CA		10	3			7288		7	America/Toronto	4/12/16
+6693777	Carleton-sur-Mer	Carleton-sur-Mer	Karlton sir Mer,karltwn swr myr,karltwn-swr-mr,ÐšÐ°Ñ€Ð»Ñ‚Ð¾Ð½ ÑÐ¸Ñ€ ÐœÐµÑ€,ÙƒØ§Ø±Ù„ØªÙˆÙ† Ø³ÙˆØ± Ù…ÙŠØ±,Ú©Ø§Ø±Ù„ØªÙˆÙ†-Ø³ÙˆØ±-Ù…Ø±,Ú©Ø§Ø±Ù„ÛŒÙ¹Ù† Ø³Ø± Ù…Ø±	48.10749	-66.128	P	PPL	CA		10	11	6013		4077		7	America/Toronto	2/24/18
+6695808	Cacouna	Cacouna	Cacouna,kakwna  kbk,Ú©Ø§Ú©ÙˆÙ†Ø§ØŒ Ú©Ø¨Ú©	47.91657	-69.50054	P	PPL	CA		10	1	12057		1939		47	America/Toronto	6/22/16
+6696258	Campbellton	Campbellton	Kehmpbelton,kan bei er dun,ÐšÑÐ¼Ð¿Ð±ÐµÐ»Ñ‚Ð¾Ð½,Ú©ÛŒÙ…Ù¾Ø¨Ù„Ù¹Ù†,åŽè´å°”é¡¿	48.00751	-66.67272	P	PPL	CA		4	11			7384		9	America/Moncton	9/22/10
+6696259	Bathurst	Bathurst	Baterst,ZBF,ba se si te,basasuto,Ð‘Ð°Ñ‚ÐµÑ€ÑÑ‚,Ø¨Ø§ØªÚ¾Ø±Ø³Ù¹,ãƒã‚µãƒ¼ã‚¹ãƒˆ,å·´ç‘Ÿæ–¯ç‰¹	47.61814	-65.65112	P	PPL	CA		4				12714		6	America/Moncton	7/15/13
+6696260	Matane	Matane	Matan,Matane,YME,matan,matan  kybk,ÐœÐ°Ñ‚Ð°Ð½,Ù…Ø§ØªØ§Ù†,Ù…Ø§ØªØ§Ù†ØŒ ÙƒÙŠØ¨Ùƒ,á’ªá‘•á“€	48.82857	-67.52197	P	PPL	CA		10	1			14812		74	America/Toronto	4/12/16
+6942553	Paris	Paris	Ù¾ÛŒØ±Ø³ØŒ Ø§Ù†Ù¹Ø§Ø±ÛŒÙˆ	43.2	-80.38333	P	PPL	CA		8				11177		255	America/Toronto	6/25/09
+6943488	Amqui	Amqui	Amkvi,Amqui,amky,aymkwy,ÐÐ¼ÐºÐ²Ð¸,Ø¢Ù…Ú©ÛŒ,Ø£Ù…ÙƒÙŠ,Ø§ÛŒÙ…Ú©ÙˆØ¦,áŠá’»á•¿	48.46382	-67.43134	P	PPL	CA		10	1	7047		6261		161	America/Toronto	6/22/16
+6943713	Dawson City	Dawson City	Altepetl Dawson,Dawson,Dawson City,Douson,Douson-Siti,YDA,dao sen shi,doseunsiti,dwswn syty,Ð”Ð¾ÑƒÑÐ¾Ð½,Ð”Ð¾ÑƒÑÐ¾Ð½-Ð¡Ñ–Ñ‚Ñ–,×“×•×¡×•×Ÿ ×¡×™×˜×™,ÚˆØ§ÙˆØ³Ù† Ø´ÛØ±,ãƒ‰ãƒ¼ã‚½ãƒ³ãƒ»ã‚·ãƒ†ã‚£,é“æ£®å¸‚,ë„ìŠ¨ì‹œí‹°	64.06013	-139.43328	P	PPL	CA		12				1319	370	425	America/Dawson	4/23/16
+6943811	Chandler	Chandler	Chandler,XDL	48.34935	-64.67926	P	PPL	CA		10	11	2028		7914		17	America/Toronto	6/22/16
+6943825	Bonaventure	Bonaventure	Bonaventure,YVB	48.04573	-65.49259	P	PPL	CA		10	11	5045		2673		3	America/Toronto	6/22/16
+6943826	New-Richmond	New-Richmond		48.16059	-65.85823	P	PPL	CA		10	11	5070		3748		7	America/Toronto	6/22/16
+6943827	Thetford-Mines	Thetford-Mines	Thetford-Mines	46.09371	-71.30539	P	PPL	CA		10	12	31084		25704		317	America/Toronto	6/22/16
+6943833	New Carlisle	New Carlisle	New Carlisle,XEL	48.00956	-65.33621	P	PPL	CA		10	11	5040		1358		29	America/Toronto	6/22/16
+6944109	Cabano	Cabano	Cabano	47.68065	-68.8781	P	PPL	CA		10	1	13073		3199		168	America/Toronto	6/22/16
+6944111	SacrÃ©-Coeur	Sacre-Coeur	Sacre-Coeur,SacrÃ©-Coeur	48.2297	-69.80061	P	PPL	CA		10	9	95010		1881		115	America/Toronto	6/22/16
+6944112	Forestville	Forestville	Forestville,YFE	48.73808	-69.08478	P	PPL	CA		10	9	95045		3543		84	America/Toronto	6/22/16
+6944113	Mont-Joli	Mont-Joli	Mon Zholi,Mont-Joli,YYY,mwn-zhwly,mwnt jwly,ÐœÐ¾Ð½ Ð–Ð¾Ð»Ð¸,Ù…ÙˆÙ†-Ú˜ÙˆÙ„ÛŒ,Ù…ÙˆÙ†Øª Ø¬ÙˆÙ„ÙŠ	48.58388	-68.19214	P	PPL	CA		10	1	9077		6568		81	America/Toronto	2/24/18
+6945979	Lillooet	Lillooet		50.6856	-121.942	P	PPL	CA		2				2324		276	America/Vancouver	10/3/11
+6945986	La Malbaie	La Malbaie	La Malbaie,La Malbe,YML,la malbh  kbk,lamalbay,malby,Ð›Ð° ÐœÐ°Ð»Ð±Ðµ,Ù„Ø§ Ù…Ø§Ù„Ø¨Ù‡ØŒ Ú©Ø¨Ú©,Ù„Ø§Ù…Ø§Ù„Ø¨Ø§Ø¦,Ù…Ø§Ù„Ø¨ÙŠ	47.654	-70.15268	P	PPL	CA		10	3	15013		8959		16	America/Toronto	2/24/18
+6945989	Sainte-Marie	Sainte-Marie		46.43401	-71.01168	P	PPL	CA		10	12			11584		159	America/Toronto	9/23/10
+6945991	Plessisville	Plessisville		46.21856	-71.76201	P	PPL	CA		10	4			6677		163	America/Toronto	9/23/10
+6945997	Maliotenam	Maliotenam	Maliotenam	50.21119	-66.18164	P	PPL	CA		10	9	97007		1316		51	America/Toronto	6/22/16
+6948711	Scarborough	Scarborough	Skarboro,icukkarparo,seukabeoleo,shi jia bao,sukabaro,Ð¡ÐºÐ°Ñ€Ð±Ð¾Ñ€Ð¾,à®‡à®šà¯à®•à¯à®•à®¾à®°à¯à®ªà®°à¯‹,ã‚¹ã‚«ãƒ¼ãƒãƒ­ãƒ¼,å£«å˜‰å ¡,ìŠ¤ì¹´ë²„ëŸ¬	43.77223	-79.25666	P	PPL	CA		8				600000		171	America/Toronto	1/31/15
+6955478	Les Escoumins	Les Escoumins	Les Escoumins,lh askwmn  kbk,lys ayskwmyns,Ù„Ù‡ Ø§Ø³Ú©ÙˆÙ…Ù†ØŒ Ú©Ø¨Ú©,Ù„ÙŠØ³ Ø¥ÙŠØ³ÙƒÙˆÙ…ÙŠÙ†Ø³	48.35191	-69.40724	P	PPL	CA		10	9	95025		2000		11	America/Toronto	6/22/16
+7116273	Fossambault-sur-lac	Fossambault-sur-lac		46.87662	-71.61541	P	PPL	CA		10	3	22010		2000		165	America/Toronto	6/22/16
+7281936	West Kelowna	West Kelowna	District of West Kelowna,West Kelowna,uesutokerouna,u~esutokerouna,xi ji long na,ÙˆÛŒØ³Ù¹ Ú©ÛŒÙ„ÙˆÙ†Ø§,ã‚¦ã‚§ã‚¹ãƒˆã‚±ãƒ­ã‚¦ãƒŠ,ã‚¦ã‚¨ã‚¹ãƒˆã‚±ãƒ­ã‚¦ãƒŠ,è¥¿åŸºéš†æ‹¿	49.8625	-119.58333	P	PPL	CA		2				28793		484	America/Vancouver	2/19/11
+7302644	Tracadie-Sheila	Tracadie-Sheila	Tracadieâ€“Sheila,Trakadi-Shajla,Ð¢Ñ€Ð°ÐºÐ°Ð´Ð¸-Ð¨Ð°Ð¹Ð»Ð°	47.51444	-64.91806	P	PPL	CA		4				4474		18	America/Moncton	6/13/10
+7303783	Sydney Mines	Sydney Mines		46.23669	-60.21767	P	PPL	CA		7				7312	0	18	America/Glace_Bay	7/18/10
+7535673	Cap-SantÃ©	Cap-Sante		46.67159	-71.78812	P	PPL	CA		10	3	34030		2666		38	America/Toronto	6/22/16
+7535681	Saint-Augustin-de-Desmaures	Saint-Augustin-de-Desmaures	Sent Ogisten de Demor,san awghwstn dy dymarws,sn-awgwstn-dw-dmwr  kbk,Ð¡ÐµÐ½Ñ‚ ÐžÐ³Ð¸ÑÑ‚ÐµÐ½ Ð´Ðµ Ð”ÐµÐ¼Ð¾Ñ€,Ø³Ø§Ù† Ø£ÙˆØºÙˆØ³ØªÙ† Ø¯ÙŠ Ø¯ÙŠÙ…Ø§Ø±ÙˆØ³,Ø³Ù†-Ø§ÙˆÚ¯ÙˆØ³ØªÙ†-Ø¯Ùˆ-Ø¯Ù…ÙˆØ±ØŒ Ú©Ø¨Ú©,Ø³ÛŒÙ†Ù¹-Ø§ÙˆÚ¯Ø³Ù¹Ù†-Ø¯Û’-Ø¯Ø³Ù…Ø±Ø³	46.74064	-71.45131	P	PPL	CA		10	3			17281		78	America/Toronto	9/23/10
+7535690	Donnacona	Donnacona		46.68042	-71.7239	P	PPL	CA		10	3	34025		5564		60	America/Toronto	6/22/16
+7535692	La PocatiÃ¨re	La Pocatiere	La Pocatiere,La PocatiÃ¨re,La Pokatjer,Ste. Anne de la Pocatiere,Ste. Anne de la PocatiÃ¨re,la bwkaryh,la pwkatyyr  kbk,Ð›Ð° ÐŸÐ¾ÐºÐ°Ñ‚Ñ˜ÐµÑ€,Ù„Ø§ Ø¨ÙˆÙƒØ§Ø±ÙŠÙ‡,Ù„Ø§ Ù¾ÙˆÚ©Ø§ØªÛŒÛŒØ±ØŒ Ú©Ø¨Ú©	47.36733	-70.03484	P	PPL	CA		10	1	14085		4575		35	America/Toronto	4/3/17
+7535693	Saint-Joseph-de-Beauce	Saint-Joseph-de-Beauce	Sen Zhozef de Bos,sn-zhwzf-dw-bws  kbk,Ð¡ÐµÐ½ Ð–Ð¾Ð·ÐµÑ„ Ð´Ðµ Ð‘Ð¾Ñ,Ø³Ù†-Ú˜ÙˆØ²Ù-Ø¯Ùˆ-Ø¨ÙˆØ³ØŒ Ú©Ø¨Ú©,Ø³ÛŒÙ†Ù¹-Ø¬ÙˆØ³Ù-Ø¯Û’-Ø¨ÙˆÚ©Û’ØŒ Ú©ÛŒÙˆØ¨Ú©	46.3	-70.86667	P	PPL	CA		10	12			4454		170	America/Toronto	9/23/10
+7535694	Metabetchouan-Lac-a-la-Croix	Metabetchouan-Lac-a-la-Croix	MÃ©tabetchouanâ€“Lac-Ã -la-Croix	48.41	-71.78	P	PPL	CA		10	2	93012		4084		160	America/Toronto	6/22/16
+7602078	Ladner	Ladner		49.08938	-123.08241	P	PPL	CA		2				200000	1	3	America/Vancouver	11/15/10
+7669012	Walnut Grove	Walnut Grove		49.16473	-122.64042	P	PPL	CA		2				25683		40	America/Vancouver	3/10/18
+7731836	Saint-LÃ©onard	Saint-Leonard	Saint Leonard,Saint-Leonard,Saint-LÃ©onard,YSL,Ø³ÛŒÙ†Ù¹-Ù„ÛŒÙˆÙ†Ø§Ø±ÚˆØŒ Ù†ÛŒÙˆ Ø¨Ø±Ù†Ø³ÙˆÚ©	47.16317	-67.9246	P	PPL	CA		4	1313			2700		154	America/Moncton	8/10/13
+7731837	Harrison Brook	Harrison Brook		47.21304	-67.92847	P	PPL	CA		4				3200		165	America/Moncton	3/21/11
+7803723	Omemee	Omemee		44.29897	-78.55989	P	PPL	CA		8				1323		252	America/Toronto	5/18/11
+7870925	East York	East York	Ist Jork,Istochni Jork,isutoyoku,Ð˜ÑÑ‚ ÐˆÐ¾Ñ€Ðº,Ð˜ÑÑ‚Ð¾Ñ‡Ð½Ð¸ ÐˆÐ¾Ñ€Ðº,ã‚¤ãƒ¼ã‚¹ãƒˆãƒ¨ãƒ¼ã‚¯	43.69053	-79.32794	P	PPL	CA		8				115365		125	America/Toronto	7/6/16
+8224455	Saint-Antoine-de-Tilly	Saint-Antoine-de-Tilly		46.66346	-71.57335	P	PPL	CA		10	12	33095		1462		49	America/Toronto	6/22/16
+8285452	Ancaster	Ancaster	Ankaster,ankstr  antaryw,ÐÐ½ÐºÐ°ÑÑ‚ÐµÑ€,Ø§Ù†Ú©Ø³ØªØ±ØŒ Ø§Ù†ØªØ§Ø±ÛŒÙˆ	43.21806	-79.98716	P	PPL	CA		8				33232		253	America/Toronto	5/7/12
+8354533	Shannon	Shannon	Shannon,YOY	46.88026	-71.51464	P	PPL	CA		10	3	22020		5086		170	America/Toronto	6/22/16
+8354586	Saint-Henri	Saint-Henri	Saint-Henri-de-Lauzon,Saint-Henri-de-Levis,Saint-Henri-de-LÃ©vis	46.69314	-71.06927	P	PPL	CA		10	12	19068		5023		87	America/Toronto	2/24/18
+8379097	PohÃ©nÃ©gamook	Pohenegamook		47.46315	-69.22666	P	PPL	CA		10	1	13095		2770		231	America/Toronto	6/22/16
+8379100	Pont-Rouge	Pont-Rouge		46.75468	-71.69566	P	PPL	CA		10	3	34017		8723		104	America/Toronto	6/22/16
+8379101	Princeville	Princeville		46.17163	-71.87462	P	PPL	CA		10	17	32033		5693		160	America/Toronto	2/23/16
+8556258	Saint-SimÃ©on	Saint-Simeon	Saint-Simeon,Saint-SimÃ©on	47.84431	-69.87837	P	PPL	CA		10	3	15058		1300		45	America/Toronto	6/22/16
+8581594	Florenceville-Bristol	Florenceville-Bristol	Ø¨Ø±Ø³Ù¹Ù„ØŒ Ù†ÛŒÙˆ Ø¨Ø±Ù†Ø²ÙˆÛŒÚ©	46.44353	-67.61536	P	PPL	CA		4				1639		64	America/St_Johns	7/17/13
+8593671	Saint-Pascal	Saint-Pascal	Saint-Pascal	47.51813	-69.80301	P	PPL	CA		10	1	14018		3490		54	America/Toronto	6/22/16
+8593691	VallÃ©e-Jonction	Vallee-Jonction	Vallee-Jonction,VallÃ©e-Jonction,wlh-zhwnksywn  kbk,ÙˆÙ„Ù‡-Ú˜ÙˆÙ†Ú©Ø³ÛŒÙˆÙ†ØŒ Ú©Ø¨Ú©	46.37441	-70.91881	P	PPL	CA		10	12	26015		1940		171	America/Toronto	6/22/16
+10287505	Lower Sackville	Lower Sackville		44.77599	-63.67865	P	PPL	CA		7				21379		53	America/Halifax	10/18/16
+10627796	le Plateau	le Plateau		45.43514	-75.7803	P	PPL	CA		10	7	81017		15000		89	America/Toronto	8/18/15
+11257139	HÃ©rouxville	Herouxville	Herouxville,HÃ©rouxville	46.66617	-72.62512	P	PPL	CA		10	4	35035		1340		143	America/Toronto	2/1/17
+11429023	Saint-Norbert	Saint-Norbert	Saint-Norbert	46.16949	-73.31494	P	PPL	CA		10	14	52070		1059		76	America/Toronto	2/1/17
+11429024	Sainte-Ã‰lisabeth	Sainte-Elisabeth	Sainte-Elisabeth,Sainte-Ã‰lisabeth	46.09502	-73.35176	P	PPL	CA		10	14	52030		1559		51	America/Toronto	2/1/17
+11789760	Shippagan	Shippagan		47.74424	-64.70804	P	PPL	CA		4	1315			2631		1	America/Moncton	12/25/17
+11810378	Fogo Island	Fogo Island		49.71649	-54.16981	P	PPL	CA		5				2244		2	America/St_Johns	1/31/18
+11837933	Behchoko	Behchoko	Behchoko,BehchokÇ«Ì€	62.8025	-116.04639	P	PPL	CA		13				1926	7	156	America/Yellowknife	3/22/18
+11838088	Wendover	Wendover		45.57275	-75.12757	P	PPL	CA		8	3502	3502023		1302		54	America/Toronto	3/23/18
+5920288	Charlottetown	Charlottetown	Baile Shearlot,Baile SheÃ rlot,Carlotauno,Carolinapolis,Charlottetown,Sarlotetaunas,Sarlottaoun,Sarlottaun,Sharlottaun,Sharluttaun,YYG,carlattavun,saralatata'una,sharottotaun,syalleostaun,tsharlwt tawn,xia luo te dun,ÄˆarlotaÅ­no,Åžarlottaun,Å arlotetaunas,Î£Î¬ÏÎ»Î¿Ï„Ï„Î±Î¿Ï…Î½,Ð¨Ð°Ñ€Ð»Ð¾Ñ‚Ñ‚Ð°ÑƒÐ½,Ð¨Ð°Ñ€Ð»ÑŠÑ‚Ñ‚Ð°ÑƒÐ½,×©×¨×œ×•×˜×˜××•×Ÿ,ØªØ´Ø§Ø±Ù„ÙˆØª ØªØ§ÙˆÙ†,Ø´Ø§Ø±Ù„ÙˆØªâ€ŒØªØ§ÙˆÙ†,Ø´Ø§Ø±Ù„Ù¹Ù¹Ø§Ø¤Ù†,à¨¸à¨¼à¨¾à¨°à¨²à¨Ÿà¨Ÿà¨¾à¨Šà¨¨,à®šà®¾à®°à¯à®²à®Ÿà¯à®Ÿà®µà¯à®©à¯,áƒ¨áƒáƒ áƒšáƒáƒ¢áƒ¢áƒáƒ£áƒœáƒ˜,ã‚·ãƒ£ãƒ¼ãƒ­ãƒƒãƒˆã‚¿ã‚¦ãƒ³,å¤æ´›ç‰¹é¡¿,ìƒ¬ëŸ¿íƒ€ìš´	46.23899	-63.13414	P	PPLA	CA		9	1102			42402		5	America/Halifax	4/2/16
+5946768	Edmonton	Edmonton	Edmonton,Edmontona,Edmontonas,Edmontono,Edmundopolis,Edmuntun,Ehdmonton,Entmonton,Gorad Ehdmantan,YEA,admwntwn,ai de meng dun,aidamatana,edamantana,edeumeonteon,edomonton,etmantan,xe dman tan,Ã‰dmonton,ÎˆÎ½Ï„Î¼Î¿Î½Ï„Î¿Î½,Ð“Ð¾Ñ€Ð°Ð´ Ð­Ð´Ð¼Ð°Ð½Ñ‚Ð°Ð½,Ð•Ð´Ð¼Ð¾Ð½Ñ‚Ð¾Ð½,Ð•Ð´Ð¼ÑŠÐ½Ñ‚ÑŠÐ½,Ð­Ð´Ð¼Ð¾Ð½Ñ‚Ð¾Ð½,Ô·Õ¤Õ´Õ¸Õ¶Õ¿Õ¸Õ¶,××“×ž×•× ×˜×•×Ÿ,Ø¥Ø¯Ù…ÙˆÙ†ØªÙˆÙ†,Ø§Ø¯Ù…ÙˆÙ†ØªÙˆÙ†,Ø§ÛŒÚˆÙ…Ù†Ù¹Ù†,à¤à¤¡à¤®à¤‚à¤Ÿà¤¨,à¨à¨¡à¨®à©°à¨Ÿà¨¨,à®Žà®Ÿà¯à®®à®©à¯à®Ÿà®©à¯,à¹€à¸­à¸”à¸¡à¸±à¸™à¸•à¸±à¸™,à½¨à½ºà¼‹à½à½²à¼‹à½˜à½¼à½“à¼‹à½à½¼à½“à¼,áƒ”áƒ“áƒ›áƒáƒœáƒ¢áƒáƒœáƒ˜,áŠá’¥á¢á‘²á§á’‹áŠá§á¢á‘²á¦áƒá‘²á£,ã‚¨ãƒ‰ãƒ¢ãƒ³ãƒˆãƒ³,åŸƒå¾·è’™é¡¿,ì—ë“œë¨¼í„´	53.55014	-113.46871	P	PPLA	CA		1				712391	668	610	America/Edmonton	7/24/10
+5957776	Fredericton	Fredericton	Fredericopolis,Fredericton,Frederikton,Frederiktonas,Frederiktono,Frederiktun,Gorad Frehdehryktan,Phrentrikton,YFC,frdryktwn,frydryktwn,fu lei de li ke dun,furederikuton,hpireteriktan,peuledeoligteon,phredariktana,prdryqtwn,Î¦ÏÎ­Î½Ï„ÏÎ¹ÎºÏ„Î¿Î½,Ð“Ð¾Ñ€Ð°Ð´ Ð¤Ñ€ÑÐ´ÑÑ€Ñ‹ÐºÑ‚Ð°Ð½,Ð¤Ñ€ÐµÐ´ÐµÑ€Ð¸ÐºÑ‚Ð¾Ð½,Ð¤Ñ€ÐµÐ´ÐµÑ€Ð¸ÐºÑ‚ÑŠÐ½,Ð¤Ñ€ÐµÐ´ÐµÑ€Ñ–ÐºÑ‚Ð¾Ð½,×¤×¨×“×¨×™×§×˜×•×Ÿ,ÙØ±Ø¯Ø±ÛŒÚ©ØªÙˆÙ†,ÙØ±ÙŠØ¯Ø±ÙŠÙƒØªÙˆÙ†,ÙØ±ÛŒÚˆØ±Ú©Ù¹Ù†,ÙØ±ÛŒÚˆØ±ÛŒÚ©Ù¹Ù†,à¤«à¥à¤°à¥‡à¤¡à¤°à¤¿à¤•à¥à¤Ÿà¤¨,à®ƒà®ªà®¿à®°à¯†à®Ÿà¯†à®°à®¿à®•à¯à®Ÿà®©à¯,áƒ¤áƒ áƒ”áƒ“áƒ”áƒ áƒ˜áƒ™áƒ¢áƒáƒœáƒ˜,ãƒ•ãƒ¬ãƒ‡ãƒªã‚¯ãƒˆãƒ³,å¼—é›·å¾·é‡Œå…‹é “,í”„ë ˆë”ë¦­í„´	45.94541	-66.66558	P	PPLA	CA		4				52337		110	America/Moncton	7/29/10
+5983720	Iqaluit	Iqaluit	Crystal Two,Frobisher Bay,Gorad Ikaluit,Ikalouit,Ikaluit,Ikaluita,Ikaluitas,Ikaluito,Iqaluit,YFB,aykalwyt,ikallu-iteu,ikaruito,ikkaluyit,ikvalyu'ita,yi kui te,Î™ÎºÎ±Î»Î¿ÏÎ¹Ï„,Ð†ÐºÐ°Ð»ÑƒÑ—Ñ‚,Ð“Ð¾Ñ€Ð°Ð´ Ð†ÐºÐ°Ð»ÑƒÑ–Ñ‚,Ð˜ÐºÐ°Ð»ÑƒÐ¸Ñ‚,××™×§××œ×•××™×˜,Ø¥ÙŠÙƒØ§Ù„ÙˆÙŠØª,Ø§Ú©Ø§Ù„ÙˆØ¦Ù¹,Ø§ÛŒÚ©Ø§Ù„ÙˆÛŒØª,à¤‡à¤•à¥à¤µà¤¾à¤²à¥à¤¯à¥à¤ˆà¤¤,à®‡à®•à¯à®•à®¾à®²à¯à®¯à®¿à®Ÿà¯,áƒ˜áƒ™áƒáƒšáƒ£áƒ˜áƒ¢áƒ˜,áƒá–ƒá“—áƒá‘¦,ã‚¤ã‚«ãƒ«ã‚¤ãƒˆ,ä¼Šé­ç‰¹,ì´ì¹¼ë£¨ì´íŠ¸	63.74697	-68.51727	P	PPLA	CA		14				6124		14	America/Iqaluit	4/17/16
+6119109	Regina	Regina	Gorad Rehdzhajna,Redzaina,Redzajna,Redzhajna,Redzhajnae,RedÅ¾aina,Regina,Regina i Saskatchewan,Regino,Rejayna,Rengina,ReÄino,Ridzaina,Ridzhajna,RidÅ¾aina,RÃ©gina,Urbs Reginae,YQR,li gu na,li jia na,lijaina,rejaina,rejina,rgyynh,rija'ina,rjayna,ryjayna,ryjyna  saskchywan,Î¡ÎµÎ³Î³Î¯Î½Î±,Ð“Ð¾Ñ€Ð°Ð´ Ð ÑÐ´Ð¶Ð°Ð¹Ð½Ð°,Ð ÐµÐ´Ð¶Ð°Ð¹Ð½Ã¦,Ð ÐµÐ´Ð¶Ð°Ð¹Ð½Ð°,Ð ÐµÑŸÐ°Ñ˜Ð½Ð°,Ð Ð¸Ð´Ð¶Ð°Ð¹Ð½Ð°,ÕŒÕ¥Õ»Õ¡ÕµÕ¶Õ¡,×¨×’×™×™× ×”,Ø±Ø¬Ø§ÛŒÙ†Ø§,Ø±ÙŠØ¬Ø§ÙŠÙ†Ø§,Ø±ÛŒØ¬ÛŒÙ†Ø§ØŒ Ø³Ø§Ø³Ú©Ú†ÛŒÙˆØ§Ù†,à¤°à¥‡à¤œà¤¿à¤¨à¤¾,à¨°à¨¿à¨œà¨¾à¨‡à¨¨à¨¾,à®°à¯†à®œà¯ˆà®©à®¾,áƒ áƒ”áƒ¯áƒáƒ˜áƒœáƒ,ãƒ¬ã‚¸ãƒ£ã‚¤ãƒŠ,é‡Œè³ˆç´,é‡Œè´¾çº³,ë¦¬ìžì´ë‚˜	50.45008	-104.6178	P	PPLA	CA		11				176183		577	America/Regina	7/29/10
+6167865	Toronto	Toronto	Gorad Taronta,Torontas,Toronto,Torontu,Torontum,TorontÃ³,YTO,duo lun duo,roranro,taronto,teareantea,tho rxn to,tolonto,toramto,toranto,toronto,twrntw,twrwntw,Î¤Î¿ÏÏŒÎ½Ï„Î¿,Ð“Ð¾Ñ€Ð°Ð´ Ð¢Ð°Ñ€Ð¾Ð½Ñ‚Ð°,Ð¢Ð¾Ñ€Ð¾Ð½Ñ‚Ð¾,ÕÕ¸Ö€Õ¸Õ¶Õ¿Õ¸,×˜××¨×× ×˜×,×˜×•×¨×•× ×˜×•,ØªÙˆØ±Ù†ØªÙˆ,ØªÙˆØ±ÙˆÙ†ØªÙˆ,Ù¹ÙˆØ±Ø§Ù†Ù¹Ùˆ,Ù¹ÙˆØ±Ù†Ù¹Ùˆ,à¤Ÿà¥‹à¤°à¤£à¥à¤Ÿà¥‹,à¤Ÿà¥‹à¤°à¤¨à¥à¤Ÿà¥‹,à¤Ÿà¥‹à¤°à¤¾à¤à¤Ÿà¥‹,à¤¤à¥‹à¤°à¤¨à¥à¤¤à¥‹,à¦Ÿà¦°à§‹à¦¨à§à¦Ÿà§‹,à¨Ÿà©‹à¨°à¨¾à¨‚à¨Ÿà©‹,à®°à¯Šà®±à®©à¯à®°à¯‹,à°Ÿà±Šà°°à°‚à°Ÿà±‹,à²Ÿà³Šà²°à²¾à²‚à²Ÿà³‹,à´Ÿàµ‹à´±àµ‹à´£àµà´Ÿàµ‹,à¹‚à¸—à¸£à¸­à¸™à¹‚à¸•,á€á€­á€¯á€›á€½á€”á€ºá€á€­á€¯á€™á€¼á€­á€¯á€·,áƒ¢áƒáƒ áƒáƒœáƒ¢áƒ,ãƒˆãƒ­ãƒ³ãƒˆ,å¤šä¼¦å¤š,å¤šå€«å¤š,í† ë¡ í† 	43.70011	-79.4163	P	PPLA	CA		8				2600000		175	America/Toronto	4/24/15
+6174041	Victoria	Victoria	Victoria,VictÃ²ria,Viktori,Viktoria,Viktoria Vretanikis Kolomvias,Viktorija,Viktorio,Viktoriya,Wiktoriye,YYJ,bigtolia,bikutoria,fktwrya,vhiktoriya,vikatori'a,viktoriya,vu~ikutoria,wei duo li ya,wiktxreiy,wyktwrya  brytysh klmbya,wyqtwryh,Î’Î¹ÎºÏ„ÏŽÏÎ¹Î± Î’ÏÎµÏ„Î±Î½Î¹ÎºÎ®Ï‚ ÎšÎ¿Î»Î¿Î¼Î²Î¯Î±Ï‚,Ð’Ð¸ÐºÑ‚Ð¾Ñ€Ð¸,Ð’Ð¸ÐºÑ‚Ð¾Ñ€Ð¸Ñ,Ð’Ð¸ÐºÑ‚Ð¾Ñ€Ð¸Ñ˜Ð°,Ð’Ñ–ÐºÑ‚Ð¾Ñ€Ñ–Ñ,ÕŽÕ«Õ¯Õ¿Õ¸Ö€Õ«Õ¡,×•×™×§×˜×•×¨×™×”,ÙÙƒØªÙˆØ±ÙŠØ§,ÙˆÚ©Ù¹ÙˆØ±ÛŒØ§,ÙˆÚ©Ù¹ÙˆØ±ÛŒØ§ØŒ Ø¨Ø±Ù¹Ø´ Ú©ÙˆÙ„Ù…Ø¨ÛŒØ§,ÙˆÛŒÚ©ØªÙˆØ±ÛŒØ§ØŒ Ø¨Ø±ÛŒØªÛŒØ´ Ú©Ù„Ù…Ø¨ÛŒØ§,à¤µà¥à¤¹à¤¿à¤•à¥à¤Ÿà¥‹à¤°à¤¿à¤¯à¤¾,à¨µà¨¿à¨•à¨Ÿà©‹à¨°à©€à¨†,à®µà®¿à®•à¯à®Ÿà¯‹à®°à®¿à®¯à®¾,à¸§à¸´à¸à¸•à¸­à¹€à¸£à¸µà¸¢,áƒ•áƒ˜áƒ¥áƒ¢áƒáƒ áƒ˜áƒ,ãƒ“ã‚¯ãƒˆãƒªã‚¢,ãƒ´ã‚£ã‚¯ãƒˆãƒªã‚¢,ç¶­å¤šåˆ©äºž,ë¹…í† ë¦¬ì•„	48.43294	-123.3693	P	PPLA	CA		2				289625		6	America/Vancouver	6/4/15
+6180550	Whitehorse	Whitehorse	Equus Albus,Gorad Uajtkhors,Gouaitchors,Uaithors,Uajtkhors,Vaithorsas,Vajtkhors,Vaythors,Whitehorse,YXY,bai ma shi,howaitohosu,hwaiteuhoseu,vait'hars,wayt hwrs,wayÙ¹ Ûars  ywkwn,wyythwrs,Î“Î¿Ï…Î¬Î¹Ï„Ï‡Î¿ÏÏ‚,Ð’Ð°Ð¹Ñ‚Ñ…Ð¾Ñ€Ñ,Ð’Ð°Ñ˜Ñ‚Ñ…Ð¾Ñ€Ñ,Ð“Ð¾Ñ€Ð°Ð´ Ð£Ð°Ð¹Ñ‚Ñ…Ð¾Ñ€Ñ,Ð£Ð°Ð¹Ñ‚Ñ…Ð¾Ñ€Ñ,×•×™×™×˜×”×•×¨×¡,ÙˆØ§Ø¦Ù¹ ÛØ§Ø±Ø³ØŒ ÛŒÙˆÚ©ÙˆÙ†,ÙˆØ§ÙŠØª Ù‡ÙˆØ±Ø³,ÙˆØ§ÛŒØªâ€ŒÙ‡ÙˆØ±Ø³ØŒ ÛŒÙˆÚ©Ø§Ù†,à®µà¯ˆà®Ÿà¯à®¹à®¾à®°à¯à®¸à¯,áƒ£áƒáƒ˜áƒ¢áƒ°áƒáƒ áƒ¡áƒ˜,ãƒ›ãƒ¯ã‚¤ãƒˆãƒ›ãƒ¼ã‚¹,ç™½é¦¬å¸‚,í™”ì´íŠ¸í˜¸ìŠ¤	60.71611	-135.05375	P	PPLA	CA		12				23272	707	630	America/Whitehorse	7/29/10
+6183235	Winnipeg	Winnipeg	Gorad Vinipeg,Gouinipenk,Uinipeg,Uinnipeg,Vinipeg,Vinipega,Vinipegas,Vinipego,Vinnipeg,Vinnipega,Vinnipeq,WPG,Winnipeg,Winnipeg City,WinnipÃ©g,YWG,u~inipegu,vinipaiga,vinipega,vinippek,wen ni bo,win ni phek,winipeg,wny pyg,wnypg,wynybygh,wynypg,Î“Î¿Ï…Î¯Î½Î¹Ï€ÎµÎ³Îº,Ð’Ð¸Ð½Ð¸Ð¿ÐµÐ³,Ð’Ð¸Ð½Ð½Ð¸Ð¿ÐµÐ³,Ð’Ñ–Ð½Ð½Ñ–Ð¿ÐµÐ³,Ð’Ñ–Ð½Ð½Ñ–Ð¿ÐµÒ‘,Ð“Ð¾Ñ€Ð°Ð´ Ð’Ñ–Ð½Ñ–Ð¿ÐµÐ³,Ð£Ð¸Ð½Ð¸Ð¿ÐµÐ³,Ð£Ð¸Ð½Ð½Ð¸Ð¿ÐµÐ³,ÕŽÕ«Õ¶Õ¶Õ«ÕºÕ¥Õ£,×•×™× ×™×¤×’,ÙˆÙ†ÛŒ Ù¾ÛŒÚ¯,ÙˆÙ†ÛŒÙ¾Ú¯,ÙˆÙŠÙ†ÙŠØ¨ÙŠØº,ÙˆÛŒÙ†ÛŒÙ¾Ú¯,à¤µà¤¿à¤¨à¤¿à¤ªà¥‡à¤—,à¨µà¨¿à¨¨à©€à¨ªà©ˆà¨—,à®µà®¿à®©à®¿à®ªà¯à®ªà¯†à®•à¯,à¸§à¸´à¸™à¸™à¸´à¹€à¸žà¸,á€á€„á€ºá€”á€®á€•á€€á€ºá€™á€¼á€­á€¯á€·,áƒ£áƒ˜áƒœáƒ˜áƒžáƒ”áƒ’áƒ˜,á„á§á“‚á¯á ,ã‚¦ã‚£ãƒ‹ãƒšã‚°,æ¸©å°¼ä¼¯,ìœ„ë‹ˆíŽ™	49.8844	-97.14704	P	PPLA	CA		3				632063		245	America/Winnipeg	9/23/13
+6185377	Yellowknife	Yellowknife	Cultellus Flavus,Ellounajf,Geloounaif,Gorad Elaunajf,Jehllounajf,Jellounajf,Jelounaifa,Jelounaifas,Jelounajf,YZF,Yellounayf,Yellowknife,huang dao zhen,ielounaipi,ieronaifu,ye luo na fu,yellonaipeu,yelonaihp,ylwknyfÛ’,ylwnayf,ylwnyyp,Î“ÎµÎ»Î¿Î¿Ï…Î½Î¬Î¹Ï†,Ð„Ð»Ð»Ð¾ÑƒÐ½Ð°Ð¹Ñ„,ÐˆÐµÐ»Ð¾ÑƒÐ½Ð°Ñ˜Ñ„,Ð“Ð¾Ñ€Ð°Ð´ Ð•Ð»Ð°ÑžÐ½Ð°Ð¹Ñ„,Ð™ÐµÐ»Ð»Ð¾ÑƒÐ½Ð°Ð¹Ñ„,Ð™ÐµÐ»Ð¾ÑƒÐ½Ð°Ð¹Ñ„,Ð™ÑÐ»Ð»Ð¾ÑƒÐ½Ð°Ð¹Ñ„,×™×œ×•× ×™×™×£,ÙŠÙ„ÙˆÙ†Ø§ÙŠÙ,ÛŒÙ„ÙˆÙ†Ø§ÛŒÙ,ÛŒÙ„ÙˆÚ©Ù†ÛŒÙÛ’,à®¯à¯†à®²à¯‹à®©à¯ˆà®ƒà®ªà¯,áƒ˜áƒ”áƒšáƒáƒ£áƒœáƒáƒ˜áƒ¤áƒ˜,ã‚¤ã‚¨ãƒ­ãƒ¼ãƒŠã‚¤ãƒ•,è€¶ç½—çº³å¤«,é»ƒåˆ€éŽ®,ì˜ë¡œë‚˜ì´í”„	62.45411	-114.37248	P	PPLA	CA		13				15865		252	America/Yellowknife	4/2/16
+6324729	Halifax	Halifax	Galifaks,Halifax,YHZ,Ð“Ð°Ð»Ð¸Ñ„Ð°ÐºÑ	44.64533	-63.57239	P	PPLA	CA		7				359111		23	America/Halifax	7/18/14
+6324733	St. John's	St. John's	Agios Ioannis Neas Gis,Baile Naoimh Eoin,Baile Naoimh EÃ²in,Baile Sheain,Baile SheÃ¡in,Gorad Sent-Dzhons,Saint John,Saint John's,Saint-Jean,Saint-Jean de Terre-Neuve,San Juan de Terranova,Sanctus Ioannes Terrae Novae,Sejnt Dzhons,Sent DZons,Sent Dzonsas,Sent DÅ¾onsas,Sent-Dzhons,St Johns,St. John's,St. John's pa Newfoundland,St. John's pÃ¥ Newfoundland,St. Johnâ€™s,YYT,ceyint jans,sant jwnz,seinteujonseu,sentojonzu,sheng yue han si,snt g'wns,Î†Î³Î¹Î¿Ï‚ Î™Ï‰Î¬Î½Î½Î·Ï‚ ÎÎ­Î±Ï‚ Î“Î·Ï‚,Ð“Ð¾Ñ€Ð°Ð´ Ð¡ÐµÐ½Ñ‚-Ð”Ð¶Ð¾Ð½Ñ,Ð¡ÐµÐ¹Ð½Ñ‚ Ð”Ð¶Ð¾Ð½Ñ,Ð¡ÐµÐ½Ñ‚ ÐÐ¾Ð½Ñ,Ð¡ÐµÐ½Ñ‚-Ð”Ð¶Ð¾Ð½Ñ,×¡× ×˜ ×’'×•× ×¡,Ø³Ø§Ù†Øª Ø¬ÙˆÙ†Ø²,Ø³ÛŒÙ†Ù¹ Ø¬Ø§Ù†,Ø³ÛŒÙ†Ù¹ Ø¬Ø§Ù†Ø²ØŒ Ù†ÛŒÙˆÙÙ†Ù„ÛŒÙ†Úˆ Ø§ÙˆØ± Ù„ÛŒØ¨Ø±Ø§ÚˆØ§Ø±,à®šà¯†à®¯à®¿à®©à¯à®Ÿà¯ à®œà®¾à®©à¯à®¸à¯,áƒ¡áƒ”áƒœáƒ¢-áƒ¯áƒáƒœáƒ–áƒ˜,ã‚»ãƒ³ãƒˆã‚¸ãƒ§ãƒ³ã‚º,è–ç´„ç¿°æ–¯,ì„¸ì¸íŠ¸ì¡´ìŠ¤	47.56494	-52.70931	P	PPLA	CA		5				99182		35	America/St_Johns	7/21/14
+6325494	QuÃ©bec	Quebec	Altepetl Quebec,Bandaraya Quebec,Cathair Quebec,Cathair QuÃ©bec,Ciutat de Quebec,Gorad Kvebek,Jiji la Quebec,Kebec Vile,Kebek,Kebeko,Kebeku,Kempek,Kevek tava,Kota Quebec,Kuehbehk,Kvebek,Kvebeka,Kvebekas,Kwebek,Kwebek Shehiri,KwÃ©bÃ©k,KwÃ©bÃ©k Shehiri,KÃ©bÃ©c Vile,KÃ©vek tÃ¡va,Lungsod ng Quebec,Lungsod ng QuÃ©bec,Quebec,Quebec Ceety,Quebec City,Quebec Hiria,Quebec llaqta,Quebec-chhi,Quebec-su,Quebecborg,Quebecceaster,Quebecstad,Quebecum urbs,QuÃ©bec,QuÃ©bec-chhÄ«,QuÃ©bec-sá¹³,QuÃ©becborg,Siudad ti Quebec,Tchubec,Thanh pho Quebec,ThÃ nh phá»‘ QuÃ©bec,Vila de Quebec,Vila de QuebÃ¨c,Ville de Quebec,Ville de QuÃ©bec,YQB,kbk,kebaika sahira,kh wibek,kiyupek nakaram,kui bei ke shi,kvebeka siti,kwebeg,kyubeka nagara,mdynt kybk,qwwybq syty,ÎšÎµÎ¼Ï€Î­Îº,Ð“Ð¾Ñ€Ð°Ð´ ÐšÐ²ÐµÐ±ÐµÐº,ÐšÐ²ÐµÐ±ÐµÐº,ÐšÑƒÑÐ±ÑÐº,Õ”Õ¾Õ¥Õ¢Õ¥Õ¯,×§×•×•×™×‘×§ ×¡×™×˜×™,Ù…Ø¯ÙŠÙ†Ø© ÙƒÙŠØ¨Ùƒ,Ú©Ø¨Ú©,Ú©ÛŒÙˆØ¨Ú© Ø´ÛØ±,à¤•à¥à¤¯à¥‚à¤¬à¥‡à¤• à¤¨à¤—à¤°,à¤•à¥à¤µà¥‡à¤¬à¥‡à¤• à¤¸à¤¿à¤Ÿà¥€,à¨•à©‡à¨¬à©ˆà¨• à¨¸à¨¼à¨¹à¨¿à¨°,à®•à®¿à®¯à¯‚à®ªà¯†à®•à¯ à®¨à®•à®°à®®à¯,à¸„à¸§à¸´à¹€à¸šà¸,áƒ™áƒ•áƒ”áƒ‘áƒ”áƒ™áƒ˜,ã‚±ãƒ™ãƒƒã‚¯ãƒ»ã‚·ãƒ†ã‚£ãƒ¼,é­åŒ—å…‹å¸‚,í€˜ë²¡	46.81228	-71.21454	P	PPLA	CA		10				528595		54	America/Toronto	11/6/14
+5921356	Chilliwack	Chilliwack	YCW	49.16638	-121.95257	P	PPLA2	CA		2	5909			77000		11	America/Vancouver	7/27/13
+5992996	Kitchener	Kitchener	Ebytown,Gorad Kitchehner,Kiceneris,Kicenero,Kichener,Kitchener,KiÄ‰enero,KiÄeneris,Town of Berlin,ji qin na,kchnr,khitche nex r,kichineo,kitchina,kychnr,kytshnr,qyznr,Ð“Ð¾Ñ€Ð°Ð´ ÐšÑ–Ñ‚Ñ‡ÑÐ½ÐµÑ€,ÐšÐ¸Ñ‚Ñ‡ÐµÐ½ÐµÑ€,ÐšÐ¸Ñ‡ÐµÐ½ÐµÑ€,ÐšÑ–Ñ‡ÐµÐ½ÐµÑ€,×§×™×¦× ×¨,ÙƒÙŠØªØ´Ù†Ø±,Ú©Ú†Ù†Ø±,Ú©ÛŒÚ†Ù†Ø±,à¸„à¸´à¸•à¹€à¸Šà¹€à¸™à¸­à¸£à¹Œ,áƒ™áƒ˜áƒ¢áƒ©áƒ”áƒœáƒ”áƒ áƒ˜,ã‚­ãƒƒãƒãƒŠãƒ¼,åŸºç§¦æ‹¿,í‚¤ì¹˜ë„ˆ	43.42537	-80.5112	P	PPLA2	CA		8	3530			233700		336	America/Toronto	1/20/18
+6058024	Lloydminster	Lloydminster	Llojdminster,Lojdminster,YLL,lao ai de ming si te,lwydmnstr,lwydmynstr,Ð›Ð»Ð¾Ð¹Ð´Ð¼Ð¸Ð½ÑÑ‚ÐµÑ€,Ð›Ð»Ð¾Ð¹Ð´Ð¼Ñ–Ð½ÑÑ‚ÐµÑ€,Ð›Ð¾Ñ˜Ð´Ð¼Ð¸Ð½ÑÑ‚ÐµÑ€,Ù„Ø§Ø¦Úˆ Ù…Ù†Ø³Ù¹Ø±,Ù„ÙˆÙŠØ¯Ù…Ù†Ø³ØªØ±,Ù„ÙˆÛŒØ¯Ù…ÛŒÙ†Ø³ØªØ±,åŠ³åŸƒå¾·æ˜Žæ–¯ç‰¹	53.27237	-110.02256	P	PPLA2	CA		1	4810039			27000		652	America/Edmonton	5/11/18
+6074377	Milton	Milton	Gorad Miltan,Milton,mi er dun,miruton,myltwn,Ð“Ð¾Ñ€Ð°Ð´ ÐœÑ–Ð»Ñ‚Ð°Ð½,ÐœÐ¸Ð»Ñ‚Ð¾Ð½,ÐœÑ–Ð»Ñ‚Ð¾Ð½,Ù…ÙŠÙ„ØªÙˆÙ†,ãƒŸãƒ«ãƒˆãƒ³,ç±³å°”é¡¿	43.51681	-79.88294	P	PPLA2	CA		8	3524			84362	195	194	America/Toronto	1/20/18
+6077243	MontrÃ©al	Montreal	Lungsod ng Montreal,Lungsod ng MontrÃ©al,Monreal,Monreal',Monreala,Monrealis,Monreyal,MonreÄla,Mons Regius,Mont-real,Montreal,Montreal - Montreal,Montreal - MontrÃ©al,Montreal City,Montreali,Montrealo,MontrÃ©al,YMQ,meng te li er,monreali,monteuliol,montorioru,mwntral,mwntryal,ÎœÎ¿Î½Ï„ÏÎµÎ±Î»,ÎœÏŒÎ½Ï„ÏÎµÎ±Î»,ÐœÐ¾Ð½Ñ€ÐµÐ°Ð»,ÐœÐ¾Ð½Ñ€ÐµÐ°Ð»ÑŒ,ÐœÐ¾Ð½Ñ‚Ñ€ÐµÐ°Ð»,×ž×•× ×˜×¨×™××•×œ,Ù…ÙˆÙ†ØªØ±Ø¢Ù„,Ù…ÙˆÙ†ØªØ±ÛŒØ§Ù„,Ù…ÙˆÙ†ØªØ±ÛØ¦Ø§Ù„,áƒ›áƒáƒœáƒ áƒ”áƒáƒšáƒ˜,á’§á•†áŠá“ª,ãƒ¢ãƒ³ãƒˆãƒªã‚ªãƒ¼ãƒ«,è’™ç‰¹åˆ©å°”,ëª¬íŠ¸ë¦¬ì˜¬	45.50884	-73.58781	P	PPLA2	CA		10	6	66023		1600000		216	America/Toronto	2/24/18
+6141439	Sault Ste. Marie	Sault Ste. Marie	Sault Sainte Marie,Sault Ste. Marie,Sault-Sainte-Marie,Su Sent Mari,Su-Sent-Mari,YAM,su sent ma ri,su sheng ma li,suseinteumali,susentomari,sw saynt mary,Ð¡Ñƒ Ð¡ÐµÐ½Ñ‚ ÐœÐ°Ñ€Ð¸,Ð¡Ñƒ-Ð¡ÐµÐ½Ñ‚-ÐœÐ°Ñ€Ð¸,Ð¡Ñƒ-Ð¡ÐµÐ½Ñ‚-ÐœÐ°Ñ€Ñ–,Ø³Ø§Ù„Ù¹ Ø³Ù¹ÛŒ Ù…Ø§Ø±ÛŒ,Ø³Ùˆ Ø³Ø§ÙŠÙ†Øª Ù…Ø§Ø±ÙŠ,Ø³Ùˆ Ø³Ù†Øªâ€ŒÙ…Ø§Ø±ÛŒ,Ø³Ùˆ Ø³ÛŒÙ†Øª Ù…Ø§Ø±ÛŒØŒ Ø§Ù†Ù¹Ø§Ø±ÛŒÙˆ,à¸‹à¸¹à¹€à¸‹à¸™à¸•à¹Œà¸¡à¸²à¸£à¸µ,áƒ¡áƒ£-áƒ¡áƒ”áƒœáƒ¢-áƒ›áƒáƒ áƒ˜,ã‚¹ãƒ¼ã‚»ãƒ³ãƒˆãƒžãƒªãƒ¼,è˜‡è–ç‘ªéº—,ìˆ˜ì„¸ì¸íŠ¸ë§ˆë¦¬	46.51677	-84.33325	P	PPLA2	CA		8	3557			74948		186	America/Toronto	1/20/18
+6184365	Woodstock	Woodstock	Vudstok,hu shi tuo,uddosutokku,wwdstak  antaryw,wwdstwk,Ð’ÑƒÐ´ÑÑ‚Ð¾Ðº,ÙˆÙˆØ¯Ø³ØªØ§Ú©ØŒ Ø§Ù†ØªØ§Ø±ÛŒÙˆ,ÙˆÙˆØ¯Ø³ØªÙˆÙƒ,ÙˆÚˆØ³Ù¹ÙˆÚ©,ã‚¦ãƒƒãƒ‰ã‚¹ãƒˆãƒƒã‚¯,èƒ¡å£«æ‰˜	43.13339	-80.7497	P	PPLA2	CA		8	3532			33892		299	America/Toronto	1/20/18
+6137626	Saint-Colomban	Saint-Colomban		45.73338	-74.13251	P	PPLA3	CA		10	15	75005		0		149	America/Toronto	3/2/14
+6138815	Saint-Nazaire	Saint-Nazaire		48.58944	-71.55247	P	PPLA3	CA		10	2	93045		0		148	America/Toronto	7/1/16
+6138912	Saint-Philippe-de-La Prairie	Saint-Philippe-de-La Prairie		45.35723	-73.47706	P	PPLA3	CA		10	16	67010		0		33	America/Toronto	7/1/16
+6138916	Saint-Pie	Saint-Pie		45.50277	-72.9089	P	PPLA3	CA		10	16	54008		5438		38	America/Toronto	7/1/16
+6138920	Saint-Pie-V	Saint-Pie-V		46.00351	-72.74689	P	PPLA3	CA		10	17	49130		0		39	America/Toronto	7/1/16
+6138950	Saint-Pierre-les-Becquets	Saint-Pierre-les-Becquets		46.50005	-72.1991	P	PPLA3	CA		10	17	38065		0		33	America/Toronto	7/1/16
+6138966	Saint-Polycarpe	Saint-Polycarpe		45.30009	-74.29924	P	PPLA3	CA		10	16	71020		0		52	America/Toronto	7/1/16
+6138987	Saint-RÃ©mi	Saint-Remi		45.26678	-73.61588	P	PPLA3	CA		10	16	68055		0		55	America/Toronto	7/1/16
+6138996	Saint-RÃ©mi-de-Tingwick	Saint-Remi-de-Tingwick		45.86677	-71.81581	P	PPLA3	CA		10	17	39020		0		421	America/Toronto	7/1/16
+6145489	Shawinigan	Shawinigan	Shavinigan,Shawinigan,XFL,shau~inigan,shawynygan,shawynyghan,Ð¨Ð°Ð²Ð¸Ð½Ð¸Ð³Ð°Ð½,Ø´Ø§ÙˆÙŠÙ†ÙŠØºØ§Ù†,Ø´Ø§ÙˆÛŒÙ†ÛŒÚ¯Ø§Ù†,ã‚·ãƒ£ã‚¦ã‚£ãƒ‹ã‚¬ãƒ³	46.56675	-72.74913	P	PPLA3	CA		10	4	36033		49161		123	America/Toronto	2/24/18
+9408331	Saint-Antonin	Saint-Antonin	sn-antwnn  kbk,Ø³Ù†-Ø¢Ù†ØªÙˆÙ†Ù†ØŒ Ú©Ø¨Ú©,Ø³ÛŒÙ†Ù¹-Ø§Ù†Ù¹ÙˆÙ†ÛŒÚº ØŒ Ú©ÛŒÙˆØ¨Ú©	47.7607	-69.47745	P	PPLA3	CA		10	1	12015		0		163	America/Toronto	8/22/14
+6094817	Ottawa	Ottawa	Gorad Atava,Otava,Otavo,Otawa,Ottaba,Ottahua,Ottava,Ottavae,Ottawa,YOW,atawa,atoya,attava,awtawa,otava,otawa,ottava,wo tai hua,xxttawa,ÂŸAAÂ¬Â²Â±,ÎŸÏ„Ï„Î¬Î²Î±,ÎŸÏ„Ï„Î±Î²Î±,Ð“Ð¾Ñ€Ð°Ð´ ÐÑ‚Ð°Ð²Ð°,ÐžÑ‚Ð°Ð²Ð°,ÐžÑ‚Ñ‚Ð°Ð²Ã¦,ÐžÑ‚Ñ‚Ð°Ð²Ð°,Õ•Õ¿Õ¿Õ¡Õ¾Õ¡,××•×˜×•×•×”,××˜××•×•×,Ø£ÙˆØªØ§ÙˆØ§,Ø¦Û†ØªØ§ÙˆØ§,Ø§ØªØ§ÙˆØ§,Ø§ÙˆØªØ¢ÙˆØ¢,Ø§ÙˆÙ¹Ø§ÙˆØ§,Ø§Ù¹Ø§ÙˆÛ,à¤“à¤Ÿà¤¾à¤µà¤¾,à¦…à¦Ÿà§‹à¦¯à¦¼à¦¾,à¨“à¨Ÿà¨¾à¨µà¨¾,à¬“à¬Ÿà¬¾à­±à¬¾,à®’à®Ÿà¯à®Ÿà®¾à®µà®¾,à²†à²Ÿà³à²Ÿà²¾à²µà²¾,à´“à´Ÿàµà´Ÿà´µ,à¸­à¸­à¸•à¸•à¸²à¸§à¸²,à½¨à½¼à¼‹à½à¼‹à½à¼,á€¡á€±á€¬á€·á€á€á€™á€¼á€­á€¯á€·,áƒáƒ¢áƒáƒ•áƒ,áŠ¦á‰³á‹‹,áŽ á”á©,áŠá‘á•š/atavaa,ã‚ªã‚¿ãƒ¯,æ¸¥å¤ªè¯,ì˜¤íƒ€ì™€	45.41117	-75.69812	P	PPLC	CA		8				812129		71	America/Toronto	1/20/16
+5885280	Angus	Angus		44.31681	-79.88295	P	PPLL	CA		8				10269		193	America/Toronto	1/27/06
+5897681	Belfast	Belfast		46.08341	-62.88197	P	PPLL	CA		9				1839		14	America/Halifax	5/5/13
+5906575	Bourget	Bourget		45.4334	-75.1493	P	PPLL	CA		8				1062		61	America/Toronto	1/22/06
+5924351	Clyde River	Clyde River	YCY	70.46916	-68.59143	P	PPLL	CA		14				1017		-9999	America/Iqaluit	4/11/08
+5937497	Delaware	Delaware		42.91679	-81.41646	P	PPLL	CA		8				2521		222	America/Toronto	5/5/13
+5955898	Fort McPherson	Fort McPherson	Fort McPherson,Fort-Makferson,Telit-Zhe,ZFM,Ð¢ÐµÐ»Ð¸Ñ‚-Ð–Ðµ,Ð¤Ð¾Ñ€Ñ‚-ÐœÐ°ÐºÑ„ÐµÑ€ÑÐ¾Ð½	67.43863	-134.88543	P	PPLL	CA		13				1069		21	America/Yellowknife	11/2/13
+5961560	Gjoa Haven	Gjoa Haven	Uqsuqtuuq,YHK	68.62602	-95.87836	P	PPLL	CA		14				1109		1	America/Cambridge_Bay	7/25/12
+5970063	Hanceville	Hanceville		51.91922	-123.04458	P	PPLL	CA		2				10000		691	America/Vancouver	5/5/13
+5985934	Jasper Park Lodge	Jasper Park Lodge		52.88633	-118.05625	P	PPLL	CA		1				3907		1036	America/Edmonton	1/7/15
+5994339	Kugluktuk	Kugluktuk	Coppermine,Kugluktuk,YCO,kg lk tk  nnawt,ku ge lu ke tu ke,ÐšÑƒÐ³Ð»ÑƒÐºÑ‚ÑƒÐº,Ú©Ú¯ Ù„Ú© ØªÚ©ØŒ Ù†Ù†Ø§ÙˆØª,åº“æ ¼é²å…‹å›¾å…‹	67.82743	-115.09649	P	PPLL	CA		14				1302		1	America/Cambridge_Bay	8/17/13
+6096551	Pangnirtung	Pangnirtung	Pangnirtang,Pangnirtung,YXP,png nrtng  nnawt,ÐŸÐ°Ð½Ð³Ð½Ð¸Ñ€Ñ‚ÑƒÐ½Ð³,ÐŸÐ°Ð½Ð³Ð½Ñ–Ñ€Ñ‚Ð°Ð½Ð³,Ù¾Ù†Ú¯ Ù†Ø±ØªÙ†Ú¯ØŒ Ù†Ù†Ø§ÙˆØª	66.14642	-65.69996	P	PPLL	CA		14				1320		1	America/Pangnirtung	4/2/16
+6116548	Rankin Inlet	Rankin Inlet	Rankin Inlet,Rankin-Inlet,YRT,Ð Ð°Ð½ÐºÐ¸Ð½-Ð˜Ð½Ð»ÐµÑ‚,Ð Ð°Ð½ÐºÑ–Ð½-Ð†Ð½Ð»ÐµÑ‚,Ø±Ù†Ú©Ù† Ø§Ù† Ù„Ù¹ØŒ Ù†Ù†Ø§ÙˆØª	62.80906	-92.08534	P	PPLL	CA		14				2334		1	America/Rankin_Inlet	5/5/16
+6175609	Walpole Island	Walpole Island		42.6152	-82.51398	P	PPLL	CA		8	3538			1878		176	America/Detroit	1/20/18
+8131396	Breakeyville	Breakeyville		46.68037	-71.22327	P	PPLL	CA		10	12	25213		5000	101	98	America/Toronto	6/22/16
+8533869	West Vancouver	West Vancouver	Vancouver Barat,West Vancouver,West Vankuver,Zapaden Vankuvur,fankwfr alghrbyt,u~esutobankuba,weseuteubaenkubeo,wnkwwr ghrby,xi wen ge hua,Ð—Ð°Ð¿Ð°Ð´ÐµÐ½ Ð’Ð°Ð½ÐºÑƒÐ²ÑŠÑ€,ÙØ§Ù†ÙƒÙˆÙØ± Ø§Ù„ØºØ±Ø¨ÙŠØ©,ÙˆÙ†Ú©ÙˆÙˆØ± ØºØ±Ø¨ÛŒ,ã‚¦ã‚§ã‚¹ãƒˆãƒãƒ³ã‚¯ãƒ¼ãƒãƒ¼,è¥¿æº«å“¥è¯,ì›¨ìŠ¤íŠ¸ë°´ì¿ ë²„	49.36672	-123.16652	P	PPLL	CA		2				42694		750	America/Vancouver	6/5/13
+8558534	Willowdale	Willowdale	Willowdale	43.76672	-79.39909	P	PPLL	CA		8				79440		176	America/Toronto	7/8/13
+7281931	Okanagan	Okanagan	Okanagan,Okanagan Country,Okanagan Valley,okanagan,ã‚ªã‚«ãƒŠã‚¬ãƒ³	50.36386	-119.34997	P	PPLQ	CA		2				297601		598	America/Vancouver	1/17/12
+5901272	Binbrook	Binbrook		43.12135	-79.81104	P	PPLX	CA		8	3525			8796		216	America/Toronto	1/20/18
+5991370	Keswick	Keswick		44.25011	-79.46632	P	PPLX	CA		8				21000		230	America/Toronto	8/23/10
+6065685	Maple Ridge	Maple Ridge		53.50172	-113.36274	P	PPLX	CA		1				1711	704	703	America/Edmonton	1/9/18
+6091314	Notre-Dame-de-GrÃ¢ce	Notre-Dame-de-Grace	NDG	45.47675	-73.61432	P	PPLX	CA		10	6	66023		67000		84	America/Toronto	11/29/17
+6122180	Rideau Park	Rideau Park		53.47899	-113.5047	P	PPLX	CA		1				1883	674	670	America/Edmonton	1/9/18
+6126305	Rock Forest	Rock Forest	Rock Forest	45.35699	-71.99676	P	PPLX	CA		10	5	43027		35500		240	America/Toronto	6/22/16
+6138610	Saint-Laurent	Saint-Laurent	Saint-Laurent,Sen Loran,Sen-Loran,St Laurent,Ville Saint-Laurent,Ville St Laurent,Ð¡ÐµÐ½ Ð›Ð¾Ñ€Ð°Ð½,Ð¡ÐµÐ½-Ð›Ð¾Ñ€Ð°Ð½,Ø³ÛŒÙ†Ù¹-Ù„Ø§Ø±Ù†Ù¹ØŒ Ú©ÛŒÙˆØ¨Ú©	45.50008	-73.66585	P	PPLX	CA		10	6	66072		77391		41	America/Toronto	6/22/16
+6138625	Saint-LÃ©onard	Saint-Leonard		45.58773	-73.59501	P	PPLX	CA		10	6	66023		73423		43	America/Toronto	2/24/18
+7280414	Cole Harbour	Cole Harbour		44.67244	-63.47506	P	PPLX	CA		7				20000	50	49	America/Halifax	3/5/10
+7303786	JonquiÃ¨re	Jonquiere	Jonquiere,JonquiÃ¨re,XJQ,Zhonk'er,Ð–Ð¾Ð½ÐºÑŒÐµÑ€	48.41648	-71.24884	P	PPLX	CA		10	2	94068		54842	146	142	America/Toronto	6/22/16
+7669018	Aldergrove	Aldergrove		49.05801	-122.47087	P	PPLX	CA		2				12363		102	America/Vancouver	2/23/18
+7870927	Napanee Downtown	Napanee Downtown		44.24832	-76.95069	P	PPLX	CA		8				1500		92	America/Toronto	6/20/11
+7870931	Skatepark	Skatepark		44.25122	-76.94424	P	PPLX	CA		8				1500		93	America/Toronto	6/20/11
+11203927	Wild Rose	Wild Rose		53.4708	-113.38119	P	PPLX	CA		1				8031	717	714	America/Edmonton	1/9/18
+11203928	Silver Berry	Silver Berry		53.45787	-113.3817	P	PPLX	CA		1				8089	713	713	America/Edmonton	1/9/18
+11203929	Laurel	Laurel		53.44667	-113.38197	P	PPLX	CA		1				1606	721	721	America/Edmonton	1/9/18
+11203930	Tamarack	Tamarack		53.46441	-113.36235	P	PPLX	CA		1				2348	701	710	America/Edmonton	1/9/18
+11203933	Larkspur	Larkspur		53.47942	-113.38142	P	PPLX	CA		1				4988	711	711	America/Edmonton	2/23/18
+11838435	La Haute-Saint-Charles	La Haute-Saint-Charles		46.89028	-71.37222	P	PPLX	CA		10	3	23027		74070		151	America/Toronto	3/26/18

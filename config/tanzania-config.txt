@@ -1,0 +1,5 @@
+input=/Users/hoganwr/devel/repos/ontology/geographical-entity-ontology/tanzania-admins-geonames.txt
+countrycode=TZ
+owlpurlbase=http://purl.obolibrary.org/obo/geo/tanzania-admin-level
+countryiri=http://purl.obolibrary.org/obo/GEO_000000589
+irilookup=/Users/hoganwr/devel/repos/ontology/geographical-entity-ontology/iris-for-parsing-geonames.txt

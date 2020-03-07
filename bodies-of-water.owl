@@ -1,0 +1,1671 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/"
+     xml:base="http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl/"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:protege="http://protege.stanford.edu/plugins/owl/protege#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:obo="http://purl.obolibrary.org/obo/"
+     xmlns:foaf="http://xmlns.com/foaf/0.1/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/geo/dev/bodies-of-water.owl">
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/dev/nation-geography.owl"/>
+        <rdfs:comment xml:lang="en">This is an extension of the Geograpic Entities Ontology Nation Geography that models bodies of water. This version uses the International Hydrographic Organization&apos;s standards for Limits of Oceans and Seas 3rd Edition (1953) for names, bondaries, and topographical relations.</rdfs:comment>
+        <dc:title xml:lang="en">Geographic Entities Ontology - Bodies of Water</dc:title>
+        <dc:creator>Amanda Hicks</dc:creator>
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055477 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/GEO_000055477">
+        <rdfs:label xml:lang="en">IHC identifier</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/RO_0001025 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/RO_0001025"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/RO_0002220 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/RO_0002220"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/RO_0002150 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/RO_0002150">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055554 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GEO_000055554">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GEO_000000373"/>
+        <obo:IAO_0000115 xml:lang="en">a body of water that fills a well-marked indentation whose penetration is in such proportion to the width of its mouth as to contain land locked waters and constitute more than a mere curvature of the coast</obo:IAO_0000115>
+        <obo:IAO_0000117 xml:lang="en">Amanda Hicks</obo:IAO_0000117>
+        <obo:IAO_0000119 xml:lang="en">http://hd.iho.int/en/index.php/bay</obo:IAO_0000119>
+        <rdfs:label xml:lang="en">bay</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055556 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GEO_000055556">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GEO_000000373"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000137"/>
+                <owl:someValuesFrom>
+                    <owl:Class>
+                        <owl:unionOf rdf:parseType="Collection">
+                            <rdf:Description rdf:about="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055473"/>
+                            <rdf:Description rdf:about="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055474"/>
+                        </owl:unionOf>
+                    </owl:Class>
+                </owl:someValuesFrom>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000115 xml:lang="en">a body of water that is a proper continuant part at all times of a sea or ocean and that fills an indentation extending into the land, usually larger than a bay</obo:IAO_0000115>
+        <obo:IAO_0000117 xml:lang="en">Amanda Hicks</obo:IAO_0000117>
+        <obo:IAO_0000119 xml:lang="en">http://hd.iho.int/en/index.php/gulf</obo:IAO_0000119>
+        <rdfs:label xml:lang="en">gulf</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055557 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GEO_000055557">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GEO_000000373"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000137"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/GEO_000000373"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000117 xml:lang="en">Amanda Hicks</obo:IAO_0000117>
+        <obo:IAO_0000119 xml:lang="en">A body of water that is the deepest part of a stream, bay or strait through which the main current flows and that is deep enough for navigation through an area otherwise not navigable</obo:IAO_0000119>
+        <obo:IAO_0000119 xml:lang="en">http://hd.iho.int/en/index.php/channel</obo:IAO_0000119>
+        <rdfs:label xml:lang="en">channel</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055558 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GEO_000055558">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GEO_000055557"/>
+        <obo:IAO_0000117>Amanda Hicks</obo:IAO_0000117>
+        <obo:IAO_0000118 xml:lang="en">hole</obo:IAO_0000118>
+        <obo:IAO_0000118 xml:lang="en">pass</obo:IAO_0000118>
+        <obo:IAO_0000119>A narrow navigable channel, especially one through reefs or islands</obo:IAO_0000119>
+        <obo:IAO_0000119>http://hd.iho.int/en/index.php/passage</obo:IAO_0000119>
+        <rdfs:label xml:lang="en">passage</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055559 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GEO_000055559">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GEO_000055558"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/RO_0002150"/>
+                <owl:minQualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">2</owl:minQualifiedCardinality>
+                <owl:onClass rdf:resource="http://purl.obolibrary.org/obo/GEO_000000373"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000115 xml:lang="en">a passage connecting two larger bodies of water</obo:IAO_0000115>
+        <obo:IAO_0000117>Amanda Hicks</obo:IAO_0000117>
+        <obo:IAO_0000119 xml:lang="en">http://hd.iho.int/en/index.php/strait</obo:IAO_0000119>
+        <rdfs:label xml:lang="en">strait</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055466 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055466">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000055556"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055489"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1a</obo:GEO_000055477>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000550"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000704"/>
+        <rdfs:label xml:lang="en">Gulf of Bothnia</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055467 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055467">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000055556"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055489"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1b</obo:GEO_000055477>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000683"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000699"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000704"/>
+        <rdfs:label xml:lang="en">Gulf of Finland</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055468 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055468">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000055556"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055489"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000570"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000683"/>
+        <rdfs:label xml:lang="en">Gulf of Riga</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055469 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055469">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000373"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055489"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</obo:GEO_000055477>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000550"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000677"/>
+        <rdfs:label xml:lang="en">Kattegat, Sound and Belts</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055470 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055470">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000055559"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055469"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000550"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000659"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000677"/>
+        <rdfs:label xml:lang="en">Skagerrak</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055471 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055471">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055474"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8</obo:GEO_000055477>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000699"/>
+        <rdfs:label xml:lang="en">White Sea</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055472 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055472">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055474"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055486"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000699"/>
+        <rdfs:label xml:lang="en">Kara Sea</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055473 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055473">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055474"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055472"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10</obo:GEO_000055477>
+        <obo:IAO_0000118 xml:lang="en">Nordenskjoeld Sea</obo:IAO_0000118>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000699"/>
+        <rdfs:label xml:lang="en">Laptev Sea</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055474 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055474">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055474"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055473"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11</obo:GEO_000055477>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000347"/>
+        <rdfs:label xml:lang="en">East Siberian Sea</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055475 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055475">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055474"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055474"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12</obo:GEO_000055477>
+        <obo:IAO_0000118 xml:lang="en">Chuckchi Sea</obo:IAO_0000118>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000347"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000699"/>
+        <rdfs:label xml:lang="en">Chukchi Sea</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055476 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055476">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055474"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13</obo:GEO_000055477>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000347"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000646"/>
+        <rdfs:label xml:lang="en">Beaufort Sea</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055478 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055478">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000055554"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055560"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">14a</obo:GEO_000055477>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000646"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000677"/>
+        <rdfs:label xml:lang="en">Baffin Bay</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055479 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055479">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000055559"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055478"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055480"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055560"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">15</obo:GEO_000055477>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000646"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000677"/>
+        <rdfs:label xml:lang="en">Davis Strait</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055480 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055480">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000055559"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055481"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055561"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16a</obo:GEO_000055477>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000646"/>
+        <rdfs:label xml:lang="en">Hudson Strait</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055481 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055481">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055474"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055479"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055482"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">15a</obo:GEO_000055477>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000646"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000677"/>
+        <rdfs:label xml:lang="en">Labrador Sea</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055482 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055482">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000055556"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055466"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24</obo:GEO_000055477>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000646"/>
+        <rdfs:label xml:lang="en">Gulf of Saint Lawrence</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055484 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055484">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055474"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000347"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000677"/>
+        <rdfs:label xml:lang="en">Lincoln Sea</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055486 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055486">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000373"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055555"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">19</obo:GEO_000055477>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000578"/>
+        <rdfs:label xml:lang="en">Irish Sea and Saint George&apos;s Channel</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055487 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055487">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000055557"/>
+        <obo:GEO_000055477 xml:lang="en">20</obo:GEO_000055477>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000578"/>
+        <rdfs:label xml:lang="en">Bristol Channel</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055488 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055488">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000055554"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055555"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">22</obo:GEO_000055477>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000702"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000717"/>
+        <rdfs:label xml:lang="en">Bay of Biscay</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055489 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055489">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000373"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055466"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055479"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055482"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055486"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055487"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055488"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055490"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055491"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055492"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055562"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055467"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055468"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055471"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055480"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055483"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055484"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055485"/>
+        <obo:GEO_000055477 xml:lang="en">23</obo:GEO_000055477>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000578"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000638"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000646"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000670"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000677"/>
+        <rdfs:label xml:lang="en">North Atlantic Ocean</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055490 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055490">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000373"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055466"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055489"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055492"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055506"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055507"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">32</obo:GEO_000055477>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000344"/>
+        <rdfs:label xml:lang="en">South Atlantic Ocean</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055491 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055491">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000055554"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25</obo:GEO_000055477>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000346"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000646"/>
+        <rdfs:label xml:lang="en">Bay of Fundy</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055492 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055492">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000055556"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">34</obo:GEO_000055477>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000596"/>
+        <rdfs:label xml:lang="en">Gulf of Guinea</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055493 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055493">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000373"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055471"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">28A</obo:GEO_000055477>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000553"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000564"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000632"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000717"/>
+        <rdfs:label xml:lang="en">Western Basin (Mediterranean Sea)</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055494 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055494">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000373"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055471"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055493"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">28B</obo:GEO_000055477>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000548"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000562"/>
+        <rdfs:label xml:lang="en">Eastern Basin (Mediterranean Sea)</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055495 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055495">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000055559"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055471"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055466"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">28a</obo:GEO_000055477>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000632"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000717"/>
+        <rdfs:label xml:lang="en">Strait of Gibraltar</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055496 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055496">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055474"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055471"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055495"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">28b</obo:GEO_000055477>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000632"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000717"/>
+        <rdfs:label xml:lang="en">Alboran Sea</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055497 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055497">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055474"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055471"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">28c</obo:GEO_000055477>
+        <obo:IAO_0000118 xml:lang="en">Iberian Sea</obo:IAO_0000118>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000717"/>
+        <rdfs:label xml:lang="en">Balearic Sea</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055498 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055498">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055474"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055471"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">28d</obo:GEO_000055477>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000553"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000702"/>
+        <rdfs:label xml:lang="en">Ligurian Sea</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055499 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055499">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055474"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055471"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">28e</obo:GEO_000055477>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000553"/>
+        <rdfs:label xml:lang="en">Tyrrhenian Sea</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055500 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055500">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055474"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055471"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">28f</obo:GEO_000055477>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000553"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000571"/>
+        <rdfs:label xml:lang="en">Ionian Sea</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055501 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055501">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055474"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055471"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055500"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">28g</obo:GEO_000055477>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000553"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000571"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000635"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000642"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000671"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000727"/>
+        <rdfs:label xml:lang="en">Adriatic Sea</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055502 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055502">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055474"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055471"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055503"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">28h</obo:GEO_000055477>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000562"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000715"/>
+        <rdfs:label xml:lang="en">Aegean Sea</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055503 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055503">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055474"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055502"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">29</obo:GEO_000055477>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000562"/>
+        <rdfs:label xml:lang="en">Sea of Marmara</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055505 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055505">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055474"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055469"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">31</obo:GEO_000055477>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000581"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000699"/>
+        <rdfs:label xml:lang="en">Sea of Azov</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055506 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055506">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000055559"/>
+        <rdfs:label xml:lang="en">Magellan Strait</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055507 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055507">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000373"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">33</obo:GEO_000055477>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000584"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000602"/>
+        <rdfs:label xml:lang="en">Rio de La Plata</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055508 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055508">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000055556"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">35</obo:GEO_000055477>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000679"/>
+        <rdfs:label xml:lang="en">Gulf of Suez</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055509 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055509">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000055556"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">36</obo:GEO_000055477>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000588"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000679"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000707"/>
+        <rdfs:label xml:lang="en">Gulf of Aqaba</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055510 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055510">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000055556"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055481"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">38</obo:GEO_000055477>
+        <rdfs:label xml:lang="en">Gulf of Aden</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055511 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055511">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055474"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055510"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055512"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">39</obo:GEO_000055477>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000340"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000621"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000662"/>
+        <rdfs:label xml:lang="en">Arabian Sea</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055512 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055512">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055474"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">42</obo:GEO_000055477>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000567"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000621"/>
+        <rdfs:label xml:lang="en">Laccadive Sea</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055513 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055513">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000055556"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055511"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">40</obo:GEO_000055477>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000563"/>
+        <rdfs:label xml:lang="en">Gulf of Oman</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055514 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055514">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000055554"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055515"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">43</obo:GEO_000055477>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000641"/>
+        <rdfs:label xml:lang="en">Bay of Bengal</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055515 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055515">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055474"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055514"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">44</obo:GEO_000055477>
+        <obo:IAO_0000118 xml:lang="en">Andaman Sea</obo:IAO_0000118>
+        <rdfs:label xml:lang="en">Burma Sea</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055516 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055516">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000373"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">62</obo:GEO_000055477>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000343"/>
+        <rdfs:label xml:lang="en">Great Australian Bight</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055517 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055517">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000055557"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">45A</obo:GEO_000055477>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000594"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000719"/>
+        <rdfs:label xml:lang="en">Mozambique Channel</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055518 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055518">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000055559"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">46a</obo:GEO_000055477>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000591"/>
+        <rdfs:label xml:lang="en">Malacca Strait</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055519 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055519">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000373"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055518"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">46b</obo:GEO_000055477>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000709"/>
+        <rdfs:label xml:lang="en">Singapore Strait</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055520 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055520">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000055556"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">47</obo:GEO_000055477>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000650"/>
+        <rdfs:label xml:lang="en">Gulf of Thailand</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055521 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055521">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055474"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055522"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">48a</obo:GEO_000055477>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000690"/>
+        <rdfs:label xml:lang="en">Sulu Sea</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055522 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055522">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055474"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055518"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055519"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055520"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">49</obo:GEO_000055477>
+        <obo:IAO_0000118 xml:lang="en">Nan hai</obo:IAO_0000118>
+        <obo:IAO_0000118 xml:lang="en">Nanhai</obo:IAO_0000118>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000591"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000035311"/>
+        <rdfs:label xml:lang="en">South China Sea</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055523 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055523">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055474"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055521"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055524"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">48b</obo:GEO_000055477>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000690"/>
+        <rdfs:label xml:lang="en">Celebes Sea</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055524 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055524">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000055559"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">48m</obo:GEO_000055477>
+        <rdfs:label xml:lang="en">Makassar Strait</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055525 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055525">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055474"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055525"/>
+        <rdfs:label xml:lang="en">Molukka Sea</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055526 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055526">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000055556"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055525"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">48d</obo:GEO_000055477>
+        <rdfs:label xml:lang="en">Gulf of Tomini</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055527 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055527">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055474"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055525"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055528"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">48e</obo:GEO_000055477>
+        <rdfs:label xml:lang="en">Halmahera Sea</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055528 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055528">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055474"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">48f</obo:GEO_000055477>
+        <rdfs:label xml:lang="en">Ceram Sea</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055529 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055529">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055474"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055525"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055528"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055530"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">48g</obo:GEO_000055477>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000537"/>
+        <rdfs:label xml:lang="en">Banda Sea</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055530 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055530">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000055556"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">48k</obo:GEO_000055477>
+        <rdfs:label xml:lang="en">Gulf of Boni</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055531 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055531">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055474"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055528"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055529"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">48h</obo:GEO_000055477>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000343"/>
+        <rdfs:label xml:lang="en">Arafura Sea</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055532 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055532">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055474"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055529"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055531"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055533"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">48i</obo:GEO_000055477>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000343"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000537"/>
+        <rdfs:label xml:lang="en">Timor Sea</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055533 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055533">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055474"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055529"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055534"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">48o</obo:GEO_000055477>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000537"/>
+        <rdfs:label xml:lang="en">Savu Sea</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055534 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055534">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055474"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055529"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">48j</obo:GEO_000055477>
+        <rdfs:label xml:lang="en">Flores Sea</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055535 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055535">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055474"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055534"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">48l</obo:GEO_000055477>
+        <rdfs:label xml:lang="en">Bali Sea</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055536 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055536">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055474"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055522"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055524"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055534"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055535"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">48n</obo:GEO_000055477>
+        <rdfs:label xml:lang="en">Java Sea</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055537 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055537">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055474"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055522"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">50</obo:GEO_000055477>
+        <obo:IAO_0000118 xml:lang="en">Tung Hai</obo:IAO_0000118>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000657"/>
+        <rdfs:label xml:lang="en">Eastern China Sea</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055538 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055538">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055474"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">51</obo:GEO_000055477>
+        <obo:IAO_0000118 xml:lang="en">Hwang Hai</obo:IAO_0000118>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000657"/>
+        <rdfs:label xml:lang="en">Yellow Sea</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055539 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055539">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055474"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055537"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055540"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">52</obo:GEO_000055477>
+        <rdfs:label xml:lang="en">Japan Sea</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055540 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055540">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055474"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055539"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">53</obo:GEO_000055477>
+        <obo:IAO_0000118 xml:lang="en">Seto Naikai</obo:IAO_0000118>
+        <rdfs:label xml:lang="en">Inland Sea</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055541 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055541">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055474"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055539"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">54</obo:GEO_000055477>
+        <rdfs:label xml:lang="en">Sea of Okhotsk</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055542 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055542">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055474"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055475"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">55</obo:GEO_000055477>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000347"/>
+        <rdfs:label xml:lang="en">Bering Sea</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055543 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055543">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055474"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055522"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055537"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055540"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">56</obo:GEO_000055477>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000690"/>
+        <rdfs:label xml:lang="en">Philippine Sea</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055544 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055544">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000373"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055472"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055539"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055541"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055542"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055543"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055546"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055547"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055548"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">57</obo:GEO_000055477>
+        <rdfs:label xml:lang="en">North Pacific Ocean</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055545 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055545">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000373"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055472"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055506"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055544"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055549"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055550"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055551"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055552"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">61</obo:GEO_000055477>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000344"/>
+        <rdfs:label xml:lang="en">South Pacific Ocean</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055546 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055546">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000055556"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055542"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055547"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">58</obo:GEO_000055477>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000347"/>
+        <rdfs:label xml:lang="en">Gulf of Alaska</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055547 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055547">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000373"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">59</obo:GEO_000055477>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000347"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000646"/>
+        <rdfs:label xml:lang="en">Coastal Waters of Alaska and British Columbia</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055548 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055548">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000055556"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">60</obo:GEO_000055477>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000346"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000614"/>
+        <rdfs:label xml:lang="en">Gulf of California</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055549 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055549">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055474"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055553"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">63</obo:GEO_000055477>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000651"/>
+        <rdfs:label xml:lang="en">Tasman Sea</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055550 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055550">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055474"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055531"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">64</obo:GEO_000055477>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000343"/>
+        <rdfs:label xml:lang="en">Coral Sea</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055551 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055551">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055474"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055550"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055552"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">65</obo:GEO_000055477>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000667"/>
+        <rdfs:label xml:lang="en">Solomon Sea</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055552 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055552">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055474"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055545"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">66</obo:GEO_000055477>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000667"/>
+        <rdfs:label xml:lang="en">Bismark Sea</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055553 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055553">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000055559"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055516"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">62A</obo:GEO_000055477>
+        <rdfs:label xml:lang="en">Bass Strait</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055555 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055555">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055474"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055486"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055487"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055488"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055484"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000557"/>
+        <rdfs:label xml:lang="en">Celtic Sea</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055560 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055560">
+        <rdf:type>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GEO_000000377"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000111"/>
+                        <owl:allValuesFrom>
+                            <owl:Class>
+                                <owl:intersectionOf rdf:parseType="Collection">
+                                    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GEO_000000373"/>
+                                    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GEO_000055558"/>
+                                    <owl:Restriction>
+                                        <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/RO_0002150"/>
+                                        <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/GEO_000055558"/>
+                                    </owl:Restriction>
+                                </owl:intersectionOf>
+                            </owl:Class>
+                        </owl:allValuesFrom>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdf:type>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055476"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055478"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055480"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055561"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055488"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">14</obo:GEO_000055477>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000646"/>
+        <rdfs:label xml:lang="en">Northwestern Passages</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055561 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055561">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000055554"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16</obo:GEO_000055477>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000646"/>
+        <rdfs:label xml:lang="en">Hudson Bay</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000055562 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000055562">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000373"/>
+        <rdf:type>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GEO_000000377"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000111"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/GEO_000000373"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000111"/>
+                        <owl:allValuesFrom rdf:resource="http://purl.obolibrary.org/obo/GEO_000000373"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdf:type>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18</obo:GEO_000055477>
+        <obo:IAO_0000118 xml:lang="en">Scottish Seas</obo:IAO_0000118>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000557"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000578"/>
+        <rdfs:label xml:lang="en">Inner Seas off the West Coast of Scotland</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055466 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055466">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055473"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055479"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000338"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000339"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000340"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000342"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000344"/>
+        <oboInOwl:hasDbXref>MeSH: D001267</oboInOwl:hasDbXref>
+        <rdfs:label xml:lang="en">Atlantic Ocean</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055467 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055467">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000055556"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">26</obo:GEO_000055477>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000346"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000670"/>
+        <oboInOwl:hasDbXref>MeSH: D060851</oboInOwl:hasDbXref>
+        <rdfs:label xml:lang="en">Gulf of Mexico</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055468 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055468">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055474"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055466"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055470"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055466"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055483"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055484"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</obo:GEO_000055477>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000550"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000578"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000613"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000645"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000659"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000677"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000702"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000722"/>
+        <oboInOwl:hasDbXref>MeSH: D009659</oboInOwl:hasDbXref>
+        <rdfs:label xml:lang="en">North Sea</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055469 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055469">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055474"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055503"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">30</obo:GEO_000055477>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000342"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000562"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000581"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000629"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000700"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000724"/>
+        <oboInOwl:hasDbXref>MeSH: D059038</oboInOwl:hasDbXref>
+        <rdfs:label xml:lang="en">Black Sea</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055470 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055470">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055473"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055479"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055511"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055512"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055514"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055516"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">45</obo:GEO_000055477>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000340"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000341"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000343"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000344"/>
+        <oboInOwl:hasDbXref>MeSH: D019156</oboInOwl:hasDbXref>
+        <rdfs:label xml:lang="en">Indian Ocean</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055471 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055471">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055474"/>
+        <obo:BFO_0000111 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055493"/>
+        <obo:BFO_0000111 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055494"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055466"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000340"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000341"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000342"/>
+        <oboInOwl:hasDbXref>MeSH: D008522</oboInOwl:hasDbXref>
+        <rdfs:label xml:lang="en">Mediterranean Sea</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055472 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055472">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055473"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055479"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000338"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000339"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000341"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000343"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000344"/>
+        <oboInOwl:hasDbXref>MeSH: D010140</oboInOwl:hasDbXref>
+        <rdfs:label xml:lang="en">Pacific Ocean</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055476 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055476">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055475"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000341"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000342"/>
+        <oboInOwl:hasDbXref>MeSH: D000077228</oboInOwl:hasDbXref>
+        <rdfs:label xml:lang="en">Caspian Sea</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055479 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055479">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055473"/>
+        <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000345"/>
+        <obo:IAO_0000118 xml:lang="en">Global Ocean</obo:IAO_0000118>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000338"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000339"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000341"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000343"/>
+        <rdfs:label xml:lang="en">World Ocean</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055480 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055480">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055474"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055489"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055467"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">27</obo:GEO_000055477>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000538"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000545"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000551"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000573"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000611"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000614"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000649"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000660"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000664"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000669"/>
+        <rdfs:label xml:lang="en">Carribean Sea</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055481 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055481">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055474"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055508"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055509"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">37</obo:GEO_000055477>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000597"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000679"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000684"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000707"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000784"/>
+        <rdfs:label xml:lang="en">Red Sea</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055482 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055482">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000055556"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055513"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">41</obo:GEO_000055477>
+        <obo:IAO_0000118 xml:lang="en">Arabian Gulf</obo:IAO_0000118>
+        <obo:IAO_0000118 xml:lang="en">Gulf of Iran</obo:IAO_0000118>
+        <obo:IAO_0000118 xml:lang="en">Gulf of Iran (Persian Gulf)</obo:IAO_0000118>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000561"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000563"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000576"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000580"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000707"/>
+        <rdfs:label xml:lang="en">Persian Gulf</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055483 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055483">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055474"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055468"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055485"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055486"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6</obo:GEO_000055477>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000560"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000659"/>
+        <rdfs:label xml:lang="en">Norwegian Sea</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055484 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055484">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000055557"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055466"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055468"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">21</obo:GEO_000055477>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000578"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000702"/>
+        <rdfs:label xml:lang="en">English Channel</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055485 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055485">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055474"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5</obo:GEO_000055477>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000659"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000677"/>
+        <rdfs:label xml:lang="en">Greenland Sea</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055486 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055486">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055474"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055471"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055483"/>
+        <obo:IAO_0000118 xml:lang="en">Barentsz Sea</obo:IAO_0000118>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000659"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000699"/>
+        <rdfs:label xml:lang="en">Barents Sea</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055488 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055488">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055473"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055472"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055473"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055474"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055475"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055476"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055485"/>
+        <obo:RO_0002150 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055486"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">17</obo:GEO_000055477>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000347"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000659"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000677"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000699"/>
+        <rdfs:label xml:lang="en">Arctic Ocean</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055489 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055489">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055474"/>
+        <obo:GEO_000055477 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</obo:GEO_000055477>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000550"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000570"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000605"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000677"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000683"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000689"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000699"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000704"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000722"/>
+        <rdfs:label xml:lang="en">Baltic Sea</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotations
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GEO_000000344">
+        <obo:IAO_0000118 xml:lang="en">Antarctic continent</obo:IAO_0000118>
+    </rdf:Description>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.2.8.20170104-2310) https://github.com/owlcs/owlapi -->
+
