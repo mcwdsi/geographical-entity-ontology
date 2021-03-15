@@ -12,7 +12,6 @@
      xmlns:foaf="http://xmlns.com/foaf/0.1/"
      xmlns:dc="http://purl.org/dc/elements/1.1/">
     <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/geo/dev/nation-and-dependency-instances.owl">
-        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/dev/nation-and-dependency-instances.owl"/>
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/dev/us-integral-geography.owl"/>
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/dev/us-dependency-geography.owl"/>
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/dev/nation-instances.owl"/>
@@ -58,13 +57,13 @@
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000328 -->
 
-    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/GEO_000000328"/>
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/GEO_000000328"/>
     
 
 
     <!-- http://purl.obolibrary.org/obo/GEO_000000329 -->
 
-    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/GEO_000000329"/>
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/GEO_000000329"/>
     
 
 

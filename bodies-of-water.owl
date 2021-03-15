@@ -41,13 +41,13 @@
 
     <!-- http://purl.obolibrary.org/obo/RO_0001025 -->
 
-    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/RO_0001025"/>
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/RO_0001025"/>
     
 
 
     <!-- http://purl.obolibrary.org/obo/RO_0002220 -->
 
-    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/RO_0002220"/>
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/RO_0002220"/>
     
 
 
