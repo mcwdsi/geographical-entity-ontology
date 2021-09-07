@@ -188,27 +188,27 @@
     
 
 
-    <!-- http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055473 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000055473 -->
 
-    <owl:Class rdf:about="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055473">
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GEO_000055473">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GEO_000000373"/>
         <rdfs:label xml:lang="en">ocean</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055474 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000055474 -->
 
-    <owl:Class rdf:about="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055474">
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GEO_000055474">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GEO_000000373"/>
         <rdfs:label xml:lang="en">sea</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055475 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000055475 -->
 
-    <owl:Class rdf:about="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055475">
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GEO_000055475">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GEO_000000373"/>
         <rdfs:label xml:lang="en">lake</rdfs:label>
     </owl:Class>
@@ -232,9 +232,9 @@
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000374"/>
         <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000345"/>
         <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000339"/>
-        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055466"/>
-        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055472"/>
-        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055480"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055466"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055472"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055480"/>
         <obo:IAO_0000118 xml:lang="en">North America</obo:IAO_0000118>
         <oboInOwl:hasDbXref>MeSH: D009656</oboInOwl:hasDbXref>
         <rdfs:label xml:lang="en">continent of North America</rdfs:label>
@@ -248,9 +248,9 @@
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000374"/>
         <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000345"/>
         <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000338"/>
-        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055466"/>
-        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055472"/>
-        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055480"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055466"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055472"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055480"/>
         <obo:IAO_0000118 xml:lang="en">South America</obo:IAO_0000118>
         <oboInOwl:hasDbXref>MeSH: D013020</oboInOwl:hasDbXref>
         <rdfs:label xml:lang="en">continent of South America</rdfs:label>
@@ -263,8 +263,8 @@
     <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000340">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000374"/>
         <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000345"/>
-        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055466"/>
-        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055470"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055466"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055470"/>
         <obo:IAO_0000118 xml:lang="en">Africa</obo:IAO_0000118>
         <oboInOwl:hasDbXref>MeSH: D000349</oboInOwl:hasDbXref>
         <rdfs:label xml:lang="en">continent of Africa</rdfs:label>
@@ -278,8 +278,8 @@
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000374"/>
         <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000345"/>
         <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000342"/>
-        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055470"/>
-        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055472"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055470"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055472"/>
         <obo:IAO_0000118 xml:lang="en">Asia</obo:IAO_0000118>
         <oboInOwl:hasDbXref>MeSH: D001208</oboInOwl:hasDbXref>
         <rdfs:label xml:lang="en">continent of Asia</rdfs:label>
@@ -293,8 +293,8 @@
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000374"/>
         <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000345"/>
         <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000341"/>
-        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055466"/>
-        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055471"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055466"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055471"/>
         <obo:IAO_0000118 xml:lang="en">Europe</obo:IAO_0000118>
         <oboInOwl:hasDbXref>MeSH: D005060</oboInOwl:hasDbXref>
         <rdfs:label xml:lang="en">continent of Europe</rdfs:label>
@@ -307,8 +307,8 @@
     <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000343">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/GEO_000000374"/>
         <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000345"/>
-        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055470"/>
-        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055472"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055470"/>
+        <obo:RO_0002220 rdf:resource="http://purl.obolibrary.org/obo/GEO_000055472"/>
         <obo:IAO_0000118 xml:lang="en">Australia</obo:IAO_0000118>
         <oboInOwl:hasDbXref>MeSH: D001315</oboInOwl:hasDbXref>
         <rdfs:label xml:lang="en">continent of Australia</rdfs:label>
@@ -341,9 +341,9 @@
 
     
    
-    <!-- http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055477 -->
+    <!-- http://purl.obolibrary.org/obo/GEO_000055477 -->
 
-    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/geo/dev/basic-geography.owl/GEO_000055477">
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/geo/GEO_000055477">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000142"/>
         <obo:BFO_0000137 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000345"/>
         <rdfs:label xml:lang="en">Equator</rdfs:label>
