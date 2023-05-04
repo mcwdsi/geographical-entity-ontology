@@ -1,3 +1,5 @@
 catalog*xml
 .DS_Store
 *~
+.idea
+*.py
