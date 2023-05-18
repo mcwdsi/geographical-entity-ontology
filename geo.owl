@@ -1,33 +1,33 @@
 <?xml version="1.0"?>
 <rdf:RDF xmlns="http://purl.obolibrary.org/obo/geo.owl/"
      xml:base="http://purl.obolibrary.org/obo/geo.owl/"
-     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-     xmlns:owl="http://www.w3.org/2002/07/owl#"
-     xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#"
-     xmlns:xml="http://www.w3.org/XML/1998/namespace"
-     xmlns:protege="http://protege.stanford.edu/plugins/owl/protege#"
-     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
-     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-     xmlns:obo="http://purl.obolibrary.org/obo/"
-     xmlns:foaf="http://xmlns.com/foaf/0.1/"
      xmlns:dc="http://purl.org/dc/elements/1.1/"
-     xmlns:terms="http://purl.org/dc/terms/">
+     xmlns:obo="http://purl.obolibrary.org/obo/"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:foaf="http://xmlns.com/foaf/0.1/"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:terms="http://purl.org/dc/terms/"
+     xmlns:protege="http://protege.stanford.edu/plugins/owl/protege#"
+     xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#">
     <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/geo.owl">
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/bfo/2014-05-03/classes-only.owl"/>
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/ro/core.owl"/>
-        <dc:contributor xml:lang="en">Mathias Brochhausen</dc:contributor>
-        <dc:title xml:lang="en">Geographical Entity Ontology</dc:title>
-        <owl:versionInfo xml:lang="en">production version 2016-03-26</owl:versionInfo>
-        <dc:contributor xml:lang="en">Katrina M. Donovan</dc:contributor>
-        <terms:license>https://creativecommons.org/licenses/by/4.0/</terms:license>
-        <dc:creator xml:lang="en">William R. Hogan</dc:creator>
-        <dc:contributor xml:lang="en">Amanda Hicks</dc:contributor>
-        <rdfs:comment xml:lang="en">When citing the Geographical Entities Ontology (GEO), use the permanent URL of the ontology: http://purl.obolibrary.org/obo/geo.owl.  When referencing a specific component of GEO such as a class, object property, or individual, use that component&apos;s Uniform Resource Identifier (URI).</rdfs:comment>
         <obo:IAO_0000116>If you are wondering where the individuals that were previously in geo.owl have gone, they have been moved to other OWL files according to a modularization strategy that seeks to avoid compiling all possible geographical entities into one, giant, outsized file.
 
 For example: nations and their dependencies are now in nation-and-dependency-instances.owl available at http://purl.obolibrary.org/obo/geo/nation-and-dependency-instances.owl
 
 For a full list of PURLs, see the geo.yml file here: https://raw.githubusercontent.com/OBOFoundry/purl.obolibrary.org/master/config/geo.yml</obo:IAO_0000116>
+        <dc:contributor xml:lang="en">Amanda Hicks</dc:contributor>
+        <dc:contributor xml:lang="en">Katrina M. Donovan</dc:contributor>
+        <dc:contributor xml:lang="en">Mathias Brochhausen</dc:contributor>
+        <dc:creator xml:lang="en">William R. Hogan</dc:creator>
+        <dc:title xml:lang="en">Geographical Entity Ontology</dc:title>
+        <terms:license>https://creativecommons.org/licenses/by/4.0/</terms:license>
+        <rdfs:comment xml:lang="en">When citing the Geographical Entities Ontology (GEO), use the permanent URL of the ontology: http://purl.obolibrary.org/obo/geo.owl.  When referencing a specific component of GEO such as a class, object property, or individual, use that component&apos;s Uniform Resource Identifier (URI).</rdfs:comment>
+        <owl:versionInfo xml:lang="en">production version 2016-03-26</owl:versionInfo>
     </owl:Ontology>
     
 
@@ -173,6 +173,18 @@ For a full list of PURLs, see the geo.yml file here: https://raw.githubuserconte
     
 
 
+    <!-- http://purl.obolibrary.org/obo/GEO_000035335 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/GEO_000035335">
+        <obo:IAO_0000111 xml:lang="en">US Census Bureau geographical identifier</obo:IAO_0000111>
+        <obo:IAO_0000115 xml:lang="en">An annotation property to identify OWL 2 individuals that represent geographical entities with their appropriate US Census-designated geographical identifier.</obo:IAO_0000115>
+        <obo:IAO_0000117 xml:lang="en">Matthew Diller</obo:IAO_0000117>
+        <dc:contributor xml:lang="en">William R. Hogan</dc:contributor>
+        <rdfs:label xml:lang="en">US Census GEOID</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/IAO_0000111 -->
 
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/IAO_0000111">
@@ -205,7 +217,6 @@ For a full list of PURLs, see the geo.yml file here: https://raw.githubuserconte
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/IAO_0000115">
         <rdfs:label>definition</rdfs:label>
         <rdfs:label xml:lang="en">definition</rdfs:label>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">definition</rdfs:label>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">textual definition</rdfs:label>
     </rdf:Description>
     
@@ -298,12 +309,24 @@ For a full list of PURLs, see the geo.yml file here: https://raw.githubuserconte
     
 
 
+    <!-- http://purl.org/dc/elements/1.1/creator -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/creator"/>
+    
+
+
     <!-- http://purl.org/dc/elements/1.1/source -->
 
     <rdf:Description rdf:about="http://purl.org/dc/elements/1.1/source">
         <rdfs:label>Source</rdfs:label>
         <rdfs:label xml:lang="en-us">Source</rdfs:label>
     </rdf:Description>
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/title -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/title"/>
     
 
 
@@ -1482,6 +1505,18 @@ of this, different, term.</obo:IAO_0000116>
     
 
 
+    <!-- http://purl.obolibrary.org/obo/IAO_0000027 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/IAO_0000027"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000030 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/IAO_0000030"/>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/IAO_0000032 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/IAO_0000032">
@@ -1813,5 +1848,5 @@ for now.</obo:IAO_0000116>
 
 
 
-<!-- Generated by the OWL API (version 4.2.8.20170104-2310) https://github.com/owlcs/owlapi -->
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
 
