@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
-<rdf:RDF xmlns="http://purl.obolibrary.org/obo/geo/dev/tz-admin-level-three.owl#"
-     xml:base="http://purl.obolibrary.org/obo/geo/dev/tz-admin-level-three.owl"
+<rdf:RDF xmlns="http://purl.obolibrary.org/obo/geo/tz-admin-level-three.owl#"
+     xml:base="http://purl.obolibrary.org/obo/geo/tz-admin-level-three.owl"
      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:owl="http://www.w3.org/2002/07/owl#"
      xmlns:xml="http://www.w3.org/XML/1998/namespace"
@@ -8,7 +8,7 @@
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
      xmlns:obo="http://purl.obolibrary.org/obo/">
     <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/geo/tz-admin-level-three.owl">
-        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/dev/tz-admin-level-two.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/tz-admin-level-two.owl"/>
     </owl:Ontology>
     
 

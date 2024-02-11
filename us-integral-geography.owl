@@ -125,15 +125,6 @@
     
 
 
-    <!-- http://purl.obolibrary.org/obo/IAO_0000412 -->
-
-    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/IAO_0000412">
-        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000125"/>
-        <rdfs:label xml:lang="en">imported from</rdfs:label>
-    </rdf:Description>
-    
-
-
     <!-- http://www.w3.org/2000/01/rdf-schema#label -->
 
     <rdf:Description rdf:about="http://www.w3.org/2000/01/rdf-schema#label">
@@ -209,14 +200,14 @@
     <!-- http://purl.obolibrary.org/obo/GEO_000083890 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/GEO_000083890">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/IAO_0021008"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BFO_0000023"/>
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/RO_0000081"/>
                 <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
             </owl:Restriction>
         </rdfs:subClassOf>
-        <obo:IAO_0000115 xml:lang="en">A deontic role inhering in a geographical region with definite boundaries within which some US county or county equivalent has governmental jurisdiction.</obo:IAO_0000115>
+        <obo:IAO_0000115 xml:lang="en">A role inhering in a geographical region with definite boundaries within which some US county or county equivalent has governmental jurisdiction.</obo:IAO_0000115>
         <obo:IAO_0000117 xml:lang="en">Matthew Diller</obo:IAO_0000117>
         <dc:contributor xml:lang="en">William R. Hogan</dc:contributor>
         <rdfs:label xml:lang="en">US county region role</rdfs:label>
@@ -227,14 +218,14 @@
     <!-- http://purl.obolibrary.org/obo/GEO_000083891 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/GEO_000083891">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/IAO_0021008"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BFO_0000023"/>
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/RO_0000081"/>
                 <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
             </owl:Restriction>
         </rdfs:subClassOf>
-        <obo:IAO_0000115 xml:lang="en">A deontic role inhering in a geographical region with definite boundaries within which some US state has governmental jurisdiction.</obo:IAO_0000115>
+        <obo:IAO_0000115 xml:lang="en">A role inhering in a geographical region with definite boundaries within which some US state has governmental jurisdiction.</obo:IAO_0000115>
         <obo:IAO_0000117 xml:lang="en">Matthew Diller</obo:IAO_0000117>
         <dc:contributor xml:lang="en">William R. Hogan</dc:contributor>
         <rdfs:label xml:lang="en">US state region role</rdfs:label>
@@ -245,30 +236,17 @@
     <!-- http://purl.obolibrary.org/obo/GEO_000083892 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/GEO_000083892">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/IAO_0021008"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BFO_0000023"/>
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/RO_0000081"/>
                 <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/GEO_000000372"/>
             </owl:Restriction>
         </rdfs:subClassOf>
-        <obo:IAO_0000115 xml:lang="en">A deontic role inhering in a geographical region with definite boundaries that are demarcated by a governmental organization for the purpose of census taking and is part of the geographical region of some major administrative subdivision of a US state.</obo:IAO_0000115>
+        <obo:IAO_0000115 xml:lang="en">A role inhering in a geographical region with definite boundaries that are demarcated by a governmental organization for the purpose of census taking and is part of the geographical region of some major administrative subdivision of a US state.</obo:IAO_0000115>
         <obo:IAO_0000117 xml:lang="en">Matthew Diller</obo:IAO_0000117>
         <dc:contributor xml:lang="en">William R. Hogan</dc:contributor>
         <rdfs:label xml:lang="en">US Census tract region role</rdfs:label>
-    </owl:Class>
-    
-
-
-    <!-- http://purl.obolibrary.org/obo/IAO_0021008 -->
-
-    <owl:Class rdf:about="http://purl.obolibrary.org/obo/IAO_0021008">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BFO_0000023"/>
-        <obo:IAO_0000115 xml:lang="en">A role that inheres in an agent and which is externally grounded in the normative expectations that other agents within a social context have concerning how that agent should behave.</obo:IAO_0000115>
-        <obo:IAO_0000117 xml:lang="en">Mathias Brochhausen</obo:IAO_0000117>
-        <obo:IAO_0000117 xml:lang="en">Neil Otte</obo:IAO_0000117>
-        <obo:IAO_0000412>http://purl.obolibrary.org/obo/iao/d-acts/release/2023-09-08/d-acts.owl</obo:IAO_0000412>
-        <rdfs:label xml:lang="en">deontic role</rdfs:label>
     </owl:Class>
     
 
@@ -1083,6 +1061,10 @@
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/IAO_0000232">
         <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
     </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/IAO_0000412">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000125"/>
+        <rdfs:label xml:lang="en">imported from</rdfs:label>
+    </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/IAO_0000589">
         <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000125"/>
     </rdf:Description>
@@ -1096,5 +1078,5 @@
 
 
 
-<!-- Generated by the OWL API (version 4.5.25.2023-02-15T19:15:49Z) https://github.com/owlcs/owlapi -->
+<!-- Generated by the OWL API (version 4.5.26.2023-07-17T20:34:13Z) https://github.com/owlcs/owlapi -->
 

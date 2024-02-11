@@ -8,7 +8,7 @@
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
      xmlns:obo="http://purl.obolibrary.org/obo/">
     <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/geo/gb-admin-level-three.owl">
-        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/dev/gb-admin-level-two.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/gb-admin-level-two.owl"/>
     </owl:Ontology>
     
 

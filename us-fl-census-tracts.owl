@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
-<rdf:RDF xmlns="http://purl.obolibrary.org/obo/geo/dev/us-fl-census-tracts.owl#"
-     xml:base="http://purl.obolibrary.org/obo/geo/dev/us-fl-census-tracts.owl"
+<rdf:RDF xmlns="http://purl.obolibrary.org/obo/geo/us-fl-census-tracts.owl#"
+     xml:base="http://purl.obolibrary.org/obo/geo/us-fl-census-tracts.owl"
      xmlns:dc="http://purl.org/dc/elements/1.1/"
      xmlns:obo="http://purl.obolibrary.org/obo/"
      xmlns:owl="http://www.w3.org/2002/07/owl#"
@@ -12,8 +12,8 @@
      xmlns:terms="http://purl.org/dc/terms/"
      xmlns:protege="http://protege.stanford.edu/plugins/owl/protege#"
      xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#">
-    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/geo/dev/us-fl-census-tracts.owl">
-        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/dev/us-fl-county-geography.owl"/>
+    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/geo/us-fl-census-tracts.owl">
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/geo/us-fl-county-geography.owl"/>
     </owl:Ontology>
     
 
