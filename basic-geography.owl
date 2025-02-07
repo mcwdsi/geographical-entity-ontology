@@ -183,6 +183,15 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/GEO_000000373 -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GEO_000000373">
+        <obo:IAO_0100001>http://purl.obolibrary.org/obo/ENVO_00000063</obo:IAO_0100001>
+        <owl:deprecated rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</owl:deprecated>
+    </rdf:Description>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/GEO_000000374 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/GEO_000000374"/>
@@ -193,7 +202,8 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/GEO_000083897">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GEO_000000373"/>
-        <rdfs:label xml:lang="en">ocean</rdfs:label>
+        <obo:IAO_0100001>http://purl.obolibrary.org/obo/ENVO_00000015</obo:IAO_0100001>
+        <rdfs:label xml:lang="en">obsolete ocean</rdfs:label>
         <owl:deprecated rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</owl:deprecated>
     </owl:Class>
     
@@ -203,7 +213,8 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/GEO_000083898">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GEO_000000373"/>
-        <rdfs:label xml:lang="en">sea</rdfs:label>
+        <obo:IAO_0100001>http://purl.obolibrary.org/obo/ENVO_00000016</obo:IAO_0100001>
+        <rdfs:label xml:lang="en">obsolete sea</rdfs:label>
         <owl:deprecated rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</owl:deprecated>
     </owl:Class>
     
@@ -213,7 +224,8 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/GEO_000083899">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GEO_000000373"/>
-        <rdfs:label xml:lang="en">lake</rdfs:label>
+        <obo:IAO_0100001>http://purl.obolibrary.org/obo/ENVO_00000020</obo:IAO_0100001>
+        <rdfs:label xml:lang="en">obsolete lake</rdfs:label>
         <owl:deprecated rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</owl:deprecated>
     </owl:Class>
     

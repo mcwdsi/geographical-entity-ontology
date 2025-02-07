@@ -716,6 +716,7 @@
         <obo:IAO_0000115 xml:lang="en">a body of water that fills a well-marked indentation whose penetration is in such proportion to the width of its mouth as to contain land locked waters and constitute more than a mere curvature of the coast</obo:IAO_0000115>
         <obo:IAO_0000117 xml:lang="en">Amanda Hicks</obo:IAO_0000117>
         <obo:IAO_0000119 xml:lang="en">http://hd.iho.int/en/index.php/bay</obo:IAO_0000119>
+        <obo:IAO_0100001>http://purl.obolibrary.org/obo/ENVO_00000032</obo:IAO_0100001>
         <rdfs:label xml:lang="en">obsolete bay</rdfs:label>
         <owl:deprecated rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</owl:deprecated>
     </owl:Class>
@@ -760,6 +761,7 @@
         <obo:IAO_0000117 xml:lang="en">Amanda Hicks</obo:IAO_0000117>
         <obo:IAO_0000119 xml:lang="en">A body of water that is the deepest part of a stream, bay or strait through which the main current flows and that is deep enough for navigation through an area otherwise not navigable</obo:IAO_0000119>
         <obo:IAO_0000119 xml:lang="en">http://hd.iho.int/en/index.php/channel</obo:IAO_0000119>
+        <obo:IAO_0100001>http://purl.obolibrary.org/obo/ENVO_00000395</obo:IAO_0100001>
         <rdfs:label xml:lang="en">obsolete channel</rdfs:label>
         <owl:deprecated rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</owl:deprecated>
     </owl:Class>
@@ -775,6 +777,7 @@
         <obo:IAO_0000118 xml:lang="en">pass</obo:IAO_0000118>
         <obo:IAO_0000119>A narrow navigable channel, especially one through reefs or islands</obo:IAO_0000119>
         <obo:IAO_0000119>http://hd.iho.int/en/index.php/passage</obo:IAO_0000119>
+        <obo:IAO_0100001>http://purl.obolibrary.org/obo/ENVO_00000029</obo:IAO_0100001>
         <rdfs:label xml:lang="en">obsolete passage</rdfs:label>
         <owl:deprecated rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</owl:deprecated>
     </owl:Class>
@@ -795,6 +798,7 @@
         <obo:IAO_0000115 xml:lang="en">a passage connecting two larger bodies of water</obo:IAO_0000115>
         <obo:IAO_0000117>Amanda Hicks</obo:IAO_0000117>
         <obo:IAO_0000119 xml:lang="en">http://hd.iho.int/en/index.php/strait</obo:IAO_0000119>
+        <obo:IAO_0100001>http://purl.obolibrary.org/obo/ENVO_00000394</obo:IAO_0100001>
         <rdfs:label xml:lang="en">obsolete strait</rdfs:label>
         <owl:deprecated rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</owl:deprecated>
     </owl:Class>
