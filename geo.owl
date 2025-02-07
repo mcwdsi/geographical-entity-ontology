@@ -128,7 +128,7 @@ For a full list of PURLs, see the geo.yml file here: https://raw.githubuserconte
     <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/GEO_000035330">
         <obo:IAO_0000111 xml:lang="en">geonameid</obo:IAO_0000111>
         <rdfs:comment xml:lang="en">integer id of record in geonames database</rdfs:comment>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">geonameid</rdfs:label>
+        <rdfs:label>geonameid</rdfs:label>
     </owl:AnnotationProperty>
     
 
@@ -138,7 +138,7 @@ For a full list of PURLs, see the geo.yml file here: https://raw.githubuserconte
     <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/GEO_000035331">
         <obo:IAO_0000111 xml:lang="en">geonames admin1 code</obo:IAO_0000111>
         <rdfs:comment xml:lang="en">fipscode (subject to change to iso code), see exceptions below, see file admin1Codes.txt for display names of this code; varchar(20)</rdfs:comment>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">admin1 code</rdfs:label>
+        <rdfs:label>admin1 code</rdfs:label>
     </owl:AnnotationProperty>
     
 
@@ -148,7 +148,7 @@ For a full list of PURLs, see the geo.yml file here: https://raw.githubuserconte
     <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/GEO_000035332">
         <obo:IAO_0000111 xml:lang="en">geonames admin2 code</obo:IAO_0000111>
         <rdfs:comment xml:lang="en">code for the second administrative division, a county in the US, see file admin2Codes.txt; varchar(80)</rdfs:comment>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">admin2 code</rdfs:label>
+        <rdfs:label>admin2 code</rdfs:label>
     </owl:AnnotationProperty>
     
 
@@ -158,7 +158,7 @@ For a full list of PURLs, see the geo.yml file here: https://raw.githubuserconte
     <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/GEO_000035333">
         <obo:IAO_0000111 xml:lang="en">geonames admin3 code</obo:IAO_0000111>
         <rdfs:comment xml:lang="en">code for third level administrative division, varchar(20)</rdfs:comment>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">admin3 code</rdfs:label>
+        <rdfs:label>admin3 code</rdfs:label>
     </owl:AnnotationProperty>
     
 
@@ -168,7 +168,7 @@ For a full list of PURLs, see the geo.yml file here: https://raw.githubuserconte
     <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/GEO_000035334">
         <obo:IAO_0000111 xml:lang="en">geonames admin4 code</obo:IAO_0000111>
         <rdfs:comment xml:lang="en">code for fourth level administrative division, varchar(20)</rdfs:comment>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">admin4 code</rdfs:label>
+        <rdfs:label>admin4 code</rdfs:label>
     </owl:AnnotationProperty>
     
 
@@ -217,7 +217,7 @@ For a full list of PURLs, see the geo.yml file here: https://raw.githubuserconte
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/IAO_0000115">
         <rdfs:label>definition</rdfs:label>
         <rdfs:label xml:lang="en">definition</rdfs:label>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">textual definition</rdfs:label>
+        <rdfs:label>textual definition</rdfs:label>
     </rdf:Description>
     
 
@@ -317,10 +317,10 @@ For a full list of PURLs, see the geo.yml file here: https://raw.githubuserconte
 
     <!-- http://purl.org/dc/elements/1.1/source -->
 
-    <rdf:Description rdf:about="http://purl.org/dc/elements/1.1/source">
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/source">
         <rdfs:label>Source</rdfs:label>
         <rdfs:label xml:lang="en-us">Source</rdfs:label>
-    </rdf:Description>
+    </owl:AnnotationProperty>
     
 
 
@@ -339,7 +339,7 @@ For a full list of PURLs, see the geo.yml file here: https://raw.githubuserconte
     <!-- http://www.geneontology.org/formats/oboInOwl#hasAlternativeId -->
 
     <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasAlternativeId">
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">has_alternative_id</rdfs:label>
+        <rdfs:label>has_alternative_id</rdfs:label>
     </owl:AnnotationProperty>
     
 
@@ -347,7 +347,7 @@ For a full list of PURLs, see the geo.yml file here: https://raw.githubuserconte
     <!-- http://www.geneontology.org/formats/oboInOwl#hasDbXref -->
 
     <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasDbXref">
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">database_cross_reference</rdfs:label>
+        <rdfs:label>database_cross_reference</rdfs:label>
     </owl:AnnotationProperty>
     
 
@@ -363,7 +363,7 @@ For a full list of PURLs, see the geo.yml file here: https://raw.githubuserconte
     <!-- http://www.geneontology.org/formats/oboInOwl#hasExactSynonym -->
 
     <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym">
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">has_exact_synonym</rdfs:label>
+        <rdfs:label>has_exact_synonym</rdfs:label>
     </owl:AnnotationProperty>
     
 
@@ -371,7 +371,7 @@ For a full list of PURLs, see the geo.yml file here: https://raw.githubuserconte
     <!-- http://www.geneontology.org/formats/oboInOwl#hasNarrowSynonym -->
 
     <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasNarrowSynonym">
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">has_narrow_synonym</rdfs:label>
+        <rdfs:label>has_narrow_synonym</rdfs:label>
     </owl:AnnotationProperty>
     
 
@@ -379,7 +379,7 @@ For a full list of PURLs, see the geo.yml file here: https://raw.githubuserconte
     <!-- http://www.geneontology.org/formats/oboInOwl#hasOBONamespace -->
 
     <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasOBONamespace">
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">has_obo_namespace</rdfs:label>
+        <rdfs:label>has_obo_namespace</rdfs:label>
     </owl:AnnotationProperty>
     
 
@@ -393,7 +393,7 @@ For a full list of PURLs, see the geo.yml file here: https://raw.githubuserconte
     <!-- http://www.geneontology.org/formats/oboInOwl#inSubset -->
 
     <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#inSubset">
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">in_subset</rdfs:label>
+        <rdfs:label>in_subset</rdfs:label>
     </owl:AnnotationProperty>
     
 
@@ -424,7 +424,7 @@ For a full list of PURLs, see the geo.yml file here: https://raw.githubuserconte
         <owl:inverseOf rdf:resource="http://purl.obolibrary.org/obo/GEO_000000328"/>
         <obo:IAO_0000118 xml:lang="en">aggregate of</obo:IAO_0000118>
         <obo:IAO_0000118 xml:lang="en">aggregate_of</obo:IAO_0000118>
-        <obo:IAO_0000412 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://purl.obolibrary.org/obo/omrse.owl</obo:IAO_0000412>
+        <obo:IAO_0000412>http://purl.obolibrary.org/obo/omrse.owl</obo:IAO_0000412>
         <rdfs:label xml:lang="en">is aggregate of</rdfs:label>
     </owl:ObjectProperty>
     
@@ -463,7 +463,7 @@ For a full list of PURLs, see the geo.yml file here: https://raw.githubuserconte
         <obo:IAO_0000115 xml:lang="en">b has_continuant_part c at t = Def. c continuant_part_of b at t. (axiom label in BFO2 Reference: [006-001])</obo:IAO_0000115>
         <obo:IAO_0000116>Alan Ruttenberg: This is a binary version of a ternary time-indexed, instance-level, relation. The BFO reading of the binary relation &apos;has continuant part at all times@en&apos; is: forall(t) exists_at(x,t) -&gt; exists_at(y,t) and &apos;has continuant part@en(x,y,t)&apos;.</obo:IAO_0000116>
         <obo:IAO_0000116>[copied from inverse property &apos;part of continuant at all times that whole exists&apos;] This is a binary version of a ternary time-indexed, instance level, relation. Unlike the rest of the temporalized relations which temporally quantify over existence of the subject of the relation, this relation temporally quantifies over the existence of the object of the relation. The relation is provided tentatively, to assess whether the GO needs such a relation. It is inverse of &apos;has continuant part at all times&apos;</obo:IAO_0000116>
-        <obo:IAO_0000412 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://purl.obolibrary.org/obo/bfo.owl</obo:IAO_0000412>
+        <obo:IAO_0000412>http://purl.obolibrary.org/obo/bfo.owl</obo:IAO_0000412>
         <obo:IAO_0000602>(iff (hasContinuantPartAt a b t) (continuantPartOfAt b a t)) // axiom label in BFO2 CLIF: [006-001] </obo:IAO_0000602>
         <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/bfo.owl"/>
         <rdfs:label xml:lang="en">has continuant part at all times</rdfs:label>
@@ -479,7 +479,7 @@ For a full list of PURLs, see the geo.yml file here: https://raw.githubuserconte
         <obo:BFO_0000180>hasProperContinuantPartAt</obo:BFO_0000180>
         <obo:IAO_0000115 xml:lang="en">b has_proper_continuant_part c at t = Def. c proper_continuant_part_of b at t. [XXX-001</obo:IAO_0000115>
         <obo:IAO_0000116>Alan Ruttenberg: This is a binary version of a ternary time-indexed, instance-level, relation. The BFO reading of the binary relation &apos;has proper continuant part at all times@en&apos; is: forall(t) exists_at(x,t) -&gt; exists_at(y,t) and &apos;has proper continuant part@en(x,y,t)&apos;.</obo:IAO_0000116>
-        <obo:IAO_0000412 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://purl.obolibrary.org/obo/bfo.owl</obo:IAO_0000412>
+        <obo:IAO_0000412>http://purl.obolibrary.org/obo/bfo.owl</obo:IAO_0000412>
         <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/bfo.owl"/>
         <rdfs:label xml:lang="en">has proper continuant part at all times</rdfs:label>
     </owl:ObjectProperty>
@@ -512,7 +512,7 @@ For a full list of PURLs, see the geo.yml file here: https://raw.githubuserconte
         <obo:BFO_0000180>properContinuantPartOfAt</obo:BFO_0000180>
         <obo:IAO_0000115 xml:lang="en">b proper_continuant_part_of c at t =Def. b continuant_part_of c at t  &amp; b and c are not identical. (axiom label in BFO2 Reference: [004-001])</obo:IAO_0000115>
         <obo:IAO_0000116>Alan Ruttenberg: This is a binary version of a ternary time-indexed, instance-level, relation. The BFO reading of the binary relation &apos;proper part of continuant at all times@en&apos; is: forall(t) exists_at(x,t) -&gt; exists_at(y,t) and &apos;proper part of continuant@en(x,y,t)&apos;.</obo:IAO_0000116>
-        <obo:IAO_0000412 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://purl.obolibrary.org/obo/bfo.owl</obo:IAO_0000412>
+        <obo:IAO_0000412>http://purl.obolibrary.org/obo/bfo.owl</obo:IAO_0000412>
         <obo:IAO_0000602>(iff (properContinuantPartOfAt a b t) (and (continuantPartOfAt a b t) (not (= a b)))) // axiom label in BFO2 CLIF: [004-001] </obo:IAO_0000602>
         <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/bfo.owl"/>
         <rdfs:label xml:lang="en">proper part of continuant at all times</rdfs:label>
@@ -537,7 +537,7 @@ For a full list of PURLs, see the geo.yml file here: https://raw.githubuserconte
         <obo:IAO_0000116>BFO2 Reference: continuant</obo:IAO_0000116>
         <obo:IAO_0000116>BFO2 Reference: continuantThe range for ‘t’ (as in all cases throughout this document unless otherwise specified) is: temporal region.</obo:IAO_0000116>
         <obo:IAO_0000116>[copied from inverse property &apos;has continuant part at all times that part exists&apos;] This is a binary version of a ternary time-indexed, instance level, relation. Unlike the rest of the temporalized relations which temporally quantify over existence of the subject of the relation, this relation temporally quantifies over the existence of the object of the relation. The relation is provided tentatively, to assess whether the GO needs such a relation. It is inverse of &apos;part of continuant at all times&apos;</obo:IAO_0000116>
-        <obo:IAO_0000412 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://purl.obolibrary.org/obo/bfo.owl</obo:IAO_0000412>
+        <obo:IAO_0000412>http://purl.obolibrary.org/obo/bfo.owl</obo:IAO_0000412>
         <obo:IAO_0000600 xml:lang="en">b continuant_part_of c at t =Def. b is a part of c at t &amp; t is a time &amp; b and c are continuants. (axiom label in BFO2 Reference: [002-001])</obo:IAO_0000600>
         <obo:IAO_0000601 xml:lang="en">continuant_part_of is antisymmetric. (axiom label in BFO2 Reference: [120-001])</obo:IAO_0000601>
         <obo:IAO_0000601 xml:lang="en">continuant_part_of is reflexive (every continuant entity is a continuant_part_of itself). (axiom label in BFO2 Reference: [111-002])</obo:IAO_0000601>
@@ -572,7 +572,7 @@ For a full list of PURLs, see the geo.yml file here: https://raw.githubuserconte
         <obo:IAO_0000116>[copied from inverse property &apos;part of continuant at all times&apos;] BFO 2 Reference: a (continuant or occurrent) part of itself. We appreciate that this is counterintuitive for some users, since it implies for example that President Obama is a part of himself. However it brings benefits in simplifying the logical formalism, and it captures an important feature of identity, namely that it is the limit case of mereological inclusion.</obo:IAO_0000116>
         <obo:IAO_0000116>[copied from inverse property &apos;part of continuant at all times&apos;] BFO2 Reference: continuant</obo:IAO_0000116>
         <obo:IAO_0000116>[copied from inverse property &apos;part of continuant at all times&apos;] BFO2 Reference: continuantThe range for ‘t’ (as in all cases throughout this document unless otherwise specified) is: temporal region.</obo:IAO_0000116>
-        <obo:IAO_0000412 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://purl.obolibrary.org/obo/bfo.owl</obo:IAO_0000412>
+        <obo:IAO_0000412>http://purl.obolibrary.org/obo/bfo.owl</obo:IAO_0000412>
         <obo:IAO_0000600>[copied from inverse property &apos;part of continuant at all times&apos;] b continuant_part_of c at t =Def. b is a part of c at t &amp; t is a time &amp; b and c are continuants. (axiom label in BFO2 Reference: [002-001])</obo:IAO_0000600>
         <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/bfo.owl"/>
         <rdfs:label xml:lang="en">has continuant part at all times that part exists</rdfs:label>
@@ -634,7 +634,7 @@ otherwise, we&apos;d end up creating some mereological sum of all the islands, c
         <rdfs:subPropertyOf rdf:resource="http://purl.obolibrary.org/obo/BFO_0000051"/>
         <obo:IAO_0000111 xml:lang="en">has measurement unit label</obo:IAO_0000111>
         <obo:IAO_0000115>A relation between a value specification and its unit of measurement.</obo:IAO_0000115>
-        <obo:IAO_0000412 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://purl.obolibrary.org/obo/obi.owl</obo:IAO_0000412>
+        <obo:IAO_0000412>http://purl.obolibrary.org/obo/obi.owl</obo:IAO_0000412>
     </owl:ObjectProperty>
     
 
@@ -653,7 +653,7 @@ We will try to build it back up by elaborating the various subproperties that ar
 Some currently missing phenomena that should be considered &quot;about&quot; are predications - &quot;The only person who knows the answer is sitting beside me&quot; , Allegory, Satire, and other literary forms that can be topical without explicitly mentioning the topic.</obo:IAO_0000116>
         <obo:IAO_0000117 xml:lang="en">person:Alan Ruttenberg</obo:IAO_0000117>
         <obo:IAO_0000119 xml:lang="en">Smith, Ceusters, Ruttenberg, 2000 years of philosophy</obo:IAO_0000119>
-        <obo:IAO_0000412 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://purl.obolibrary.org/obo/iao.owl</obo:IAO_0000412>
+        <obo:IAO_0000412>http://purl.obolibrary.org/obo/iao.owl</obo:IAO_0000412>
         <rdfs:label xml:lang="en">is about</rdfs:label>
     </owl:ObjectProperty>
     
@@ -667,12 +667,12 @@ Some currently missing phenomena that should be considered &quot;about&quot; are
         <obo:IAO_0000112 xml:lang="en">see is_input_of example_of_usage</obo:IAO_0000112>
         <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
         <obo:IAO_0000115 xml:lang="en">A relation between a planned process and a continuant participating in that process that is not created during  the process. The presence of the continuant during the process is explicitly specified in the plan specification which the process realizes the concretization of.</obo:IAO_0000115>
-        <obo:IAO_0000116 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8/17/09: specified inputs of one process are not necessarily specified inputs of a larger process that it is part of. This is in contrast to how &apos;has participant&apos; works.</obo:IAO_0000116>
+        <obo:IAO_0000116>8/17/09: specified inputs of one process are not necessarily specified inputs of a larger process that it is part of. This is in contrast to how &apos;has participant&apos; works.</obo:IAO_0000116>
         <obo:IAO_0000117 xml:lang="en">PERSON: Alan Ruttenberg</obo:IAO_0000117>
-        <obo:IAO_0000117 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PERSON: Bjoern Peters</obo:IAO_0000117>
-        <obo:IAO_0000117 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PERSON: Larry Hunter</obo:IAO_0000117>
-        <obo:IAO_0000117 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PERSON: Melanie Coutot</obo:IAO_0000117>
-        <obo:IAO_0000412 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://purl.obolibrary.org/obo/obi.owl</obo:IAO_0000412>
+        <obo:IAO_0000117>PERSON: Bjoern Peters</obo:IAO_0000117>
+        <obo:IAO_0000117>PERSON: Larry Hunter</obo:IAO_0000117>
+        <obo:IAO_0000117>PERSON: Melanie Coutot</obo:IAO_0000117>
+        <obo:IAO_0000412>http://purl.obolibrary.org/obo/obi.owl</obo:IAO_0000412>
         <rdfs:label xml:lang="en">has_specified_input</rdfs:label>
     </owl:ObjectProperty>
     
@@ -687,8 +687,8 @@ Some currently missing phenomena that should be considered &quot;about&quot; are
         <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
         <obo:IAO_0000115 xml:lang="en">A relation between a planned process and a continuant participating in that process that is not created during  the process. The presence of the continuant during the process is explicitly specified in the plan specification which the process realizes the concretization of.</obo:IAO_0000115>
         <obo:IAO_0000117 xml:lang="en">Alan Ruttenberg</obo:IAO_0000117>
-        <obo:IAO_0000117 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PERSON:Bjoern Peters</obo:IAO_0000117>
-        <obo:IAO_0000412 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://purl.obolibrary.org/obo/obi.owl</obo:IAO_0000412>
+        <obo:IAO_0000117>PERSON:Bjoern Peters</obo:IAO_0000117>
+        <obo:IAO_0000412>http://purl.obolibrary.org/obo/obi.owl</obo:IAO_0000412>
         <rdfs:label xml:lang="en">is_specified_input_of</rdfs:label>
     </owl:ObjectProperty>
     
@@ -702,10 +702,10 @@ Some currently missing phenomena that should be considered &quot;about&quot; are
         <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
         <obo:IAO_0000115 xml:lang="en">A relation between a planned process and a continuant participating in that process. The presence of the continuant at the end of the process is explicitly specified in the objective specification which the process realizes the concretization of.</obo:IAO_0000115>
         <obo:IAO_0000117 xml:lang="en">PERSON: Alan Ruttenberg</obo:IAO_0000117>
-        <obo:IAO_0000117 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PERSON: Bjoern Peters</obo:IAO_0000117>
-        <obo:IAO_0000117 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PERSON: Larry Hunter</obo:IAO_0000117>
-        <obo:IAO_0000117 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PERSON: Melanie Courtot</obo:IAO_0000117>
-        <obo:IAO_0000412 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://purl.obolibrary.org/obo/obi.owl</obo:IAO_0000412>
+        <obo:IAO_0000117>PERSON: Bjoern Peters</obo:IAO_0000117>
+        <obo:IAO_0000117>PERSON: Larry Hunter</obo:IAO_0000117>
+        <obo:IAO_0000117>PERSON: Melanie Courtot</obo:IAO_0000117>
+        <obo:IAO_0000412>http://purl.obolibrary.org/obo/obi.owl</obo:IAO_0000412>
         <rdfs:label xml:lang="en">has_specified_output</rdfs:label>
     </owl:ObjectProperty>
     
@@ -719,8 +719,8 @@ Some currently missing phenomena that should be considered &quot;about&quot; are
         <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
         <obo:IAO_0000115 xml:lang="en">A relation between a planned process and a continuant participating in that process. The presence of the continuant at the end of the process is explicitly specified in the objective specification which the process realizes the concretization of.</obo:IAO_0000115>
         <obo:IAO_0000117 xml:lang="en">Alan Ruttenberg</obo:IAO_0000117>
-        <obo:IAO_0000117 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PERSON:Bjoern Peters</obo:IAO_0000117>
-        <obo:IAO_0000412 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://purl.obolibrary.org/obo/obi.owl</obo:IAO_0000412>
+        <obo:IAO_0000117>PERSON:Bjoern Peters</obo:IAO_0000117>
+        <obo:IAO_0000412>http://purl.obolibrary.org/obo/obi.owl</obo:IAO_0000412>
         <rdfs:label xml:lang="en">is_specified_output_of</rdfs:label>
     </owl:ObjectProperty>
     
@@ -735,7 +735,7 @@ Some currently missing phenomena that should be considered &quot;about&quot; are
         <obo:IAO_0000115>A relation between an information content entity and a value specification that specifies its value.</obo:IAO_0000115>
         <obo:IAO_0000117>PERSON: James A. Overton</obo:IAO_0000117>
         <obo:IAO_0000119>OBI</obo:IAO_0000119>
-        <obo:IAO_0000412 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://purl.obolibrary.org/obo/obi.owl</obo:IAO_0000412>
+        <obo:IAO_0000412>http://purl.obolibrary.org/obo/obi.owl</obo:IAO_0000412>
         <rdfs:label>has value specification</rdfs:label>
     </owl:ObjectProperty>
     
@@ -747,7 +747,7 @@ Some currently missing phenomena that should be considered &quot;about&quot; are
         <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
         <obo:IAO_0000111 xml:lang="en">participates in</obo:IAO_0000111>
         <obo:IAO_0000118 xml:lang="en">participates_in</obo:IAO_0000118>
-        <obo:IAO_0000412 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://purl.obolibrary.org/obo/obi.owl</obo:IAO_0000412>
+        <obo:IAO_0000412>http://purl.obolibrary.org/obo/obi.owl</obo:IAO_0000412>
         <rdfs:label xml:lang="en">participates in</rdfs:label>
     </owl:ObjectProperty>
     
@@ -759,7 +759,7 @@ Some currently missing phenomena that should be considered &quot;about&quot; are
         <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
         <obo:IAO_0000111 xml:lang="en">has participant</obo:IAO_0000111>
         <obo:IAO_0000118 xml:lang="en">has_participant</obo:IAO_0000118>
-        <obo:IAO_0000412 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://purl.obolibrary.org/obo/obi.owl</obo:IAO_0000412>
+        <obo:IAO_0000412>http://purl.obolibrary.org/obo/obi.owl</obo:IAO_0000412>
         <rdfs:label xml:lang="en">has participant</rdfs:label>
     </owl:ObjectProperty>
     
@@ -784,7 +784,7 @@ Some currently missing phenomena that should be considered &quot;about&quot; are
         <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#double"/>
         <obo:IAO_0000115>A relation between a scalar measurement data item and a number that quantifies it.</obo:IAO_0000115>
         <obo:IAO_0000116>The range should probably not be restricted to &quot;float&quot;. It makes sense to set it to &quot;real&quot;. However we do not know how this change will affect SPARQL queries, so we have left the range as-is for now.</obo:IAO_0000116>
-        <obo:IAO_0000412 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://purl.obolibrary.org/obo/obi.owl</obo:IAO_0000412>
+        <obo:IAO_0000412>http://purl.obolibrary.org/obo/obi.owl</obo:IAO_0000412>
         <rdfs:label xml:lang="en">has measurement value</rdfs:label>
     </owl:DatatypeProperty>
     
@@ -1204,6 +1204,7 @@ Thus, we are attempting to define things generally enough that they could be reu
         <obo:IAO_0000111 xml:lang="en">geopolitical organization</obo:IAO_0000111>
         <obo:IAO_0000117 xml:lang="en">Amanda Hicks</obo:IAO_0000117>
         <rdfs:label xml:lang="en">geopoli organization</rdfs:label>
+        <owl:deprecated rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</owl:deprecated>
     </owl:Class>
     
 
@@ -1211,7 +1212,7 @@ Thus, we are attempting to define things generally enough that they could be reu
     <!-- http://purl.obolibrary.org/obo/GEO_000000392 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/GEO_000000392">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GEO_000000391"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GEO_000083916"/>
         <obo:IAO_0000117 xml:lang="en">Amanda Hicks</obo:IAO_0000117>
         <obo:IAO_0000119>&quot;Although the very meaning of the term is controversial, it involves authoritative decsionmaking in areas that once were part of national legal frameworks, the government, the sovereign state, or the public sector.&quot;
 
@@ -1226,7 +1227,7 @@ Karns and Mingst (2004) p. 14.</obo:IAO_0000119>
     <!-- http://purl.obolibrary.org/obo/GEO_000000393 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/GEO_000000393">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GEO_000000391"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OBI_0000245"/>
         <obo:IAO_0000115 xml:lang="en">a geopolitical organization that is voluntary and private, whose members are individual persons or organizations that come together to acheive a common purpose.</obo:IAO_0000115>
         <obo:IAO_0000119 xml:lang="en">NGOs are private voluntary organizations whose members are individuals or associations that come together to acheive a common purpose.  Some organizations are formed to advocate a particular cause such as human rights, peace, or envirnomental projetion.  Others are established to provide services such as disaster relief, humantarian aid in war-torn socieities, or development assistance.  ... National level groups are often called interest or pressure groups, and many of them are now linked to counterpart groups in other countries through transnational networks or federations.  International NGOs, like IGOs, may draw their members from one region or several regions, and they may have very specific functions or be multi-functional.
 
@@ -1242,7 +1243,7 @@ Internaltion Federation of Red Cross and Red Crescent Societies, Oxfam, CARE, Do
     <!-- http://purl.obolibrary.org/obo/GEO_000000395 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/GEO_000000395">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GEO_000000391"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GEO_000083916"/>
         <obo:IAO_0000115>an intergovernmental organization that has at least three member states, that has activies in at least three states, and that is unified by some formal intergovernmental agreement</obo:IAO_0000115>
         <obo:IAO_0000117 xml:lang="en">Amanda Hicks</obo:IAO_0000117>
         <obo:IAO_0000119>&quot;IGOs are organizations whose memebers include at lesat three states, that have activities in several states, and whose members are held together by a formal intergovernmental agreement ... These organizations range in size from three members (North American Free Trade Argreement [NAFTA]) to more than 190 memembers (Universal Postal Union (UPU)].  Memebers may come from primarily one georgraphic regioni (Oragnaization of American States [OAS]) or from all geographic regions (World Bank).  although soem IGOs are designed to achieve a single purpose (Organization of Petroleum exporting countries [OPEC]), others have been developed for multiple tasks (United Nations [UN}).  ... IGOs are recognized subjects of international law with separate standing fromt heir member states.&quot; Karns and Mingst I(2004) p. 7</obo:IAO_0000119>
@@ -1274,7 +1275,7 @@ North American Free Trade Argreement [NAFTA] , Universal Postal Union [UPU], Ora
     <!-- http://purl.obolibrary.org/obo/GEO_000000400 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/GEO_000000400">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OBI_0000245"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GEO_000083916"/>
         <obo:IAO_0000115 xml:lang="en">An organization that governs the people living in a particular geographical region or aggregate of geographical regions.  The geographical region it governs can change over time (such as the westward expansion of the United States and the addition of Hawaii). 
 
 Note: this definition was taken over from &quot;geopolitical organization&quot;.</obo:IAO_0000115>
@@ -1311,7 +1312,7 @@ Note: this definition was taken over from &quot;geopolitical organization&quot;.
         <obo:IAO_0000117 xml:lang="en">Amanda Hicks</obo:IAO_0000117>
         <obo:IAO_0000117 xml:lang="en">William R. Hogan
 </obo:IAO_0000117>
-        <obo:IAO_0000412 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://purl.obolibrary.org/obo/omrse.owl</obo:IAO_0000412>
+        <obo:IAO_0000412>http://purl.obolibrary.org/obo/omrse.owl</obo:IAO_0000412>
         <rdfs:label xml:lang="en">aggregate of geopolitical organizations</rdfs:label>
     </owl:Class>
     
@@ -1323,7 +1324,7 @@ Note: this definition was taken over from &quot;geopolitical organization&quot;.
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GEO_000000337"/>
         <obo:IAO_0000115 xml:lang="en">An aggregate of governmental organizations that is not itself a geopolitical dependency and whose members are only geopolitical dependencies that have some feature in common.</obo:IAO_0000115>
         <obo:IAO_0000117 xml:lang="en">Amanda Hicks</obo:IAO_0000117>
-        <obo:IAO_0000412 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://purl.obolibrary.org/obo/omrse.owl</obo:IAO_0000412>
+        <obo:IAO_0000412>http://purl.obolibrary.org/obo/omrse.owl</obo:IAO_0000412>
         <rdfs:comment xml:lang="en">Examples: all the dependencies of the United States, all of the dependencies whose territory is located in the Carribean Sea, French Overseas Collectivities, Biritish Crown Dependencies.</rdfs:comment>
         <rdfs:label xml:lang="en">obsolete aggregate of dependencies</rdfs:label>
         <owl:deprecated rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</owl:deprecated>
@@ -1337,7 +1338,7 @@ Note: this definition was taken over from &quot;geopolitical organization&quot;.
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GEO_000000337"/>
         <obo:IAO_0000115 xml:lang="en">An aggregate of governmental organizations that is not itself a major administrative subdivision and whose members are only major administrative subdivisions that have some feature in common</obo:IAO_0000115>
         <obo:IAO_0000117 xml:lang="en">Amanda Hicks</obo:IAO_0000117>
-        <obo:IAO_0000412 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://purl.obolibrary.org/obo/omrse.owl</obo:IAO_0000412>
+        <obo:IAO_0000412>http://purl.obolibrary.org/obo/omrse.owl</obo:IAO_0000412>
         <rdfs:comment xml:lang="en">Examples: all the major administrative subdivisions of the United States (which is different from the U.S. itself), all the major administrative subdivisions with a bicameral legislature, all the major administrative subdivisions with a judiciary, etc.</rdfs:comment>
         <rdfs:label xml:lang="en">obsolete aggregate of major administrative subdivisions</rdfs:label>
         <owl:deprecated rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</owl:deprecated>
@@ -1369,7 +1370,7 @@ Note: this definition was taken over from &quot;geopolitical organization&quot;.
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GEO_000000337"/>
         <obo:IAO_0000115 xml:lang="en">An aggregate of governmental organizations that is not itself a sovereign state and whose members are only sovereign states that have some feature in common</obo:IAO_0000115>
         <obo:IAO_0000117 xml:lang="en">William R. Hogan</obo:IAO_0000117>
-        <obo:IAO_0000412 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://purl.obolibrary.org/obo/omrse.owl</obo:IAO_0000412>
+        <obo:IAO_0000412>http://purl.obolibrary.org/obo/omrse.owl</obo:IAO_0000412>
         <rdfs:comment xml:lang="en">examples: all the sovereign states in North America, all the sovereign states with a GDP below or exceeding a particular quantity of money, all the sovereign states with a constitutional monarchy, all the sovereign states who belong to the U.N. (which is different than the U.N. itself), etc.</rdfs:comment>
         <rdfs:label xml:lang="en">aggregate of sovereign states</rdfs:label>
     </owl:Class>
@@ -1465,6 +1466,18 @@ Date accessed: 2015-04-13</obo:IAO_0000119>
     
 
 
+    <!-- http://purl.obolibrary.org/obo/GEO_000083916 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GEO_000083916">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OBI_0000245"/>
+        <obo:IAO_0000115 xml:lang="en">An organization consisting of private entities (people or organizations) who engage in goal-oriented decision-making; creating rules, norms, or laws; and encouraging or incentivizing adherence to them that are directed at a population of people, and whose actions are not enforced by state entities.</obo:IAO_0000115>
+        <obo:IAO_0000117 xml:lang="en">Matthew Diller</obo:IAO_0000117>
+        <dc:contributor xml:lang="en">William R. Hogan</dc:contributor>
+        <rdfs:label xml:lang="en">governance organization</rdfs:label>
+    </owl:Class>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/IAO_0000003 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/IAO_0000003">
@@ -1481,7 +1494,7 @@ of this, different, term.</obo:IAO_0000116>
         <obo:IAO_0000116 xml:lang="en">2009-03-16: review of this term done during during the OBI workshop winter 2009 and the current definition was considered acceptable for use in OBI. If there is a need to modify this definition please notify OBI.</obo:IAO_0000116>
         <obo:IAO_0000117 xml:lang="en">PERSON: Alan Ruttenberg</obo:IAO_0000117>
         <obo:IAO_0000117 xml:lang="en">PERSON: Melanie Courtot</obo:IAO_0000117>
-        <obo:IAO_0000412 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://purl.obolibrary.org/obo/obi.owl</obo:IAO_0000412>
+        <obo:IAO_0000412>http://purl.obolibrary.org/obo/obi.owl</obo:IAO_0000412>
         <rdfs:label xml:lang="en">measurement unit label</rdfs:label>
     </owl:Class>
     
@@ -1499,7 +1512,7 @@ of this, different, term.</obo:IAO_0000116>
         <obo:IAO_0000118>datum label</obo:IAO_0000118>
         <obo:IAO_0000232>9/22/11 BP: changed the rdfs:label for this class from &apos;label&apos; to &apos;datum label&apos; to convey that this class is not intended to cover all kinds of labels (stickers, radiolabels, etc.), and not even all kind of textual labels, but rather the kind of labels occuring in a datum. 
 </obo:IAO_0000232>
-        <obo:IAO_0000412 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://purl.obolibrary.org/obo/obi.owl</obo:IAO_0000412>
+        <obo:IAO_0000412>http://purl.obolibrary.org/obo/obi.owl</obo:IAO_0000412>
         <rdfs:label xml:lang="en">data item label</rdfs:label>
     </owl:Class>
     
@@ -1530,7 +1543,7 @@ this case we explicitly refer to the singular form</obo:IAO_0000116>
         <obo:IAO_0000116 xml:lang="en">Would write this as: has_part some &apos;measurement unit label&apos; and has_part some numeral and has_part exactly 2, except for the fact that this won&apos;t let us take advantage of OWL reasoning over the numbers. Instead use has measurment value property to represent the same. Use has measurement unit label (subproperty of has_part) so we can easily say that there is only one of them.</obo:IAO_0000116>
         <obo:IAO_0000117 xml:lang="en">PERSON: Alan Ruttenberg</obo:IAO_0000117>
         <obo:IAO_0000117 xml:lang="en">PERSON: Melanie Courtot</obo:IAO_0000117>
-        <obo:IAO_0000412 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://purl.obolibrary.org/obo/obi.owl</obo:IAO_0000412>
+        <obo:IAO_0000412>http://purl.obolibrary.org/obo/obi.owl</obo:IAO_0000412>
         <rdfs:label xml:lang="en">scalar measurement datum</rdfs:label>
     </owl:Class>
     
@@ -1548,7 +1561,7 @@ this case we explicitly refer to the singular form</obo:IAO_0000116>
         <obo:IAO_0000117 xml:lang="en">person:Chris Stoeckert</obo:IAO_0000117>
         <obo:IAO_0000119 xml:lang="en">OBI_0000305</obo:IAO_0000119>
         <obo:IAO_0000119 xml:lang="en">group:OBI</obo:IAO_0000119>
-        <obo:IAO_0000412 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://purl.obolibrary.org/obo/obi.owl</obo:IAO_0000412>
+        <obo:IAO_0000412>http://purl.obolibrary.org/obo/obi.owl</obo:IAO_0000412>
         <rdfs:label xml:lang="en">measurement datum</rdfs:label>
     </owl:Class>
     
@@ -1589,11 +1602,11 @@ This leads to my proposal: We define organization through the statements 1 -
 current place in the is_a hierarchy (material entity) or move it up to
 &apos;continuant&apos;. We leave further clarifications to BFO, and close this issue
 for now.</obo:IAO_0000116>
-        <obo:IAO_0000117 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PERSON: Alan Ruttenberg</obo:IAO_0000117>
-        <obo:IAO_0000117 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PERSON: Bjoern Peters</obo:IAO_0000117>
-        <obo:IAO_0000117 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PERSON: Philippe Rocca-Serra</obo:IAO_0000117>
-        <obo:IAO_0000117 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PERSON: Susanna Sansone</obo:IAO_0000117>
-        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GROUP: OBI</obo:IAO_0000119>
+        <obo:IAO_0000117>PERSON: Alan Ruttenberg</obo:IAO_0000117>
+        <obo:IAO_0000117>PERSON: Bjoern Peters</obo:IAO_0000117>
+        <obo:IAO_0000117>PERSON: Philippe Rocca-Serra</obo:IAO_0000117>
+        <obo:IAO_0000117>PERSON: Susanna Sansone</obo:IAO_0000117>
+        <obo:IAO_0000119>GROUP: OBI</obo:IAO_0000119>
         <rdfs:label xml:lang="en">organization</rdfs:label>
     </owl:Class>
     
@@ -1609,7 +1622,7 @@ for now.</obo:IAO_0000116>
         <obo:IAO_0000117 xml:lang="en">Person: Chris Stoeckert, Jie Zheng</obo:IAO_0000117>
         <obo:IAO_0000118 xml:lang="en">latitude</obo:IAO_0000118>
         <obo:IAO_0000119 xml:lang="en">NIAID GSCID-BRC metadata working group</obo:IAO_0000119>
-        <obo:IAO_0000412 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://purl.obolibrary.org/obo/obi.owl</obo:IAO_0000412>
+        <obo:IAO_0000412>http://purl.obolibrary.org/obo/obi.owl</obo:IAO_0000412>
         <obo:OBI_0001886>Specimen Collection Location - Latitude</obo:OBI_0001886>
         <dc:source>NIAID GSCID-BRC</dc:source>
         <rdfs:label xml:lang="en">latitude coordinate measurement datum</rdfs:label>
@@ -1627,7 +1640,7 @@ for now.</obo:IAO_0000116>
         <obo:IAO_0000117 xml:lang="en">Person: Chris Stoeckert, Jie Zheng</obo:IAO_0000117>
         <obo:IAO_0000118 xml:lang="en">longitude</obo:IAO_0000118>
         <obo:IAO_0000119 xml:lang="en">NIAID GSCID-BRC metadata working group</obo:IAO_0000119>
-        <obo:IAO_0000412 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://purl.obolibrary.org/obo/obi.owl</obo:IAO_0000412>
+        <obo:IAO_0000412>http://purl.obolibrary.org/obo/obi.owl</obo:IAO_0000412>
         <obo:OBI_0001886>Specimen Collection Location - Longitude</obo:OBI_0001886>
         <dc:source>NIAID GSCID-BRC</dc:source>
         <rdfs:label xml:lang="en">longitude coordinate measurement datum</rdfs:label>
@@ -1643,7 +1656,7 @@ for now.</obo:IAO_0000116>
         <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000123"/>
         <obo:IAO_0000115>A value specification that consists of two parts: a numeral and a unit label</obo:IAO_0000115>
         <obo:IAO_0000117>PERSON:Bjoern Peters</obo:IAO_0000117>
-        <obo:IAO_0000412 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://purl.obolibrary.org/obo/obi.owl</obo:IAO_0000412>
+        <obo:IAO_0000412>http://purl.obolibrary.org/obo/obi.owl</obo:IAO_0000412>
         <rdfs:label>scalar value specification</rdfs:label>
     </owl:Class>
     
@@ -1659,7 +1672,7 @@ for now.</obo:IAO_0000116>
         <obo:IAO_0000115>An information content entity that specifies a value within a classification scheme or on a quantitative scale.</obo:IAO_0000115>
         <obo:IAO_0000116>This term is currently a descendant of &apos;information content entity&apos;, which requires that it &apos;is about&apos; something. A value specification of &apos;20g&apos; for a measurement data item of the mass of a particular mouse &apos;is about&apos; the mass of that mouse. However there are cases where a value specification is not clearly about any particular. In the future we may change &apos;value specification&apos; to remove the &apos;is about&apos; requirement.</obo:IAO_0000116>
         <obo:IAO_0000117>PERSON:Bjoern Peters</obo:IAO_0000117>
-        <obo:IAO_0000412 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://purl.obolibrary.org/obo/obi.owl</obo:IAO_0000412>
+        <obo:IAO_0000412>http://purl.obolibrary.org/obo/obi.owl</obo:IAO_0000412>
         <rdfs:label>value specification</rdfs:label>
     </owl:Class>
     
@@ -1669,13 +1682,13 @@ for now.</obo:IAO_0000116>
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/PATO_0000117">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/PATO_0001241"/>
-        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A morphology quality inhering in a bearer by virtue of the bearer&apos;s physical magnitude.</obo:IAO_0000115>
-        <obo:IAO_0000412 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://purl.obolibrary.org/obo/pato.owl</obo:IAO_0000412>
-        <oboInOwl:hasOBONamespace rdf:datatype="http://www.w3.org/2001/XMLSchema#string">quality</oboInOwl:hasOBONamespace>
-        <oboInOwl:id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PATO:0000117</oboInOwl:id>
+        <obo:IAO_0000115>A morphology quality inhering in a bearer by virtue of the bearer&apos;s physical magnitude.</obo:IAO_0000115>
+        <obo:IAO_0000412>http://purl.obolibrary.org/obo/pato.owl</obo:IAO_0000412>
+        <oboInOwl:hasOBONamespace>quality</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>PATO:0000117</oboInOwl:id>
         <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/pato#attribute_slim"/>
         <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/pato#scalar_slim"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">size</rdfs:label>
+        <rdfs:label>size</rdfs:label>
     </owl:Class>
     
 
@@ -1684,23 +1697,23 @@ for now.</obo:IAO_0000116>
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/PATO_0001241">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BFO_0000019"/>
-        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A quality which inheres in a continuant.</obo:IAO_0000115>
-        <obo:IAO_0000412 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://purl.obolibrary.org/obo/pato.owl</obo:IAO_0000412>
-        <oboInOwl:hasAlternativeId rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PATO:0001237</oboInOwl:hasAlternativeId>
-        <oboInOwl:hasAlternativeId rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PATO:0001238</oboInOwl:hasAlternativeId>
-        <oboInOwl:hasDbXref rdf:datatype="http://www.w3.org/2001/XMLSchema#string">snap:Quality</oboInOwl:hasDbXref>
-        <oboInOwl:hasExactSynonym rdf:datatype="http://www.w3.org/2001/XMLSchema#string">monadic quality of a continuant</oboInOwl:hasExactSynonym>
-        <oboInOwl:hasExactSynonym rdf:datatype="http://www.w3.org/2001/XMLSchema#string">multiply inhering quality of a physical entity </oboInOwl:hasExactSynonym>
-        <oboInOwl:hasExactSynonym rdf:datatype="http://www.w3.org/2001/XMLSchema#string">quality of a continuant</oboInOwl:hasExactSynonym>
-        <oboInOwl:hasExactSynonym rdf:datatype="http://www.w3.org/2001/XMLSchema#string">quality of a single physical entity</oboInOwl:hasExactSynonym>
-        <oboInOwl:hasExactSynonym rdf:datatype="http://www.w3.org/2001/XMLSchema#string">quality of an object</oboInOwl:hasExactSynonym>
-        <oboInOwl:hasExactSynonym rdf:datatype="http://www.w3.org/2001/XMLSchema#string">quality of continuant</oboInOwl:hasExactSynonym>
-        <oboInOwl:hasNarrowSynonym rdf:datatype="http://www.w3.org/2001/XMLSchema#string">monadic quality of an object</oboInOwl:hasNarrowSynonym>
-        <oboInOwl:hasNarrowSynonym rdf:datatype="http://www.w3.org/2001/XMLSchema#string">monadic quality of continuant</oboInOwl:hasNarrowSynonym>
-        <oboInOwl:hasOBONamespace rdf:datatype="http://www.w3.org/2001/XMLSchema#string">quality</oboInOwl:hasOBONamespace>
-        <oboInOwl:id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PATO:0001241</oboInOwl:id>
-        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Relational qualities are qualities that hold between multiple entities. Normal (monadic) qualities such as the shape of a eyeball exist purely as a quality of that eyeball. A relational quality such as sensitivity to light is a quality of that eyeball (and connecting nervous system) as it relates to incoming light waves/particles.</rdfs:comment>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">physical object quality</rdfs:label>
+        <obo:IAO_0000115>A quality which inheres in a continuant.</obo:IAO_0000115>
+        <obo:IAO_0000412>http://purl.obolibrary.org/obo/pato.owl</obo:IAO_0000412>
+        <oboInOwl:hasAlternativeId>PATO:0001237</oboInOwl:hasAlternativeId>
+        <oboInOwl:hasAlternativeId>PATO:0001238</oboInOwl:hasAlternativeId>
+        <oboInOwl:hasDbXref>snap:Quality</oboInOwl:hasDbXref>
+        <oboInOwl:hasExactSynonym>monadic quality of a continuant</oboInOwl:hasExactSynonym>
+        <oboInOwl:hasExactSynonym>multiply inhering quality of a physical entity </oboInOwl:hasExactSynonym>
+        <oboInOwl:hasExactSynonym>quality of a continuant</oboInOwl:hasExactSynonym>
+        <oboInOwl:hasExactSynonym>quality of a single physical entity</oboInOwl:hasExactSynonym>
+        <oboInOwl:hasExactSynonym>quality of an object</oboInOwl:hasExactSynonym>
+        <oboInOwl:hasExactSynonym>quality of continuant</oboInOwl:hasExactSynonym>
+        <oboInOwl:hasNarrowSynonym>monadic quality of an object</oboInOwl:hasNarrowSynonym>
+        <oboInOwl:hasNarrowSynonym>monadic quality of continuant</oboInOwl:hasNarrowSynonym>
+        <oboInOwl:hasOBONamespace>quality</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>PATO:0001241</oboInOwl:id>
+        <rdfs:comment>Relational qualities are qualities that hold between multiple entities. Normal (monadic) qualities such as the shape of a eyeball exist purely as a quality of that eyeball. A relational quality such as sensitivity to light is a quality of that eyeball (and connecting nervous system) as it relates to incoming light waves/particles.</rdfs:comment>
+        <rdfs:label>physical object quality</rdfs:label>
     </owl:Class>
     
 
@@ -1709,15 +1722,15 @@ for now.</obo:IAO_0000116>
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/PATO_0001323">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/PATO_0001709"/>
-        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A 2-D extent quality inhering in a bearer by virtue of the bearer&apos;s two dimensional extent.</obo:IAO_0000115>
-        <obo:IAO_0000412 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://purl.obolibrary.org/obo/pato.owl</obo:IAO_0000412>
-        <oboInOwl:hasOBONamespace rdf:datatype="http://www.w3.org/2001/XMLSchema#string">quality</oboInOwl:hasOBONamespace>
-        <oboInOwl:id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PATO:0001323</oboInOwl:id>
+        <obo:IAO_0000115>A 2-D extent quality inhering in a bearer by virtue of the bearer&apos;s two dimensional extent.</obo:IAO_0000115>
+        <obo:IAO_0000412>http://purl.obolibrary.org/obo/pato.owl</obo:IAO_0000412>
+        <oboInOwl:hasOBONamespace>quality</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>PATO:0001323</oboInOwl:id>
         <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/pato#attribute_slim"/>
         <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/pato#mpath_slim"/>
         <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/pato#scalar_slim"/>
         <rdfs:comment xml:lang="en">MIREOT&apos;d into GEO to represent the area quality of a geographical region, including land area and water area.</rdfs:comment>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">area</rdfs:label>
+        <rdfs:label>area</rdfs:label>
     </owl:Class>
     
 
@@ -1726,13 +1739,13 @@ for now.</obo:IAO_0000116>
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/PATO_0001709">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/PATO_0000117"/>
-        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A size quality inhering in an bearer by virtue of the bearer&apos;s extension in two dimensions.</obo:IAO_0000115>
-        <obo:IAO_0000412 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://purl.obolibrary.org/obo/pato.owl</obo:IAO_0000412>
-        <oboInOwl:hasExactSynonym rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2-D size</oboInOwl:hasExactSynonym>
-        <oboInOwl:hasOBONamespace rdf:datatype="http://www.w3.org/2001/XMLSchema#string">quality</oboInOwl:hasOBONamespace>
-        <oboInOwl:id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PATO:0001709</oboInOwl:id>
+        <obo:IAO_0000115>A size quality inhering in an bearer by virtue of the bearer&apos;s extension in two dimensions.</obo:IAO_0000115>
+        <obo:IAO_0000412>http://purl.obolibrary.org/obo/pato.owl</obo:IAO_0000412>
+        <oboInOwl:hasExactSynonym>2-D size</oboInOwl:hasExactSynonym>
+        <oboInOwl:hasOBONamespace>quality</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>PATO:0001709</oboInOwl:id>
         <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/pato#attribute_slim"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2-D extent</rdfs:label>
+        <rdfs:label>2-D extent</rdfs:label>
     </owl:Class>
     
 
@@ -1741,13 +1754,13 @@ for now.</obo:IAO_0000116>
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/UO_0000047">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/IAO_0000003"/>
-        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A unit which is a standard measure of the amount of a 2-dimensional flat surface.</obo:IAO_0000115>
-        <obo:IAO_0000412 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://purl.obolibrary.org/obo/uo.owl</obo:IAO_0000412>
-        <oboInOwl:created_by rdf:datatype="http://www.w3.org/2001/XMLSchema#string">george gkoutos</oboInOwl:created_by>
-        <oboInOwl:hasOBONamespace rdf:datatype="http://www.w3.org/2001/XMLSchema#string">unit.ontology</oboInOwl:hasOBONamespace>
-        <oboInOwl:id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">UO:0000047</oboInOwl:id>
+        <obo:IAO_0000115>A unit which is a standard measure of the amount of a 2-dimensional flat surface.</obo:IAO_0000115>
+        <obo:IAO_0000412>http://purl.obolibrary.org/obo/uo.owl</obo:IAO_0000412>
+        <oboInOwl:created_by>george gkoutos</oboInOwl:created_by>
+        <oboInOwl:hasOBONamespace>unit.ontology</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>UO:0000047</oboInOwl:id>
         <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/uo#unit_group_slim"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">area unit</rdfs:label>
+        <rdfs:label>area unit</rdfs:label>
     </owl:Class>
     
 
@@ -1766,7 +1779,7 @@ for now.</obo:IAO_0000116>
     <!-- http://www.geneontology.org/formats/oboInOwl#ObsoleteClass -->
 
     <owl:Class rdf:about="http://www.geneontology.org/formats/oboInOwl#ObsoleteClass">
-        <obo:IAO_0000412 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://www.geneontology.org/formats/oboInOwl</obo:IAO_0000412>
+        <obo:IAO_0000412>http://www.geneontology.org/formats/oboInOwl</obo:IAO_0000412>
         <oboInOwl:hasDefinition>
             <rdf:Description/>
         </oboInOwl:hasDefinition>
@@ -1827,8 +1840,8 @@ for now.</obo:IAO_0000116>
 
     <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/UO_0000080">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/UO_0000047"/>
-        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">&quot;An area unit which is equal to an area enclosed by a square with sides each 1 meter long.&quot; [NIST:NIST]</rdfs:comment>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">square meter</rdfs:label>
+        <rdfs:comment>&quot;An area unit which is equal to an area enclosed by a square with sides each 1 meter long.&quot; [NIST:NIST]</rdfs:comment>
+        <rdfs:label>square meter</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -1848,5 +1861,5 @@ for now.</obo:IAO_0000116>
 
 
 
-<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+<!-- Generated by the OWL API (version 4.5.29.2024-05-13T12:11:03Z) https://github.com/owlcs/owlapi -->
 
