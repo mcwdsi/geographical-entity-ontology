@@ -25,13 +25,7 @@
     //
     ///////////////////////////////////////////////////////////////////////////////////////
      -->
-
-    
-
-
-    <!-- http://purl.obolibrary.org/obo/BFO_0000137 -->
-
-    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/BFO_0000137"/>
+     
     
 
 
